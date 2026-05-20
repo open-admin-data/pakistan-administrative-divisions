@@ -1,0 +1,49 @@
+{
+  "id": "PK507",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "زیریں چترال",
+    "en": "Chitral Lower",
+    "slug": "chitral-lower-pk507"
+  },
+  "code": {
+    "id": "PK507",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "17210"
+  ],
+  "geo": {
+    "lat": "35.847",
+    "lon": "71.826"
+  },
+  "metadata": {},
+  "source": {}
+}

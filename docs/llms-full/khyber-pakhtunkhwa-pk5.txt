@@ -1,0 +1,796 @@
+# Khyber Pakhtunkhwa — Pakistan Administrative Divisions
+
+> 35 districts, 153 tehsils
+> Code: PK5
+> Coordinates: 34.036, 72.263
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Districts
+
+### ایبٹ آباد (Abbottabad)
+
+Code: PK501, Coordinates: 34.095, 73.291
+Tehsils: 4
+
+#### ایبٹ آباد (Abbottabad)
+
+Code: PK50101, Postal: 22210, Coordinates: 34.165, 73.315
+
+#### حویلیاں (Havelian)
+
+Code: PK50102, Postal: 22540, Coordinates: 34.009, 73.226
+
+#### Lora
+
+Code: PK50103, Postal: 22360, Coordinates: 33.922, 73.308
+
+#### Lower Tanawal
+
+Code: PK50104, Postal: 22120, Coordinates: 34.194, 73.09
+
+### ضلع باجوڑ (Bajaur)
+
+Code: PK502, Coordinates: 34.746, 71.486
+Tehsils: 7
+
+#### Bar Chamarkand
+
+Code: PK50201, Postal: 21100, Coordinates: 34.729, 71.199
+
+#### Barang
+
+Code: PK50202, Postal: 18650, Coordinates: 34.615, 71.606
+
+#### Khar
+
+Code: PK50203, Postal: 18650, Coordinates: 34.733, 71.528
+
+#### Mamund
+
+Code: PK50204, Postal: 21100, Coordinates: 34.824, 71.382
+
+#### Nawagai
+
+Code: PK50205, Postal: 21100, Coordinates: 34.726, 71.291
+
+#### Salarzai
+
+Code: PK50206, Postal: 18650, Coordinates: 34.873, 71.529
+
+#### Utman Khel
+
+Code: PK50207, Postal: 18500, Coordinates: 34.739, 71.7
+
+### بنوں (Bannu)
+
+Code: PK503, Coordinates: 32.985, 70.655
+Tehsils: 6
+
+#### Baka Khel
+
+Code: PK50302, Postal: 28140, Coordinates: 32.868, 70.467
+
+#### بنوں (Bannu)
+
+Code: PK50301, Postal: 28490, Coordinates: 32.925, 70.682
+
+#### ڈومیل (Domel)
+
+Code: PK50303, Postal: 28010, Coordinates: 32.972, 70.811
+
+#### Kakki
+
+Code: PK50304, Postal: 28310, Coordinates: 32.853, 70.673
+
+#### Miryan
+
+Code: PK50305, Postal: 28310, Coordinates: 32.899, 70.575
+
+#### Wazir
+
+Code: PK50306, Postal: 28140, Coordinates: 32.997, 70.442
+
+### بٹگرام (Batagram)
+
+Code: PK504, Coordinates: 34.762, 73.137
+Tehsils: 2
+
+#### علائی (Allai)
+
+Code: PK50401, Postal: 21036, Coordinates: 34.811, 73.201
+
+#### Batagram
+
+Code: PK50402, Postal: 21040, Coordinates: 34.681, 73.032
+
+### ضلع بونیر (Buner)
+
+Code: PK505, Coordinates: 34.431, 72.556
+Tehsils: 4
+
+#### ڈگر (Daggar)
+
+Code: PK50501, Postal: 12560, Coordinates: 34.56, 72.382
+
+#### Gagra
+
+Code: PK50502, Postal: 19150, Coordinates: 34.532, 72.628
+
+#### Khado Khel
+
+Code: PK50503, Postal: 19140, Coordinates: 34.253, 72.53
+
+#### Mandanr
+
+Code: PK50504, Postal: 19140, Coordinates: 34.382, 72.587
+
+### چارسدہ (Charsadda)
+
+Code: PK506, Coordinates: 34.248, 71.699
+Tehsils: 3
+
+#### چارسدہ (Charsadda)
+
+Code: PK50601, Postal: 24480, Coordinates: 34.165, 71.802
+
+#### شبقدر (Shabqadar)
+
+Code: PK50602, Postal: 24502, Coordinates: 34.23, 71.577
+
+#### ٹانگی (Tangi)
+
+Code: PK50603, Postal: 23270, Coordinates: 34.347, 71.705
+
+### زیریں چترال (Chitral Lower)
+
+Code: PK507, Coordinates: 35.847, 71.826
+Tehsils: 3
+
+#### چترال (Chitral)
+
+Code: PK50701, Postal: 17210, Coordinates: 35.761, 71.722
+
+#### دروش (Drosh)
+
+Code: PK50702, Postal: 17220, Coordinates: 35.504, 71.754
+
+#### Lotkoh
+
+Code: PK50703, Postal: 17130, Coordinates: 36.15, 71.59
+
+### بالائی چترال (Chitral Upper)
+
+Code: PK508, Coordinates: 36.328, 72.269
+Tehsils: 2
+
+#### مستوج (Mastuj)
+
+Code: PK50801, Postal: 15350, Coordinates: 36.327, 72.63
+
+#### Mulkhow
+
+Code: PK50802, Postal: 17100, Coordinates: 36.463, 72.211
+
+### ڈیرہ اسماعیل خان (D. I. Khan)
+
+Code: PK509, Coordinates: 31.85, 70.625
+Tehsils: 6
+
+#### D. I. Khan
+
+Code: PK50901, Postal: 29162, Coordinates: 31.968, 70.793
+
+#### درابن (Daraban)
+
+Code: PK50902, Postal: 29330, Coordinates: 31.644, 70.445
+
+#### Darazinda
+
+Code: PK50906, Postal: 29330, Coordinates: 31.533, 70.135
+
+#### کلاچی (Kulachi)
+
+Code: PK50903, Postal: 29350, Coordinates: 32.009, 70.404
+
+#### پہاڑپور (Paharpur)
+
+Code: PK50904, Postal: 29050, Coordinates: 32.239, 70.96
+
+#### Paroa
+
+Code: PK50905, Postal: 29230, Coordinates: 31.493, 70.735
+
+### ہنگو (Hangu)
+
+Code: PK510, Coordinates: 33.412, 70.804
+Tehsils: 2
+
+#### ہنگو (Hangu)
+
+Code: PK51001, Postal: 26200, Coordinates: 33.482, 71.022
+
+#### Tall
+
+Code: PK51002, Postal: 26240, Coordinates: 33.386, 70.672
+
+### ہری پور (Haripur)
+
+Code: PK511, Coordinates: 34.048, 72.876
+Tehsils: 3
+
+#### Ghazi
+
+Code: PK51101, Postal: 23430, Coordinates: 34.113, 72.791
+
+#### ہری پور (Haripur)
+
+Code: PK51102, Postal: 17240, Coordinates: 34.07, 72.961
+
+#### خانپور (Khanpur)
+
+Code: PK51103, Postal: 22650, Coordinates: 33.825, 73.037
+
+### کرک (Karak)
+
+Code: PK512, Coordinates: 33.101, 71.111
+Tehsils: 3
+
+#### بانڈہ داؤد شاہ (Banda Daud Shah)
+
+Code: PK51201, Postal: 26390, Coordinates: 33.263, 71.105
+
+#### کرک (Karak)
+
+Code: PK51202, Postal: 17290, Coordinates: 33.133, 71.222
+
+#### Takht-E-Nasrati
+
+Code: PK51203, Postal: 27400, Coordinates: 32.96, 71.052
+
+### ضلع لنڈی کوتل (Khyber)
+
+Code: PK513, Coordinates: 34.04, 71.205
+Tehsils: 4
+
+#### Bara
+
+Code: PK51301, Postal: 29510, Coordinates: 33.861, 70.972
+
+#### جمرود (Jamrud)
+
+Code: PK51302, Postal: 24720, Coordinates: 33.991, 71.305
+
+#### لنڈی کوتل (Landi Kotal)
+
+Code: PK51303, Postal: 24740, Coordinates: 34.131, 71.173
+
+#### Mulagori
+
+Code: PK51304, Postal: 24720, Coordinates: 34.118, 71.313
+
+### کوہاٹ (Kohat)
+
+Code: PK514, Coordinates: 33.412, 71.488
+Tehsils: 4
+
+#### Darra Adam Khel
+
+Code: PK51404, Postal: 26010, Coordinates: 33.653, 71.621
+
+#### Gumbat
+
+Code: PK51403, Postal: 26120, Coordinates: 33.561, 71.829
+
+#### کوہاٹ (Kohat)
+
+Code: PK51401, Postal: 26350, Coordinates: 33.567, 71.404
+
+#### لاچی (Lachi)
+
+Code: PK51402, Postal: 42370, Coordinates: 33.284, 71.576
+
+### زیریں کوہستان (Kohistan Lower)
+
+Code: PK515, Coordinates: 35.15, 72.923
+Tehsils: 2
+
+#### Bankad
+
+Code: PK51502, Postal: 20300, Coordinates: 35.119, 72.852
+
+#### پٹن (Pattan)
+
+Code: PK51501, Postal: 20300, Coordinates: 35.183, 73.029
+
+### بالائی کوہستان (Kohistan Upper)
+
+Code: PK516, Coordinates: 35.423, 73.221
+Tehsils: 4
+
+#### داسو (Dassu)
+
+Code: PK51601, Postal: 20400, Coordinates: 35.24, 73.495
+
+#### Harban Basha
+
+Code: PK51603, Postal: 26014, Coordinates: 35.417, 73.574
+
+#### کنڈیارو (Kandia)
+
+Code: PK51602, Postal: 22580, Coordinates: 35.553, 73.116
+
+#### Seo
+
+Code: PK51604, Postal: 22580, Coordinates: 35.34, 73.165
+
+### کولائی پالس کوہستان (Kolai Palas Kohistan)
+
+Code: PK517, Coordinates: 35.067, 73.175
+Tehsils: 2
+
+#### Battera Kolai
+
+Code: PK51702, Postal: 19080, Coordinates: 34.992, 72.968
+
+#### Palas
+
+Code: PK51701, Postal: 21036, Coordinates: 35.067, 73.179
+
+### ضلع کرم (Kurram)
+
+Code: PK518, Coordinates: 33.69, 70.384
+Tehsils: 3
+
+#### Central Kurram
+
+Code: PK51801, Postal: 26290, Coordinates: 33.697, 70.492
+
+#### Lower Kurram
+
+Code: PK51802, Postal: 26280, Coordinates: 33.573, 70.276
+
+#### Upper Kurram
+
+Code: PK51803, Postal: 26300, Coordinates: 33.85, 70.092
+
+### لکی مروت (Lakki Marwat)
+
+Code: PK519, Coordinates: 32.57, 70.88
+Tehsils: 3
+
+#### Bettani
+
+Code: PK51903, Postal: 28380, Coordinates: 32.652, 70.373
+
+#### لکی مروت (Lakki Marwat)
+
+Code: PK51901, Postal: 19200, Coordinates: 32.538, 70.906
+
+#### سرای نورنگ (Sarai Naurang)
+
+Code: PK51902, Postal: 28410, Coordinates: 32.747, 70.73
+
+### ضلع دیر زیریں (Lower Dir)
+
+Code: PK520, Coordinates: 34.841, 71.82
+Tehsils: 6
+
+#### Adenzai
+
+Code: PK52001, Postal: 23424, Coordinates: 34.74, 72.036
+
+#### Balambat
+
+Code: PK52002, Postal: 18300, Coordinates: 34.893, 71.866
+
+#### Lalqila
+
+Code: PK52003, Postal: 18100, Coordinates: 34.981, 71.815
+
+#### Munda
+
+Code: PK52004, Postal: 18500, Coordinates: 34.822, 71.702
+
+#### Samarbagh
+
+Code: PK52005, Postal: 18500, Coordinates: 34.946, 71.647
+
+#### ٹیمرگرہ (Timergara)
+
+Code: PK52006, Postal: 19240, Coordinates: 34.751, 71.87
+
+### ضلع مالاکنڈ (Malakand)
+
+Code: PK521, Coordinates: 34.517, 71.824
+Tehsils: 2
+
+#### بت خلا (Bat Khela)
+
+Code: PK52101, Postal: 23050, Coordinates: 34.558, 71.939
+
+#### درگئی (Dargai)
+
+Code: PK52102, Postal: 21020, Coordinates: 34.446, 71.858
+
+### مانسہرہ (Mansehra)
+
+Code: PK522, Coordinates: 34.696, 73.512
+Tehsils: 5
+
+#### Baffa Pakhal
+
+Code: PK52204, Postal: 21160, Coordinates: 34.556, 73.254
+
+#### Bala Kot
+
+Code: PK52201, Postal: 21210, Coordinates: 34.753, 73.539
+
+#### Darband
+
+Code: PK52205, Postal: 21460, Coordinates: 34.369, 72.87
+
+#### مانسہرہ (Mansehra)
+
+Code: PK52202, Postal: 21360, Coordinates: 34.442, 73.146
+
+#### اوگھی (Oghi)
+
+Code: PK52203, Postal: 21410, Coordinates: 34.455, 72.993
+
+### مردان (Mardan)
+
+Code: PK523, Coordinates: 34.303, 72.081
+Tehsils: 5
+
+#### Garhi Kapura
+
+Code: PK52305, Postal: 23310, Coordinates: 34.186, 72.134
+
+#### کاٹلنگ (Katlang)
+
+Code: PK52301, Postal: 23140, Coordinates: 34.411, 72.118
+
+#### مردان (Mardan)
+
+Code: PK52302, Postal: 23170, Coordinates: 34.191, 72
+
+#### رستم (Rustam)
+
+Code: PK52304, Postal: 23370, Coordinates: 34.344, 72.258
+
+#### تخت بھائی (Takht Bhai)
+
+Code: PK52303, Postal: 23150, Coordinates: 34.345, 71.91
+
+### ضلع مہمند (Mohmand)
+
+Code: PK524, Coordinates: 34.446, 71.366
+Tehsils: 8
+
+#### Ambar
+
+Code: PK52401, Postal: 21100, Coordinates: 34.591, 71.467
+
+#### Baizai
+
+Code: PK52402, Postal: 21100, Coordinates: 34.538, 71.104
+
+#### Halimzai
+
+Code: PK52403, Postal: 87710, Coordinates: 34.396, 71.322
+
+#### Khwazai
+
+Code: PK52404, Postal: 24740, Coordinates: 34.403, 71.181
+
+#### Pandiali
+
+Code: PK52405, Postal: 87710, Coordinates: 34.45, 71.447
+
+#### Prang Ghar
+
+Code: PK52406, Postal: 87710, Coordinates: 34.437, 71.596
+
+#### Safi
+
+Code: PK52407, Postal: 21100, Coordinates: 34.568, 71.237
+
+#### Yaka Ghund
+
+Code: PK52408, Postal: 17250, Coordinates: 34.261, 71.393
+
+### شمالی وزیرستان (North Waziristan)
+
+Code: PK525, Coordinates: 32.957, 69.943
+Tehsils: 10
+
+#### Data Khel
+
+Code: PK52501, Postal: 28210, Coordinates: 32.966, 69.708
+
+#### Dossali
+
+Code: PK52502, Postal: 28200, Coordinates: 32.836, 70.024
+
+#### Garyum
+
+Code: PK52503, Postal: 28200, Coordinates: 32.76, 70.089
+
+#### Ghulam Khan
+
+Code: PK52504, Postal: 28210, Coordinates: 33.123, 70.016
+
+#### Mir Ali
+
+Code: PK52505, Postal: 28200, Coordinates: 32.972, 70.261
+
+#### میرانشاہ (Miran Shah)
+
+Code: PK52506, Postal: 28200, Coordinates: 32.998, 70.022
+
+#### Razmak
+
+Code: PK52507, Postal: 28270, Coordinates: 32.731, 69.847
+
+#### Shawal
+
+Code: PK52510, Postal: 29460, Coordinates: 32.7, 69.555
+
+#### Shewa
+
+Code: PK52508, Postal: 29340, Coordinates: 33.253, 70.469
+
+#### Spinwam
+
+Code: PK52509, Postal: 28170, Coordinates: 33.164, 70.305
+
+### نوشہرہ (Nowshera)
+
+Code: PK526, Coordinates: 33.917, 72.003
+Tehsils: 3
+
+#### جہانگیرہ (Jehangira)
+
+Code: PK52603, Postal: 43560, Coordinates: 33.893, 72.163
+
+#### نوشہرہ (Nowshera)
+
+Code: PK52601, Postal: 24100, Coordinates: 33.976, 71.96
+
+#### پبی (Pabbi)
+
+Code: PK52602, Postal: 24240, Coordinates: 33.939, 71.818
+
+### ضلع اورکزئی (Orakzai)
+
+Code: PK527, Coordinates: 33.695, 70.878
+Tehsils: 4
+
+#### Central Orakzai
+
+Code: PK52701, Postal: 28120, Coordinates: 33.688, 70.965
+
+#### Ismailzai
+
+Code: PK52702, Postal: 26220, Coordinates: 33.607, 70.929
+
+#### Lower Orakzai
+
+Code: PK52703, Postal: 24506, Coordinates: 33.733, 71.268
+
+#### Upper Orakzai
+
+Code: PK52704, Postal: 27600, Coordinates: 33.69, 70.706
+
+### پشاور (Peshawar)
+
+Code: PK528, Coordinates: 33.942, 71.6
+Tehsils: 5
+
+#### Hassan Khel
+
+Code: PK52805, Postal: 24250, Coordinates: 33.754, 71.75
+
+#### Town-I
+
+Code: PK52801, Postal: 24470, Coordinates: 34.013, 71.594
+
+#### Town-Ii
+
+Code: PK52802, Postal: 18600, Coordinates: 34.1, 71.547
+
+#### Town-Iii
+
+Code: PK52803, Postal: 25140, Coordinates: 34.003, 71.469
+
+#### Town-Iv
+
+Code: PK52804, Postal: 24840, Coordinates: 33.874, 71.606
+
+### ضلع شانگلہ (Shangla)
+
+Code: PK529, Coordinates: 34.847, 72.79
+Tehsils: 6
+
+#### الپوری (Alpuri)
+
+Code: PK52901, Postal: 19100, Coordinates: 34.955, 72.695
+
+#### Bisham
+
+Code: PK52902, Postal: 20500, Coordinates: 34.873, 72.856
+
+#### Chakisar
+
+Code: PK52903, Postal: 19150, Coordinates: 34.789, 72.777
+
+#### Makhuzai
+
+Code: PK52904, Postal: 19150, Coordinates: 34.693, 72.586
+
+#### Martoong
+
+Code: PK52905, Postal: 19150, Coordinates: 34.635, 72.745
+
+#### Puran
+
+Code: PK52906, Postal: 19150, Coordinates: 34.742, 72.649
+
+### جنوبی وزیرستان (South Waziristan)
+
+Code: PK530, Coordinates: 32.291, 69.678
+Tehsils: 8
+
+#### Birmal
+
+Code: PK53001, Postal: 29540, Coordinates: 32.405, 69.385
+
+#### Ladha
+
+Code: PK53002, Postal: 29490, Coordinates: 32.623, 70.061
+
+#### Makin
+
+Code: PK53003, Postal: 29460, Coordinates: 32.66, 69.727
+
+#### Sararogha
+
+Code: PK53004, Postal: 29470, Coordinates: 32.459, 70.013
+
+#### Serwakai
+
+Code: PK53005, Postal: 29470, Coordinates: 32.344, 69.91
+
+#### Tiarza
+
+Code: PK53006, Postal: 29460, Coordinates: 32.432, 69.746
+
+#### Toi Khulla
+
+Code: PK53007, Postal: 29540, Coordinates: 32.04, 69.468
+
+#### وانا (Wana)
+
+Code: PK53008, Postal: 29540, Coordinates: 32.13, 69.691
+
+### صوابی (Swabi)
+
+Code: PK531, Coordinates: 34.141, 72.477
+Tehsils: 4
+
+#### لاہور (Lahor)
+
+Code: PK53101, Postal: 23620, Coordinates: 34.014, 72.336
+
+#### Razar
+
+Code: PK53104, Postal: 23410, Coordinates: 34.226, 72.323
+
+#### صوابی (Swabi)
+
+Code: PK53102, Postal: 23630, Coordinates: 34.094, 72.506
+
+#### ٹوپی (Topi)
+
+Code: PK53103, Postal: 23480, Coordinates: 34.15, 72.697
+
+### سوات (Swat)
+
+Code: PK532, Coordinates: 35.233, 72.512
+Tehsils: 9
+
+#### Babuzai
+
+Code: PK53201, Postal: 26000, Coordinates: 34.719, 72.419
+
+#### Bahrain
+
+Code: PK53202, Postal: 26060, Coordinates: 35.273, 72.525
+
+#### Barikot
+
+Code: PK53203, Postal: 12560, Coordinates: 34.677, 72.207
+
+#### Charbagh
+
+Code: PK53204, Postal: 26000, Coordinates: 34.843, 72.513
+
+#### Kabal
+
+Code: PK53205, Postal: 19060, Coordinates: 34.861, 72.267
+
+#### قلات (Kalam)
+
+Code: PK53206, Postal: 26060, Coordinates: 35.624, 72.51
+
+#### Khwaza Khela
+
+Code: PK53207, Postal: 19050, Coordinates: 35.002, 72.52
+
+#### Matta Kharirai
+
+Code: PK53208, Postal: 19044, Coordinates: 35.048, 72.414
+
+#### Matta Sebujni
+
+Code: PK53209, Postal: 19044, Coordinates: 35.031, 72.27
+
+### ٹانک (Tank)
+
+Code: PK533, Coordinates: 32.319, 70.374
+Tehsils: 2
+
+#### Jandola
+
+Code: PK53302, Postal: 29400, Coordinates: 32.428, 70.257
+
+#### ٹانک (Tank)
+
+Code: PK53301, Postal: 29420, Coordinates: 32.257, 70.409
+
+### تور غر (Tor Ghar)
+
+Code: PK534, Coordinates: 34.559, 72.876
+Tehsils: 2
+
+#### Judba
+
+Code: PK53401, Postal: 21010, Coordinates: 34.651, 72.853
+
+#### Khander
+
+Code: PK53402, Postal: 21120, Coordinates: 34.465, 72.818
+
+### دیر بالا (Upper Dir)
+
+Code: PK535, Coordinates: 35.311, 72.048
+Tehsils: 7
+
+#### Barawal
+
+Code: PK53501, Postal: 18100, Coordinates: 35.127, 71.709
+
+#### Dir
+
+Code: PK53502, Postal: 18000, Coordinates: 35.228, 71.819
+
+#### سیالکوٹ (Kalkot)
+
+Code: PK53503, Postal: 26060, Coordinates: 35.489, 72.232
+
+#### Khall
+
+Code: PK53504, Postal: 23340, Coordinates: 34.906, 72.01
+
+#### Larjam
+
+Code: PK53507, Postal: 18150, Coordinates: 35.146, 72.148
+
+#### Shrengal
+
+Code: PK53505, Postal: 18000, Coordinates: 35.402, 71.946
+
+#### واری (Wari)
+
+Code: PK53506, Postal: 18150, Coordinates: 35.002, 72.043
+

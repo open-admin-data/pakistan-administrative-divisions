@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK10301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Chikar",
+      "en": "Chikar",
+      "slug": "chikar-pk10301"
+    },
+    "code": {
+      "id": "PK10301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK103",
+      "level": 2,
+      "name": {
+        "local": "وادی جہلم",
+        "en": "Jhelum Valley",
+        "slug": "jhelum-valley-pk103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK103",
+        "level": 2,
+        "name": {
+          "local": "وادی جہلم",
+          "en": "Jhelum Valley",
+          "slug": "jhelum-valley-pk103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13180"
+    ],
+    "geo": {
+      "lat": "34.135",
+      "lon": "73.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Hattian",
+      "en": "Hattian",
+      "slug": "hattian-pk10302"
+    },
+    "code": {
+      "id": "PK10302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK103",
+      "level": 2,
+      "name": {
+        "local": "وادی جہلم",
+        "en": "Jhelum Valley",
+        "slug": "jhelum-valley-pk103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK103",
+        "level": 2,
+        "name": {
+          "local": "وادی جہلم",
+          "en": "Jhelum Valley",
+          "slug": "jhelum-valley-pk103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13190"
+    ],
+    "geo": {
+      "lat": "34.151",
+      "lon": "73.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Leepa",
+      "en": "Leepa",
+      "slug": "leepa-pk10303"
+    },
+    "code": {
+      "id": "PK10303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK103",
+      "level": 2,
+      "name": {
+        "local": "وادی جہلم",
+        "en": "Jhelum Valley",
+        "slug": "jhelum-valley-pk103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK103",
+        "level": 2,
+        "name": {
+          "local": "وادی جہلم",
+          "en": "Jhelum Valley",
+          "slug": "jhelum-valley-pk103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10544"
+    ],
+    "geo": {
+      "lat": "34.303",
+      "lon": "73.845"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

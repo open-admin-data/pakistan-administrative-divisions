@@ -1,0 +1,30 @@
+{
+  "id": "PK2",
+  "level": 1,
+  "level_name": {
+    "local": "صوبہ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "بلوچستان",
+    "en": "Balochistan",
+    "slug": "balochistan-pk2"
+  },
+  "code": {
+    "id": "PK2",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 35,
+    "tehsil": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.497",
+    "lon": "65.71"
+  },
+  "metadata": {},
+  "source": {}
+}

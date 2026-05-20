@@ -1,0 +1,49 @@
+{
+  "id": "PK708",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع جامشورو",
+    "en": "Jamshoro",
+    "slug": "jamshoro-pk708"
+  },
+  "code": {
+    "id": "PK708",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "76130"
+  ],
+  "geo": {
+    "lat": "25.786",
+    "lon": "67.852"
+  },
+  "metadata": {},
+  "source": {}
+}

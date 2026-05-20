@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK72201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جاٹی",
+      "en": "Jati",
+      "slug": "jati-pk72201"
+    },
+    "code": {
+      "id": "PK72201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK722",
+      "level": 2,
+      "name": {
+        "local": "ضلع سجاول",
+        "en": "Sujawal",
+        "slug": "sujawal-pk722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK722",
+        "level": 2,
+        "name": {
+          "local": "ضلع سجاول",
+          "en": "Sujawal",
+          "slug": "sujawal-pk722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73060"
+    ],
+    "geo": {
+      "lat": "24.291",
+      "lon": "68.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kharo Chan",
+      "en": "Kharo Chan",
+      "slug": "kharo-chan-pk72202"
+    },
+    "code": {
+      "id": "PK72202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK722",
+      "level": 2,
+      "name": {
+        "local": "ضلع سجاول",
+        "en": "Sujawal",
+        "slug": "sujawal-pk722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK722",
+        "level": 2,
+        "name": {
+          "local": "ضلع سجاول",
+          "en": "Sujawal",
+          "slug": "sujawal-pk722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73240"
+    ],
+    "geo": {
+      "lat": "23.989",
+      "lon": "67.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میرپور بٹھورو",
+      "en": "Mirpur Bathoro",
+      "slug": "mirpur-bathoro-pk72203"
+    },
+    "code": {
+      "id": "PK72203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK722",
+      "level": 2,
+      "name": {
+        "local": "ضلع سجاول",
+        "en": "Sujawal",
+        "slug": "sujawal-pk722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK722",
+        "level": 2,
+        "name": {
+          "local": "ضلع سجاول",
+          "en": "Sujawal",
+          "slug": "sujawal-pk722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73030"
+    ],
+    "geo": {
+      "lat": "24.796",
+      "lon": "68.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shah Bunder",
+      "en": "Shah Bunder",
+      "slug": "shah-bunder-pk72204"
+    },
+    "code": {
+      "id": "PK72204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK722",
+      "level": 2,
+      "name": {
+        "local": "ضلع سجاول",
+        "en": "Sujawal",
+        "slug": "sujawal-pk722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK722",
+        "level": 2,
+        "name": {
+          "local": "ضلع سجاول",
+          "en": "Sujawal",
+          "slug": "sujawal-pk722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73080"
+    ],
+    "geo": {
+      "lat": "24.107",
+      "lon": "67.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72205",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سجاول",
+      "en": "Sujawal",
+      "slug": "sujawal-pk72205"
+    },
+    "code": {
+      "id": "PK72205",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK722",
+      "level": 2,
+      "name": {
+        "local": "ضلع سجاول",
+        "en": "Sujawal",
+        "slug": "sujawal-pk722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK722",
+        "level": 2,
+        "name": {
+          "local": "ضلع سجاول",
+          "en": "Sujawal",
+          "slug": "sujawal-pk722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73050"
+    ],
+    "geo": {
+      "lat": "24.651",
+      "lon": "68.078"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

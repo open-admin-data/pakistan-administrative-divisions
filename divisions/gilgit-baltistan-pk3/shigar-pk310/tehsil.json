@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK31001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شگر",
+      "en": "Shigar",
+      "slug": "shigar-pk31001"
+    },
+    "code": {
+      "id": "PK31001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK310",
+      "level": 2,
+      "name": {
+        "local": "ضلع شگر",
+        "en": "Shigar",
+        "slug": "shigar-pk310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK310",
+        "level": 2,
+        "name": {
+          "local": "ضلع شگر",
+          "en": "Shigar",
+          "slug": "shigar-pk310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16300"
+    ],
+    "geo": {
+      "lat": "35.736",
+      "lon": "75.922"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

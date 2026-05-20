@@ -1,0 +1,18 @@
+# Islamabad — Pakistan Administrative Divisions
+
+> 1 districts, 1 tehsils
+> Code: PK4
+> Coordinates: 33.651, 72.958
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Districts
+
+### اسلام آباد (Islamabad)
+
+Code: PK401, Coordinates: 33.651, 72.958
+Tehsils: 1
+
+#### اسلام آباد (Islamabad)
+
+Code: PK40101, Postal: 45200, Coordinates: 33.651, 72.958
+

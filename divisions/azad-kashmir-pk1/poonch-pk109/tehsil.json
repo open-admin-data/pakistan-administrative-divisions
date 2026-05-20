@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK10901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Abbaspur",
+      "en": "Abbaspur",
+      "slug": "abbaspur-pk10901"
+    },
+    "code": {
+      "id": "PK10901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK109",
+      "level": 2,
+      "name": {
+        "local": "ضلع پونچھ",
+        "en": "Poonch",
+        "slug": "poonch-pk109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK109",
+        "level": 2,
+        "name": {
+          "local": "ضلع پونچھ",
+          "en": "Poonch",
+          "slug": "poonch-pk109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19130"
+    ],
+    "geo": {
+      "lat": "33.843",
+      "lon": "73.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ہجیرہ",
+      "en": "Hajira",
+      "slug": "hajira-pk10902"
+    },
+    "code": {
+      "id": "PK10902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK109",
+      "level": 2,
+      "name": {
+        "local": "ضلع پونچھ",
+        "en": "Poonch",
+        "slug": "poonch-pk109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK109",
+        "level": 2,
+        "name": {
+          "local": "ضلع پونچھ",
+          "en": "Poonch",
+          "slug": "poonch-pk109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12100"
+    ],
+    "geo": {
+      "lat": "33.725",
+      "lon": "73.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "راولاکوٹ",
+      "en": "Rawalakot",
+      "slug": "rawalakot-pk10903"
+    },
+    "code": {
+      "id": "PK10903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK109",
+      "level": 2,
+      "name": {
+        "local": "ضلع پونچھ",
+        "en": "Poonch",
+        "slug": "poonch-pk109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK109",
+        "level": 2,
+        "name": {
+          "local": "ضلع پونچھ",
+          "en": "Poonch",
+          "slug": "poonch-pk109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12390"
+    ],
+    "geo": {
+      "lat": "33.873",
+      "lon": "73.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10904",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "تھوار",
+      "en": "Thorar",
+      "slug": "thorar-pk10904"
+    },
+    "code": {
+      "id": "PK10904",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK109",
+      "level": 2,
+      "name": {
+        "local": "ضلع پونچھ",
+        "en": "Poonch",
+        "slug": "poonch-pk109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK109",
+        "level": 2,
+        "name": {
+          "local": "ضلع پونچھ",
+          "en": "Poonch",
+          "slug": "poonch-pk109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12310"
+    ],
+    "geo": {
+      "lat": "33.88",
+      "lon": "73.607"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

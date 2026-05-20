@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK30701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گمبٹ",
+      "en": "Gamba",
+      "slug": "gamba-pk30701"
+    },
+    "code": {
+      "id": "PK30701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK307",
+      "level": 2,
+      "name": {
+        "local": "سکردو",
+        "en": "Skardu",
+        "slug": "skardu-pk307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK307",
+        "level": 2,
+        "name": {
+          "local": "سکردو",
+          "en": "Skardu",
+          "slug": "skardu-pk307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16150"
+    ],
+    "geo": {
+      "lat": "35.248",
+      "lon": "75.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سکردو",
+      "en": "Skardu",
+      "slug": "skardu-pk30702"
+    },
+    "code": {
+      "id": "PK30702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK307",
+      "level": 2,
+      "name": {
+        "local": "سکردو",
+        "en": "Skardu",
+        "slug": "skardu-pk307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK307",
+        "level": 2,
+        "name": {
+          "local": "سکردو",
+          "en": "Skardu",
+          "slug": "skardu-pk307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16110"
+    ],
+    "geo": {
+      "lat": "35.278",
+      "lon": "75.665"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

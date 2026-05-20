@@ -1,0 +1,49 @@
+{
+  "id": "PK721",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "جنوبی کراچی",
+    "en": "South Karachi",
+    "slug": "south-karachi-pk721"
+  },
+  "code": {
+    "id": "PK721",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "70100"
+  ],
+  "geo": {
+    "lat": "24.893",
+    "lon": "66.842"
+  },
+  "metadata": {},
+  "source": {}
+}

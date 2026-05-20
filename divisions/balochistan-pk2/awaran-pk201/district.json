@@ -1,0 +1,49 @@
+{
+  "id": "PK201",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع آواران",
+    "en": "Awaran",
+    "slug": "awaran-pk201"
+  },
+  "code": {
+    "id": "PK201",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "88210"
+  ],
+  "geo": {
+    "lat": "26.424",
+    "lon": "65.465"
+  },
+  "metadata": {},
+  "source": {}
+}

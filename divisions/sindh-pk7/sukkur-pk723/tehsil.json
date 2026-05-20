@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK72301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "New Sukkur",
+      "en": "New Sukkur",
+      "slug": "new-sukkur-pk72301"
+    },
+    "code": {
+      "id": "PK72301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK723",
+      "level": 2,
+      "name": {
+        "local": "سکھر",
+        "en": "Sukkur",
+        "slug": "sukkur-pk723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK723",
+        "level": 2,
+        "name": {
+          "local": "سکھر",
+          "en": "Sukkur",
+          "slug": "sukkur-pk723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78050"
+    ],
+    "geo": {
+      "lat": "27.799",
+      "lon": "68.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پانو عقیل",
+      "en": "Pano Aqil",
+      "slug": "pano-aqil-pk72302"
+    },
+    "code": {
+      "id": "PK72302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK723",
+      "level": 2,
+      "name": {
+        "local": "سکھر",
+        "en": "Sukkur",
+        "slug": "sukkur-pk723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK723",
+        "level": 2,
+        "name": {
+          "local": "سکھر",
+          "en": "Sukkur",
+          "slug": "sukkur-pk723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65120"
+    ],
+    "geo": {
+      "lat": "27.836",
+      "lon": "69.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "روہڑی",
+      "en": "Rohri",
+      "slug": "rohri-pk72303"
+    },
+    "code": {
+      "id": "PK72303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK723",
+      "level": 2,
+      "name": {
+        "local": "سکھر",
+        "en": "Sukkur",
+        "slug": "sukkur-pk723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK723",
+        "level": 2,
+        "name": {
+          "local": "سکھر",
+          "en": "Sukkur",
+          "slug": "sukkur-pk723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65150"
+    ],
+    "geo": {
+      "lat": "27.588",
+      "lon": "69.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Salehpat",
+      "en": "Salehpat",
+      "slug": "salehpat-pk72304"
+    },
+    "code": {
+      "id": "PK72304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK723",
+      "level": 2,
+      "name": {
+        "local": "سکھر",
+        "en": "Sukkur",
+        "slug": "sukkur-pk723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK723",
+        "level": 2,
+        "name": {
+          "local": "سکھر",
+          "en": "Sukkur",
+          "slug": "sukkur-pk723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70104"
+    ],
+    "geo": {
+      "lat": "27.344",
+      "lon": "69.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72305",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سکھر",
+      "en": "Sukkur",
+      "slug": "sukkur-pk72305"
+    },
+    "code": {
+      "id": "PK72305",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK723",
+      "level": 2,
+      "name": {
+        "local": "سکھر",
+        "en": "Sukkur",
+        "slug": "sukkur-pk723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK723",
+        "level": 2,
+        "name": {
+          "local": "سکھر",
+          "en": "Sukkur",
+          "slug": "sukkur-pk723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65270"
+    ],
+    "geo": {
+      "lat": "27.713",
+      "lon": "68.828"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

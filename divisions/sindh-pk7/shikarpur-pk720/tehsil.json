@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK72001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گڑھی یاسین",
+      "en": "Garhi Yasin",
+      "slug": "garhi-yasin-pk72001"
+    },
+    "code": {
+      "id": "PK72001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK720",
+      "level": 2,
+      "name": {
+        "local": "شکارپور",
+        "en": "Shikarpur",
+        "slug": "shikarpur-pk720"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK720",
+        "level": 2,
+        "name": {
+          "local": "شکارپور",
+          "en": "Shikarpur",
+          "slug": "shikarpur-pk720"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78100"
+    ],
+    "geo": {
+      "lat": "27.857",
+      "lon": "68.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خانپور",
+      "en": "Khanpur",
+      "slug": "khanpur-pk72002"
+    },
+    "code": {
+      "id": "PK72002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK720",
+      "level": 2,
+      "name": {
+        "local": "شکارپور",
+        "en": "Shikarpur",
+        "slug": "shikarpur-pk720"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK720",
+        "level": 2,
+        "name": {
+          "local": "شکارپور",
+          "en": "Shikarpur",
+          "slug": "shikarpur-pk720"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79200"
+    ],
+    "geo": {
+      "lat": "28.025",
+      "lon": "68.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لاکھی",
+      "en": "Lakhi",
+      "slug": "lakhi-pk72003"
+    },
+    "code": {
+      "id": "PK72003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK720",
+      "level": 2,
+      "name": {
+        "local": "شکارپور",
+        "en": "Shikarpur",
+        "slug": "shikarpur-pk720"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK720",
+        "level": 2,
+        "name": {
+          "local": "شکارپور",
+          "en": "Shikarpur",
+          "slug": "shikarpur-pk720"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78050"
+    ],
+    "geo": {
+      "lat": "27.879",
+      "lon": "68.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72004",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شکارپور",
+      "en": "Shikarpur",
+      "slug": "shikarpur-pk72004"
+    },
+    "code": {
+      "id": "PK72004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK720",
+      "level": 2,
+      "name": {
+        "local": "شکارپور",
+        "en": "Shikarpur",
+        "slug": "shikarpur-pk720"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK720",
+        "level": 2,
+        "name": {
+          "local": "شکارپور",
+          "en": "Shikarpur",
+          "slug": "shikarpur-pk720"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78200"
+    ],
+    "geo": {
+      "lat": "28.032",
+      "lon": "68.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

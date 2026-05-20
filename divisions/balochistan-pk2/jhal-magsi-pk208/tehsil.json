@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK20801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gandawa",
+      "en": "Gandawa",
+      "slug": "gandawa-pk20801"
+    },
+    "code": {
+      "id": "PK20801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK208",
+      "level": 2,
+      "name": {
+        "local": "ضلع جھل مگسی",
+        "en": "Jhal Magsi",
+        "slug": "jhal-magsi-pk208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK208",
+        "level": 2,
+        "name": {
+          "local": "ضلع جھل مگسی",
+          "en": "Jhal Magsi",
+          "slug": "jhal-magsi-pk208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19210"
+    ],
+    "geo": {
+      "lat": "28.502",
+      "lon": "67.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جھل مگسی",
+      "en": "Jhal Magsi",
+      "slug": "jhal-magsi-pk20802"
+    },
+    "code": {
+      "id": "PK20802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK208",
+      "level": 2,
+      "name": {
+        "local": "ضلع جھل مگسی",
+        "en": "Jhal Magsi",
+        "slug": "jhal-magsi-pk208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK208",
+        "level": 2,
+        "name": {
+          "local": "ضلع جھل مگسی",
+          "en": "Jhal Magsi",
+          "slug": "jhal-magsi-pk208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81100"
+    ],
+    "geo": {
+      "lat": "28.214",
+      "lon": "67.513"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

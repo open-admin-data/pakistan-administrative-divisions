@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.tehsil,zip_codes,geo.lat,geo.lon
+PK101,باغ,Bagh,bagh-pk101,PK101,3,12510,34.003,73.731
+PK102,ضلع بھمبر,Bhimber,bhimber-pk102,PK102,3,10030,33.014,74.15
+PK104,ضلع حویلی,Haveli,haveli-pk104,PK104,3,10080,33.935,74.12
+PK103,وادی جہلم,Jhelum Valley,jhelum-valley-pk103,PK103,3,10500,34.188,73.797
+PK105,کوٹلی,Kotli,kotli-pk105,PK105,6,11210,33.454,73.947
+PK106,ضلع میر پور,Mirpur,mirpur-pk106,PK106,2,10350,33.239,73.759
+PK107,مظفر آباد,Muzaffarabad,muzaffarabad-pk107,PK107,2,13170,34.323,73.58
+PK108,ضلع نیلم,Neelum,neelum-pk108,PK108,2,89300,34.757,73.985
+PK109,ضلع پونچھ,Poonch,poonch-pk109,PK109,4,12170,33.786,73.897
+PK110,سدھنوتی,Sudhnoti,sudhnoti-pk110,PK110,4,12070,33.704,73.739

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK21601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kahan",
+      "en": "Kahan",
+      "slug": "kahan-pk21601"
+    },
+    "code": {
+      "id": "PK21601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK216",
+      "level": 2,
+      "name": {
+        "local": "ضلع کوہلو",
+        "en": "Kohlu",
+        "slug": "kohlu-pk216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK216",
+        "level": 2,
+        "name": {
+          "local": "ضلع کوہلو",
+          "en": "Kohlu",
+          "slug": "kohlu-pk216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85220"
+    ],
+    "geo": {
+      "lat": "29.464",
+      "lon": "68.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوہلو",
+      "en": "Kohlu",
+      "slug": "kohlu-pk21602"
+    },
+    "code": {
+      "id": "PK21602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK216",
+      "level": 2,
+      "name": {
+        "local": "ضلع کوہلو",
+        "en": "Kohlu",
+        "slug": "kohlu-pk216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK216",
+        "level": 2,
+        "name": {
+          "local": "ضلع کوہلو",
+          "en": "Kohlu",
+          "slug": "kohlu-pk216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83000"
+    ],
+    "geo": {
+      "lat": "29.899",
+      "lon": "69.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mawand",
+      "en": "Mawand",
+      "slug": "mawand-pk21603"
+    },
+    "code": {
+      "id": "PK21603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK216",
+      "level": 2,
+      "name": {
+        "local": "ضلع کوہلو",
+        "en": "Kohlu",
+        "slug": "kohlu-pk216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK216",
+        "level": 2,
+        "name": {
+          "local": "ضلع کوہلو",
+          "en": "Kohlu",
+          "slug": "kohlu-pk216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85220"
+    ],
+    "geo": {
+      "lat": "29.752",
+      "lon": "68.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

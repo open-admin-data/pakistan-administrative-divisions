@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK70401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gulshan Iqbal Town",
+      "en": "Gulshan Iqbal Town",
+      "slug": "gulshan-iqbal-town-pk70401"
+    },
+    "code": {
+      "id": "PK70401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK704",
+      "level": 2,
+      "name": {
+        "local": "مشرقی کراچی",
+        "en": "East Karachi",
+        "slug": "east-karachi-pk704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK704",
+        "level": 2,
+        "name": {
+          "local": "مشرقی کراچی",
+          "en": "East Karachi",
+          "slug": "east-karachi-pk704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75330"
+    ],
+    "geo": {
+      "lat": "24.95",
+      "lon": "67.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jamshaid Town",
+      "en": "Jamshaid Town",
+      "slug": "jamshaid-town-pk70402"
+    },
+    "code": {
+      "id": "PK70402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK704",
+      "level": 2,
+      "name": {
+        "local": "مشرقی کراچی",
+        "en": "East Karachi",
+        "slug": "east-karachi-pk704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK704",
+        "level": 2,
+        "name": {
+          "local": "مشرقی کراچی",
+          "en": "East Karachi",
+          "slug": "east-karachi-pk704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75300"
+    ],
+    "geo": {
+      "lat": "24.9",
+      "lon": "67.099"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

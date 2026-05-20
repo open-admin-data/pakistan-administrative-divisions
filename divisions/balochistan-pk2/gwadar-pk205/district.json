@@ -1,0 +1,49 @@
+{
+  "id": "PK205",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "گوادر",
+    "en": "Gwadar",
+    "slug": "gwadar-pk205"
+  },
+  "code": {
+    "id": "PK205",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "92650"
+  ],
+  "geo": {
+    "lat": "25.425",
+    "lon": "62.548"
+  },
+  "metadata": {},
+  "source": {}
+}

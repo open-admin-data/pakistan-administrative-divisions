@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK63401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈسکہ",
+      "en": "Daska",
+      "slug": "daska-pk63401"
+    },
+    "code": {
+      "id": "PK63401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK634",
+      "level": 2,
+      "name": {
+        "local": "سیالکوٹ",
+        "en": "Sialkot",
+        "slug": "sialkot-pk634"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK634",
+        "level": 2,
+        "name": {
+          "local": "سیالکوٹ",
+          "en": "Sialkot",
+          "slug": "sialkot-pk634"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51010"
+    ],
+    "geo": {
+      "lat": "32.266",
+      "lon": "74.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پسرور",
+      "en": "Pasrur",
+      "slug": "pasrur-pk63402"
+    },
+    "code": {
+      "id": "PK63402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK634",
+      "level": 2,
+      "name": {
+        "local": "سیالکوٹ",
+        "en": "Sialkot",
+        "slug": "sialkot-pk634"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK634",
+        "level": 2,
+        "name": {
+          "local": "سیالکوٹ",
+          "en": "Sialkot",
+          "slug": "sialkot-pk634"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51480"
+    ],
+    "geo": {
+      "lat": "32.27",
+      "lon": "74.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سمبڑیال",
+      "en": "Sambrial",
+      "slug": "sambrial-pk63403"
+    },
+    "code": {
+      "id": "PK63403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK634",
+      "level": 2,
+      "name": {
+        "local": "سیالکوٹ",
+        "en": "Sialkot",
+        "slug": "sialkot-pk634"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK634",
+        "level": 2,
+        "name": {
+          "local": "سیالکوٹ",
+          "en": "Sialkot",
+          "slug": "sialkot-pk634"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51070"
+    ],
+    "geo": {
+      "lat": "32.498",
+      "lon": "74.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63404",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سیالکوٹ",
+      "en": "Sialkot",
+      "slug": "sialkot-pk63404"
+    },
+    "code": {
+      "id": "PK63404",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK634",
+      "level": 2,
+      "name": {
+        "local": "سیالکوٹ",
+        "en": "Sialkot",
+        "slug": "sialkot-pk634"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK634",
+        "level": 2,
+        "name": {
+          "local": "سیالکوٹ",
+          "en": "Sialkot",
+          "slug": "sialkot-pk634"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48282"
+    ],
+    "geo": {
+      "lat": "32.595",
+      "lon": "74.522"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

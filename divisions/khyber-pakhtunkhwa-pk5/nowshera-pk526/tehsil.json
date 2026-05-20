@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK52603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جہانگیرہ",
+      "en": "Jehangira",
+      "slug": "jehangira-pk52603"
+    },
+    "code": {
+      "id": "PK52603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK526",
+      "level": 2,
+      "name": {
+        "local": "نوشہرہ",
+        "en": "Nowshera",
+        "slug": "nowshera-pk526"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK526",
+        "level": 2,
+        "name": {
+          "local": "نوشہرہ",
+          "en": "Nowshera",
+          "slug": "nowshera-pk526"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43560"
+    ],
+    "geo": {
+      "lat": "33.893",
+      "lon": "72.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نوشہرہ",
+      "en": "Nowshera",
+      "slug": "nowshera-pk52601"
+    },
+    "code": {
+      "id": "PK52601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK526",
+      "level": 2,
+      "name": {
+        "local": "نوشہرہ",
+        "en": "Nowshera",
+        "slug": "nowshera-pk526"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK526",
+        "level": 2,
+        "name": {
+          "local": "نوشہرہ",
+          "en": "Nowshera",
+          "slug": "nowshera-pk526"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24100"
+    ],
+    "geo": {
+      "lat": "33.976",
+      "lon": "71.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پبی",
+      "en": "Pabbi",
+      "slug": "pabbi-pk52602"
+    },
+    "code": {
+      "id": "PK52602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK526",
+      "level": 2,
+      "name": {
+        "local": "نوشہرہ",
+        "en": "Nowshera",
+        "slug": "nowshera-pk526"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK526",
+        "level": 2,
+        "name": {
+          "local": "نوشہرہ",
+          "en": "Nowshera",
+          "slug": "nowshera-pk526"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24240"
+    ],
+    "geo": {
+      "lat": "33.939",
+      "lon": "71.818"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

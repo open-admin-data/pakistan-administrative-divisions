@@ -1,0 +1,49 @@
+{
+  "id": "PK618",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "لیہ",
+    "en": "Leiah",
+    "slug": "leiah-pk618"
+  },
+  "code": {
+    "id": "PK618",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "31300"
+  ],
+  "geo": {
+    "lat": "30.997",
+    "lon": "71.284"
+  },
+  "metadata": {},
+  "source": {}
+}

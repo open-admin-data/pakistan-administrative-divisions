@@ -1,0 +1,49 @@
+{
+  "id": "PK101",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "باغ",
+    "en": "Bagh",
+    "slug": "bagh-pk101"
+  },
+  "code": {
+    "id": "PK101",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "12510"
+  ],
+  "geo": {
+    "lat": "34.003",
+    "lon": "73.731"
+  },
+  "metadata": {},
+  "source": {}
+}

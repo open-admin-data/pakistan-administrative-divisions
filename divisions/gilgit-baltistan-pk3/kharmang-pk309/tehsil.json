@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK30901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gultari",
+      "en": "Gultari",
+      "slug": "gultari-pk30901"
+    },
+    "code": {
+      "id": "PK30901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK309",
+      "level": 2,
+      "name": {
+        "local": "ضلع کھرمنگ",
+        "en": "Kharmang",
+        "slug": "kharmang-pk309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK309",
+        "level": 2,
+        "name": {
+          "local": "ضلع کھرمنگ",
+          "en": "Kharmang",
+          "slug": "kharmang-pk309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16200"
+    ],
+    "geo": {
+      "lat": "34.806",
+      "lon": "75.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کھرمنگ",
+      "en": "Kharmang",
+      "slug": "kharmang-pk30902"
+    },
+    "code": {
+      "id": "PK30902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK309",
+      "level": 2,
+      "name": {
+        "local": "ضلع کھرمنگ",
+        "en": "Kharmang",
+        "slug": "kharmang-pk309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK309",
+        "level": 2,
+        "name": {
+          "local": "ضلع کھرمنگ",
+          "en": "Kharmang",
+          "slug": "kharmang-pk309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16500"
+    ],
+    "geo": {
+      "lat": "34.898",
+      "lon": "76.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

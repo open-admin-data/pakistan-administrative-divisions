@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK62401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ننکانہ صاحب",
+      "en": "Nankana Sahib",
+      "slug": "nankana-sahib-pk62401"
+    },
+    "code": {
+      "id": "PK62401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK624",
+      "level": 2,
+      "name": {
+        "local": "ننکانہ صاحب",
+        "en": "Nankana Sahib",
+        "slug": "nankana-sahib-pk624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK624",
+        "level": 2,
+        "name": {
+          "local": "ننکانہ صاحب",
+          "en": "Nankana Sahib",
+          "slug": "nankana-sahib-pk624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52360"
+    ],
+    "geo": {
+      "lat": "31.311",
+      "lon": "73.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سانگلہ ہل",
+      "en": "Sangla Hill",
+      "slug": "sangla-hill-pk62402"
+    },
+    "code": {
+      "id": "PK62402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK624",
+      "level": 2,
+      "name": {
+        "local": "ننکانہ صاحب",
+        "en": "Nankana Sahib",
+        "slug": "nankana-sahib-pk624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK624",
+        "level": 2,
+        "name": {
+          "local": "ننکانہ صاحب",
+          "en": "Nankana Sahib",
+          "slug": "nankana-sahib-pk624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39600"
+    ],
+    "geo": {
+      "lat": "31.702",
+      "lon": "73.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shah Kot",
+      "en": "Shah Kot",
+      "slug": "shah-kot-pk62403"
+    },
+    "code": {
+      "id": "PK62403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK624",
+      "level": 2,
+      "name": {
+        "local": "ننکانہ صاحب",
+        "en": "Nankana Sahib",
+        "slug": "nankana-sahib-pk624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK624",
+        "level": 2,
+        "name": {
+          "local": "ننکانہ صاحب",
+          "en": "Nankana Sahib",
+          "slug": "nankana-sahib-pk624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39650"
+    ],
+    "geo": {
+      "lat": "31.598",
+      "lon": "73.567"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK72901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بلدیہ ٹاؤن",
+      "en": "Baldia Town",
+      "slug": "baldia-town-pk72901"
+    },
+    "code": {
+      "id": "PK72901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK729",
+      "level": 2,
+      "name": {
+        "local": "مغربی کراچی",
+        "en": "West Karachi",
+        "slug": "west-karachi-pk729"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK729",
+        "level": 2,
+        "name": {
+          "local": "مغربی کراچی",
+          "en": "West Karachi",
+          "slug": "west-karachi-pk729"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70100"
+    ],
+    "geo": {
+      "lat": "24.922",
+      "lon": "66.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اورنگی ٹاؤن",
+      "en": "Orangi Town",
+      "slug": "orangi-town-pk72902"
+    },
+    "code": {
+      "id": "PK72902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK729",
+      "level": 2,
+      "name": {
+        "local": "مغربی کراچی",
+        "en": "West Karachi",
+        "slug": "west-karachi-pk729"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK729",
+        "level": 2,
+        "name": {
+          "local": "مغربی کراچی",
+          "en": "West Karachi",
+          "slug": "west-karachi-pk729"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75800"
+    ],
+    "geo": {
+      "lat": "25.005",
+      "lon": "67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Site Town",
+      "en": "Site Town",
+      "slug": "site-town-pk72903"
+    },
+    "code": {
+      "id": "PK72903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK729",
+      "level": 2,
+      "name": {
+        "local": "مغربی کراچی",
+        "en": "West Karachi",
+        "slug": "west-karachi-pk729"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK729",
+        "level": 2,
+        "name": {
+          "local": "مغربی کراچی",
+          "en": "West Karachi",
+          "slug": "west-karachi-pk729"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75700"
+    ],
+    "geo": {
+      "lat": "24.919",
+      "lon": "67.004"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

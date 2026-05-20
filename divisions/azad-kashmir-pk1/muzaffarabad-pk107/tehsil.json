@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK10701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مظفر آباد",
+      "en": "Muzaffarabad",
+      "slug": "muzaffarabad-pk10701"
+    },
+    "code": {
+      "id": "PK10701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK107",
+      "level": 2,
+      "name": {
+        "local": "مظفر آباد",
+        "en": "Muzaffarabad",
+        "slug": "muzaffarabad-pk107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK107",
+        "level": 2,
+        "name": {
+          "local": "مظفر آباد",
+          "en": "Muzaffarabad",
+          "slug": "muzaffarabad-pk107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13100"
+    ],
+    "geo": {
+      "lat": "34.264",
+      "lon": "73.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Naseerabad",
+      "en": "Naseerabad",
+      "slug": "naseerabad-pk10702"
+    },
+    "code": {
+      "id": "PK10702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK107",
+      "level": 2,
+      "name": {
+        "local": "مظفر آباد",
+        "en": "Muzaffarabad",
+        "slug": "muzaffarabad-pk107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK107",
+        "level": 2,
+        "name": {
+          "local": "مظفر آباد",
+          "en": "Muzaffarabad",
+          "slug": "muzaffarabad-pk107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13170"
+    ],
+    "geo": {
+      "lat": "34.439",
+      "lon": "73.615"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

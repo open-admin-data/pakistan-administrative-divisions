@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK61401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چونیاں",
+      "en": "Chunian",
+      "slug": "chunian-pk61401"
+    },
+    "code": {
+      "id": "PK61401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK614",
+      "level": 2,
+      "name": {
+        "local": "قصور",
+        "en": "Kasur",
+        "slug": "kasur-pk614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK614",
+        "level": 2,
+        "name": {
+          "local": "قصور",
+          "en": "Kasur",
+          "slug": "kasur-pk614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55020"
+    ],
+    "geo": {
+      "lat": "30.882",
+      "lon": "74.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قصور",
+      "en": "Kasur",
+      "slug": "kasur-pk61402"
+    },
+    "code": {
+      "id": "PK61402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK614",
+      "level": 2,
+      "name": {
+        "local": "قصور",
+        "en": "Kasur",
+        "slug": "kasur-pk614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK614",
+        "level": 2,
+        "name": {
+          "local": "قصور",
+          "en": "Kasur",
+          "slug": "kasur-pk614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55010"
+    ],
+    "geo": {
+      "lat": "31.066",
+      "lon": "74.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوٹ رادھا کشن",
+      "en": "Kot Radha Kishen",
+      "slug": "kot-radha-kishen-pk61403"
+    },
+    "code": {
+      "id": "PK61403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK614",
+      "level": 2,
+      "name": {
+        "local": "قصور",
+        "en": "Kasur",
+        "slug": "kasur-pk614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK614",
+        "level": 2,
+        "name": {
+          "local": "قصور",
+          "en": "Kasur",
+          "slug": "kasur-pk614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55190"
+    ],
+    "geo": {
+      "lat": "31.166",
+      "lon": "74.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61404",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پتوکی",
+      "en": "Pattoki",
+      "slug": "pattoki-pk61404"
+    },
+    "code": {
+      "id": "PK61404",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK614",
+      "level": 2,
+      "name": {
+        "local": "قصور",
+        "en": "Kasur",
+        "slug": "kasur-pk614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK614",
+        "level": 2,
+        "name": {
+          "local": "قصور",
+          "en": "Kasur",
+          "slug": "kasur-pk614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55210"
+    ],
+    "geo": {
+      "lat": "31.121",
+      "lon": "73.853"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK22501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Barshore",
+      "en": "Barshore",
+      "slug": "barshore-pk22501"
+    },
+    "code": {
+      "id": "PK22501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK225",
+      "level": 2,
+      "name": {
+        "local": "پشین",
+        "en": "Pishin",
+        "slug": "pishin-pk225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK225",
+        "level": 2,
+        "name": {
+          "local": "پشین",
+          "en": "Pishin",
+          "slug": "pishin-pk225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85100"
+    ],
+    "geo": {
+      "lat": "31.003",
+      "lon": "67.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Huramzai",
+      "en": "Huramzai",
+      "slug": "huramzai-pk22502"
+    },
+    "code": {
+      "id": "PK22502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK225",
+      "level": 2,
+      "name": {
+        "local": "پشین",
+        "en": "Pishin",
+        "slug": "pishin-pk225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK225",
+        "level": 2,
+        "name": {
+          "local": "پشین",
+          "en": "Pishin",
+          "slug": "pishin-pk225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86720"
+    ],
+    "geo": {
+      "lat": "30.839",
+      "lon": "66.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کاریزات",
+      "en": "Karezat",
+      "slug": "karezat-pk22503"
+    },
+    "code": {
+      "id": "PK22503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK225",
+      "level": 2,
+      "name": {
+        "local": "پشین",
+        "en": "Pishin",
+        "slug": "pishin-pk225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK225",
+        "level": 2,
+        "name": {
+          "local": "پشین",
+          "en": "Pishin",
+          "slug": "pishin-pk225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86000"
+    ],
+    "geo": {
+      "lat": "30.604",
+      "lon": "67.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پشین",
+      "en": "Pishin",
+      "slug": "pishin-pk22504"
+    },
+    "code": {
+      "id": "PK22504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK225",
+      "level": 2,
+      "name": {
+        "local": "پشین",
+        "en": "Pishin",
+        "slug": "pishin-pk225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK225",
+        "level": 2,
+        "name": {
+          "local": "پشین",
+          "en": "Pishin",
+          "slug": "pishin-pk225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86720"
+    ],
+    "geo": {
+      "lat": "30.733",
+      "lon": "67.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22505",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Saranan",
+      "en": "Saranan",
+      "slug": "saranan-pk22505"
+    },
+    "code": {
+      "id": "PK22505",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK225",
+      "level": 2,
+      "name": {
+        "local": "پشین",
+        "en": "Pishin",
+        "slug": "pishin-pk225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK225",
+        "level": 2,
+        "name": {
+          "local": "پشین",
+          "en": "Pishin",
+          "slug": "pishin-pk225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86600"
+    ],
+    "geo": {
+      "lat": "30.462",
+      "lon": "66.713"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

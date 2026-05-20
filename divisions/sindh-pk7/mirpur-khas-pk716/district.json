@@ -1,0 +1,49 @@
+{
+  "id": "PK716",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "میرپور خاص",
+    "en": "Mirpur Khas",
+    "slug": "mirpur-khas-pk716"
+  },
+  "code": {
+    "id": "PK716",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 7
+  },
+  "zip_codes": [
+    "69370"
+  ],
+  "geo": {
+    "lat": "25.307",
+    "lon": "69.16"
+  },
+  "metadata": {},
+  "source": {}
+}

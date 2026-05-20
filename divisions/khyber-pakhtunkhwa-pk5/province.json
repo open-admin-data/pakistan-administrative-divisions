@@ -1,0 +1,30 @@
+{
+  "id": "PK5",
+  "level": 1,
+  "level_name": {
+    "local": "صوبہ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "خیبرپختونخوا",
+    "en": "Khyber Pakhtunkhwa",
+    "slug": "khyber-pakhtunkhwa-pk5"
+  },
+  "code": {
+    "id": "PK5",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 35,
+    "tehsil": 153
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.036",
+    "lon": "72.263"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "PK71601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈگری",
+      "en": "Digri",
+      "slug": "digri-pk71601"
+    },
+    "code": {
+      "id": "PK71601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK716",
+      "level": 2,
+      "name": {
+        "local": "میرپور خاص",
+        "en": "Mirpur Khas",
+        "slug": "mirpur-khas-pk716"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK716",
+        "level": 2,
+        "name": {
+          "local": "میرپور خاص",
+          "en": "Mirpur Khas",
+          "slug": "mirpur-khas-pk716"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69330"
+    ],
+    "geo": {
+      "lat": "25.135",
+      "lon": "69.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Hussain Bux Muree",
+      "en": "Hussain Bux Muree",
+      "slug": "hussain-bux-muree-pk71602"
+    },
+    "code": {
+      "id": "PK71602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK716",
+      "level": 2,
+      "name": {
+        "local": "میرپور خاص",
+        "en": "Mirpur Khas",
+        "slug": "mirpur-khas-pk716"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK716",
+        "level": 2,
+        "name": {
+          "local": "میرپور خاص",
+          "en": "Mirpur Khas",
+          "slug": "mirpur-khas-pk716"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68080"
+    ],
+    "geo": {
+      "lat": "25.626",
+      "lon": "68.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jhudo",
+      "en": "Jhudo",
+      "slug": "jhudo-pk71603"
+    },
+    "code": {
+      "id": "PK71603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK716",
+      "level": 2,
+      "name": {
+        "local": "میرپور خاص",
+        "en": "Mirpur Khas",
+        "slug": "mirpur-khas-pk716"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK716",
+        "level": 2,
+        "name": {
+          "local": "میرپور خاص",
+          "en": "Mirpur Khas",
+          "slug": "mirpur-khas-pk716"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69310"
+    ],
+    "geo": {
+      "lat": "24.966",
+      "lon": "69.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71604",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوت غلام محمد",
+      "en": "Kot Ghulam Muhammad",
+      "slug": "kot-ghulam-muhammad-pk71604"
+    },
+    "code": {
+      "id": "PK71604",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK716",
+      "level": 2,
+      "name": {
+        "local": "میرپور خاص",
+        "en": "Mirpur Khas",
+        "slug": "mirpur-khas-pk716"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK716",
+        "level": 2,
+        "name": {
+          "local": "میرپور خاص",
+          "en": "Mirpur Khas",
+          "slug": "mirpur-khas-pk716"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69300"
+    ],
+    "geo": {
+      "lat": "25.269",
+      "lon": "69.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71605",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میرپور خاص",
+      "en": "Mirpur Khas",
+      "slug": "mirpur-khas-pk71605"
+    },
+    "code": {
+      "id": "PK71605",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK716",
+      "level": 2,
+      "name": {
+        "local": "میرپور خاص",
+        "en": "Mirpur Khas",
+        "slug": "mirpur-khas-pk716"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK716",
+        "level": 2,
+        "name": {
+          "local": "میرپور خاص",
+          "en": "Mirpur Khas",
+          "slug": "mirpur-khas-pk716"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69370"
+    ],
+    "geo": {
+      "lat": "25.497",
+      "lon": "68.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71606",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shuja Abad",
+      "en": "Shuja Abad",
+      "slug": "shuja-abad-pk71606"
+    },
+    "code": {
+      "id": "PK71606",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK716",
+      "level": 2,
+      "name": {
+        "local": "میرپور خاص",
+        "en": "Mirpur Khas",
+        "slug": "mirpur-khas-pk716"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK716",
+        "level": 2,
+        "name": {
+          "local": "میرپور خاص",
+          "en": "Mirpur Khas",
+          "slug": "mirpur-khas-pk716"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69370"
+    ],
+    "geo": {
+      "lat": "25.435",
+      "lon": "69.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71607",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سندھری",
+      "en": "Sindhri",
+      "slug": "sindhri-pk71607"
+    },
+    "code": {
+      "id": "PK71607",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK716",
+      "level": 2,
+      "name": {
+        "local": "میرپور خاص",
+        "en": "Mirpur Khas",
+        "slug": "mirpur-khas-pk716"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK716",
+        "level": 2,
+        "name": {
+          "local": "میرپور خاص",
+          "en": "Mirpur Khas",
+          "slug": "mirpur-khas-pk716"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68310"
+    ],
+    "geo": {
+      "lat": "25.654",
+      "lon": "69.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

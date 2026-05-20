@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK60701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "D.G Khan (Tribal Area)",
+      "en": "D.G Khan (Tribal Area)",
+      "slug": "dg-khan-tribal-area-pk60701"
+    },
+    "code": {
+      "id": "PK60701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK607",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ غازی خان",
+        "en": "Dera Ghazi Khan",
+        "slug": "dera-ghazi-khan-pk607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK607",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ غازی خان",
+          "en": "Dera Ghazi Khan",
+          "slug": "dera-ghazi-khan-pk607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32124"
+    ],
+    "geo": {
+      "lat": "30.466",
+      "lon": "70.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈیرہ غازی خان",
+      "en": "Dera Ghazi Khan",
+      "slug": "dera-ghazi-khan-pk60702"
+    },
+    "code": {
+      "id": "PK60702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK607",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ غازی خان",
+        "en": "Dera Ghazi Khan",
+        "slug": "dera-ghazi-khan-pk607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK607",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ غازی خان",
+          "en": "Dera Ghazi Khan",
+          "slug": "dera-ghazi-khan-pk607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32200"
+    ],
+    "geo": {
+      "lat": "30.198",
+      "lon": "70.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kot Chatta",
+      "en": "Kot Chatta",
+      "slug": "kot-chatta-pk60703"
+    },
+    "code": {
+      "id": "PK60703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK607",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ غازی خان",
+        "en": "Dera Ghazi Khan",
+        "slug": "dera-ghazi-khan-pk607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK607",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ غازی خان",
+          "en": "Dera Ghazi Khan",
+          "slug": "dera-ghazi-khan-pk607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32380"
+    ],
+    "geo": {
+      "lat": "29.847",
+      "lon": "70.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60704",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "تونسہ",
+      "en": "Taunsa",
+      "slug": "taunsa-pk60704"
+    },
+    "code": {
+      "id": "PK60704",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK607",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ غازی خان",
+        "en": "Dera Ghazi Khan",
+        "slug": "dera-ghazi-khan-pk607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK607",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ غازی خان",
+          "en": "Dera Ghazi Khan",
+          "slug": "dera-ghazi-khan-pk607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32000"
+    ],
+    "geo": {
+      "lat": "30.901",
+      "lon": "70.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

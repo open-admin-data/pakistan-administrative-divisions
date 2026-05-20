@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK30301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Daghoni",
+      "en": "Daghoni",
+      "slug": "daghoni-pk30301"
+    },
+    "code": {
+      "id": "PK30301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK303",
+      "level": 2,
+      "name": {
+        "local": "ضلع گانچھے",
+        "en": "Ghanche",
+        "slug": "ghanche-pk303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK303",
+        "level": 2,
+        "name": {
+          "local": "ضلع گانچھے",
+          "en": "Ghanche",
+          "slug": "ghanche-pk303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16700"
+    ],
+    "geo": {
+      "lat": "35.325",
+      "lon": "76.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کھپلو",
+      "en": "Khaplu",
+      "slug": "khaplu-pk30302"
+    },
+    "code": {
+      "id": "PK30302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK303",
+      "level": 2,
+      "name": {
+        "local": "ضلع گانچھے",
+        "en": "Ghanche",
+        "slug": "ghanche-pk303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK303",
+        "level": 2,
+        "name": {
+          "local": "ضلع گانچھے",
+          "en": "Ghanche",
+          "slug": "ghanche-pk303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16920"
+    ],
+    "geo": {
+      "lat": "35.004",
+      "lon": "76.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mashabbrum",
+      "en": "Mashabbrum",
+      "slug": "mashabbrum-pk30303"
+    },
+    "code": {
+      "id": "PK30303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK303",
+      "level": 2,
+      "name": {
+        "local": "ضلع گانچھے",
+        "en": "Ghanche",
+        "slug": "ghanche-pk303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK303",
+        "level": 2,
+        "name": {
+          "local": "ضلع گانچھے",
+          "en": "Ghanche",
+          "slug": "ghanche-pk303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16920"
+    ],
+    "geo": {
+      "lat": "35.32",
+      "lon": "76.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

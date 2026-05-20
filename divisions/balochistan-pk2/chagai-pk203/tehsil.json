@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK20304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Chagai",
+      "en": "Chagai",
+      "slug": "chagai-pk20304"
+    },
+    "code": {
+      "id": "PK20304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK203",
+      "level": 2,
+      "name": {
+        "local": "ضلع چاغی",
+        "en": "Chagai",
+        "slug": "chagai-pk203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK203",
+        "level": 2,
+        "name": {
+          "local": "ضلع چاغی",
+          "en": "Chagai",
+          "slug": "chagai-pk203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80800"
+    ],
+    "geo": {
+      "lat": "29.33",
+      "lon": "64.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دالبندین",
+      "en": "Dalbandin",
+      "slug": "dalbandin-pk20301"
+    },
+    "code": {
+      "id": "PK20301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK203",
+      "level": 2,
+      "name": {
+        "local": "ضلع چاغی",
+        "en": "Chagai",
+        "slug": "chagai-pk203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK203",
+        "level": 2,
+        "name": {
+          "local": "ضلع چاغی",
+          "en": "Chagai",
+          "slug": "chagai-pk203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95100"
+    ],
+    "geo": {
+      "lat": "28.899",
+      "lon": "64.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نوک کنڈی",
+      "en": "Nokkundi",
+      "slug": "nokkundi-pk20302"
+    },
+    "code": {
+      "id": "PK20302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK203",
+      "level": 2,
+      "name": {
+        "local": "ضلع چاغی",
+        "en": "Chagai",
+        "slug": "chagai-pk203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK203",
+        "level": 2,
+        "name": {
+          "local": "ضلع چاغی",
+          "en": "Chagai",
+          "slug": "chagai-pk203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95100"
+    ],
+    "geo": {
+      "lat": "28.685",
+      "lon": "62.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Taftan",
+      "en": "Taftan",
+      "slug": "taftan-pk20303"
+    },
+    "code": {
+      "id": "PK20303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK203",
+      "level": 2,
+      "name": {
+        "local": "ضلع چاغی",
+        "en": "Chagai",
+        "slug": "chagai-pk203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK203",
+        "level": 2,
+        "name": {
+          "local": "ضلع چاغی",
+          "en": "Chagai",
+          "slug": "chagai-pk203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95100"
+    ],
+    "geo": {
+      "lat": "29.138",
+      "lon": "61.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

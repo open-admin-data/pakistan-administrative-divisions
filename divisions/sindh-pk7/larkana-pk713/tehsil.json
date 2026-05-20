@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK71301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Baqrani",
+      "en": "Baqrani",
+      "slug": "baqrani-pk71301"
+    },
+    "code": {
+      "id": "PK71301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK713",
+      "level": 2,
+      "name": {
+        "local": "لاڑکانہ",
+        "en": "Larkana",
+        "slug": "larkana-pk713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK713",
+        "level": 2,
+        "name": {
+          "local": "لاڑکانہ",
+          "en": "Larkana",
+          "slug": "larkana-pk713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77060"
+    ],
+    "geo": {
+      "lat": "27.416",
+      "lon": "68.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈوکری",
+      "en": "Dokri",
+      "slug": "dokri-pk71302"
+    },
+    "code": {
+      "id": "PK71302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK713",
+      "level": 2,
+      "name": {
+        "local": "لاڑکانہ",
+        "en": "Larkana",
+        "slug": "larkana-pk713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK713",
+        "level": 2,
+        "name": {
+          "local": "لاڑکانہ",
+          "en": "Larkana",
+          "slug": "larkana-pk713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77010"
+    ],
+    "geo": {
+      "lat": "27.263",
+      "lon": "68.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لاڑکانہ",
+      "en": "Larkana",
+      "slug": "larkana-pk71303"
+    },
+    "code": {
+      "id": "PK71303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK713",
+      "level": 2,
+      "name": {
+        "local": "لاڑکانہ",
+        "en": "Larkana",
+        "slug": "larkana-pk713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK713",
+        "level": 2,
+        "name": {
+          "local": "لاڑکانہ",
+          "en": "Larkana",
+          "slug": "larkana-pk713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77280"
+    ],
+    "geo": {
+      "lat": "27.583",
+      "lon": "68.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Rato Dero",
+      "en": "Rato Dero",
+      "slug": "rato-dero-pk71304"
+    },
+    "code": {
+      "id": "PK71304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK713",
+      "level": 2,
+      "name": {
+        "local": "لاڑکانہ",
+        "en": "Larkana",
+        "slug": "larkana-pk713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK713",
+        "level": 2,
+        "name": {
+          "local": "لاڑکانہ",
+          "en": "Larkana",
+          "slug": "larkana-pk713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77370"
+    ],
+    "geo": {
+      "lat": "27.771",
+      "lon": "68.259"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

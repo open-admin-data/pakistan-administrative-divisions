@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK20401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈیرہ بگٹی",
+      "en": "Dera Bugti",
+      "slug": "dera-bugti-pk20401"
+    },
+    "code": {
+      "id": "PK20401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK204",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ بگٹی",
+        "en": "Dera Bugti",
+        "slug": "dera-bugti-pk204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK204",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ بگٹی",
+          "en": "Dera Bugti",
+          "slug": "dera-bugti-pk204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80100"
+    ],
+    "geo": {
+      "lat": "29.011",
+      "lon": "68.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Phelawagh",
+      "en": "Phelawagh",
+      "slug": "phelawagh-pk20402"
+    },
+    "code": {
+      "id": "PK20402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK204",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ بگٹی",
+        "en": "Dera Bugti",
+        "slug": "dera-bugti-pk204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK204",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ بگٹی",
+          "en": "Dera Bugti",
+          "slug": "dera-bugti-pk204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31660"
+    ],
+    "geo": {
+      "lat": "29.344",
+      "lon": "69.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سوئی",
+      "en": "Sui",
+      "slug": "sui-pk20403"
+    },
+    "code": {
+      "id": "PK20403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK204",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ بگٹی",
+        "en": "Dera Bugti",
+        "slug": "dera-bugti-pk204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK204",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ بگٹی",
+          "en": "Dera Bugti",
+          "slug": "dera-bugti-pk204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80100"
+    ],
+    "geo": {
+      "lat": "28.741",
+      "lon": "68.977"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "PK520",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع دیر زیریں",
+    "en": "Lower Dir",
+    "slug": "lower-dir-pk520"
+  },
+  "code": {
+    "id": "PK520",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 6
+  },
+  "zip_codes": [
+    "18300"
+  ],
+  "geo": {
+    "lat": "34.841",
+    "lon": "71.82"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK51903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bettani",
+      "en": "Bettani",
+      "slug": "bettani-pk51903"
+    },
+    "code": {
+      "id": "PK51903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK519",
+      "level": 2,
+      "name": {
+        "local": "لکی مروت",
+        "en": "Lakki Marwat",
+        "slug": "lakki-marwat-pk519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK519",
+        "level": 2,
+        "name": {
+          "local": "لکی مروت",
+          "en": "Lakki Marwat",
+          "slug": "lakki-marwat-pk519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28380"
+    ],
+    "geo": {
+      "lat": "32.652",
+      "lon": "70.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لکی مروت",
+      "en": "Lakki Marwat",
+      "slug": "lakki-marwat-pk51901"
+    },
+    "code": {
+      "id": "PK51901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK519",
+      "level": 2,
+      "name": {
+        "local": "لکی مروت",
+        "en": "Lakki Marwat",
+        "slug": "lakki-marwat-pk519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK519",
+        "level": 2,
+        "name": {
+          "local": "لکی مروت",
+          "en": "Lakki Marwat",
+          "slug": "lakki-marwat-pk519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19200"
+    ],
+    "geo": {
+      "lat": "32.538",
+      "lon": "70.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سرای نورنگ",
+      "en": "Sarai Naurang",
+      "slug": "sarai-naurang-pk51902"
+    },
+    "code": {
+      "id": "PK51902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK519",
+      "level": 2,
+      "name": {
+        "local": "لکی مروت",
+        "en": "Lakki Marwat",
+        "slug": "lakki-marwat-pk519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK519",
+        "level": 2,
+        "name": {
+          "local": "لکی مروت",
+          "en": "Lakki Marwat",
+          "slug": "lakki-marwat-pk519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28410"
+    ],
+    "geo": {
+      "lat": "32.747",
+      "lon": "70.73"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

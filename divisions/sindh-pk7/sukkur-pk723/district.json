@@ -1,0 +1,49 @@
+{
+  "id": "PK723",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "سکھر",
+    "en": "Sukkur",
+    "slug": "sukkur-pk723"
+  },
+  "code": {
+    "id": "PK723",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "65150"
+  ],
+  "geo": {
+    "lat": "27.545",
+    "lon": "69.065"
+  },
+  "metadata": {},
+  "source": {}
+}

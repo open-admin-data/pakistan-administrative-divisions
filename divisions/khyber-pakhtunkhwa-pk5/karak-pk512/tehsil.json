@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK51201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بانڈہ داؤد شاہ",
+      "en": "Banda Daud Shah",
+      "slug": "banda-daud-shah-pk51201"
+    },
+    "code": {
+      "id": "PK51201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK512",
+      "level": 2,
+      "name": {
+        "local": "کرک",
+        "en": "Karak",
+        "slug": "karak-pk512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK512",
+        "level": 2,
+        "name": {
+          "local": "کرک",
+          "en": "Karak",
+          "slug": "karak-pk512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26390"
+    ],
+    "geo": {
+      "lat": "33.263",
+      "lon": "71.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کرک",
+      "en": "Karak",
+      "slug": "karak-pk51202"
+    },
+    "code": {
+      "id": "PK51202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK512",
+      "level": 2,
+      "name": {
+        "local": "کرک",
+        "en": "Karak",
+        "slug": "karak-pk512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK512",
+        "level": 2,
+        "name": {
+          "local": "کرک",
+          "en": "Karak",
+          "slug": "karak-pk512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17290"
+    ],
+    "geo": {
+      "lat": "33.133",
+      "lon": "71.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Takht-E-Nasrati",
+      "en": "Takht-E-Nasrati",
+      "slug": "takht-e-nasrati-pk51203"
+    },
+    "code": {
+      "id": "PK51203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK512",
+      "level": 2,
+      "name": {
+        "local": "کرک",
+        "en": "Karak",
+        "slug": "karak-pk512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK512",
+        "level": 2,
+        "name": {
+          "local": "کرک",
+          "en": "Karak",
+          "slug": "karak-pk512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27400"
+    ],
+    "geo": {
+      "lat": "32.96",
+      "lon": "71.052"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

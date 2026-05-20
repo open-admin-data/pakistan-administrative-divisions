@@ -1,0 +1,745 @@
+# Punjab — Pakistan Administrative Divisions
+
+> 36 districts, 139 tehsils
+> Code: PK6
+> Coordinates: 30.862, 72.32
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Districts
+
+### اٹک (Attock)
+
+Code: PK601, Coordinates: 33.503, 72.425
+Tehsils: 6
+
+#### اٹک (Attock)
+
+Code: PK60101, Postal: 43252, Coordinates: 33.74, 72.294
+
+#### فتح جنگ (Fateh Jang)
+
+Code: PK60102, Postal: 43366, Coordinates: 33.506, 72.678
+
+#### حسن عبدال (Hasan Abdal)
+
+Code: PK60103, Postal: 47000, Coordinates: 33.832, 72.648
+
+#### حضرو (Hazro)
+
+Code: PK60104, Postal: 43480, Coordinates: 33.902, 72.432
+
+#### جند (Jand)
+
+Code: PK60105, Postal: 43364, Coordinates: 33.359, 71.946
+
+#### پنڈی گھیب (Pindi Gheb)
+
+Code: PK60106, Postal: 43240, Coordinates: 33.305, 72.313
+
+### ضلع بہاولنگر (Bahawalnagar)
+
+Code: PK602, Coordinates: 29.577, 72.997
+Tehsils: 5
+
+#### بہاولنگر (Bahawalnagar)
+
+Code: PK60201, Postal: 62100, Coordinates: 29.799, 73.197
+
+#### چشتیاں (Chishtian)
+
+Code: PK60202, Postal: 33600, Coordinates: 29.641, 72.866
+
+#### فورٹ عباس (Fort Abbas)
+
+Code: PK60203, Postal: 62020, Coordinates: 29.072, 72.669
+
+#### ہارون آباد (Haroonabad)
+
+Code: PK60204, Postal: 33600, Coordinates: 29.465, 73.029
+
+#### منچن آباد (Minchinabad)
+
+Code: PK60205, Postal: 12270, Coordinates: 30.124, 73.621
+
+### بہاولپور (Bahawalpur)
+
+Code: PK603, Coordinates: 28.83, 71.767
+Tehsils: 5
+
+#### احمد پور شرقیہ (Ahmadpur East)
+
+Code: PK60301, Postal: 63400, Coordinates: 29.281, 71.162
+
+#### بہاولپور (Bahawalpur)
+
+Code: PK60302, Postal: 63250, Coordinates: 29.335, 71.573
+
+#### حاصل پور (Hasilpur)
+
+Code: PK60303, Postal: 62210, Coordinates: 29.634, 72.531
+
+#### خیرپور ٹامیوالی (Khairpur Tamewali)
+
+Code: PK60304, Postal: 62000, Coordinates: 29.611, 72.257
+
+#### یزمان (Yazman)
+
+Code: PK60305, Postal: 63210, Coordinates: 28.707, 71.661
+
+### بھکر (Bhakkar)
+
+Code: PK604, Coordinates: 31.681, 71.338
+Tehsils: 4
+
+#### بھکر (Bhakkar)
+
+Code: PK60401, Postal: 30050, Coordinates: 31.569, 71.145
+
+#### دریا خان (Darya Khan)
+
+Code: PK60402, Postal: 30110, Coordinates: 31.811, 71.331
+
+#### کلور کوٹ (Kalur Kot)
+
+Code: PK60403, Postal: 30140, Coordinates: 32.062, 71.434
+
+#### منکیرہ (Mankera)
+
+Code: PK60404, Postal: 30160, Coordinates: 31.485, 71.66
+
+### چکوال (Chakwal)
+
+Code: PK605, Coordinates: 32.874, 72.533
+Tehsils: 4
+
+#### چکوال (Chakwal)
+
+Code: PK60501, Postal: 48690, Coordinates: 32.992, 72.857
+
+#### چوآ سیدن شاہ (Choa Saidan Shah)
+
+Code: PK60502, Postal: 48320, Coordinates: 32.733, 72.998
+
+#### کلر کہار (Kallar Kahar)
+
+Code: PK60503, Postal: 48530, Coordinates: 32.76, 72.674
+
+#### Tala Gang
+
+Code: PK60504, Postal: 48170, Coordinates: 32.849, 72.225
+
+### چنیوٹ (Chiniot)
+
+Code: PK606, Coordinates: 31.67, 72.792
+Tehsils: 3
+
+#### بهاوانا (Bhawana)
+
+Code: PK60601, Postal: 36280, Coordinates: 31.532, 72.678
+
+#### چنیوٹ (Chiniot)
+
+Code: PK60602, Postal: 35400, Coordinates: 31.701, 72.996
+
+#### لالیاں (Lalian)
+
+Code: PK60603, Postal: 35470, Coordinates: 31.758, 72.764
+
+### ڈیرہ غازی خان (Dera Ghazi Khan)
+
+Code: PK607, Coordinates: 30.48, 70.41
+Tehsils: 4
+
+#### D.G Khan (Tribal Area)
+
+Code: PK60701, Postal: 32124, Coordinates: 30.466, 70.297
+
+#### ڈیرہ غازی خان (Dera Ghazi Khan)
+
+Code: PK60702, Postal: 32200, Coordinates: 30.198, 70.664
+
+#### Kot Chatta
+
+Code: PK60703, Postal: 32380, Coordinates: 29.847, 70.529
+
+#### تونسہ (Taunsa)
+
+Code: PK60704, Postal: 32000, Coordinates: 30.901, 70.612
+
+### فیصل آباد (Faisalabad)
+
+Code: PK608, Coordinates: 31.231, 73.198
+Tehsils: 6
+
+#### چک جھمرہ (Chak Jhumra)
+
+Code: PK60801, Postal: 37700, Coordinates: 31.646, 73.232
+
+#### Faisalabad City
+
+Code: PK60802, Postal: 38200, Coordinates: 31.43, 73.103
+
+#### Faisalabad Sadar
+
+Code: PK60803, Postal: 40550, Coordinates: 31.391, 72.927
+
+#### جڑانوالہ (Jaranwala)
+
+Code: PK60804, Postal: 37250, Coordinates: 31.364, 73.453
+
+#### Summundri
+
+Code: PK60805, Postal: 37300, Coordinates: 31.02, 72.907
+
+#### Tandlian Wala
+
+Code: PK60806, Postal: 37110, Coordinates: 30.913, 73.063
+
+### گوجرانوالہ (Gujranwala)
+
+Code: PK609, Coordinates: 32.188, 74.054
+Tehsils: 4
+
+#### گوجرانوالہ (Gujranwala)
+
+Code: PK60901, Postal: 52250, Coordinates: 32.152, 74.202
+
+#### کامونکی (Kamoke)
+
+Code: PK60902, Postal: 40520, Coordinates: 31.995, 74.38
+
+#### نوشہرہ ورکاں (Nowshera Virkan)
+
+Code: PK60903, Postal: 52370, Coordinates: 32.001, 73.994
+
+#### وزیرآباد (Wazirabad)
+
+Code: PK60904, Postal: 52050, Coordinates: 32.348, 73.996
+
+### گجرات (Gujrat)
+
+Code: PK610, Coordinates: 32.718, 74.038
+Tehsils: 3
+
+#### گجرات (Gujrat)
+
+Code: PK61001, Postal: 50950, Coordinates: 32.637, 74.183
+
+#### کھاریاں (Kharian)
+
+Code: PK61002, Postal: 50140, Coordinates: 32.735, 73.823
+
+#### سرائے عالمگیر (Sarai Alamgir)
+
+Code: PK61003, Postal: 43396, Coordinates: 32.866, 73.751
+
+### حافظ آباد (Hafizabad)
+
+Code: PK611, Coordinates: 32.051, 73.543
+Tehsils: 2
+
+#### حافظ آباد (Hafizabad)
+
+Code: PK61101, Postal: 52140, Coordinates: 32.108, 73.629
+
+#### پنڈی بھٹیاں (Pindi Bhattian)
+
+Code: PK61102, Postal: 52170, Coordinates: 31.973, 73.377
+
+### جھنگ (Jhang)
+
+Code: PK612, Coordinates: 31.172, 72.142
+Tehsils: 4
+
+#### احمدپور سیال (Ahmadpur Sial)
+
+Code: PK61201, Postal: 58190, Coordinates: 30.808, 71.874
+
+#### اٹھارہ ہزاری (Athara Hazari)
+
+Code: PK61204, Postal: 35180, Coordinates: 31.197, 72.005
+
+#### جھنگ (Jhang)
+
+Code: PK61202, Postal: 35010, Coordinates: 31.407, 72.378
+
+#### شورکوٹ (Shorkot)
+
+Code: PK61203, Postal: 35100, Coordinates: 30.892, 72.15
+
+### جہلم (Jhelum)
+
+Code: PK613, Coordinates: 32.836, 73.373
+Tehsils: 4
+
+#### دینہ (Dina)
+
+Code: PK61301, Postal: 49460, Coordinates: 33.026, 73.607
+
+#### جہلم (Jhelum)
+
+Code: PK61302, Postal: 49330, Coordinates: 32.855, 73.463
+
+#### پنڈ دادن خان (Pind Dadan Khan)
+
+Code: PK61303, Postal: 49000, Coordinates: 32.591, 72.963
+
+#### سوہاوہ (Sohawa)
+
+Code: PK61304, Postal: 49300, Coordinates: 32.996, 73.315
+
+### قصور (Kasur)
+
+Code: PK614, Coordinates: 31.003, 74.14
+Tehsils: 4
+
+#### چونیاں (Chunian)
+
+Code: PK61401, Postal: 55020, Coordinates: 30.882, 74.058
+
+#### قصور (Kasur)
+
+Code: PK61402, Postal: 55010, Coordinates: 31.066, 74.381
+
+#### کوٹ رادھا کشن (Kot Radha Kishen)
+
+Code: PK61403, Postal: 55190, Coordinates: 31.166, 74.192
+
+#### پتوکی (Pattoki)
+
+Code: PK61404, Postal: 55210, Coordinates: 31.121, 73.853
+
+### خانیوال (Khanewal)
+
+Code: PK615, Coordinates: 30.316, 72.065
+Tehsils: 4
+
+#### جہانیاں (Jahanian)
+
+Code: PK61501, Postal: 58200, Coordinates: 30.061, 71.84
+
+#### کبیر والا (Kabirwala)
+
+Code: PK61502, Postal: 58190, Coordinates: 30.497, 71.866
+
+#### خانیوال (Khanewal)
+
+Code: PK61503, Postal: 57230, Coordinates: 30.283, 72.006
+
+#### میاں چنوں (Mian Channu)
+
+Code: PK61504, Postal: 53100, Coordinates: 30.333, 72.306
+
+### خوشاب (Khushab)
+
+Code: PK616, Coordinates: 32.125, 72.053
+Tehsils: 4
+
+#### خوشاب (Khushab)
+
+Code: PK61601, Postal: 41024, Coordinates: 32.329, 72.327
+
+#### نوشہرہ (پنجاب) (Naushera)
+
+Code: PK61602, Postal: 41110, Coordinates: 32.594, 72.221
+
+#### Noorpur
+
+Code: PK61603, Postal: 41280, Coordinates: 31.872, 71.96
+
+#### قائد آباد (Quaidabad)
+
+Code: PK61604, Postal: 41310, Coordinates: 32.316, 71.967
+
+### لاہور (Lahore)
+
+Code: PK617, Coordinates: 31.486, 74.405
+Tehsils: 2
+
+#### Lahore Cantt
+
+Code: PK61701, Postal: 51350, Coordinates: 31.5, 74.452
+
+#### Lahore City
+
+Code: PK61702, Postal: 54500, Coordinates: 31.465, 74.233
+
+### لیہ (Leiah)
+
+Code: PK618, Coordinates: 30.997, 71.284
+Tehsils: 3
+
+#### Choubara
+
+Code: PK61801, Postal: 35110, Coordinates: 30.911, 71.54
+
+#### کروڑ لال عیسن (Karor Lal Esan)
+
+Code: PK61802, Postal: 31100, Coordinates: 31.219, 71.032
+
+#### Leiah
+
+Code: PK61803, Postal: 31300, Coordinates: 30.874, 71.033
+
+### لودھراں (Lodhran)
+
+Code: PK619, Coordinates: 29.671, 71.745
+Tehsils: 3
+
+#### دنیاپور (Dunyapur)
+
+Code: PK61901, Postal: 59110, Coordinates: 29.83, 71.719
+
+#### کہروڑپکا (Kahror Pacca)
+
+Code: PK61902, Postal: 59340, Coordinates: 29.638, 71.91
+
+#### لودھراں (Lodhran)
+
+Code: PK61903, Postal: 59320, Coordinates: 29.595, 71.563
+
+### منڈی بہاؤالدین (Mandi Bahauddin)
+
+Code: PK620, Coordinates: 32.435, 73.471
+Tehsils: 3
+
+#### ملکوال (Malakwal)
+
+Code: PK62001, Postal: 50560, Coordinates: 32.43, 73.21
+
+#### منڈی بہاؤالدین (Mandi Bahauddin)
+
+Code: PK62002, Postal: 39060, Coordinates: 32.547, 73.523
+
+#### پھالیہ (Phalia)
+
+Code: PK62003, Postal: 50430, Coordinates: 32.358, 73.585
+
+### میانوالی (Mianwali)
+
+Code: PK621, Coordinates: 32.704, 71.515
+Tehsils: 3
+
+#### عیسیٰ خیل (Isakhel)
+
+Code: PK62101, Postal: 42420, Coordinates: 32.85, 71.33
+
+#### میانوالی (Mianwali)
+
+Code: PK62102, Postal: 42210, Coordinates: 32.634, 71.673
+
+#### پپلاں (Piplan)
+
+Code: PK62103, Postal: 42010, Coordinates: 32.342, 71.433
+
+### ملتان (Multan)
+
+Code: PK622, Coordinates: 29.926, 71.366
+Tehsils: 4
+
+#### جلال پور پیر والا (Jalalpur Pirwala)
+
+Code: PK62201, Postal: 59250, Coordinates: 29.578, 71.199
+
+#### Multan City
+
+Code: PK62202, Postal: 59070, Coordinates: 30.178, 71.434
+
+#### Multan Saddar
+
+Code: PK62203, Postal: 59100, Coordinates: 30.114, 71.635
+
+#### شجاع آباد (Shujabad)
+
+Code: PK62204, Postal: 59240, Coordinates: 29.825, 71.313
+
+### مظفرگڑھ (Muzaffargarh)
+
+Code: PK623, Coordinates: 29.892, 71.013
+Tehsils: 4
+
+#### علی پور (Alipur)
+
+Code: PK62301, Postal: 34470, Coordinates: 29.278, 70.757
+
+#### جتوئی (Jatoi)
+
+Code: PK62302, Postal: 53500, Coordinates: 29.597, 70.873
+
+#### کوٹ ادو (Kot Addu)
+
+Code: PK62303, Postal: 34050, Coordinates: 30.434, 71.142
+
+#### مظفرگڑھ (Muzaffargarh)
+
+Code: PK62304, Postal: 34382, Coordinates: 30.153, 71.165
+
+### ننکانہ صاحب (Nankana Sahib)
+
+Code: PK624, Coordinates: 31.432, 73.85
+Tehsils: 3
+
+#### ننکانہ صاحب (Nankana Sahib)
+
+Code: PK62401, Postal: 52360, Coordinates: 31.311, 73.839
+
+#### سانگلہ ہل (Sangla Hill)
+
+Code: PK62402, Postal: 39600, Coordinates: 31.702, 73.417
+
+#### Shah Kot
+
+Code: PK62403, Postal: 39650, Coordinates: 31.598, 73.567
+
+### ضلع نارووال (Narowal)
+
+Code: PK625, Coordinates: 32.206, 75.043
+Tehsils: 3
+
+#### نارووال (Narowal)
+
+Code: PK62501, Postal: 51570, Coordinates: 32.079, 74.809
+
+#### شکرگڑھ (Shakargarh)
+
+Code: PK62502, Postal: 51770, Coordinates: 32.217, 75.172
+
+#### ظفروال (Zafarwal)
+
+Code: PK62503, Postal: 51660, Coordinates: 32.325, 74.956
+
+### اوکاڑہ (Okara)
+
+Code: PK626, Coordinates: 30.697, 73.733
+Tehsils: 3
+
+#### دیپالپور (Depalpur)
+
+Code: PK62601, Postal: 56100, Coordinates: 30.574, 73.785
+
+#### اوکاڑہ (Okara)
+
+Code: PK62602, Postal: 56400, Coordinates: 30.803, 73.41
+
+#### رینالہ خورد (Renala Khurd)
+
+Code: PK62603, Postal: 55360, Coordinates: 30.949, 73.664
+
+### پاکپتن (Pakpattan)
+
+Code: PK627, Coordinates: 30.289, 73.307
+Tehsils: 2
+
+#### Arif Wala
+
+Code: PK62701, Postal: 57480, Coordinates: 30.224, 73.083
+
+#### پاکپتن (Pakpattan)
+
+Code: PK62702, Postal: 57440, Coordinates: 30.343, 73.445
+
+### رحیم یار خان (Rahim Yar Khan)
+
+Code: PK628, Coordinates: 28.485, 70.461
+Tehsils: 4
+
+#### خانپور (Khanpur)
+
+Code: PK62801, Postal: 64070, Coordinates: 28.686, 70.659
+
+#### Liaqatpur
+
+Code: PK62802, Postal: 64070, Coordinates: 28.485, 70.836
+
+#### رحیم یار خان (Rahim Yar Khan)
+
+Code: PK62803, Postal: 64310, Coordinates: 28.488, 70.338
+
+#### صادق آباد (Sadiqabad)
+
+Code: PK62804, Postal: 64380, Coordinates: 28.255, 70.027
+
+### ضلع راجن پور (Rajanpur)
+
+Code: PK629, Coordinates: 29.145, 70.153
+Tehsils: 4
+
+#### جام پور (Jampur)
+
+Code: PK62901, Postal: 33100, Coordinates: 29.556, 70.376
+
+#### راجن پور (Rajanpur)
+
+Code: PK62902, Postal: 64100, Coordinates: 29.134, 70.247
+
+#### Rajanpur (Tribal Area)
+
+Code: PK62903, Postal: 31660, Coordinates: 29.159, 69.827
+
+#### روجھان (Rojhan)
+
+Code: PK62904, Postal: 33700, Coordinates: 28.778, 70.036
+
+### راولپنڈی (Rawalpindi)
+
+Code: PK630, Coordinates: 33.541, 73.438
+Tehsils: 7
+
+#### گوجر خان (Gujar Khan)
+
+Code: PK63001, Postal: 47510, Coordinates: 33.249, 73.278
+
+#### کہوٹہ (Kahuta)
+
+Code: PK63002, Postal: 47340, Coordinates: 33.607, 73.448
+
+#### Kallar Sayaddan
+
+Code: PK63003, Postal: 47450, Coordinates: 33.438, 73.427
+
+#### Kotli Sattian
+
+Code: PK63004, Postal: 47260, Coordinates: 33.816, 73.522
+
+#### مری (Murree)
+
+Code: PK63005, Postal: 47214, Coordinates: 33.871, 73.411
+
+#### راولپنڈی (Rawalpindi)
+
+Code: PK63006, Postal: 47296, Coordinates: 33.405, 72.979
+
+#### ٹیکسلا (Taxila)
+
+Code: PK63007, Postal: 47080, Coordinates: 33.731, 72.824
+
+### ساہیوال (Sahiwal)
+
+Code: PK631, Coordinates: 30.55, 72.896
+Tehsils: 2
+
+#### چیچہ وطنی (Chichawatni)
+
+Code: PK63101, Postal: 43730, Coordinates: 30.429, 72.687
+
+#### ساہیوال (Sahiwal)
+
+Code: PK63102, Postal: 57050, Coordinates: 30.67, 73.11
+
+### سرگودھا (Sargodha)
+
+Code: PK632, Coordinates: 32.069, 72.789
+Tehsils: 7
+
+#### بھلوال (Bhalwal)
+
+Code: PK63201, Postal: 40410, Coordinates: 32.276, 72.929
+
+#### بهرا (Bhera)
+
+Code: PK63207, Postal: 43222, Coordinates: 32.412, 72.764
+
+#### کوٹ مومن (Kot Momin)
+
+Code: PK63202, Postal: 40460, Coordinates: 32.096, 73.11
+
+#### ساہیوال (Sahiwal)
+
+Code: PK63203, Postal: 40000, Coordinates: 31.883, 72.396
+
+#### سرگودھا (Sargodha)
+
+Code: PK63204, Postal: 40462, Coordinates: 32.054, 72.729
+
+#### شاہپور (Shahpur)
+
+Code: PK63205, Postal: 40610, Coordinates: 32.2, 72.479
+
+#### سلانوالی (Sillanwali)
+
+Code: PK63206, Postal: 35300, Coordinates: 31.767, 72.52
+
+### شیخوپورہ (Sheikhupura)
+
+Code: PK633, Coordinates: 31.714, 73.985
+Tehsils: 5
+
+#### فیروزوالہ (Ferozewala)
+
+Code: PK63301, Postal: 39250, Coordinates: 31.705, 74.282
+
+#### مرید کے (Muridke)
+
+Code: PK63302, Postal: 39050, Coordinates: 31.902, 74.519
+
+#### Safdarabad
+
+Code: PK63303, Postal: 39530, Coordinates: 31.752, 73.614
+
+#### Sharak Pur
+
+Code: PK63304, Postal: 52360, Coordinates: 31.499, 74.065
+
+#### شیخوپورہ (Sheikhupura)
+
+Code: PK63305, Postal: 49712, Coordinates: 31.737, 73.936
+
+### سیالکوٹ (Sialkot)
+
+Code: PK634, Coordinates: 32.442, 74.568
+Tehsils: 4
+
+#### ڈسکہ (Daska)
+
+Code: PK63401, Postal: 51010, Coordinates: 32.266, 74.392
+
+#### پسرور (Pasrur)
+
+Code: PK63402, Postal: 51480, Coordinates: 32.27, 74.65
+
+#### سمبڑیال (Sambrial)
+
+Code: PK63403, Postal: 51070, Coordinates: 32.498, 74.319
+
+#### سیالکوٹ (Sialkot)
+
+Code: PK63404, Postal: 48282, Coordinates: 32.595, 74.522
+
+### ٹوبہ ٹیک سنگھ (Toba Tek Singh)
+
+Code: PK635, Coordinates: 30.929, 72.537
+Tehsils: 4
+
+#### گوجرہ (Gojra)
+
+Code: PK63501, Postal: 36100, Coordinates: 31.145, 72.629
+
+#### کمالیہ (Kamalia)
+
+Code: PK63502, Postal: 36390, Coordinates: 30.664, 72.65
+
+#### پیر محل (Pir Mahal)
+
+Code: PK63504, Postal: 36300, Coordinates: 30.735, 72.448
+
+#### ٹوبہ ٹیک سنگھ (Toba Tek Singh)
+
+Code: PK63503, Postal: 43700, Coordinates: 30.942, 72.551
+
+### وہاڑی (Vehari)
+
+Code: PK636, Coordinates: 29.983, 72.319
+Tehsils: 3
+
+#### بورے والا (Burewala)
+
+Code: PK63601, Postal: 61040, Coordinates: 30.131, 72.759
+
+#### میلسی (Mailsi)
+
+Code: PK63602, Postal: 61210, Coordinates: 29.843, 72.129
+
+#### وہاڑی (Vehari)
+
+Code: PK63603, Postal: 61220, Coordinates: 30.013, 72.363
+

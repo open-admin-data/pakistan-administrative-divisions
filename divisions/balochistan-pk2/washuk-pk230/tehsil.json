@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK23002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Basima",
+      "en": "Basima",
+      "slug": "basima-pk23002"
+    },
+    "code": {
+      "id": "PK23002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK230",
+      "level": 2,
+      "name": {
+        "local": "ضلع واشک",
+        "en": "Washuk",
+        "slug": "washuk-pk230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK230",
+        "level": 2,
+        "name": {
+          "local": "ضلع واشک",
+          "en": "Washuk",
+          "slug": "washuk-pk230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93100"
+    ],
+    "geo": {
+      "lat": "27.984",
+      "lon": "65.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK23001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mashkhel",
+      "en": "Mashkhel",
+      "slug": "mashkhel-pk23001"
+    },
+    "code": {
+      "id": "PK23001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK230",
+      "level": 2,
+      "name": {
+        "local": "ضلع واشک",
+        "en": "Washuk",
+        "slug": "washuk-pk230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK230",
+        "level": 2,
+        "name": {
+          "local": "ضلع واشک",
+          "en": "Washuk",
+          "slug": "washuk-pk230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93000"
+    ],
+    "geo": {
+      "lat": "27.767",
+      "lon": "63.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK23004",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Nag",
+      "en": "Nag",
+      "slug": "nag-pk23004"
+    },
+    "code": {
+      "id": "PK23004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK230",
+      "level": 2,
+      "name": {
+        "local": "ضلع واشک",
+        "en": "Washuk",
+        "slug": "washuk-pk230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK230",
+        "level": 2,
+        "name": {
+          "local": "ضلع واشک",
+          "en": "Washuk",
+          "slug": "washuk-pk230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88430"
+    ],
+    "geo": {
+      "lat": "27.498",
+      "lon": "65.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK23005",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shaogari",
+      "en": "Shaogari",
+      "slug": "shaogari-pk23005"
+    },
+    "code": {
+      "id": "PK23005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK230",
+      "level": 2,
+      "name": {
+        "local": "ضلع واشک",
+        "en": "Washuk",
+        "slug": "washuk-pk230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK230",
+        "level": 2,
+        "name": {
+          "local": "ضلع واشک",
+          "en": "Washuk",
+          "slug": "washuk-pk230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95100"
+    ],
+    "geo": {
+      "lat": "28.345",
+      "lon": "64.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK23003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "واشک",
+      "en": "Washuk",
+      "slug": "washuk-pk23003"
+    },
+    "code": {
+      "id": "PK23003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK230",
+      "level": 2,
+      "name": {
+        "local": "ضلع واشک",
+        "en": "Washuk",
+        "slug": "washuk-pk230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK230",
+        "level": 2,
+        "name": {
+          "local": "ضلع واشک",
+          "en": "Washuk",
+          "slug": "washuk-pk230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94110"
+    ],
+    "geo": {
+      "lat": "27.667",
+      "lon": "64.378"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

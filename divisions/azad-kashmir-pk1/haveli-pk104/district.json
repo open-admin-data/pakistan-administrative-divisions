@@ -1,0 +1,49 @@
+{
+  "id": "PK104",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع حویلی",
+    "en": "Haveli",
+    "slug": "haveli-pk104"
+  },
+  "code": {
+    "id": "PK104",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "10080"
+  ],
+  "geo": {
+    "lat": "33.935",
+    "lon": "74.12"
+  },
+  "metadata": {},
+  "source": {}
+}

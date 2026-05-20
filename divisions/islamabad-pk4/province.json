@@ -1,0 +1,30 @@
+{
+  "id": "PK4",
+  "level": 1,
+  "level_name": {
+    "local": "صوبہ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "اسلام آباد",
+    "en": "Islamabad",
+    "slug": "islamabad-pk4"
+  },
+  "code": {
+    "id": "PK4",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1,
+    "tehsil": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.651",
+    "lon": "72.958"
+  },
+  "metadata": {},
+  "source": {}
+}

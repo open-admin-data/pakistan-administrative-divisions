@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK51404",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Darra Adam Khel",
+      "en": "Darra Adam Khel",
+      "slug": "darra-adam-khel-pk51404"
+    },
+    "code": {
+      "id": "PK51404",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK514",
+      "level": 2,
+      "name": {
+        "local": "کوہاٹ",
+        "en": "Kohat",
+        "slug": "kohat-pk514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK514",
+        "level": 2,
+        "name": {
+          "local": "کوہاٹ",
+          "en": "Kohat",
+          "slug": "kohat-pk514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26010"
+    ],
+    "geo": {
+      "lat": "33.653",
+      "lon": "71.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gumbat",
+      "en": "Gumbat",
+      "slug": "gumbat-pk51403"
+    },
+    "code": {
+      "id": "PK51403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK514",
+      "level": 2,
+      "name": {
+        "local": "کوہاٹ",
+        "en": "Kohat",
+        "slug": "kohat-pk514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK514",
+        "level": 2,
+        "name": {
+          "local": "کوہاٹ",
+          "en": "Kohat",
+          "slug": "kohat-pk514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26120"
+    ],
+    "geo": {
+      "lat": "33.561",
+      "lon": "71.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوہاٹ",
+      "en": "Kohat",
+      "slug": "kohat-pk51401"
+    },
+    "code": {
+      "id": "PK51401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK514",
+      "level": 2,
+      "name": {
+        "local": "کوہاٹ",
+        "en": "Kohat",
+        "slug": "kohat-pk514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK514",
+        "level": 2,
+        "name": {
+          "local": "کوہاٹ",
+          "en": "Kohat",
+          "slug": "kohat-pk514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26350"
+    ],
+    "geo": {
+      "lat": "33.567",
+      "lon": "71.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لاچی",
+      "en": "Lachi",
+      "slug": "lachi-pk51402"
+    },
+    "code": {
+      "id": "PK51402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK514",
+      "level": 2,
+      "name": {
+        "local": "کوہاٹ",
+        "en": "Kohat",
+        "slug": "kohat-pk514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK514",
+        "level": 2,
+        "name": {
+          "local": "کوہاٹ",
+          "en": "Kohat",
+          "slug": "kohat-pk514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42370"
+    ],
+    "geo": {
+      "lat": "33.284",
+      "lon": "71.576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

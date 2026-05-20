@@ -1,0 +1,562 @@
+[
+  {
+    "id": "PK52501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Data Khel",
+      "en": "Data Khel",
+      "slug": "data-khel-pk52501"
+    },
+    "code": {
+      "id": "PK52501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28210"
+    ],
+    "geo": {
+      "lat": "32.966",
+      "lon": "69.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dossali",
+      "en": "Dossali",
+      "slug": "dossali-pk52502"
+    },
+    "code": {
+      "id": "PK52502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28200"
+    ],
+    "geo": {
+      "lat": "32.836",
+      "lon": "70.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Garyum",
+      "en": "Garyum",
+      "slug": "garyum-pk52503"
+    },
+    "code": {
+      "id": "PK52503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28200"
+    ],
+    "geo": {
+      "lat": "32.76",
+      "lon": "70.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Ghulam Khan",
+      "en": "Ghulam Khan",
+      "slug": "ghulam-khan-pk52504"
+    },
+    "code": {
+      "id": "PK52504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28210"
+    ],
+    "geo": {
+      "lat": "33.123",
+      "lon": "70.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52505",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mir Ali",
+      "en": "Mir Ali",
+      "slug": "mir-ali-pk52505"
+    },
+    "code": {
+      "id": "PK52505",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28200"
+    ],
+    "geo": {
+      "lat": "32.972",
+      "lon": "70.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52506",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میرانشاہ",
+      "en": "Miran Shah",
+      "slug": "miran-shah-pk52506"
+    },
+    "code": {
+      "id": "PK52506",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28200"
+    ],
+    "geo": {
+      "lat": "32.998",
+      "lon": "70.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52507",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Razmak",
+      "en": "Razmak",
+      "slug": "razmak-pk52507"
+    },
+    "code": {
+      "id": "PK52507",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28270"
+    ],
+    "geo": {
+      "lat": "32.731",
+      "lon": "69.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52510",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shawal",
+      "en": "Shawal",
+      "slug": "shawal-pk52510"
+    },
+    "code": {
+      "id": "PK52510",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29460"
+    ],
+    "geo": {
+      "lat": "32.7",
+      "lon": "69.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52508",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shewa",
+      "en": "Shewa",
+      "slug": "shewa-pk52508"
+    },
+    "code": {
+      "id": "PK52508",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29340"
+    ],
+    "geo": {
+      "lat": "33.253",
+      "lon": "70.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52509",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Spinwam",
+      "en": "Spinwam",
+      "slug": "spinwam-pk52509"
+    },
+    "code": {
+      "id": "PK52509",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK525",
+      "level": 2,
+      "name": {
+        "local": "شمالی وزیرستان",
+        "en": "North Waziristan",
+        "slug": "north-waziristan-pk525"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK525",
+        "level": 2,
+        "name": {
+          "local": "شمالی وزیرستان",
+          "en": "North Waziristan",
+          "slug": "north-waziristan-pk525"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28170"
+    ],
+    "geo": {
+      "lat": "33.164",
+      "lon": "70.305"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

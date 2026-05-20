@@ -1,0 +1,49 @@
+{
+  "id": "PK211",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع کیچ",
+    "en": "Kech",
+    "slug": "kech-pk211"
+  },
+  "code": {
+    "id": "PK211",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "92500"
+  ],
+  "geo": {
+    "lat": "26.008",
+    "lon": "63.092"
+  },
+  "metadata": {},
+  "source": {}
+}

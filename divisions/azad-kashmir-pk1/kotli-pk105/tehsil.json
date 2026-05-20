@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK10501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چڑھوئی",
+      "en": "Charhoi",
+      "slug": "charhoi-pk10501"
+    },
+    "code": {
+      "id": "PK10501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK105",
+      "level": 2,
+      "name": {
+        "local": "کوٹلی",
+        "en": "Kotli",
+        "slug": "kotli-pk105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK105",
+        "level": 2,
+        "name": {
+          "local": "کوٹلی",
+          "en": "Kotli",
+          "slug": "kotli-pk105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11032"
+    ],
+    "geo": {
+      "lat": "33.35",
+      "lon": "73.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dulliya Jattan",
+      "en": "Dulliya Jattan",
+      "slug": "dulliya-jattan-pk10502"
+    },
+    "code": {
+      "id": "PK10502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK105",
+      "level": 2,
+      "name": {
+        "local": "کوٹلی",
+        "en": "Kotli",
+        "slug": "kotli-pk105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK105",
+        "level": 2,
+        "name": {
+          "local": "کوٹلی",
+          "en": "Kotli",
+          "slug": "kotli-pk105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12630"
+    ],
+    "geo": {
+      "lat": "33.316",
+      "lon": "73.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Fatehpur Thakiala",
+      "en": "Fatehpur Thakiala",
+      "slug": "fatehpur-thakiala-pk10503"
+    },
+    "code": {
+      "id": "PK10503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK105",
+      "level": 2,
+      "name": {
+        "local": "کوٹلی",
+        "en": "Kotli",
+        "slug": "kotli-pk105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK105",
+        "level": 2,
+        "name": {
+          "local": "کوٹلی",
+          "en": "Kotli",
+          "slug": "kotli-pk105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12440"
+    ],
+    "geo": {
+      "lat": "33.482",
+      "lon": "74.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khui Ratta",
+      "en": "Khui Ratta",
+      "slug": "khui-ratta-pk10504"
+    },
+    "code": {
+      "id": "PK10504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK105",
+      "level": 2,
+      "name": {
+        "local": "کوٹلی",
+        "en": "Kotli",
+        "slug": "kotli-pk105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK105",
+        "level": 2,
+        "name": {
+          "local": "کوٹلی",
+          "en": "Kotli",
+          "slug": "kotli-pk105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11250"
+    ],
+    "geo": {
+      "lat": "33.347",
+      "lon": "74.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10505",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوٹلی",
+      "en": "Kotli",
+      "slug": "kotli-pk10505"
+    },
+    "code": {
+      "id": "PK10505",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK105",
+      "level": 2,
+      "name": {
+        "local": "کوٹلی",
+        "en": "Kotli",
+        "slug": "kotli-pk105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK105",
+        "level": 2,
+        "name": {
+          "local": "کوٹلی",
+          "en": "Kotli",
+          "slug": "kotli-pk105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11100"
+    ],
+    "geo": {
+      "lat": "33.502",
+      "lon": "73.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10506",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سیہنسا",
+      "en": "Sehnsa",
+      "slug": "sehnsa-pk10506"
+    },
+    "code": {
+      "id": "PK10506",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK105",
+      "level": 2,
+      "name": {
+        "local": "کوٹلی",
+        "en": "Kotli",
+        "slug": "kotli-pk105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK105",
+        "level": 2,
+        "name": {
+          "local": "کوٹلی",
+          "en": "Kotli",
+          "slug": "kotli-pk105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11014"
+    ],
+    "geo": {
+      "lat": "33.545",
+      "lon": "73.701"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK10601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈڈیال",
+      "en": "Dadyal",
+      "slug": "dadyal-pk10601"
+    },
+    "code": {
+      "id": "PK10601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK106",
+      "level": 2,
+      "name": {
+        "local": "ضلع میر پور",
+        "en": "Mirpur",
+        "slug": "mirpur-pk106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK106",
+        "level": 2,
+        "name": {
+          "local": "ضلع میر پور",
+          "en": "Mirpur",
+          "slug": "mirpur-pk106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10310"
+    ],
+    "geo": {
+      "lat": "33.35",
+      "lon": "73.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ناحیه میرپور",
+      "en": "Mirpur",
+      "slug": "mirpur-pk10602"
+    },
+    "code": {
+      "id": "PK10602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK106",
+      "level": 2,
+      "name": {
+        "local": "ضلع میر پور",
+        "en": "Mirpur",
+        "slug": "mirpur-pk106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK106",
+        "level": 2,
+        "name": {
+          "local": "ضلع میر پور",
+          "en": "Mirpur",
+          "slug": "mirpur-pk106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10350"
+    ],
+    "geo": {
+      "lat": "33.18",
+      "lon": "73.793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

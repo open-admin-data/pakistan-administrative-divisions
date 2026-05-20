@@ -1,0 +1,30 @@
+{
+  "id": "PK6",
+  "level": 1,
+  "level_name": {
+    "local": "صوبہ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "پنجاب",
+    "en": "Punjab",
+    "slug": "punjab-pk6"
+  },
+  "code": {
+    "id": "PK6",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 36,
+    "tehsil": 139
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.862",
+    "lon": "72.32"
+  },
+  "metadata": {},
+  "source": {}
+}

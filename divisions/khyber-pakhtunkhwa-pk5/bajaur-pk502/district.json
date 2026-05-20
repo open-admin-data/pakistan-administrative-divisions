@@ -1,0 +1,49 @@
+{
+  "id": "PK502",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع باجوڑ",
+    "en": "Bajaur",
+    "slug": "bajaur-pk502"
+  },
+  "code": {
+    "id": "PK502",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 7
+  },
+  "zip_codes": [
+    "21100"
+  ],
+  "geo": {
+    "lat": "34.746",
+    "lon": "71.486"
+  },
+  "metadata": {},
+  "source": {}
+}

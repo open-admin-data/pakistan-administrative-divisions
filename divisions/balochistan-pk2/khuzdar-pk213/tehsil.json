@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK21301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خضدار",
+      "en": "Khuzdar",
+      "slug": "khuzdar-pk21301"
+    },
+    "code": {
+      "id": "PK21301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK213",
+      "level": 2,
+      "name": {
+        "local": "خضدار",
+        "en": "Khuzdar",
+        "slug": "khuzdar-pk213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK213",
+        "level": 2,
+        "name": {
+          "local": "خضدار",
+          "en": "Khuzdar",
+          "slug": "khuzdar-pk213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88240"
+    ],
+    "geo": {
+      "lat": "27.633",
+      "lon": "66.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mola",
+      "en": "Mola",
+      "slug": "mola-pk21302"
+    },
+    "code": {
+      "id": "PK21302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK213",
+      "level": 2,
+      "name": {
+        "local": "خضدار",
+        "en": "Khuzdar",
+        "slug": "khuzdar-pk213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK213",
+        "level": 2,
+        "name": {
+          "local": "خضدار",
+          "en": "Khuzdar",
+          "slug": "khuzdar-pk213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "89350"
+    ],
+    "geo": {
+      "lat": "28.019",
+      "lon": "67.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Naal",
+      "en": "Naal",
+      "slug": "naal-pk21303"
+    },
+    "code": {
+      "id": "PK21303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK213",
+      "level": 2,
+      "name": {
+        "local": "خضدار",
+        "en": "Khuzdar",
+        "slug": "khuzdar-pk213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK213",
+        "level": 2,
+        "name": {
+          "local": "خضدار",
+          "en": "Khuzdar",
+          "slug": "khuzdar-pk213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "89200"
+    ],
+    "geo": {
+      "lat": "27.106",
+      "lon": "66.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "وڈھ",
+      "en": "Wadh",
+      "slug": "wadh-pk21304"
+    },
+    "code": {
+      "id": "PK21304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK213",
+      "level": 2,
+      "name": {
+        "local": "خضدار",
+        "en": "Khuzdar",
+        "slug": "khuzdar-pk213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK213",
+        "level": 2,
+        "name": {
+          "local": "خضدار",
+          "en": "Khuzdar",
+          "slug": "khuzdar-pk213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57450"
+    ],
+    "geo": {
+      "lat": "26.648",
+      "lon": "66.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21305",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Zehri",
+      "en": "Zehri",
+      "slug": "zehri-pk21305"
+    },
+    "code": {
+      "id": "PK21305",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK213",
+      "level": 2,
+      "name": {
+        "local": "خضدار",
+        "en": "Khuzdar",
+        "slug": "khuzdar-pk213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK213",
+        "level": 2,
+        "name": {
+          "local": "خضدار",
+          "en": "Khuzdar",
+          "slug": "khuzdar-pk213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80000"
+    ],
+    "geo": {
+      "lat": "28.583",
+      "lon": "66.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

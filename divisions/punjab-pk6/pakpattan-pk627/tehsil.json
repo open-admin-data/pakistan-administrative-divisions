@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK62701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Arif Wala",
+      "en": "Arif Wala",
+      "slug": "arif-wala-pk62701"
+    },
+    "code": {
+      "id": "PK62701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK627",
+      "level": 2,
+      "name": {
+        "local": "پاکپتن",
+        "en": "Pakpattan",
+        "slug": "pakpattan-pk627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK627",
+        "level": 2,
+        "name": {
+          "local": "پاکپتن",
+          "en": "Pakpattan",
+          "slug": "pakpattan-pk627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57480"
+    ],
+    "geo": {
+      "lat": "30.224",
+      "lon": "73.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پاکپتن",
+      "en": "Pakpattan",
+      "slug": "pakpattan-pk62702"
+    },
+    "code": {
+      "id": "PK62702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK627",
+      "level": 2,
+      "name": {
+        "local": "پاکپتن",
+        "en": "Pakpattan",
+        "slug": "pakpattan-pk627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK627",
+        "level": 2,
+        "name": {
+          "local": "پاکپتن",
+          "en": "Pakpattan",
+          "slug": "pakpattan-pk627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57440"
+    ],
+    "geo": {
+      "lat": "30.343",
+      "lon": "73.445"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

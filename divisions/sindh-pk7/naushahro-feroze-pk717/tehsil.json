@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK71701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بهیریا",
+      "en": "Bhiria",
+      "slug": "bhiria-pk71701"
+    },
+    "code": {
+      "id": "PK71701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK717",
+      "level": 2,
+      "name": {
+        "local": "نوشہرو فیروز",
+        "en": "Naushahro Feroze",
+        "slug": "naushahro-feroze-pk717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK717",
+        "level": 2,
+        "name": {
+          "local": "نوشہرو فیروز",
+          "en": "Naushahro Feroze",
+          "slug": "naushahro-feroze-pk717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67310"
+    ],
+    "geo": {
+      "lat": "26.891",
+      "lon": "68.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کنڈیارو",
+      "en": "Kandiaro",
+      "slug": "kandiaro-pk71702"
+    },
+    "code": {
+      "id": "PK71702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK717",
+      "level": 2,
+      "name": {
+        "local": "نوشہرو فیروز",
+        "en": "Naushahro Feroze",
+        "slug": "naushahro-feroze-pk717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK717",
+        "level": 2,
+        "name": {
+          "local": "نوشہرو فیروز",
+          "en": "Naushahro Feroze",
+          "slug": "naushahro-feroze-pk717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67070"
+    ],
+    "geo": {
+      "lat": "27.073",
+      "lon": "68.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mehrab Pur",
+      "en": "Mehrab Pur",
+      "slug": "mehrab-pur-pk71703"
+    },
+    "code": {
+      "id": "PK71703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK717",
+      "level": 2,
+      "name": {
+        "local": "نوشہرو فیروز",
+        "en": "Naushahro Feroze",
+        "slug": "naushahro-feroze-pk717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK717",
+        "level": 2,
+        "name": {
+          "local": "نوشہرو فیروز",
+          "en": "Naushahro Feroze",
+          "slug": "naushahro-feroze-pk717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "27.051",
+      "lon": "68.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71704",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مورو",
+      "en": "Moro",
+      "slug": "moro-pk71704"
+    },
+    "code": {
+      "id": "PK71704",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK717",
+      "level": 2,
+      "name": {
+        "local": "نوشہرو فیروز",
+        "en": "Naushahro Feroze",
+        "slug": "naushahro-feroze-pk717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK717",
+        "level": 2,
+        "name": {
+          "local": "نوشہرو فیروز",
+          "en": "Naushahro Feroze",
+          "slug": "naushahro-feroze-pk717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67110"
+    ],
+    "geo": {
+      "lat": "26.721",
+      "lon": "67.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71705",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نوشہرو فیروز",
+      "en": "Naushahro Feroze",
+      "slug": "naushahro-feroze-pk71705"
+    },
+    "code": {
+      "id": "PK71705",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK717",
+      "level": 2,
+      "name": {
+        "local": "نوشہرو فیروز",
+        "en": "Naushahro Feroze",
+        "slug": "naushahro-feroze-pk717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK717",
+        "level": 2,
+        "name": {
+          "local": "نوشہرو فیروز",
+          "en": "Naushahro Feroze",
+          "slug": "naushahro-feroze-pk717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67390"
+    ],
+    "geo": {
+      "lat": "26.766",
+      "lon": "68.16"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

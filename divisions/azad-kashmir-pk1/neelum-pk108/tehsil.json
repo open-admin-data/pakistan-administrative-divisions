@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK10801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اٹھمقام",
+      "en": "Athmuqam",
+      "slug": "athmuqam-pk10801"
+    },
+    "code": {
+      "id": "PK10801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK108",
+      "level": 2,
+      "name": {
+        "local": "ضلع نیلم",
+        "en": "Neelum",
+        "slug": "neelum-pk108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK108",
+        "level": 2,
+        "name": {
+          "local": "ضلع نیلم",
+          "en": "Neelum",
+          "slug": "neelum-pk108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13200"
+    ],
+    "geo": {
+      "lat": "34.654",
+      "lon": "73.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شاردہ",
+      "en": "Sharda",
+      "slug": "sharda-pk10802"
+    },
+    "code": {
+      "id": "PK10802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK108",
+      "level": 2,
+      "name": {
+        "local": "ضلع نیلم",
+        "en": "Neelum",
+        "slug": "neelum-pk108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK108",
+        "level": 2,
+        "name": {
+          "local": "ضلع نیلم",
+          "en": "Neelum",
+          "slug": "neelum-pk108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13234"
+    ],
+    "geo": {
+      "lat": "34.906",
+      "lon": "74.31"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

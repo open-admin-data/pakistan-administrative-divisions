@@ -1,0 +1,49 @@
+{
+  "id": "PK501",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ایبٹ آباد",
+    "en": "Abbottabad",
+    "slug": "abbottabad-pk501"
+  },
+  "code": {
+    "id": "PK501",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "22200"
+  ],
+  "geo": {
+    "lat": "34.095",
+    "lon": "73.291"
+  },
+  "metadata": {},
+  "source": {}
+}

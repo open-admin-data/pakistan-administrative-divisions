@@ -1,0 +1,49 @@
+{
+  "id": "PK109",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع پونچھ",
+    "en": "Poonch",
+    "slug": "poonch-pk109"
+  },
+  "code": {
+    "id": "PK109",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "12170"
+  ],
+  "geo": {
+    "lat": "33.786",
+    "lon": "73.897"
+  },
+  "metadata": {},
+  "source": {}
+}

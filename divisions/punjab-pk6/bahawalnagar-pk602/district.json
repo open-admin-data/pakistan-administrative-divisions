@@ -1,0 +1,49 @@
+{
+  "id": "PK602",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع بہاولنگر",
+    "en": "Bahawalnagar",
+    "slug": "bahawalnagar-pk602"
+  },
+  "code": {
+    "id": "PK602",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "33600"
+  ],
+  "geo": {
+    "lat": "29.577",
+    "lon": "72.997"
+  },
+  "metadata": {},
+  "source": {}
+}

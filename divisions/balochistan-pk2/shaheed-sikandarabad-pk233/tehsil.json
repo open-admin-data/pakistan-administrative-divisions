@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK23301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سوراب",
+      "en": "Surab",
+      "slug": "surab-pk23301"
+    },
+    "code": {
+      "id": "PK23301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK233",
+      "level": 2,
+      "name": {
+        "local": "ضلع شہید سکندر آباد",
+        "en": "Shaheed Sikandarabad",
+        "slug": "shaheed-sikandarabad-pk233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK233",
+        "level": 2,
+        "name": {
+          "local": "ضلع شہید سکندر آباد",
+          "en": "Shaheed Sikandarabad",
+          "slug": "shaheed-sikandarabad-pk233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86200"
+    ],
+    "geo": {
+      "lat": "28.327",
+      "lon": "66.18"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

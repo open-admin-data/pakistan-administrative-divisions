@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK72801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کنری",
+      "en": "Kunri",
+      "slug": "kunri-pk72801"
+    },
+    "code": {
+      "id": "PK72801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK728",
+      "level": 2,
+      "name": {
+        "local": "عمرکوٹ",
+        "en": "Umerkot",
+        "slug": "umerkot-pk728"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK728",
+        "level": 2,
+        "name": {
+          "local": "عمرکوٹ",
+          "en": "Umerkot",
+          "slug": "umerkot-pk728"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69210"
+    ],
+    "geo": {
+      "lat": "25.052",
+      "lon": "69.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پتھورو",
+      "en": "Pithoro",
+      "slug": "pithoro-pk72802"
+    },
+    "code": {
+      "id": "PK72802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK728",
+      "level": 2,
+      "name": {
+        "local": "عمرکوٹ",
+        "en": "Umerkot",
+        "slug": "umerkot-pk728"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK728",
+        "level": 2,
+        "name": {
+          "local": "عمرکوٹ",
+          "en": "Umerkot",
+          "slug": "umerkot-pk728"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69350"
+    ],
+    "geo": {
+      "lat": "25.488",
+      "lon": "69.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سامارو",
+      "en": "Samaro",
+      "slug": "samaro-pk72803"
+    },
+    "code": {
+      "id": "PK72803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK728",
+      "level": 2,
+      "name": {
+        "local": "عمرکوٹ",
+        "en": "Umerkot",
+        "slug": "umerkot-pk728"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK728",
+        "level": 2,
+        "name": {
+          "local": "عمرکوٹ",
+          "en": "Umerkot",
+          "slug": "umerkot-pk728"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69350"
+    ],
+    "geo": {
+      "lat": "25.299",
+      "lon": "69.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72804",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Umer Kot",
+      "en": "Umer Kot",
+      "slug": "umer-kot-pk72804"
+    },
+    "code": {
+      "id": "PK72804",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK728",
+      "level": 2,
+      "name": {
+        "local": "عمرکوٹ",
+        "en": "Umerkot",
+        "slug": "umerkot-pk728"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK728",
+        "level": 2,
+        "name": {
+          "local": "عمرکوٹ",
+          "en": "Umerkot",
+          "slug": "umerkot-pk728"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69090"
+    ],
+    "geo": {
+      "lat": "25.464",
+      "lon": "69.884"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

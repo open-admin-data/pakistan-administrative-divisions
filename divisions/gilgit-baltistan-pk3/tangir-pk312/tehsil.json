@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK31201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹانگی",
+      "en": "Tangir",
+      "slug": "tangir-pk31201"
+    },
+    "code": {
+      "id": "PK31201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK312",
+      "level": 2,
+      "name": {
+        "local": "ضلع تانگیر",
+        "en": "Tangir",
+        "slug": "tangir-pk312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK312",
+        "level": 2,
+        "name": {
+          "local": "ضلع تانگیر",
+          "en": "Tangir",
+          "slug": "tangir-pk312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26014"
+    ],
+    "geo": {
+      "lat": "35.745",
+      "lon": "73.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

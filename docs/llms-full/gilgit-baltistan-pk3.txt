@@ -1,0 +1,175 @@
+# Gilgit Baltistan — Pakistan Administrative Divisions
+
+> 14 districts, 24 tehsils
+> Code: PK3
+> Coordinates: 35.803, 74.845
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Districts
+
+### ضلع استور (Astore)
+
+Code: PK301, Coordinates: 35.248, 74.884
+Tehsils: 2
+
+#### استور (Astore)
+
+Code: PK30101, Postal: 14200, Coordinates: 35.548, 74.773
+
+#### Shounter
+
+Code: PK30102, Postal: 15550, Coordinates: 34.997, 74.898
+
+### ضلع داریل (Darel)
+
+Code: PK311, Coordinates: 35.699, 73.829
+Tehsils: 1
+
+#### Darel
+
+Code: PK31101, Postal: 15160, Coordinates: 35.699, 73.829
+
+### دیامر (Diamir)
+
+Code: PK302, Coordinates: 35.38, 74.213
+Tehsils: 1
+
+#### چلاس (Chilas)
+
+Code: PK30201, Postal: 14200, Coordinates: 35.38, 74.213
+
+### ضلع گانچھے (Ghanche)
+
+Code: PK303, Coordinates: 35.221, 76.66
+Tehsils: 3
+
+#### Daghoni
+
+Code: PK30301, Postal: 16700, Coordinates: 35.325, 76.127
+
+#### کھپلو (Khaplu)
+
+Code: PK30302, Postal: 16920, Coordinates: 35.004, 76.682
+
+#### Mashabbrum
+
+Code: PK30303, Postal: 16920, Coordinates: 35.32, 76.92
+
+### ضلع غذر (2019ء سے) (Ghizer)
+
+Code: PK304, Coordinates: 36.377, 73.887
+Tehsils: 2
+
+#### Ishkoman
+
+Code: PK30401, Postal: 15160, Coordinates: 36.57, 73.872
+
+#### Punial
+
+Code: PK30402, Postal: 15160, Coordinates: 36.104, 73.874
+
+### گلگت (Gilgit)
+
+Code: PK305, Coordinates: 35.967, 74.509
+Tehsils: 1
+
+#### گلگت (Gilgit)
+
+Code: PK30501, Postal: 15150, Coordinates: 35.967, 74.509
+
+### ضلع گوپیس یاسین (Gupis-Yasin)
+
+Code: PK313, Coordinates: 36.285, 73.205
+Tehsils: 3
+
+#### Gupis
+
+Code: PK31301, Postal: 15300, Coordinates: 36.144, 73.349
+
+#### Phandar
+
+Code: PK31302, Postal: 15350, Coordinates: 36.166, 72.805
+
+#### Yasin
+
+Code: PK31303, Postal: 15310, Coordinates: 36.501, 73.308
+
+### ہنزہ (Hunza)
+
+Code: PK306, Coordinates: 36.551, 75.205
+Tehsils: 2
+
+#### علی آباد (Ali Abad)
+
+Code: PK30601, Postal: 15700, Coordinates: 36.38, 74.682
+
+#### Gojal
+
+Code: PK30602, Postal: 15900, Coordinates: 36.551, 75.205
+
+### ضلع کھرمنگ (Kharmang)
+
+Code: PK309, Coordinates: 34.837, 75.804
+Tehsils: 2
+
+#### Gultari
+
+Code: PK30901, Postal: 16200, Coordinates: 34.806, 75.527
+
+#### کھرمنگ (Kharmang)
+
+Code: PK30902, Postal: 16500, Coordinates: 34.898, 76.098
+
+### ضلع نگر (Nagar)
+
+Code: PK308, Coordinates: 36.298, 74.842
+Tehsils: 2
+
+#### نگر (Nagar)
+
+Code: PK30801, Postal: 15650, Coordinates: 36.165, 74.909
+
+#### Sikandar Abad
+
+Code: PK30802, Postal: 15500, Coordinates: 36.333, 74.263
+
+### رونڈو (Rondu)
+
+Code: PK314, Coordinates: 35.587, 75.158
+Tehsils: 1
+
+#### Rondu
+
+Code: PK31401, Postal: 16400, Coordinates: 35.587, 75.158
+
+### ضلع شگر (Shigar)
+
+Code: PK310, Coordinates: 35.736, 75.922
+Tehsils: 1
+
+#### شگر (Shigar)
+
+Code: PK31001, Postal: 16300, Coordinates: 35.736, 75.922
+
+### سکردو (Skardu)
+
+Code: PK307, Coordinates: 35.257, 75.521
+Tehsils: 2
+
+#### گمبٹ (Gamba)
+
+Code: PK30701, Postal: 16150, Coordinates: 35.248, 75.334
+
+#### سکردو (Skardu)
+
+Code: PK30702, Postal: 16110, Coordinates: 35.278, 75.665
+
+### ضلع تانگیر (Tangir)
+
+Code: PK312, Coordinates: 35.745, 73.316
+Tehsils: 1
+
+#### ٹانگی (Tangir)
+
+Code: PK31201, Postal: 26014, Coordinates: 35.745, 73.316
+

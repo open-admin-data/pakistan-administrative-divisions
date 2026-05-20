@@ -1,0 +1,49 @@
+{
+  "id": "PK525",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "شمالی وزیرستان",
+    "en": "North Waziristan",
+    "slug": "north-waziristan-pk525"
+  },
+  "code": {
+    "id": "PK525",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 10
+  },
+  "zip_codes": [
+    "28210"
+  ],
+  "geo": {
+    "lat": "32.957",
+    "lon": "69.943"
+  },
+  "metadata": {},
+  "source": {}
+}

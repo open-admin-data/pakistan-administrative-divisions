@@ -1,0 +1,49 @@
+{
+  "id": "PK526",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "نوشہرہ",
+    "en": "Nowshera",
+    "slug": "nowshera-pk526"
+  },
+  "code": {
+    "id": "PK526",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "24540"
+  ],
+  "geo": {
+    "lat": "33.917",
+    "lon": "72.003"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PK715",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع مٹیاری",
+    "en": "Matiari",
+    "slug": "matiari-pk715"
+  },
+  "code": {
+    "id": "PK715",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "70130"
+  ],
+  "geo": {
+    "lat": "25.771",
+    "lon": "68.422"
+  },
+  "metadata": {},
+  "source": {}
+}

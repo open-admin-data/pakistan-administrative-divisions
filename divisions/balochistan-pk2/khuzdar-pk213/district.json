@@ -1,0 +1,49 @@
+{
+  "id": "PK213",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "خضدار",
+    "en": "Khuzdar",
+    "slug": "khuzdar-pk213"
+  },
+  "code": {
+    "id": "PK213",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "89200"
+  ],
+  "geo": {
+    "lat": "27.294",
+    "lon": "66.481"
+  },
+  "metadata": {},
+  "source": {}
+}

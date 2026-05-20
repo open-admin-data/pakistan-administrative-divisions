@@ -1,0 +1,49 @@
+{
+  "id": "PK611",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "حافظ آباد",
+    "en": "Hafizabad",
+    "slug": "hafizabad-pk611"
+  },
+  "code": {
+    "id": "PK611",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "12200"
+  ],
+  "geo": {
+    "lat": "32.051",
+    "lon": "73.543"
+  },
+  "metadata": {},
+  "source": {}
+}

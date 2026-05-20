@@ -1,0 +1,394 @@
+[
+  {
+    "id": "PK63001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گوجر خان",
+      "en": "Gujar Khan",
+      "slug": "gujar-khan-pk63001"
+    },
+    "code": {
+      "id": "PK63001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK630",
+      "level": 2,
+      "name": {
+        "local": "راولپنڈی",
+        "en": "Rawalpindi",
+        "slug": "rawalpindi-pk630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK630",
+        "level": 2,
+        "name": {
+          "local": "راولپنڈی",
+          "en": "Rawalpindi",
+          "slug": "rawalpindi-pk630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47510"
+    ],
+    "geo": {
+      "lat": "33.249",
+      "lon": "73.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کہوٹہ",
+      "en": "Kahuta",
+      "slug": "kahuta-pk63002"
+    },
+    "code": {
+      "id": "PK63002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK630",
+      "level": 2,
+      "name": {
+        "local": "راولپنڈی",
+        "en": "Rawalpindi",
+        "slug": "rawalpindi-pk630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK630",
+        "level": 2,
+        "name": {
+          "local": "راولپنڈی",
+          "en": "Rawalpindi",
+          "slug": "rawalpindi-pk630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47340"
+    ],
+    "geo": {
+      "lat": "33.607",
+      "lon": "73.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kallar Sayaddan",
+      "en": "Kallar Sayaddan",
+      "slug": "kallar-sayaddan-pk63003"
+    },
+    "code": {
+      "id": "PK63003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK630",
+      "level": 2,
+      "name": {
+        "local": "راولپنڈی",
+        "en": "Rawalpindi",
+        "slug": "rawalpindi-pk630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK630",
+        "level": 2,
+        "name": {
+          "local": "راولپنڈی",
+          "en": "Rawalpindi",
+          "slug": "rawalpindi-pk630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47450"
+    ],
+    "geo": {
+      "lat": "33.438",
+      "lon": "73.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63004",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kotli Sattian",
+      "en": "Kotli Sattian",
+      "slug": "kotli-sattian-pk63004"
+    },
+    "code": {
+      "id": "PK63004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK630",
+      "level": 2,
+      "name": {
+        "local": "راولپنڈی",
+        "en": "Rawalpindi",
+        "slug": "rawalpindi-pk630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK630",
+        "level": 2,
+        "name": {
+          "local": "راولپنڈی",
+          "en": "Rawalpindi",
+          "slug": "rawalpindi-pk630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47260"
+    ],
+    "geo": {
+      "lat": "33.816",
+      "lon": "73.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63005",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مری",
+      "en": "Murree",
+      "slug": "murree-pk63005"
+    },
+    "code": {
+      "id": "PK63005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK630",
+      "level": 2,
+      "name": {
+        "local": "راولپنڈی",
+        "en": "Rawalpindi",
+        "slug": "rawalpindi-pk630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK630",
+        "level": 2,
+        "name": {
+          "local": "راولپنڈی",
+          "en": "Rawalpindi",
+          "slug": "rawalpindi-pk630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47214"
+    ],
+    "geo": {
+      "lat": "33.871",
+      "lon": "73.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63006",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "راولپنڈی",
+      "en": "Rawalpindi",
+      "slug": "rawalpindi-pk63006"
+    },
+    "code": {
+      "id": "PK63006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK630",
+      "level": 2,
+      "name": {
+        "local": "راولپنڈی",
+        "en": "Rawalpindi",
+        "slug": "rawalpindi-pk630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK630",
+        "level": 2,
+        "name": {
+          "local": "راولپنڈی",
+          "en": "Rawalpindi",
+          "slug": "rawalpindi-pk630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47296"
+    ],
+    "geo": {
+      "lat": "33.405",
+      "lon": "72.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63007",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹیکسلا",
+      "en": "Taxila",
+      "slug": "taxila-pk63007"
+    },
+    "code": {
+      "id": "PK63007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK630",
+      "level": 2,
+      "name": {
+        "local": "راولپنڈی",
+        "en": "Rawalpindi",
+        "slug": "rawalpindi-pk630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK630",
+        "level": 2,
+        "name": {
+          "local": "راولپنڈی",
+          "en": "Rawalpindi",
+          "slug": "rawalpindi-pk630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47080"
+    ],
+    "geo": {
+      "lat": "33.731",
+      "lon": "72.824"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

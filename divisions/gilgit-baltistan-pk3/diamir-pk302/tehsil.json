@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK30201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چلاس",
+      "en": "Chilas",
+      "slug": "chilas-pk30201"
+    },
+    "code": {
+      "id": "PK30201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK302",
+      "level": 2,
+      "name": {
+        "local": "دیامر",
+        "en": "Diamir",
+        "slug": "diamir-pk302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK302",
+        "level": 2,
+        "name": {
+          "local": "دیامر",
+          "en": "Diamir",
+          "slug": "diamir-pk302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14200"
+    ],
+    "geo": {
+      "lat": "35.38",
+      "lon": "74.213"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

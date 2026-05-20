@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK30801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نگر",
+      "en": "Nagar",
+      "slug": "nagar-pk30801"
+    },
+    "code": {
+      "id": "PK30801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK308",
+      "level": 2,
+      "name": {
+        "local": "ضلع نگر",
+        "en": "Nagar",
+        "slug": "nagar-pk308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK308",
+        "level": 2,
+        "name": {
+          "local": "ضلع نگر",
+          "en": "Nagar",
+          "slug": "nagar-pk308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15650"
+    ],
+    "geo": {
+      "lat": "36.165",
+      "lon": "74.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sikandar Abad",
+      "en": "Sikandar Abad",
+      "slug": "sikandar-abad-pk30802"
+    },
+    "code": {
+      "id": "PK30802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK308",
+      "level": 2,
+      "name": {
+        "local": "ضلع نگر",
+        "en": "Nagar",
+        "slug": "nagar-pk308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK308",
+        "level": 2,
+        "name": {
+          "local": "ضلع نگر",
+          "en": "Nagar",
+          "slug": "nagar-pk308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15500"
+    ],
+    "geo": {
+      "lat": "36.333",
+      "lon": "74.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

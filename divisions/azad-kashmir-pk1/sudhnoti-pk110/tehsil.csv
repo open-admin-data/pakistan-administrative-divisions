@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+PK11001,Baluch,Baluch,baluch-pk11001,PK11001,12120,33.669,73.848
+PK11002,Mong,Mong,mong-pk11002,PK11002,12300,33.787,73.623
+PK11003,پلندری,Pallandari,pallandari-pk11003,PK11003,12030,33.686,73.673
+PK11004,Tarar Khal,Tarar Khal,tarar-khal-pk11004,PK11004,12080,33.741,73.779

@@ -1,0 +1,49 @@
+{
+  "id": "PK225",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "پشین",
+    "en": "Pishin",
+    "slug": "pishin-pk225"
+  },
+  "code": {
+    "id": "PK225",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "86000"
+  ],
+  "geo": {
+    "lat": "30.703",
+    "lon": "67.131"
+  },
+  "metadata": {},
+  "source": {}
+}

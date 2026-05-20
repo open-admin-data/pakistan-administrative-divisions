@@ -1,0 +1,49 @@
+{
+  "id": "PK530",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "جنوبی وزیرستان",
+    "en": "South Waziristan",
+    "slug": "south-waziristan-pk530"
+  },
+  "code": {
+    "id": "PK530",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 8
+  },
+  "zip_codes": [
+    "29540"
+  ],
+  "geo": {
+    "lat": "32.291",
+    "lon": "69.678"
+  },
+  "metadata": {},
+  "source": {}
+}

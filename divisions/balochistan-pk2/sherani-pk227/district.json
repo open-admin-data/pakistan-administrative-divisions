@@ -1,0 +1,49 @@
+{
+  "id": "PK227",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع شیرانی",
+    "en": "Sherani",
+    "slug": "sherani-pk227"
+  },
+  "code": {
+    "id": "PK227",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "87750"
+  ],
+  "geo": {
+    "lat": "31.681",
+    "lon": "69.764"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PK230",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع واشک",
+    "en": "Washuk",
+    "slug": "washuk-pk230"
+  },
+  "code": {
+    "id": "PK230",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "94110"
+  ],
+  "geo": {
+    "lat": "27.792",
+    "lon": "64.308"
+  },
+  "metadata": {},
+  "source": {}
+}

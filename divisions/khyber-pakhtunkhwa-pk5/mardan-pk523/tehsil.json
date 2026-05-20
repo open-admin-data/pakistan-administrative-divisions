@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK52305",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Garhi Kapura",
+      "en": "Garhi Kapura",
+      "slug": "garhi-kapura-pk52305"
+    },
+    "code": {
+      "id": "PK52305",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK523",
+      "level": 2,
+      "name": {
+        "local": "مردان",
+        "en": "Mardan",
+        "slug": "mardan-pk523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK523",
+        "level": 2,
+        "name": {
+          "local": "مردان",
+          "en": "Mardan",
+          "slug": "mardan-pk523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23310"
+    ],
+    "geo": {
+      "lat": "34.186",
+      "lon": "72.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کاٹلنگ",
+      "en": "Katlang",
+      "slug": "katlang-pk52301"
+    },
+    "code": {
+      "id": "PK52301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK523",
+      "level": 2,
+      "name": {
+        "local": "مردان",
+        "en": "Mardan",
+        "slug": "mardan-pk523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK523",
+        "level": 2,
+        "name": {
+          "local": "مردان",
+          "en": "Mardan",
+          "slug": "mardan-pk523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23140"
+    ],
+    "geo": {
+      "lat": "34.411",
+      "lon": "72.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مردان",
+      "en": "Mardan",
+      "slug": "mardan-pk52302"
+    },
+    "code": {
+      "id": "PK52302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK523",
+      "level": 2,
+      "name": {
+        "local": "مردان",
+        "en": "Mardan",
+        "slug": "mardan-pk523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK523",
+        "level": 2,
+        "name": {
+          "local": "مردان",
+          "en": "Mardan",
+          "slug": "mardan-pk523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23170"
+    ],
+    "geo": {
+      "lat": "34.191",
+      "lon": "72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "رستم",
+      "en": "Rustam",
+      "slug": "rustam-pk52304"
+    },
+    "code": {
+      "id": "PK52304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK523",
+      "level": 2,
+      "name": {
+        "local": "مردان",
+        "en": "Mardan",
+        "slug": "mardan-pk523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK523",
+        "level": 2,
+        "name": {
+          "local": "مردان",
+          "en": "Mardan",
+          "slug": "mardan-pk523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23370"
+    ],
+    "geo": {
+      "lat": "34.344",
+      "lon": "72.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "تخت بھائی",
+      "en": "Takht Bhai",
+      "slug": "takht-bhai-pk52303"
+    },
+    "code": {
+      "id": "PK52303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK523",
+      "level": 2,
+      "name": {
+        "local": "مردان",
+        "en": "Mardan",
+        "slug": "mardan-pk523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK523",
+        "level": 2,
+        "name": {
+          "local": "مردان",
+          "en": "Mardan",
+          "slug": "mardan-pk523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23150"
+    ],
+    "geo": {
+      "lat": "34.345",
+      "lon": "71.91"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK61801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Choubara",
+      "en": "Choubara",
+      "slug": "choubara-pk61801"
+    },
+    "code": {
+      "id": "PK61801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK618",
+      "level": 2,
+      "name": {
+        "local": "لیہ",
+        "en": "Leiah",
+        "slug": "leiah-pk618"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK618",
+        "level": 2,
+        "name": {
+          "local": "لیہ",
+          "en": "Leiah",
+          "slug": "leiah-pk618"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35110"
+    ],
+    "geo": {
+      "lat": "30.911",
+      "lon": "71.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کروڑ لال عیسن",
+      "en": "Karor Lal Esan",
+      "slug": "karor-lal-esan-pk61802"
+    },
+    "code": {
+      "id": "PK61802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK618",
+      "level": 2,
+      "name": {
+        "local": "لیہ",
+        "en": "Leiah",
+        "slug": "leiah-pk618"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK618",
+        "level": 2,
+        "name": {
+          "local": "لیہ",
+          "en": "Leiah",
+          "slug": "leiah-pk618"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31100"
+    ],
+    "geo": {
+      "lat": "31.219",
+      "lon": "71.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Leiah",
+      "en": "Leiah",
+      "slug": "leiah-pk61803"
+    },
+    "code": {
+      "id": "PK61803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK618",
+      "level": 2,
+      "name": {
+        "local": "لیہ",
+        "en": "Leiah",
+        "slug": "leiah-pk618"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK618",
+        "level": 2,
+        "name": {
+          "local": "لیہ",
+          "en": "Leiah",
+          "slug": "leiah-pk618"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31300"
+    ],
+    "geo": {
+      "lat": "30.874",
+      "lon": "71.033"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

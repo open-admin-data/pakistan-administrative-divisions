@@ -1,0 +1,506 @@
+[
+  {
+    "id": "PK53201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Babuzai",
+      "en": "Babuzai",
+      "slug": "babuzai-pk53201"
+    },
+    "code": {
+      "id": "PK53201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26000"
+    ],
+    "geo": {
+      "lat": "34.719",
+      "lon": "72.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bahrain",
+      "en": "Bahrain",
+      "slug": "bahrain-pk53202"
+    },
+    "code": {
+      "id": "PK53202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26060"
+    ],
+    "geo": {
+      "lat": "35.273",
+      "lon": "72.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Barikot",
+      "en": "Barikot",
+      "slug": "barikot-pk53203"
+    },
+    "code": {
+      "id": "PK53203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12560"
+    ],
+    "geo": {
+      "lat": "34.677",
+      "lon": "72.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Charbagh",
+      "en": "Charbagh",
+      "slug": "charbagh-pk53204"
+    },
+    "code": {
+      "id": "PK53204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26000"
+    ],
+    "geo": {
+      "lat": "34.843",
+      "lon": "72.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53205",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kabal",
+      "en": "Kabal",
+      "slug": "kabal-pk53205"
+    },
+    "code": {
+      "id": "PK53205",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19060"
+    ],
+    "geo": {
+      "lat": "34.861",
+      "lon": "72.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53206",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قلات",
+      "en": "Kalam",
+      "slug": "kalam-pk53206"
+    },
+    "code": {
+      "id": "PK53206",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26060"
+    ],
+    "geo": {
+      "lat": "35.624",
+      "lon": "72.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53207",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khwaza Khela",
+      "en": "Khwaza Khela",
+      "slug": "khwaza-khela-pk53207"
+    },
+    "code": {
+      "id": "PK53207",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19050"
+    ],
+    "geo": {
+      "lat": "35.002",
+      "lon": "72.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53208",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Matta Kharirai",
+      "en": "Matta Kharirai",
+      "slug": "matta-kharirai-pk53208"
+    },
+    "code": {
+      "id": "PK53208",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19044"
+    ],
+    "geo": {
+      "lat": "35.048",
+      "lon": "72.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53209",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Matta Sebujni",
+      "en": "Matta Sebujni",
+      "slug": "matta-sebujni-pk53209"
+    },
+    "code": {
+      "id": "PK53209",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK532",
+      "level": 2,
+      "name": {
+        "local": "سوات",
+        "en": "Swat",
+        "slug": "swat-pk532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK532",
+        "level": 2,
+        "name": {
+          "local": "سوات",
+          "en": "Swat",
+          "slug": "swat-pk532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19044"
+    ],
+    "geo": {
+      "lat": "35.031",
+      "lon": "72.27"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

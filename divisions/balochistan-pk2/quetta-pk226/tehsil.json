@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK22601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Panjpai",
+      "en": "Panjpai",
+      "slug": "panjpai-pk22601"
+    },
+    "code": {
+      "id": "PK22601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK226",
+      "level": 2,
+      "name": {
+        "local": "کوئٹہ",
+        "en": "Quetta",
+        "slug": "quetta-pk226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK226",
+        "level": 2,
+        "name": {
+          "local": "کوئٹہ",
+          "en": "Quetta",
+          "slug": "quetta-pk226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86800"
+    ],
+    "geo": {
+      "lat": "30.015",
+      "lon": "66.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Quetta City",
+      "en": "Quetta City",
+      "slug": "quetta-city-pk22602"
+    },
+    "code": {
+      "id": "PK22602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK226",
+      "level": 2,
+      "name": {
+        "local": "کوئٹہ",
+        "en": "Quetta",
+        "slug": "quetta-pk226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK226",
+        "level": 2,
+        "name": {
+          "local": "کوئٹہ",
+          "en": "Quetta",
+          "slug": "quetta-pk226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88150"
+    ],
+    "geo": {
+      "lat": "30.082",
+      "lon": "67.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Quetta Saddar",
+      "en": "Quetta Saddar",
+      "slug": "quetta-saddar-pk22603"
+    },
+    "code": {
+      "id": "PK22603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK226",
+      "level": 2,
+      "name": {
+        "local": "کوئٹہ",
+        "en": "Quetta",
+        "slug": "quetta-pk226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK226",
+        "level": 2,
+        "name": {
+          "local": "کوئٹہ",
+          "en": "Quetta",
+          "slug": "quetta-pk226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87290"
+    ],
+    "geo": {
+      "lat": "30.249",
+      "lon": "67.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

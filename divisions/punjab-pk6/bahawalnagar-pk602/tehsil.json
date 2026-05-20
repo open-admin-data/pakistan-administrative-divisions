@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK60201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بہاولنگر",
+      "en": "Bahawalnagar",
+      "slug": "bahawalnagar-pk60201"
+    },
+    "code": {
+      "id": "PK60201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK602",
+      "level": 2,
+      "name": {
+        "local": "ضلع بہاولنگر",
+        "en": "Bahawalnagar",
+        "slug": "bahawalnagar-pk602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK602",
+        "level": 2,
+        "name": {
+          "local": "ضلع بہاولنگر",
+          "en": "Bahawalnagar",
+          "slug": "bahawalnagar-pk602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62100"
+    ],
+    "geo": {
+      "lat": "29.799",
+      "lon": "73.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چشتیاں",
+      "en": "Chishtian",
+      "slug": "chishtian-pk60202"
+    },
+    "code": {
+      "id": "PK60202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK602",
+      "level": 2,
+      "name": {
+        "local": "ضلع بہاولنگر",
+        "en": "Bahawalnagar",
+        "slug": "bahawalnagar-pk602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK602",
+        "level": 2,
+        "name": {
+          "local": "ضلع بہاولنگر",
+          "en": "Bahawalnagar",
+          "slug": "bahawalnagar-pk602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "29.641",
+      "lon": "72.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "فورٹ عباس",
+      "en": "Fort Abbas",
+      "slug": "fort-abbas-pk60203"
+    },
+    "code": {
+      "id": "PK60203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK602",
+      "level": 2,
+      "name": {
+        "local": "ضلع بہاولنگر",
+        "en": "Bahawalnagar",
+        "slug": "bahawalnagar-pk602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK602",
+        "level": 2,
+        "name": {
+          "local": "ضلع بہاولنگر",
+          "en": "Bahawalnagar",
+          "slug": "bahawalnagar-pk602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62020"
+    ],
+    "geo": {
+      "lat": "29.072",
+      "lon": "72.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ہارون آباد",
+      "en": "Haroonabad",
+      "slug": "haroonabad-pk60204"
+    },
+    "code": {
+      "id": "PK60204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK602",
+      "level": 2,
+      "name": {
+        "local": "ضلع بہاولنگر",
+        "en": "Bahawalnagar",
+        "slug": "bahawalnagar-pk602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK602",
+        "level": 2,
+        "name": {
+          "local": "ضلع بہاولنگر",
+          "en": "Bahawalnagar",
+          "slug": "bahawalnagar-pk602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "29.465",
+      "lon": "73.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60205",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "منچن آباد",
+      "en": "Minchinabad",
+      "slug": "minchinabad-pk60205"
+    },
+    "code": {
+      "id": "PK60205",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK602",
+      "level": 2,
+      "name": {
+        "local": "ضلع بہاولنگر",
+        "en": "Bahawalnagar",
+        "slug": "bahawalnagar-pk602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK602",
+        "level": 2,
+        "name": {
+          "local": "ضلع بہاولنگر",
+          "en": "Bahawalnagar",
+          "slug": "bahawalnagar-pk602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12270"
+    ],
+    "geo": {
+      "lat": "30.124",
+      "lon": "73.621"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

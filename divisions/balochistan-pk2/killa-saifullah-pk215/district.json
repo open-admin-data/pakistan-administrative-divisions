@@ -1,0 +1,49 @@
+{
+  "id": "PK215",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع قلعہ سیف اللہ",
+    "en": "Killa Saifullah",
+    "slug": "killa-saifullah-pk215"
+  },
+  "code": {
+    "id": "PK215",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "85400"
+  ],
+  "geo": {
+    "lat": "31.053",
+    "lon": "68.499"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK30601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "علی آباد",
+      "en": "Ali Abad",
+      "slug": "ali-abad-pk30601"
+    },
+    "code": {
+      "id": "PK30601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK306",
+      "level": 2,
+      "name": {
+        "local": "ہنزہ",
+        "en": "Hunza",
+        "slug": "hunza-pk306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK306",
+        "level": 2,
+        "name": {
+          "local": "ہنزہ",
+          "en": "Hunza",
+          "slug": "hunza-pk306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15700"
+    ],
+    "geo": {
+      "lat": "36.38",
+      "lon": "74.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gojal",
+      "en": "Gojal",
+      "slug": "gojal-pk30602"
+    },
+    "code": {
+      "id": "PK30602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK306",
+      "level": 2,
+      "name": {
+        "local": "ہنزہ",
+        "en": "Hunza",
+        "slug": "hunza-pk306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK306",
+        "level": 2,
+        "name": {
+          "local": "ہنزہ",
+          "en": "Hunza",
+          "slug": "hunza-pk306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15900"
+    ],
+    "geo": {
+      "lat": "36.551",
+      "lon": "75.205"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

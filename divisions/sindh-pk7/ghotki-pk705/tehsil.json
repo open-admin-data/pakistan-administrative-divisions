@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK70501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈاہرکی",
+      "en": "Daharki",
+      "slug": "daharki-pk70501"
+    },
+    "code": {
+      "id": "PK70501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK705",
+      "level": 2,
+      "name": {
+        "local": "گھوٹکی",
+        "en": "Ghotki",
+        "slug": "ghotki-pk705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK705",
+        "level": 2,
+        "name": {
+          "local": "گھوٹکی",
+          "en": "Ghotki",
+          "slug": "ghotki-pk705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65050"
+    ],
+    "geo": {
+      "lat": "27.792",
+      "lon": "69.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گھوٹکی",
+      "en": "Ghotki",
+      "slug": "ghotki-pk70502"
+    },
+    "code": {
+      "id": "PK70502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK705",
+      "level": 2,
+      "name": {
+        "local": "گھوٹکی",
+        "en": "Ghotki",
+        "slug": "ghotki-pk705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK705",
+        "level": 2,
+        "name": {
+          "local": "گھوٹکی",
+          "en": "Ghotki",
+          "slug": "ghotki-pk705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65110"
+    ],
+    "geo": {
+      "lat": "28.021",
+      "lon": "69.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خانگار",
+      "en": "Khangarh",
+      "slug": "khangarh-pk70503"
+    },
+    "code": {
+      "id": "PK70503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK705",
+      "level": 2,
+      "name": {
+        "local": "گھوٹکی",
+        "en": "Ghotki",
+        "slug": "ghotki-pk705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK705",
+        "level": 2,
+        "name": {
+          "local": "گھوٹکی",
+          "en": "Ghotki",
+          "slug": "ghotki-pk705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65070"
+    ],
+    "geo": {
+      "lat": "27.626",
+      "lon": "69.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میرپور ماتھیلو",
+      "en": "Mirpur Mathelo",
+      "slug": "mirpur-mathelo-pk70504"
+    },
+    "code": {
+      "id": "PK70504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK705",
+      "level": 2,
+      "name": {
+        "local": "گھوٹکی",
+        "en": "Ghotki",
+        "slug": "ghotki-pk705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK705",
+        "level": 2,
+        "name": {
+          "local": "گھوٹکی",
+          "en": "Ghotki",
+          "slug": "ghotki-pk705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65070"
+    ],
+    "geo": {
+      "lat": "27.847",
+      "lon": "69.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70505",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اوبارو",
+      "en": "Ubauro",
+      "slug": "ubauro-pk70505"
+    },
+    "code": {
+      "id": "PK70505",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK705",
+      "level": 2,
+      "name": {
+        "local": "گھوٹکی",
+        "en": "Ghotki",
+        "slug": "ghotki-pk705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK705",
+        "level": 2,
+        "name": {
+          "local": "گھوٹکی",
+          "en": "Ghotki",
+          "slug": "ghotki-pk705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65030"
+    ],
+    "geo": {
+      "lat": "28.214",
+      "lon": "69.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

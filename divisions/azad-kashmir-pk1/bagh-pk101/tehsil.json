@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK10101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "باغ",
+      "en": "Bagh",
+      "slug": "bagh-pk10101"
+    },
+    "code": {
+      "id": "PK10101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK101",
+      "level": 2,
+      "name": {
+        "local": "باغ",
+        "en": "Bagh",
+        "slug": "bagh-pk101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK101",
+        "level": 2,
+        "name": {
+          "local": "باغ",
+          "en": "Bagh",
+          "slug": "bagh-pk101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12520"
+    ],
+    "geo": {
+      "lat": "33.985",
+      "lon": "73.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dhir Kot",
+      "en": "Dhir Kot",
+      "slug": "dhir-kot-pk10102"
+    },
+    "code": {
+      "id": "PK10102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK101",
+      "level": 2,
+      "name": {
+        "local": "باغ",
+        "en": "Bagh",
+        "slug": "bagh-pk101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK101",
+        "level": 2,
+        "name": {
+          "local": "باغ",
+          "en": "Bagh",
+          "slug": "bagh-pk101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12600"
+    ],
+    "geo": {
+      "lat": "34.022",
+      "lon": "73.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Harighel",
+      "en": "Harighel",
+      "slug": "harighel-pk10103"
+    },
+    "code": {
+      "id": "PK10103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK101",
+      "level": 2,
+      "name": {
+        "local": "باغ",
+        "en": "Bagh",
+        "slug": "bagh-pk101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK101",
+        "level": 2,
+        "name": {
+          "local": "باغ",
+          "en": "Bagh",
+          "slug": "bagh-pk101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12460"
+    ],
+    "geo": {
+      "lat": "33.98",
+      "lon": "73.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

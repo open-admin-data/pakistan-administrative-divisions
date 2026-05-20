@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK20904",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Balanari",
+      "en": "Balanari",
+      "slug": "balanari-pk20904"
+    },
+    "code": {
+      "id": "PK20904",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK209",
+      "level": 2,
+      "name": {
+        "local": "ضلع کچھی",
+        "en": "Kachhi",
+        "slug": "kachhi-pk209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK209",
+        "level": 2,
+        "name": {
+          "local": "ضلع کچھی",
+          "en": "Kachhi",
+          "slug": "kachhi-pk209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81270"
+    ],
+    "geo": {
+      "lat": "29.278",
+      "lon": "67.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dhadar",
+      "en": "Dhadar",
+      "slug": "dhadar-pk20901"
+    },
+    "code": {
+      "id": "PK20901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK209",
+      "level": 2,
+      "name": {
+        "local": "ضلع کچھی",
+        "en": "Kachhi",
+        "slug": "kachhi-pk209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK209",
+        "level": 2,
+        "name": {
+          "local": "ضلع کچھی",
+          "en": "Kachhi",
+          "slug": "kachhi-pk209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81410"
+    ],
+    "geo": {
+      "lat": "29.484",
+      "lon": "67.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20905",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹھٹہ",
+      "en": "Khattan",
+      "slug": "khattan-pk20905"
+    },
+    "code": {
+      "id": "PK20905",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK209",
+      "level": 2,
+      "name": {
+        "local": "ضلع کچھی",
+        "en": "Kachhi",
+        "slug": "kachhi-pk209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK209",
+        "level": 2,
+        "name": {
+          "local": "ضلع کچھی",
+          "en": "Kachhi",
+          "slug": "kachhi-pk209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81200"
+    ],
+    "geo": {
+      "lat": "29.2",
+      "lon": "67.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ماخ",
+      "en": "Mach",
+      "slug": "mach-pk20902"
+    },
+    "code": {
+      "id": "PK20902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK209",
+      "level": 2,
+      "name": {
+        "local": "ضلع کچھی",
+        "en": "Kachhi",
+        "slug": "kachhi-pk209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK209",
+        "level": 2,
+        "name": {
+          "local": "ضلع کچھی",
+          "en": "Kachhi",
+          "slug": "kachhi-pk209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81410"
+    ],
+    "geo": {
+      "lat": "29.702",
+      "lon": "67.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sanni",
+      "en": "Sanni",
+      "slug": "sanni-pk20903"
+    },
+    "code": {
+      "id": "PK20903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK209",
+      "level": 2,
+      "name": {
+        "local": "ضلع کچھی",
+        "en": "Kachhi",
+        "slug": "kachhi-pk209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK209",
+        "level": 2,
+        "name": {
+          "local": "ضلع کچھی",
+          "en": "Kachhi",
+          "slug": "kachhi-pk209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81450"
+    ],
+    "geo": {
+      "lat": "29.023",
+      "lon": "67.501"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK21402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dobandi",
+      "en": "Dobandi",
+      "slug": "dobandi-pk21402"
+    },
+    "code": {
+      "id": "PK21402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK214",
+      "level": 2,
+      "name": {
+        "local": "ضلع قلعہ عبداللہ",
+        "en": "Killa Abdullah",
+        "slug": "killa-abdullah-pk214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK214",
+        "level": 2,
+        "name": {
+          "local": "ضلع قلعہ عبداللہ",
+          "en": "Killa Abdullah",
+          "slug": "killa-abdullah-pk214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86720"
+    ],
+    "geo": {
+      "lat": "31.116",
+      "lon": "67.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گلستان",
+      "en": "Gulistan",
+      "slug": "gulistan-pk21403"
+    },
+    "code": {
+      "id": "PK21403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK214",
+      "level": 2,
+      "name": {
+        "local": "ضلع قلعہ عبداللہ",
+        "en": "Killa Abdullah",
+        "slug": "killa-abdullah-pk214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK214",
+        "level": 2,
+        "name": {
+          "local": "ضلع قلعہ عبداللہ",
+          "en": "Killa Abdullah",
+          "slug": "killa-abdullah-pk214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86600"
+    ],
+    "geo": {
+      "lat": "30.29",
+      "lon": "66.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21404",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قلعہ عبداللہ",
+      "en": "Killa Abdullah",
+      "slug": "killa-abdullah-pk21404"
+    },
+    "code": {
+      "id": "PK21404",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK214",
+      "level": 2,
+      "name": {
+        "local": "ضلع قلعہ عبداللہ",
+        "en": "Killa Abdullah",
+        "slug": "killa-abdullah-pk214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK214",
+        "level": 2,
+        "name": {
+          "local": "ضلع قلعہ عبداللہ",
+          "en": "Killa Abdullah",
+          "slug": "killa-abdullah-pk214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87300"
+    ],
+    "geo": {
+      "lat": "30.717",
+      "lon": "66.702"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

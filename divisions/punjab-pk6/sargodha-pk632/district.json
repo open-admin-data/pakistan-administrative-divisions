@@ -1,0 +1,49 @@
+{
+  "id": "PK632",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "سرگودھا",
+    "en": "Sargodha",
+    "slug": "sargodha-pk632"
+  },
+  "code": {
+    "id": "PK632",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 7
+  },
+  "zip_codes": [
+    "40462"
+  ],
+  "geo": {
+    "lat": "32.069",
+    "lon": "72.789"
+  },
+  "metadata": {},
+  "source": {}
+}

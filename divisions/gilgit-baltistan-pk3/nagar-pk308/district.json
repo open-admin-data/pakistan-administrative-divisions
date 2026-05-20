@@ -1,0 +1,49 @@
+{
+  "id": "PK308",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع نگر",
+    "en": "Nagar",
+    "slug": "nagar-pk308"
+  },
+  "code": {
+    "id": "PK308",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "15750"
+  ],
+  "geo": {
+    "lat": "36.298",
+    "lon": "74.842"
+  },
+  "metadata": {},
+  "source": {}
+}

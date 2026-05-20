@@ -1,0 +1,49 @@
+{
+  "id": "PK102",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع بھمبر",
+    "en": "Bhimber",
+    "slug": "bhimber-pk102"
+  },
+  "code": {
+    "id": "PK102",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "10030"
+  ],
+  "geo": {
+    "lat": "33.014",
+    "lon": "74.15"
+  },
+  "metadata": {},
+  "source": {}
+}

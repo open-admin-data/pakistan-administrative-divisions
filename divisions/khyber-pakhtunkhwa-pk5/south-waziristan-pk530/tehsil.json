@@ -1,0 +1,450 @@
+[
+  {
+    "id": "PK53001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Birmal",
+      "en": "Birmal",
+      "slug": "birmal-pk53001"
+    },
+    "code": {
+      "id": "PK53001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29540"
+    ],
+    "geo": {
+      "lat": "32.405",
+      "lon": "69.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Ladha",
+      "en": "Ladha",
+      "slug": "ladha-pk53002"
+    },
+    "code": {
+      "id": "PK53002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29490"
+    ],
+    "geo": {
+      "lat": "32.623",
+      "lon": "70.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Makin",
+      "en": "Makin",
+      "slug": "makin-pk53003"
+    },
+    "code": {
+      "id": "PK53003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29460"
+    ],
+    "geo": {
+      "lat": "32.66",
+      "lon": "69.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53004",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sararogha",
+      "en": "Sararogha",
+      "slug": "sararogha-pk53004"
+    },
+    "code": {
+      "id": "PK53004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29470"
+    ],
+    "geo": {
+      "lat": "32.459",
+      "lon": "70.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53005",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Serwakai",
+      "en": "Serwakai",
+      "slug": "serwakai-pk53005"
+    },
+    "code": {
+      "id": "PK53005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29470"
+    ],
+    "geo": {
+      "lat": "32.344",
+      "lon": "69.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53006",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Tiarza",
+      "en": "Tiarza",
+      "slug": "tiarza-pk53006"
+    },
+    "code": {
+      "id": "PK53006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29460"
+    ],
+    "geo": {
+      "lat": "32.432",
+      "lon": "69.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53007",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Toi Khulla",
+      "en": "Toi Khulla",
+      "slug": "toi-khulla-pk53007"
+    },
+    "code": {
+      "id": "PK53007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29540"
+    ],
+    "geo": {
+      "lat": "32.04",
+      "lon": "69.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53008",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "وانا",
+      "en": "Wana",
+      "slug": "wana-pk53008"
+    },
+    "code": {
+      "id": "PK53008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK530",
+      "level": 2,
+      "name": {
+        "local": "جنوبی وزیرستان",
+        "en": "South Waziristan",
+        "slug": "south-waziristan-pk530"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK530",
+        "level": 2,
+        "name": {
+          "local": "جنوبی وزیرستان",
+          "en": "South Waziristan",
+          "slug": "south-waziristan-pk530"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29540"
+    ],
+    "geo": {
+      "lat": "32.13",
+      "lon": "69.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

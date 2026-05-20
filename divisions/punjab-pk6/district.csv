@@ -1,0 +1,37 @@
+id,name.local,name.en,name.slug,code.id,children_count.tehsil,zip_codes,geo.lat,geo.lon
+PK601,اٹک,Attock,attock-pk601,PK601,6,43320,33.503,72.425
+PK602,ضلع بہاولنگر,Bahawalnagar,bahawalnagar-pk602,PK602,5,33600,29.577,72.997
+PK603,بہاولپور,Bahawalpur,bahawalpur-pk603,PK603,5,63210,28.83,71.767
+PK604,بھکر,Bhakkar,bhakkar-pk604,PK604,4,30030,31.681,71.338
+PK605,چکوال,Chakwal,chakwal-pk605,PK605,4,48540,32.874,72.533
+PK606,چنیوٹ,Chiniot,chiniot-pk606,PK606,3,35480,31.67,72.792
+PK607,ڈیرہ غازی خان,Dera Ghazi Khan,dera-ghazi-khan-pk607,PK607,4,32124,30.48,70.41
+PK608,فیصل آباد,Faisalabad,faisalabad-pk608,PK608,6,37510,31.231,73.198
+PK609,گوجرانوالہ,Gujranwala,gujranwala-pk609,PK609,4,52320,32.188,74.054
+PK610,گجرات,Gujrat,gujrat-pk610,PK610,3,50900,32.718,74.038
+PK611,حافظ آباد,Hafizabad,hafizabad-pk611,PK611,2,12200,32.051,73.543
+PK612,جھنگ,Jhang,jhang-pk612,PK612,4,35180,31.172,72.142
+PK613,جہلم,Jhelum,jhelum-pk613,PK613,4,49326,32.836,73.373
+PK614,قصور,Kasur,kasur-pk614,PK614,4,55020,31.003,74.14
+PK615,خانیوال,Khanewal,khanewal-pk615,PK615,4,58100,30.316,72.065
+PK616,خوشاب,Khushab,khushab-pk616,PK616,4,41200,32.125,72.053
+PK617,لاہور,Lahore,lahore-pk617,PK617,2,54760,31.486,74.405
+PK618,لیہ,Leiah,leiah-pk618,PK618,3,31300,30.997,71.284
+PK619,لودھراں,Lodhran,lodhran-pk619,PK619,3,59330,29.671,71.745
+PK620,منڈی بہاؤالدین,Mandi Bahauddin,mandi-bahauddin-pk620,PK620,3,50400,32.435,73.471
+PK621,میانوالی,Mianwali,mianwali-pk621,PK621,3,42312,32.704,71.515
+PK622,ملتان,Multan,multan-pk622,PK622,4,31150,29.926,71.366
+PK623,مظفرگڑھ,Muzaffargarh,muzaffargarh-pk623,PK623,4,34370,29.892,71.013
+PK624,ننکانہ صاحب,Nankana Sahib,nankana-sahib-pk624,PK624,3,52360,31.432,73.85
+PK625,ضلع نارووال,Narowal,narowal-pk625,PK625,3,47960,32.206,75.043
+PK626,اوکاڑہ,Okara,okara-pk626,PK626,3,56100,30.697,73.733
+PK627,پاکپتن,Pakpattan,pakpattan-pk627,PK627,2,57110,30.289,73.307
+PK628,رحیم یار خان,Rahim Yar Khan,rahim-yar-khan-pk628,PK628,4,64320,28.485,70.461
+PK629,ضلع راجن پور,Rajanpur,rajanpur-pk629,PK629,4,64100,29.145,70.153
+PK630,راولپنڈی,Rawalpindi,rawalpindi-pk630,PK630,7,47380,33.541,73.438
+PK631,ساہیوال,Sahiwal,sahiwal-pk631,PK631,2,57200,30.55,72.896
+PK632,سرگودھا,Sargodha,sargodha-pk632,PK632,7,40462,32.069,72.789
+PK633,شیخوپورہ,Sheikhupura,sheikhupura-pk633,PK633,5,49712,31.714,73.985
+PK634,سیالکوٹ,Sialkot,sialkot-pk634,PK634,4,51410,32.442,74.568
+PK635,ٹوبہ ٹیک سنگھ,Toba Tek Singh,toba-tek-singh-pk635,PK635,4,43700,30.929,72.537
+PK636,وہاڑی,Vehari,vehari-pk636,PK636,3,61220,29.983,72.319

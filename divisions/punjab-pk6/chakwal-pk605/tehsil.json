@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK60501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چکوال",
+      "en": "Chakwal",
+      "slug": "chakwal-pk60501"
+    },
+    "code": {
+      "id": "PK60501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK605",
+      "level": 2,
+      "name": {
+        "local": "چکوال",
+        "en": "Chakwal",
+        "slug": "chakwal-pk605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK605",
+        "level": 2,
+        "name": {
+          "local": "چکوال",
+          "en": "Chakwal",
+          "slug": "chakwal-pk605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48690"
+    ],
+    "geo": {
+      "lat": "32.992",
+      "lon": "72.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چوآ سیدن شاہ",
+      "en": "Choa Saidan Shah",
+      "slug": "choa-saidan-shah-pk60502"
+    },
+    "code": {
+      "id": "PK60502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK605",
+      "level": 2,
+      "name": {
+        "local": "چکوال",
+        "en": "Chakwal",
+        "slug": "chakwal-pk605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK605",
+        "level": 2,
+        "name": {
+          "local": "چکوال",
+          "en": "Chakwal",
+          "slug": "chakwal-pk605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48320"
+    ],
+    "geo": {
+      "lat": "32.733",
+      "lon": "72.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کلر کہار",
+      "en": "Kallar Kahar",
+      "slug": "kallar-kahar-pk60503"
+    },
+    "code": {
+      "id": "PK60503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK605",
+      "level": 2,
+      "name": {
+        "local": "چکوال",
+        "en": "Chakwal",
+        "slug": "chakwal-pk605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK605",
+        "level": 2,
+        "name": {
+          "local": "چکوال",
+          "en": "Chakwal",
+          "slug": "chakwal-pk605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48530"
+    ],
+    "geo": {
+      "lat": "32.76",
+      "lon": "72.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Tala Gang",
+      "en": "Tala Gang",
+      "slug": "tala-gang-pk60504"
+    },
+    "code": {
+      "id": "PK60504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK605",
+      "level": 2,
+      "name": {
+        "local": "چکوال",
+        "en": "Chakwal",
+        "slug": "chakwal-pk605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK605",
+        "level": 2,
+        "name": {
+          "local": "چکوال",
+          "en": "Chakwal",
+          "slug": "chakwal-pk605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48170"
+    ],
+    "geo": {
+      "lat": "32.849",
+      "lon": "72.225"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "PK302",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "دیامر",
+    "en": "Diamir",
+    "slug": "diamir-pk302"
+  },
+  "code": {
+    "id": "PK302",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "14200"
+  ],
+  "geo": {
+    "lat": "35.38",
+    "lon": "74.213"
+  },
+  "metadata": {},
+  "source": {}
+}

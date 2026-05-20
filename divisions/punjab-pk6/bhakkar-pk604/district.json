@@ -1,0 +1,49 @@
+{
+  "id": "PK604",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "بھکر",
+    "en": "Bhakkar",
+    "slug": "bhakkar-pk604"
+  },
+  "code": {
+    "id": "PK604",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "30030"
+  ],
+  "geo": {
+    "lat": "31.681",
+    "lon": "71.338"
+  },
+  "metadata": {},
+  "source": {}
+}

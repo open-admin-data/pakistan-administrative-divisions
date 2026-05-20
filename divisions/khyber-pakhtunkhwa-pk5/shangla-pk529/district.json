@@ -1,0 +1,49 @@
+{
+  "id": "PK529",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع شانگلہ",
+    "en": "Shangla",
+    "slug": "shangla-pk529"
+  },
+  "code": {
+    "id": "PK529",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 6
+  },
+  "zip_codes": [
+    "20500"
+  ],
+  "geo": {
+    "lat": "34.847",
+    "lon": "72.79"
+  },
+  "metadata": {},
+  "source": {}
+}

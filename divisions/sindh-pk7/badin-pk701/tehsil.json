@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK70101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بدین",
+      "en": "Badin",
+      "slug": "badin-pk70101"
+    },
+    "code": {
+      "id": "PK70101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK701",
+      "level": 2,
+      "name": {
+        "local": "بدین",
+        "en": "Badin",
+        "slug": "badin-pk701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK701",
+        "level": 2,
+        "name": {
+          "local": "بدین",
+          "en": "Badin",
+          "slug": "badin-pk701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "72200"
+    ],
+    "geo": {
+      "lat": "24.488",
+      "lon": "68.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مٹلی",
+      "en": "Matli",
+      "slug": "matli-pk70102"
+    },
+    "code": {
+      "id": "PK70102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK701",
+      "level": 2,
+      "name": {
+        "local": "بدین",
+        "en": "Badin",
+        "slug": "badin-pk701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK701",
+        "level": 2,
+        "name": {
+          "local": "بدین",
+          "en": "Badin",
+          "slug": "badin-pk701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "72050"
+    ],
+    "geo": {
+      "lat": "25.131",
+      "lon": "68.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shaheed Fazil Rahu",
+      "en": "Shaheed Fazil Rahu",
+      "slug": "shaheed-fazil-rahu-pk70103"
+    },
+    "code": {
+      "id": "PK70103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK701",
+      "level": 2,
+      "name": {
+        "local": "بدین",
+        "en": "Badin",
+        "slug": "badin-pk701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK701",
+        "level": 2,
+        "name": {
+          "local": "بدین",
+          "en": "Badin",
+          "slug": "badin-pk701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "72020"
+    ],
+    "geo": {
+      "lat": "24.641",
+      "lon": "68.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70104",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "تلہار",
+      "en": "Talhar",
+      "slug": "talhar-pk70104"
+    },
+    "code": {
+      "id": "PK70104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK701",
+      "level": 2,
+      "name": {
+        "local": "بدین",
+        "en": "Badin",
+        "slug": "badin-pk701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK701",
+        "level": 2,
+        "name": {
+          "local": "بدین",
+          "en": "Badin",
+          "slug": "badin-pk701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "72100"
+    ],
+    "geo": {
+      "lat": "24.877",
+      "lon": "68.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70105",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹنڈو باگو",
+      "en": "Tando Bago",
+      "slug": "tando-bago-pk70105"
+    },
+    "code": {
+      "id": "PK70105",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK701",
+      "level": 2,
+      "name": {
+        "local": "بدین",
+        "en": "Badin",
+        "slug": "badin-pk701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK701",
+        "level": 2,
+        "name": {
+          "local": "بدین",
+          "en": "Badin",
+          "slug": "badin-pk701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "72130"
+    ],
+    "geo": {
+      "lat": "24.771",
+      "lon": "69.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

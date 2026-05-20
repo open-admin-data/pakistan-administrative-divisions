@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK31101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Darel",
+      "en": "Darel",
+      "slug": "darel-pk31101"
+    },
+    "code": {
+      "id": "PK31101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK311",
+      "level": 2,
+      "name": {
+        "local": "ضلع داریل",
+        "en": "Darel",
+        "slug": "darel-pk311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK311",
+        "level": 2,
+        "name": {
+          "local": "ضلع داریل",
+          "en": "Darel",
+          "slug": "darel-pk311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15160"
+    ],
+    "geo": {
+      "lat": "35.699",
+      "lon": "73.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

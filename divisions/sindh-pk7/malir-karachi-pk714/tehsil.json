@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK71401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بن قاسم ٹاؤن",
+      "en": "Bin Qasim Town",
+      "slug": "bin-qasim-town-pk71401"
+    },
+    "code": {
+      "id": "PK71401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK714",
+      "level": 2,
+      "name": {
+        "local": "ملیر کراچی",
+        "en": "Malir Karachi",
+        "slug": "malir-karachi-pk714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK714",
+        "level": 2,
+        "name": {
+          "local": "ملیر کراچی",
+          "en": "Malir Karachi",
+          "slug": "malir-karachi-pk714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75120"
+    ],
+    "geo": {
+      "lat": "24.878",
+      "lon": "67.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گڈاپ ٹاؤن",
+      "en": "Gadap Town",
+      "slug": "gadap-town-pk71402"
+    },
+    "code": {
+      "id": "PK71402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK714",
+      "level": 2,
+      "name": {
+        "local": "ملیر کراچی",
+        "en": "Malir Karachi",
+        "slug": "malir-karachi-pk714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK714",
+        "level": 2,
+        "name": {
+          "local": "ملیر کراچی",
+          "en": "Malir Karachi",
+          "slug": "malir-karachi-pk714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75500"
+    ],
+    "geo": {
+      "lat": "25.26",
+      "lon": "67.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Malir Town",
+      "en": "Malir Town",
+      "slug": "malir-town-pk71403"
+    },
+    "code": {
+      "id": "PK71403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK714",
+      "level": 2,
+      "name": {
+        "local": "ملیر کراچی",
+        "en": "Malir Karachi",
+        "slug": "malir-karachi-pk714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK714",
+        "level": 2,
+        "name": {
+          "local": "ملیر کراچی",
+          "en": "Malir Karachi",
+          "slug": "malir-karachi-pk714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75000"
+    ],
+    "geo": {
+      "lat": "24.885",
+      "lon": "67.198"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

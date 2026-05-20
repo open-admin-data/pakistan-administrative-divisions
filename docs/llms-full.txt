@@ -1,0 +1,25 @@
+# Pakistan Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Azad Kashmir](https://github.com/open-admin-data/pakistan-administrative-divisions/blob/main/docs/llms-full/azad-kashmir-pk1.txt) — 10 districts, 32 tehsils
+- [Balochistan](https://github.com/open-admin-data/pakistan-administrative-divisions/blob/main/docs/llms-full/balochistan-pk2.txt) — 35 districts, 103 tehsils
+- [Gilgit Baltistan](https://github.com/open-admin-data/pakistan-administrative-divisions/blob/main/docs/llms-full/gilgit-baltistan-pk3.txt) — 14 districts, 24 tehsils
+- [Islamabad](https://github.com/open-admin-data/pakistan-administrative-divisions/blob/main/docs/llms-full/islamabad-pk4.txt) — 1 districts, 1 tehsils
+- [Khyber Pakhtunkhwa](https://github.com/open-admin-data/pakistan-administrative-divisions/blob/main/docs/llms-full/khyber-pakhtunkhwa-pk5.txt) — 35 districts, 153 tehsils
+- [Punjab](https://github.com/open-admin-data/pakistan-administrative-divisions/blob/main/docs/llms-full/punjab-pk6.txt) — 36 districts, 139 tehsils
+- [Sindh](https://github.com/open-admin-data/pakistan-administrative-divisions/blob/main/docs/llms-full/sindh-pk7.txt) — 29 districts, 125 tehsils
+
+## Summary
+
+| Province | Districts | Tehsils | 
+|---|---|---|
+| Azad Kashmir | 10 | 32 | 
+| Balochistan | 35 | 103 | 
+| Gilgit Baltistan | 14 | 24 | 
+| Islamabad | 1 | 1 | 
+| Khyber Pakhtunkhwa | 35 | 153 | 
+| Punjab | 36 | 139 | 
+| Sindh | 29 | 125 | 

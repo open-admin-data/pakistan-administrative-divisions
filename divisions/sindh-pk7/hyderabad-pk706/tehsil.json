@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK70601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "حیدرآباد",
+      "en": "Hyderabad",
+      "slug": "hyderabad-pk70601"
+    },
+    "code": {
+      "id": "PK70601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK706",
+      "level": 2,
+      "name": {
+        "local": "حیدرآباد",
+        "en": "Hyderabad",
+        "slug": "hyderabad-pk706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK706",
+        "level": 2,
+        "name": {
+          "local": "حیدرآباد",
+          "en": "Hyderabad",
+          "slug": "hyderabad-pk706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70210"
+    ],
+    "geo": {
+      "lat": "25.355",
+      "lon": "68.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Hyderabad City",
+      "en": "Hyderabad City",
+      "slug": "hyderabad-city-pk70602"
+    },
+    "code": {
+      "id": "PK70602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK706",
+      "level": 2,
+      "name": {
+        "local": "حیدرآباد",
+        "en": "Hyderabad",
+        "slug": "hyderabad-pk706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK706",
+        "level": 2,
+        "name": {
+          "local": "حیدرآباد",
+          "en": "Hyderabad",
+          "slug": "hyderabad-pk706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71800"
+    ],
+    "geo": {
+      "lat": "25.369",
+      "lon": "68.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لطیف آباد",
+      "en": "Latifabad",
+      "slug": "latifabad-pk70603"
+    },
+    "code": {
+      "id": "PK70603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK706",
+      "level": 2,
+      "name": {
+        "local": "حیدرآباد",
+        "en": "Hyderabad",
+        "slug": "hyderabad-pk706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK706",
+        "level": 2,
+        "name": {
+          "local": "حیدرآباد",
+          "en": "Hyderabad",
+          "slug": "hyderabad-pk706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70210"
+    ],
+    "geo": {
+      "lat": "25.259",
+      "lon": "68.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70604",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قاسم آباد",
+      "en": "Qasimabad",
+      "slug": "qasimabad-pk70604"
+    },
+    "code": {
+      "id": "PK70604",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK706",
+      "level": 2,
+      "name": {
+        "local": "حیدرآباد",
+        "en": "Hyderabad",
+        "slug": "hyderabad-pk706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK706",
+        "level": 2,
+        "name": {
+          "local": "حیدرآباد",
+          "en": "Hyderabad",
+          "slug": "hyderabad-pk706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76000"
+    ],
+    "geo": {
+      "lat": "25.406",
+      "lon": "68.321"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

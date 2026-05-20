@@ -1,0 +1,49 @@
+{
+  "id": "PK110",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "سدھنوتی",
+    "en": "Sudhnoti",
+    "slug": "sudhnoti-pk110"
+  },
+  "code": {
+    "id": "PK110",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "12070"
+  ],
+  "geo": {
+    "lat": "33.704",
+    "lon": "73.739"
+  },
+  "metadata": {},
+  "source": {}
+}

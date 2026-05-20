@@ -1,0 +1,49 @@
+{
+  "id": "PK223",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع نوشکی",
+    "en": "Nushki",
+    "slug": "nushki-pk223"
+  },
+  "code": {
+    "id": "PK223",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "95150"
+  ],
+  "geo": {
+    "lat": "29.447",
+    "lon": "65.733"
+  },
+  "metadata": {},
+  "source": {}
+}

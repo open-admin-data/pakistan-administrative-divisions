@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK52901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "الپوری",
+      "en": "Alpuri",
+      "slug": "alpuri-pk52901"
+    },
+    "code": {
+      "id": "PK52901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK529",
+      "level": 2,
+      "name": {
+        "local": "ضلع شانگلہ",
+        "en": "Shangla",
+        "slug": "shangla-pk529"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK529",
+        "level": 2,
+        "name": {
+          "local": "ضلع شانگلہ",
+          "en": "Shangla",
+          "slug": "shangla-pk529"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19100"
+    ],
+    "geo": {
+      "lat": "34.955",
+      "lon": "72.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bisham",
+      "en": "Bisham",
+      "slug": "bisham-pk52902"
+    },
+    "code": {
+      "id": "PK52902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK529",
+      "level": 2,
+      "name": {
+        "local": "ضلع شانگلہ",
+        "en": "Shangla",
+        "slug": "shangla-pk529"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK529",
+        "level": 2,
+        "name": {
+          "local": "ضلع شانگلہ",
+          "en": "Shangla",
+          "slug": "shangla-pk529"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20500"
+    ],
+    "geo": {
+      "lat": "34.873",
+      "lon": "72.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Chakisar",
+      "en": "Chakisar",
+      "slug": "chakisar-pk52903"
+    },
+    "code": {
+      "id": "PK52903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK529",
+      "level": 2,
+      "name": {
+        "local": "ضلع شانگلہ",
+        "en": "Shangla",
+        "slug": "shangla-pk529"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK529",
+        "level": 2,
+        "name": {
+          "local": "ضلع شانگلہ",
+          "en": "Shangla",
+          "slug": "shangla-pk529"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19150"
+    ],
+    "geo": {
+      "lat": "34.789",
+      "lon": "72.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52904",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Makhuzai",
+      "en": "Makhuzai",
+      "slug": "makhuzai-pk52904"
+    },
+    "code": {
+      "id": "PK52904",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK529",
+      "level": 2,
+      "name": {
+        "local": "ضلع شانگلہ",
+        "en": "Shangla",
+        "slug": "shangla-pk529"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK529",
+        "level": 2,
+        "name": {
+          "local": "ضلع شانگلہ",
+          "en": "Shangla",
+          "slug": "shangla-pk529"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19150"
+    ],
+    "geo": {
+      "lat": "34.693",
+      "lon": "72.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52905",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Martoong",
+      "en": "Martoong",
+      "slug": "martoong-pk52905"
+    },
+    "code": {
+      "id": "PK52905",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK529",
+      "level": 2,
+      "name": {
+        "local": "ضلع شانگلہ",
+        "en": "Shangla",
+        "slug": "shangla-pk529"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK529",
+        "level": 2,
+        "name": {
+          "local": "ضلع شانگلہ",
+          "en": "Shangla",
+          "slug": "shangla-pk529"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19150"
+    ],
+    "geo": {
+      "lat": "34.635",
+      "lon": "72.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52906",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Puran",
+      "en": "Puran",
+      "slug": "puran-pk52906"
+    },
+    "code": {
+      "id": "PK52906",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK529",
+      "level": 2,
+      "name": {
+        "local": "ضلع شانگلہ",
+        "en": "Shangla",
+        "slug": "shangla-pk529"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK529",
+        "level": 2,
+        "name": {
+          "local": "ضلع شانگلہ",
+          "en": "Shangla",
+          "slug": "shangla-pk529"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19150"
+    ],
+    "geo": {
+      "lat": "34.742",
+      "lon": "72.649"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

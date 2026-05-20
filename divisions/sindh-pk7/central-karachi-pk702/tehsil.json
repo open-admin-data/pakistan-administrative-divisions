@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK70201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گلبرگ ٹاؤن",
+      "en": "Gulberg Town",
+      "slug": "gulberg-town-pk70201"
+    },
+    "code": {
+      "id": "PK70201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK702",
+      "level": 2,
+      "name": {
+        "local": "وسطی کراچی",
+        "en": "Central Karachi",
+        "slug": "central-karachi-pk702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK702",
+        "level": 2,
+        "name": {
+          "local": "وسطی کراچی",
+          "en": "Central Karachi",
+          "slug": "central-karachi-pk702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75300"
+    ],
+    "geo": {
+      "lat": "24.933",
+      "lon": "67.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Liaqatabad Town",
+      "en": "Liaqatabad Town",
+      "slug": "liaqatabad-town-pk70202"
+    },
+    "code": {
+      "id": "PK70202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK702",
+      "level": 2,
+      "name": {
+        "local": "وسطی کراچی",
+        "en": "Central Karachi",
+        "slug": "central-karachi-pk702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK702",
+        "level": 2,
+        "name": {
+          "local": "وسطی کراچی",
+          "en": "Central Karachi",
+          "slug": "central-karachi-pk702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71100"
+    ],
+    "geo": {
+      "lat": "24.903",
+      "lon": "67.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "New Karachi Town",
+      "en": "New Karachi Town",
+      "slug": "new-karachi-town-pk70203"
+    },
+    "code": {
+      "id": "PK70203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK702",
+      "level": 2,
+      "name": {
+        "local": "وسطی کراچی",
+        "en": "Central Karachi",
+        "slug": "central-karachi-pk702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK702",
+        "level": 2,
+        "name": {
+          "local": "وسطی کراچی",
+          "en": "Central Karachi",
+          "slug": "central-karachi-pk702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75850"
+    ],
+    "geo": {
+      "lat": "24.983",
+      "lon": "67.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "North Nazimabad Town",
+      "en": "North Nazimabad Town",
+      "slug": "north-nazimabad-town-pk70204"
+    },
+    "code": {
+      "id": "PK70204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK702",
+      "level": 2,
+      "name": {
+        "local": "وسطی کراچی",
+        "en": "Central Karachi",
+        "slug": "central-karachi-pk702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK702",
+        "level": 2,
+        "name": {
+          "local": "وسطی کراچی",
+          "en": "Central Karachi",
+          "slug": "central-karachi-pk702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75840"
+    ],
+    "geo": {
+      "lat": "24.934",
+      "lon": "67.038"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

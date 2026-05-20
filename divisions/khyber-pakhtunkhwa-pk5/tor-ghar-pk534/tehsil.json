@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK53401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Judba",
+      "en": "Judba",
+      "slug": "judba-pk53401"
+    },
+    "code": {
+      "id": "PK53401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK534",
+      "level": 2,
+      "name": {
+        "local": "تور غر",
+        "en": "Tor Ghar",
+        "slug": "tor-ghar-pk534"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK534",
+        "level": 2,
+        "name": {
+          "local": "تور غر",
+          "en": "Tor Ghar",
+          "slug": "tor-ghar-pk534"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21010"
+    ],
+    "geo": {
+      "lat": "34.651",
+      "lon": "72.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khander",
+      "en": "Khander",
+      "slug": "khander-pk53402"
+    },
+    "code": {
+      "id": "PK53402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK534",
+      "level": 2,
+      "name": {
+        "local": "تور غر",
+        "en": "Tor Ghar",
+        "slug": "tor-ghar-pk534"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK534",
+        "level": 2,
+        "name": {
+          "local": "تور غر",
+          "en": "Tor Ghar",
+          "slug": "tor-ghar-pk534"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21120"
+    ],
+    "geo": {
+      "lat": "34.465",
+      "lon": "72.818"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

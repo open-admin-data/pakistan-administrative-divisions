@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK51601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "داسو",
+      "en": "Dassu",
+      "slug": "dassu-pk51601"
+    },
+    "code": {
+      "id": "PK51601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK516",
+      "level": 2,
+      "name": {
+        "local": "بالائی کوہستان",
+        "en": "Kohistan Upper",
+        "slug": "kohistan-upper-pk516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK516",
+        "level": 2,
+        "name": {
+          "local": "بالائی کوہستان",
+          "en": "Kohistan Upper",
+          "slug": "kohistan-upper-pk516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20400"
+    ],
+    "geo": {
+      "lat": "35.24",
+      "lon": "73.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Harban Basha",
+      "en": "Harban Basha",
+      "slug": "harban-basha-pk51603"
+    },
+    "code": {
+      "id": "PK51603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK516",
+      "level": 2,
+      "name": {
+        "local": "بالائی کوہستان",
+        "en": "Kohistan Upper",
+        "slug": "kohistan-upper-pk516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK516",
+        "level": 2,
+        "name": {
+          "local": "بالائی کوہستان",
+          "en": "Kohistan Upper",
+          "slug": "kohistan-upper-pk516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26014"
+    ],
+    "geo": {
+      "lat": "35.417",
+      "lon": "73.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کنڈیارو",
+      "en": "Kandia",
+      "slug": "kandia-pk51602"
+    },
+    "code": {
+      "id": "PK51602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK516",
+      "level": 2,
+      "name": {
+        "local": "بالائی کوہستان",
+        "en": "Kohistan Upper",
+        "slug": "kohistan-upper-pk516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK516",
+        "level": 2,
+        "name": {
+          "local": "بالائی کوہستان",
+          "en": "Kohistan Upper",
+          "slug": "kohistan-upper-pk516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22580"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "73.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51604",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Seo",
+      "en": "Seo",
+      "slug": "seo-pk51604"
+    },
+    "code": {
+      "id": "PK51604",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK516",
+      "level": 2,
+      "name": {
+        "local": "بالائی کوہستان",
+        "en": "Kohistan Upper",
+        "slug": "kohistan-upper-pk516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK516",
+        "level": 2,
+        "name": {
+          "local": "بالائی کوہستان",
+          "en": "Kohistan Upper",
+          "slug": "kohistan-upper-pk516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22580"
+    ],
+    "geo": {
+      "lat": "35.34",
+      "lon": "73.165"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

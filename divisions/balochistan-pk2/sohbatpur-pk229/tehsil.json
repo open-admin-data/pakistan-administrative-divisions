@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK22901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سہبت پور",
+      "en": "Sohbatpur",
+      "slug": "sohbatpur-pk22901"
+    },
+    "code": {
+      "id": "PK22901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK229",
+      "level": 2,
+      "name": {
+        "local": "ضلع صحبت پور",
+        "en": "Sohbatpur",
+        "slug": "sohbatpur-pk229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK229",
+        "level": 2,
+        "name": {
+          "local": "ضلع صحبت پور",
+          "en": "Sohbatpur",
+          "slug": "sohbatpur-pk229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78200"
+    ],
+    "geo": {
+      "lat": "28.542",
+      "lon": "68.521"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "PK70901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میرو خان",
+      "en": "Meero Khan",
+      "slug": "meero-khan-pk70901"
+    },
+    "code": {
+      "id": "PK70901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK709",
+      "level": 2,
+      "name": {
+        "local": "قمبر شہدادکوٹ",
+        "en": "Qambar Shahdadkot",
+        "slug": "qambar-shahdadkot-pk709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK709",
+        "level": 2,
+        "name": {
+          "local": "قمبر شہدادکوٹ",
+          "en": "Qambar Shahdadkot",
+          "slug": "qambar-shahdadkot-pk709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77300"
+    ],
+    "geo": {
+      "lat": "27.759",
+      "lon": "67.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نصیرآباد",
+      "en": "Nasirabad",
+      "slug": "nasirabad-pk70902"
+    },
+    "code": {
+      "id": "PK70902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK709",
+      "level": 2,
+      "name": {
+        "local": "قمبر شہدادکوٹ",
+        "en": "Qambar Shahdadkot",
+        "slug": "qambar-shahdadkot-pk709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK709",
+        "level": 2,
+        "name": {
+          "local": "قمبر شہدادکوٹ",
+          "en": "Qambar Shahdadkot",
+          "slug": "qambar-shahdadkot-pk709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77030"
+    ],
+    "geo": {
+      "lat": "27.437",
+      "lon": "67.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قمبر",
+      "en": "Qambar",
+      "slug": "qambar-pk70903"
+    },
+    "code": {
+      "id": "PK70903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK709",
+      "level": 2,
+      "name": {
+        "local": "قمبر شہدادکوٹ",
+        "en": "Qambar Shahdadkot",
+        "slug": "qambar-shahdadkot-pk709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK709",
+        "level": 2,
+        "name": {
+          "local": "قمبر شہدادکوٹ",
+          "en": "Qambar Shahdadkot",
+          "slug": "qambar-shahdadkot-pk709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77040"
+    ],
+    "geo": {
+      "lat": "27.558",
+      "lon": "67.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70904",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Qubo Saeed Khan",
+      "en": "Qubo Saeed Khan",
+      "slug": "qubo-saeed-khan-pk70904"
+    },
+    "code": {
+      "id": "PK70904",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK709",
+      "level": 2,
+      "name": {
+        "local": "قمبر شہدادکوٹ",
+        "en": "Qambar Shahdadkot",
+        "slug": "qambar-shahdadkot-pk709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK709",
+        "level": 2,
+        "name": {
+          "local": "قمبر شہدادکوٹ",
+          "en": "Qambar Shahdadkot",
+          "slug": "qambar-shahdadkot-pk709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77214"
+    ],
+    "geo": {
+      "lat": "27.806",
+      "lon": "67.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70905",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شہدادکوٹ",
+      "en": "Shahdadkot",
+      "slug": "shahdadkot-pk70905"
+    },
+    "code": {
+      "id": "PK70905",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK709",
+      "level": 2,
+      "name": {
+        "local": "قمبر شہدادکوٹ",
+        "en": "Qambar Shahdadkot",
+        "slug": "qambar-shahdadkot-pk709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK709",
+        "level": 2,
+        "name": {
+          "local": "قمبر شہدادکوٹ",
+          "en": "Qambar Shahdadkot",
+          "slug": "qambar-shahdadkot-pk709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77300"
+    ],
+    "geo": {
+      "lat": "27.881",
+      "lon": "67.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70906",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sijawal Junejo",
+      "en": "Sijawal Junejo",
+      "slug": "sijawal-junejo-pk70906"
+    },
+    "code": {
+      "id": "PK70906",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK709",
+      "level": 2,
+      "name": {
+        "local": "قمبر شہدادکوٹ",
+        "en": "Qambar Shahdadkot",
+        "slug": "qambar-shahdadkot-pk709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK709",
+        "level": 2,
+        "name": {
+          "local": "قمبر شہدادکوٹ",
+          "en": "Qambar Shahdadkot",
+          "slug": "qambar-shahdadkot-pk709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77310"
+    ],
+    "geo": {
+      "lat": "27.805",
+      "lon": "68.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70907",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "وارہ",
+      "en": "Warah",
+      "slug": "warah-pk70907"
+    },
+    "code": {
+      "id": "PK70907",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK709",
+      "level": 2,
+      "name": {
+        "local": "قمبر شہدادکوٹ",
+        "en": "Qambar Shahdadkot",
+        "slug": "qambar-shahdadkot-pk709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK709",
+        "level": 2,
+        "name": {
+          "local": "قمبر شہدادکوٹ",
+          "en": "Qambar Shahdadkot",
+          "slug": "qambar-shahdadkot-pk709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77040"
+    ],
+    "geo": {
+      "lat": "27.427",
+      "lon": "67.737"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK21101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بلیدہ",
+      "en": "Buleda",
+      "slug": "buleda-pk21101"
+    },
+    "code": {
+      "id": "PK21101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK211",
+      "level": 2,
+      "name": {
+        "local": "ضلع کیچ",
+        "en": "Kech",
+        "slug": "kech-pk211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK211",
+        "level": 2,
+        "name": {
+          "local": "ضلع کیچ",
+          "en": "Kech",
+          "slug": "kech-pk211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92800"
+    ],
+    "geo": {
+      "lat": "26.414",
+      "lon": "63.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دشت",
+      "en": "Dasht",
+      "slug": "dasht-pk21102"
+    },
+    "code": {
+      "id": "PK21102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK211",
+      "level": 2,
+      "name": {
+        "local": "ضلع کیچ",
+        "en": "Kech",
+        "slug": "kech-pk211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK211",
+        "level": 2,
+        "name": {
+          "local": "ضلع کیچ",
+          "en": "Kech",
+          "slug": "kech-pk211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92650"
+    ],
+    "geo": {
+      "lat": "25.709",
+      "lon": "62.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kech (Turbat)",
+      "en": "Kech (Turbat)",
+      "slug": "kech-turbat-pk21103"
+    },
+    "code": {
+      "id": "PK21103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK211",
+      "level": 2,
+      "name": {
+        "local": "ضلع کیچ",
+        "en": "Kech",
+        "slug": "kech-pk211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK211",
+        "level": 2,
+        "name": {
+          "local": "ضلع کیچ",
+          "en": "Kech",
+          "slug": "kech-pk211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92910"
+    ],
+    "geo": {
+      "lat": "25.84",
+      "lon": "63.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21104",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mand",
+      "en": "Mand",
+      "slug": "mand-pk21104"
+    },
+    "code": {
+      "id": "PK21104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK211",
+      "level": 2,
+      "name": {
+        "local": "ضلع کیچ",
+        "en": "Kech",
+        "slug": "kech-pk211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK211",
+        "level": 2,
+        "name": {
+          "local": "ضلع کیچ",
+          "en": "Kech",
+          "slug": "kech-pk211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92100"
+    ],
+    "geo": {
+      "lat": "26.026",
+      "lon": "61.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21105",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "تمپ",
+      "en": "Tump",
+      "slug": "tump-pk21105"
+    },
+    "code": {
+      "id": "PK21105",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK211",
+      "level": 2,
+      "name": {
+        "local": "ضلع کیچ",
+        "en": "Kech",
+        "slug": "kech-pk211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK211",
+        "level": 2,
+        "name": {
+          "local": "ضلع کیچ",
+          "en": "Kech",
+          "slug": "kech-pk211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92300"
+    ],
+    "geo": {
+      "lat": "26.243",
+      "lon": "62.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

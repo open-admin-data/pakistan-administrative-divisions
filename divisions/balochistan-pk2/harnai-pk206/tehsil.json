@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK20601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ہرنائی",
+      "en": "Harnai",
+      "slug": "harnai-pk20601"
+    },
+    "code": {
+      "id": "PK20601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK206",
+      "level": 2,
+      "name": {
+        "local": "ضلع ہرنائی",
+        "en": "Harnai",
+        "slug": "harnai-pk206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK206",
+        "level": 2,
+        "name": {
+          "local": "ضلع ہرنائی",
+          "en": "Harnai",
+          "slug": "harnai-pk206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82300"
+    ],
+    "geo": {
+      "lat": "29.998",
+      "lon": "68.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shahrigh",
+      "en": "Shahrigh",
+      "slug": "shahrigh-pk20602"
+    },
+    "code": {
+      "id": "PK20602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK206",
+      "level": 2,
+      "name": {
+        "local": "ضلع ہرنائی",
+        "en": "Harnai",
+        "slug": "harnai-pk206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK206",
+        "level": 2,
+        "name": {
+          "local": "ضلع ہرنائی",
+          "en": "Harnai",
+          "slug": "harnai-pk206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96000"
+    ],
+    "geo": {
+      "lat": "30.205",
+      "lon": "67.584"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

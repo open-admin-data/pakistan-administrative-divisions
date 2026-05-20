@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK71501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ہالا",
+      "en": "Hala",
+      "slug": "hala-pk71501"
+    },
+    "code": {
+      "id": "PK71501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK715",
+      "level": 2,
+      "name": {
+        "local": "ضلع مٹیاری",
+        "en": "Matiari",
+        "slug": "matiari-pk715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK715",
+        "level": 2,
+        "name": {
+          "local": "ضلع مٹیاری",
+          "en": "Matiari",
+          "slug": "matiari-pk715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70130"
+    ],
+    "geo": {
+      "lat": "25.829",
+      "lon": "68.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مٹیاری",
+      "en": "Matiari",
+      "slug": "matiari-pk71502"
+    },
+    "code": {
+      "id": "PK71502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK715",
+      "level": 2,
+      "name": {
+        "local": "ضلع مٹیاری",
+        "en": "Matiari",
+        "slug": "matiari-pk715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK715",
+        "level": 2,
+        "name": {
+          "local": "ضلع مٹیاری",
+          "en": "Matiari",
+          "slug": "matiari-pk715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70150"
+    ],
+    "geo": {
+      "lat": "25.639",
+      "lon": "68.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سعید آباد",
+      "en": "Saeedabad",
+      "slug": "saeedabad-pk71503"
+    },
+    "code": {
+      "id": "PK71503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK715",
+      "level": 2,
+      "name": {
+        "local": "ضلع مٹیاری",
+        "en": "Matiari",
+        "slug": "matiari-pk715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK715",
+        "level": 2,
+        "name": {
+          "local": "ضلع مٹیاری",
+          "en": "Matiari",
+          "slug": "matiari-pk715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68010"
+    ],
+    "geo": {
+      "lat": "25.992",
+      "lon": "68.386"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "PK214",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع قلعہ عبداللہ",
+    "en": "Killa Abdullah",
+    "slug": "killa-abdullah-pk214"
+  },
+  "code": {
+    "id": "PK214",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "86720"
+  ],
+  "geo": {
+    "lat": "31.116",
+    "lon": "67.024"
+  },
+  "metadata": {},
+  "source": {}
+}

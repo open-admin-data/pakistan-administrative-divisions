@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK21201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خاران",
+      "en": "Kharan",
+      "slug": "kharan-pk21201"
+    },
+    "code": {
+      "id": "PK21201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK212",
+      "level": 2,
+      "name": {
+        "local": "ضلع خاران",
+        "en": "Kharan",
+        "slug": "kharan-pk212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK212",
+        "level": 2,
+        "name": {
+          "local": "ضلع خاران",
+          "en": "Kharan",
+          "slug": "kharan-pk212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95110"
+    ],
+    "geo": {
+      "lat": "28.91",
+      "lon": "65.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sar Kharan",
+      "en": "Sar Kharan",
+      "slug": "sar-kharan-pk21202"
+    },
+    "code": {
+      "id": "PK21202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK212",
+      "level": 2,
+      "name": {
+        "local": "ضلع خاران",
+        "en": "Kharan",
+        "slug": "kharan-pk212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK212",
+        "level": 2,
+        "name": {
+          "local": "ضلع خاران",
+          "en": "Kharan",
+          "slug": "kharan-pk212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94100"
+    ],
+    "geo": {
+      "lat": "28.4",
+      "lon": "65.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Tomulk",
+      "en": "Tomulk",
+      "slug": "tomulk-pk21203"
+    },
+    "code": {
+      "id": "PK21203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK212",
+      "level": 2,
+      "name": {
+        "local": "ضلع خاران",
+        "en": "Kharan",
+        "slug": "kharan-pk212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK212",
+        "level": 2,
+        "name": {
+          "local": "ضلع خاران",
+          "en": "Kharan",
+          "slug": "kharan-pk212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94150"
+    ],
+    "geo": {
+      "lat": "28.627",
+      "lon": "65.184"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

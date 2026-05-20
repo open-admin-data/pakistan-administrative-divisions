@@ -1,0 +1,49 @@
+{
+  "id": "PK513",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع لنڈی کوتل",
+    "en": "Khyber",
+    "slug": "khyber-pk513"
+  },
+  "code": {
+    "id": "PK513",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "24740"
+  ],
+  "geo": {
+    "lat": "34.04",
+    "lon": "71.205"
+  },
+  "metadata": {},
+  "source": {}
+}

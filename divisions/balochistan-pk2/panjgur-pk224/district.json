@@ -1,0 +1,49 @@
+{
+  "id": "PK224",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع پنجگور",
+    "en": "Panjgur",
+    "slug": "panjgur-pk224"
+  },
+  "code": {
+    "id": "PK224",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "93200"
+  ],
+  "geo": {
+    "lat": "26.715",
+    "lon": "64.202"
+  },
+  "metadata": {},
+  "source": {}
+}

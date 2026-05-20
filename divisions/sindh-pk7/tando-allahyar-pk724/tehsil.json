@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK72401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قمبر",
+      "en": "Chamber",
+      "slug": "chamber-pk72401"
+    },
+    "code": {
+      "id": "PK72401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK724",
+      "level": 2,
+      "name": {
+        "local": "ٹنڈو الہ یار",
+        "en": "Tando Allahyar",
+        "slug": "tando-allahyar-pk724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK724",
+        "level": 2,
+        "name": {
+          "local": "ٹنڈو الہ یار",
+          "en": "Tando Allahyar",
+          "slug": "tando-allahyar-pk724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70080"
+    ],
+    "geo": {
+      "lat": "25.317",
+      "lon": "68.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jhando Mari",
+      "en": "Jhando Mari",
+      "slug": "jhando-mari-pk72402"
+    },
+    "code": {
+      "id": "PK72402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK724",
+      "level": 2,
+      "name": {
+        "local": "ٹنڈو الہ یار",
+        "en": "Tando Allahyar",
+        "slug": "tando-allahyar-pk724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK724",
+        "level": 2,
+        "name": {
+          "local": "ٹنڈو الہ یار",
+          "en": "Tando Allahyar",
+          "slug": "tando-allahyar-pk724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70020"
+    ],
+    "geo": {
+      "lat": "25.578",
+      "lon": "68.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹنڈو الہ یار",
+      "en": "Tando Allahyar",
+      "slug": "tando-allahyar-pk72403"
+    },
+    "code": {
+      "id": "PK72403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK724",
+      "level": 2,
+      "name": {
+        "local": "ٹنڈو الہ یار",
+        "en": "Tando Allahyar",
+        "slug": "tando-allahyar-pk724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK724",
+        "level": 2,
+        "name": {
+          "local": "ٹنڈو الہ یار",
+          "en": "Tando Allahyar",
+          "slug": "tando-allahyar-pk724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70010"
+    ],
+    "geo": {
+      "lat": "25.448",
+      "lon": "68.712"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK63501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گوجرہ",
+      "en": "Gojra",
+      "slug": "gojra-pk63501"
+    },
+    "code": {
+      "id": "PK63501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK635",
+      "level": 2,
+      "name": {
+        "local": "ٹوبہ ٹیک سنگھ",
+        "en": "Toba Tek Singh",
+        "slug": "toba-tek-singh-pk635"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK635",
+        "level": 2,
+        "name": {
+          "local": "ٹوبہ ٹیک سنگھ",
+          "en": "Toba Tek Singh",
+          "slug": "toba-tek-singh-pk635"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36100"
+    ],
+    "geo": {
+      "lat": "31.145",
+      "lon": "72.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کمالیہ",
+      "en": "Kamalia",
+      "slug": "kamalia-pk63502"
+    },
+    "code": {
+      "id": "PK63502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK635",
+      "level": 2,
+      "name": {
+        "local": "ٹوبہ ٹیک سنگھ",
+        "en": "Toba Tek Singh",
+        "slug": "toba-tek-singh-pk635"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK635",
+        "level": 2,
+        "name": {
+          "local": "ٹوبہ ٹیک سنگھ",
+          "en": "Toba Tek Singh",
+          "slug": "toba-tek-singh-pk635"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36390"
+    ],
+    "geo": {
+      "lat": "30.664",
+      "lon": "72.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پیر محل",
+      "en": "Pir Mahal",
+      "slug": "pir-mahal-pk63504"
+    },
+    "code": {
+      "id": "PK63504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK635",
+      "level": 2,
+      "name": {
+        "local": "ٹوبہ ٹیک سنگھ",
+        "en": "Toba Tek Singh",
+        "slug": "toba-tek-singh-pk635"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK635",
+        "level": 2,
+        "name": {
+          "local": "ٹوبہ ٹیک سنگھ",
+          "en": "Toba Tek Singh",
+          "slug": "toba-tek-singh-pk635"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36300"
+    ],
+    "geo": {
+      "lat": "30.735",
+      "lon": "72.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹوبہ ٹیک سنگھ",
+      "en": "Toba Tek Singh",
+      "slug": "toba-tek-singh-pk63503"
+    },
+    "code": {
+      "id": "PK63503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK635",
+      "level": 2,
+      "name": {
+        "local": "ٹوبہ ٹیک سنگھ",
+        "en": "Toba Tek Singh",
+        "slug": "toba-tek-singh-pk635"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK635",
+        "level": 2,
+        "name": {
+          "local": "ٹوبہ ٹیک سنگھ",
+          "en": "Toba Tek Singh",
+          "slug": "toba-tek-singh-pk635"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43700"
+    ],
+    "geo": {
+      "lat": "30.942",
+      "lon": "72.551"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK61501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جہانیاں",
+      "en": "Jahanian",
+      "slug": "jahanian-pk61501"
+    },
+    "code": {
+      "id": "PK61501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK615",
+      "level": 2,
+      "name": {
+        "local": "خانیوال",
+        "en": "Khanewal",
+        "slug": "khanewal-pk615"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK615",
+        "level": 2,
+        "name": {
+          "local": "خانیوال",
+          "en": "Khanewal",
+          "slug": "khanewal-pk615"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "58200"
+    ],
+    "geo": {
+      "lat": "30.061",
+      "lon": "71.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کبیر والا",
+      "en": "Kabirwala",
+      "slug": "kabirwala-pk61502"
+    },
+    "code": {
+      "id": "PK61502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK615",
+      "level": 2,
+      "name": {
+        "local": "خانیوال",
+        "en": "Khanewal",
+        "slug": "khanewal-pk615"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK615",
+        "level": 2,
+        "name": {
+          "local": "خانیوال",
+          "en": "Khanewal",
+          "slug": "khanewal-pk615"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "58190"
+    ],
+    "geo": {
+      "lat": "30.497",
+      "lon": "71.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خانیوال",
+      "en": "Khanewal",
+      "slug": "khanewal-pk61503"
+    },
+    "code": {
+      "id": "PK61503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK615",
+      "level": 2,
+      "name": {
+        "local": "خانیوال",
+        "en": "Khanewal",
+        "slug": "khanewal-pk615"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK615",
+        "level": 2,
+        "name": {
+          "local": "خانیوال",
+          "en": "Khanewal",
+          "slug": "khanewal-pk615"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57230"
+    ],
+    "geo": {
+      "lat": "30.283",
+      "lon": "72.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میاں چنوں",
+      "en": "Mian Channu",
+      "slug": "mian-channu-pk61504"
+    },
+    "code": {
+      "id": "PK61504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK615",
+      "level": 2,
+      "name": {
+        "local": "خانیوال",
+        "en": "Khanewal",
+        "slug": "khanewal-pk615"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK615",
+        "level": 2,
+        "name": {
+          "local": "خانیوال",
+          "en": "Khanewal",
+          "slug": "khanewal-pk615"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53100"
+    ],
+    "geo": {
+      "lat": "30.333",
+      "lon": "72.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

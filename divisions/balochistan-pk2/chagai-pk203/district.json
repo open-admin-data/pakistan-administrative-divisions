@@ -1,0 +1,49 @@
+{
+  "id": "PK203",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع چاغی",
+    "en": "Chagai",
+    "slug": "chagai-pk203"
+  },
+  "code": {
+    "id": "PK203",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "95100"
+  ],
+  "geo": {
+    "lat": "28.875",
+    "lon": "63.418"
+  },
+  "metadata": {},
+  "source": {}
+}

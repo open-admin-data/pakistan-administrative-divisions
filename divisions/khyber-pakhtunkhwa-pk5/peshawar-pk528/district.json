@@ -1,0 +1,49 @@
+{
+  "id": "PK528",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "پشاور",
+    "en": "Peshawar",
+    "slug": "peshawar-pk528"
+  },
+  "code": {
+    "id": "PK528",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "24360"
+  ],
+  "geo": {
+    "lat": "33.942",
+    "lon": "71.6"
+  },
+  "metadata": {},
+  "source": {}
+}

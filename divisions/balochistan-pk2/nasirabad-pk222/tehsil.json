@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK22201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹھٹہ",
+      "en": "Chattar",
+      "slug": "chattar-pk22201"
+    },
+    "code": {
+      "id": "PK22201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK222",
+      "level": 2,
+      "name": {
+        "local": "ضلع نصیر آباد",
+        "en": "Nasirabad",
+        "slug": "nasirabad-pk222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK222",
+        "level": 2,
+        "name": {
+          "local": "ضلع نصیر آباد",
+          "en": "Nasirabad",
+          "slug": "nasirabad-pk222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81250"
+    ],
+    "geo": {
+      "lat": "28.816",
+      "lon": "68.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈیرہ مراد جمالی",
+      "en": "Dera Murad Jamali",
+      "slug": "dera-murad-jamali-pk22202"
+    },
+    "code": {
+      "id": "PK22202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK222",
+      "level": 2,
+      "name": {
+        "local": "ضلع نصیر آباد",
+        "en": "Nasirabad",
+        "slug": "nasirabad-pk222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK222",
+        "level": 2,
+        "name": {
+          "local": "ضلع نصیر آباد",
+          "en": "Nasirabad",
+          "slug": "nasirabad-pk222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19210"
+    ],
+    "geo": {
+      "lat": "28.623",
+      "lon": "68.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹمبو",
+      "en": "Tamboo",
+      "slug": "tamboo-pk22203"
+    },
+    "code": {
+      "id": "PK22203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK222",
+      "level": 2,
+      "name": {
+        "local": "ضلع نصیر آباد",
+        "en": "Nasirabad",
+        "slug": "nasirabad-pk222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK222",
+        "level": 2,
+        "name": {
+          "local": "ضلع نصیر آباد",
+          "en": "Nasirabad",
+          "slug": "nasirabad-pk222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19210"
+    ],
+    "geo": {
+      "lat": "28.493",
+      "lon": "67.903"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

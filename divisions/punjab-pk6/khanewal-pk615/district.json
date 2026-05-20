@@ -1,0 +1,49 @@
+{
+  "id": "PK615",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "خانیوال",
+    "en": "Khanewal",
+    "slug": "khanewal-pk615"
+  },
+  "code": {
+    "id": "PK615",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "58100"
+  ],
+  "geo": {
+    "lat": "30.316",
+    "lon": "72.065"
+  },
+  "metadata": {},
+  "source": {}
+}

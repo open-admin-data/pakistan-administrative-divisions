@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK51301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara-pk51301"
+    },
+    "code": {
+      "id": "PK51301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK513",
+      "level": 2,
+      "name": {
+        "local": "ضلع لنڈی کوتل",
+        "en": "Khyber",
+        "slug": "khyber-pk513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK513",
+        "level": 2,
+        "name": {
+          "local": "ضلع لنڈی کوتل",
+          "en": "Khyber",
+          "slug": "khyber-pk513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29510"
+    ],
+    "geo": {
+      "lat": "33.861",
+      "lon": "70.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جمرود",
+      "en": "Jamrud",
+      "slug": "jamrud-pk51302"
+    },
+    "code": {
+      "id": "PK51302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK513",
+      "level": 2,
+      "name": {
+        "local": "ضلع لنڈی کوتل",
+        "en": "Khyber",
+        "slug": "khyber-pk513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK513",
+        "level": 2,
+        "name": {
+          "local": "ضلع لنڈی کوتل",
+          "en": "Khyber",
+          "slug": "khyber-pk513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24720"
+    ],
+    "geo": {
+      "lat": "33.991",
+      "lon": "71.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لنڈی کوتل",
+      "en": "Landi Kotal",
+      "slug": "landi-kotal-pk51303"
+    },
+    "code": {
+      "id": "PK51303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK513",
+      "level": 2,
+      "name": {
+        "local": "ضلع لنڈی کوتل",
+        "en": "Khyber",
+        "slug": "khyber-pk513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK513",
+        "level": 2,
+        "name": {
+          "local": "ضلع لنڈی کوتل",
+          "en": "Khyber",
+          "slug": "khyber-pk513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24740"
+    ],
+    "geo": {
+      "lat": "34.131",
+      "lon": "71.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mulagori",
+      "en": "Mulagori",
+      "slug": "mulagori-pk51304"
+    },
+    "code": {
+      "id": "PK51304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK513",
+      "level": 2,
+      "name": {
+        "local": "ضلع لنڈی کوتل",
+        "en": "Khyber",
+        "slug": "khyber-pk513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK513",
+        "level": 2,
+        "name": {
+          "local": "ضلع لنڈی کوتل",
+          "en": "Khyber",
+          "slug": "khyber-pk513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24720"
+    ],
+    "geo": {
+      "lat": "34.118",
+      "lon": "71.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

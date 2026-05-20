@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK20501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گوادر",
+      "en": "Gwadar",
+      "slug": "gwadar-pk20501"
+    },
+    "code": {
+      "id": "PK20501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK205",
+      "level": 2,
+      "name": {
+        "local": "گوادر",
+        "en": "Gwadar",
+        "slug": "gwadar-pk205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK205",
+        "level": 2,
+        "name": {
+          "local": "گوادر",
+          "en": "Gwadar",
+          "slug": "gwadar-pk205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92650"
+    ],
+    "geo": {
+      "lat": "25.324",
+      "lon": "62.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جیونی",
+      "en": "Jiwani",
+      "slug": "jiwani-pk20502"
+    },
+    "code": {
+      "id": "PK20502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK205",
+      "level": 2,
+      "name": {
+        "local": "گوادر",
+        "en": "Gwadar",
+        "slug": "gwadar-pk205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK205",
+        "level": 2,
+        "name": {
+          "local": "گوادر",
+          "en": "Gwadar",
+          "slug": "gwadar-pk205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91100"
+    ],
+    "geo": {
+      "lat": "25.142",
+      "lon": "61.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اورماڑہ",
+      "en": "Ormara",
+      "slug": "ormara-pk20503"
+    },
+    "code": {
+      "id": "PK20503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK205",
+      "level": 2,
+      "name": {
+        "local": "گوادر",
+        "en": "Gwadar",
+        "slug": "gwadar-pk205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK205",
+        "level": 2,
+        "name": {
+          "local": "گوادر",
+          "en": "Gwadar",
+          "slug": "gwadar-pk205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91400"
+    ],
+    "geo": {
+      "lat": "25.379",
+      "lon": "64.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پسنی",
+      "en": "Pasni",
+      "slug": "pasni-pk20504"
+    },
+    "code": {
+      "id": "PK20504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK205",
+      "level": 2,
+      "name": {
+        "local": "گوادر",
+        "en": "Gwadar",
+        "slug": "gwadar-pk205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK205",
+        "level": 2,
+        "name": {
+          "local": "گوادر",
+          "en": "Gwadar",
+          "slug": "gwadar-pk205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91200"
+    ],
+    "geo": {
+      "lat": "25.406",
+      "lon": "63.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20505",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sunster",
+      "en": "Sunster",
+      "slug": "sunster-pk20505"
+    },
+    "code": {
+      "id": "PK20505",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK205",
+      "level": 2,
+      "name": {
+        "local": "گوادر",
+        "en": "Gwadar",
+        "slug": "gwadar-pk205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK205",
+        "level": 2,
+        "name": {
+          "local": "گوادر",
+          "en": "Gwadar",
+          "slug": "gwadar-pk205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91100"
+    ],
+    "geo": {
+      "lat": "25.524",
+      "lon": "61.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

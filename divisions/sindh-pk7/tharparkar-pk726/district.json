@@ -1,0 +1,49 @@
+{
+  "id": "PK726",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع تھرپارکر",
+    "en": "Tharparkar",
+    "slug": "tharparkar-pk726"
+  },
+  "code": {
+    "id": "PK726",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 7
+  },
+  "zip_codes": [
+    "69170"
+  ],
+  "geo": {
+    "lat": "24.943",
+    "lon": "70.241"
+  },
+  "metadata": {},
+  "source": {}
+}

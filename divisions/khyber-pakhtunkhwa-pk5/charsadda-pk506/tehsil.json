@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK50601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چارسدہ",
+      "en": "Charsadda",
+      "slug": "charsadda-pk50601"
+    },
+    "code": {
+      "id": "PK50601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK506",
+      "level": 2,
+      "name": {
+        "local": "چارسدہ",
+        "en": "Charsadda",
+        "slug": "charsadda-pk506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK506",
+        "level": 2,
+        "name": {
+          "local": "چارسدہ",
+          "en": "Charsadda",
+          "slug": "charsadda-pk506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24480"
+    ],
+    "geo": {
+      "lat": "34.165",
+      "lon": "71.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شبقدر",
+      "en": "Shabqadar",
+      "slug": "shabqadar-pk50602"
+    },
+    "code": {
+      "id": "PK50602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK506",
+      "level": 2,
+      "name": {
+        "local": "چارسدہ",
+        "en": "Charsadda",
+        "slug": "charsadda-pk506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK506",
+        "level": 2,
+        "name": {
+          "local": "چارسدہ",
+          "en": "Charsadda",
+          "slug": "charsadda-pk506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24502"
+    ],
+    "geo": {
+      "lat": "34.23",
+      "lon": "71.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹانگی",
+      "en": "Tangi",
+      "slug": "tangi-pk50603"
+    },
+    "code": {
+      "id": "PK50603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK506",
+      "level": 2,
+      "name": {
+        "local": "چارسدہ",
+        "en": "Charsadda",
+        "slug": "charsadda-pk506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK506",
+        "level": 2,
+        "name": {
+          "local": "چارسدہ",
+          "en": "Charsadda",
+          "slug": "charsadda-pk506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23270"
+    ],
+    "geo": {
+      "lat": "34.347",
+      "lon": "71.705"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

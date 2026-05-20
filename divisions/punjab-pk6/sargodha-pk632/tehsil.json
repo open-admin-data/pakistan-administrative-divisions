@@ -1,0 +1,394 @@
+[
+  {
+    "id": "PK63201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بھلوال",
+      "en": "Bhalwal",
+      "slug": "bhalwal-pk63201"
+    },
+    "code": {
+      "id": "PK63201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK632",
+      "level": 2,
+      "name": {
+        "local": "سرگودھا",
+        "en": "Sargodha",
+        "slug": "sargodha-pk632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK632",
+        "level": 2,
+        "name": {
+          "local": "سرگودھا",
+          "en": "Sargodha",
+          "slug": "sargodha-pk632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40410"
+    ],
+    "geo": {
+      "lat": "32.276",
+      "lon": "72.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63207",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بهرا",
+      "en": "Bhera",
+      "slug": "bhera-pk63207"
+    },
+    "code": {
+      "id": "PK63207",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK632",
+      "level": 2,
+      "name": {
+        "local": "سرگودھا",
+        "en": "Sargodha",
+        "slug": "sargodha-pk632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK632",
+        "level": 2,
+        "name": {
+          "local": "سرگودھا",
+          "en": "Sargodha",
+          "slug": "sargodha-pk632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43222"
+    ],
+    "geo": {
+      "lat": "32.412",
+      "lon": "72.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوٹ مومن",
+      "en": "Kot Momin",
+      "slug": "kot-momin-pk63202"
+    },
+    "code": {
+      "id": "PK63202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK632",
+      "level": 2,
+      "name": {
+        "local": "سرگودھا",
+        "en": "Sargodha",
+        "slug": "sargodha-pk632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK632",
+        "level": 2,
+        "name": {
+          "local": "سرگودھا",
+          "en": "Sargodha",
+          "slug": "sargodha-pk632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40460"
+    ],
+    "geo": {
+      "lat": "32.096",
+      "lon": "73.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ساہیوال",
+      "en": "Sahiwal",
+      "slug": "sahiwal-pk63203"
+    },
+    "code": {
+      "id": "PK63203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK632",
+      "level": 2,
+      "name": {
+        "local": "سرگودھا",
+        "en": "Sargodha",
+        "slug": "sargodha-pk632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK632",
+        "level": 2,
+        "name": {
+          "local": "سرگودھا",
+          "en": "Sargodha",
+          "slug": "sargodha-pk632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40000"
+    ],
+    "geo": {
+      "lat": "31.883",
+      "lon": "72.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سرگودھا",
+      "en": "Sargodha",
+      "slug": "sargodha-pk63204"
+    },
+    "code": {
+      "id": "PK63204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK632",
+      "level": 2,
+      "name": {
+        "local": "سرگودھا",
+        "en": "Sargodha",
+        "slug": "sargodha-pk632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK632",
+        "level": 2,
+        "name": {
+          "local": "سرگودھا",
+          "en": "Sargodha",
+          "slug": "sargodha-pk632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40462"
+    ],
+    "geo": {
+      "lat": "32.054",
+      "lon": "72.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63205",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شاہپور",
+      "en": "Shahpur",
+      "slug": "shahpur-pk63205"
+    },
+    "code": {
+      "id": "PK63205",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK632",
+      "level": 2,
+      "name": {
+        "local": "سرگودھا",
+        "en": "Sargodha",
+        "slug": "sargodha-pk632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK632",
+        "level": 2,
+        "name": {
+          "local": "سرگودھا",
+          "en": "Sargodha",
+          "slug": "sargodha-pk632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40610"
+    ],
+    "geo": {
+      "lat": "32.2",
+      "lon": "72.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63206",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سلانوالی",
+      "en": "Sillanwali",
+      "slug": "sillanwali-pk63206"
+    },
+    "code": {
+      "id": "PK63206",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK632",
+      "level": 2,
+      "name": {
+        "local": "سرگودھا",
+        "en": "Sargodha",
+        "slug": "sargodha-pk632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK632",
+        "level": 2,
+        "name": {
+          "local": "سرگودھا",
+          "en": "Sargodha",
+          "slug": "sargodha-pk632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35300"
+    ],
+    "geo": {
+      "lat": "31.767",
+      "lon": "72.52"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

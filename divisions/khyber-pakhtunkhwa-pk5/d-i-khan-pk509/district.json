@@ -1,0 +1,49 @@
+{
+  "id": "PK509",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ڈیرہ اسماعیل خان",
+    "en": "D. I. Khan",
+    "slug": "d-i-khan-pk509"
+  },
+  "code": {
+    "id": "PK509",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 6
+  },
+  "zip_codes": [
+    "29350"
+  ],
+  "geo": {
+    "lat": "31.85",
+    "lon": "70.625"
+  },
+  "metadata": {},
+  "source": {}
+}

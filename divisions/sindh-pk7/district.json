@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "PK701",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "بدین",
+      "en": "Badin",
+      "slug": "badin-pk701"
+    },
+    "code": {
+      "id": "PK701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "72200"
+    ],
+    "geo": {
+      "lat": "24.752",
+      "lon": "68.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK702",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "وسطی کراچی",
+      "en": "Central Karachi",
+      "slug": "central-karachi-pk702"
+    },
+    "code": {
+      "id": "PK702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "75840"
+    ],
+    "geo": {
+      "lat": "24.948",
+      "lon": "67.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK703",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "دادو",
+      "en": "Dadu",
+      "slug": "dadu-pk703"
+    },
+    "code": {
+      "id": "PK703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "76190"
+    ],
+    "geo": {
+      "lat": "26.768",
+      "lon": "67.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK704",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "مشرقی کراچی",
+      "en": "East Karachi",
+      "slug": "east-karachi-pk704"
+    },
+    "code": {
+      "id": "PK704",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "75200"
+    ],
+    "geo": {
+      "lat": "24.932",
+      "lon": "67.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK705",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "گھوٹکی",
+      "en": "Ghotki",
+      "slug": "ghotki-pk705"
+    },
+    "code": {
+      "id": "PK705",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "65050"
+    ],
+    "geo": {
+      "lat": "27.866",
+      "lon": "69.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK706",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "حیدرآباد",
+      "en": "Hyderabad",
+      "slug": "hyderabad-pk706"
+    },
+    "code": {
+      "id": "PK706",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "70210"
+    ],
+    "geo": {
+      "lat": "25.355",
+      "lon": "68.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK707",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "جیکب آباد",
+      "en": "Jacobabad",
+      "slug": "jacobabad-pk707"
+    },
+    "code": {
+      "id": "PK707",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "78200"
+    ],
+    "geo": {
+      "lat": "28.176",
+      "lon": "68.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK708",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع جامشورو",
+      "en": "Jamshoro",
+      "slug": "jamshoro-pk708"
+    },
+    "code": {
+      "id": "PK708",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "76130"
+    ],
+    "geo": {
+      "lat": "25.786",
+      "lon": "67.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK710",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع کشمور",
+      "en": "Kashmore",
+      "slug": "kashmore-pk710"
+    },
+    "code": {
+      "id": "PK710",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "79160"
+    ],
+    "geo": {
+      "lat": "28.236",
+      "lon": "69.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK711",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "خیرپور",
+      "en": "Khairpur",
+      "slug": "khairpur-pk711"
+    },
+    "code": {
+      "id": "PK711",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 8
+    },
+    "zip_codes": [
+      "66170"
+    ],
+    "geo": {
+      "lat": "26.96",
+      "lon": "68.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK712",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "کورنگی کراچی",
+      "en": "Korangi Karachi",
+      "slug": "korangi-karachi-pk712"
+    },
+    "code": {
+      "id": "PK712",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "75190"
+    ],
+    "geo": {
+      "lat": "24.833",
+      "lon": "67.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK713",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "لاڑکانہ",
+      "en": "Larkana",
+      "slug": "larkana-pk713"
+    },
+    "code": {
+      "id": "PK713",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "77020"
+    ],
+    "geo": {
+      "lat": "27.531",
+      "lon": "68.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK714",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ملیر کراچی",
+      "en": "Malir Karachi",
+      "slug": "malir-karachi-pk714"
+    },
+    "code": {
+      "id": "PK714",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "75340"
+    ],
+    "geo": {
+      "lat": "25.207",
+      "lon": "67.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK715",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع مٹیاری",
+      "en": "Matiari",
+      "slug": "matiari-pk715"
+    },
+    "code": {
+      "id": "PK715",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "70130"
+    ],
+    "geo": {
+      "lat": "25.771",
+      "lon": "68.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK716",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "میرپور خاص",
+      "en": "Mirpur Khas",
+      "slug": "mirpur-khas-pk716"
+    },
+    "code": {
+      "id": "PK716",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 7
+    },
+    "zip_codes": [
+      "69370"
+    ],
+    "geo": {
+      "lat": "25.307",
+      "lon": "69.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK717",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "نوشہرو فیروز",
+      "en": "Naushahro Feroze",
+      "slug": "naushahro-feroze-pk717"
+    },
+    "code": {
+      "id": "PK717",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "67080"
+    ],
+    "geo": {
+      "lat": "26.888",
+      "lon": "68.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK709",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "قمبر شہدادکوٹ",
+      "en": "Qambar Shahdadkot",
+      "slug": "qambar-shahdadkot-pk709"
+    },
+    "code": {
+      "id": "PK709",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 7
+    },
+    "zip_codes": [
+      "77214"
+    ],
+    "geo": {
+      "lat": "27.647",
+      "lon": "67.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK718",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سانگھڑ",
+      "en": "Sanghar",
+      "slug": "sanghar-pk718"
+    },
+    "code": {
+      "id": "PK718",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "68140"
+    ],
+    "geo": {
+      "lat": "25.979",
+      "lon": "69.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK719",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "شہید بینظیر آباد",
+      "en": "Shaheed Benazir Abad",
+      "slug": "shaheed-benazir-abad-pk719"
+    },
+    "code": {
+      "id": "PK719",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "67470"
+    ],
+    "geo": {
+      "lat": "26.309",
+      "lon": "68.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK720",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "شکارپور",
+      "en": "Shikarpur",
+      "slug": "shikarpur-pk720"
+    },
+    "code": {
+      "id": "PK720",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "78100"
+    ],
+    "geo": {
+      "lat": "27.922",
+      "lon": "68.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK721",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "جنوبی کراچی",
+      "en": "South Karachi",
+      "slug": "south-karachi-pk721"
+    },
+    "code": {
+      "id": "PK721",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "70100"
+    ],
+    "geo": {
+      "lat": "24.893",
+      "lon": "66.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK722",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع سجاول",
+      "en": "Sujawal",
+      "slug": "sujawal-pk722"
+    },
+    "code": {
+      "id": "PK722",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "73060"
+    ],
+    "geo": {
+      "lat": "24.388",
+      "lon": "68.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK723",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سکھر",
+      "en": "Sukkur",
+      "slug": "sukkur-pk723"
+    },
+    "code": {
+      "id": "PK723",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "65150"
+    ],
+    "geo": {
+      "lat": "27.545",
+      "lon": "69.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK724",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ٹنڈو الہ یار",
+      "en": "Tando Allahyar",
+      "slug": "tando-allahyar-pk724"
+    },
+    "code": {
+      "id": "PK724",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "70010"
+    ],
+    "geo": {
+      "lat": "25.481",
+      "lon": "68.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK725",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع ٹنڈو محمد خان",
+      "en": "Tando Muhammad Khan",
+      "slug": "tando-muhammad-khan-pk725"
+    },
+    "code": {
+      "id": "PK725",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "70220"
+    ],
+    "geo": {
+      "lat": "25.025",
+      "lon": "68.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK726",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع تھرپارکر",
+      "en": "Tharparkar",
+      "slug": "tharparkar-pk726"
+    },
+    "code": {
+      "id": "PK726",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 7
+    },
+    "zip_codes": [
+      "69170"
+    ],
+    "geo": {
+      "lat": "24.943",
+      "lon": "70.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK727",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ٹھٹہ",
+      "en": "Thatta",
+      "slug": "thatta-pk727"
+    },
+    "code": {
+      "id": "PK727",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "73200"
+    ],
+    "geo": {
+      "lat": "24.694",
+      "lon": "67.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK728",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "عمرکوٹ",
+      "en": "Umerkot",
+      "slug": "umerkot-pk728"
+    },
+    "code": {
+      "id": "PK728",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "69120"
+    ],
+    "geo": {
+      "lat": "25.333",
+      "lon": "69.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK729",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "مغربی کراچی",
+      "en": "West Karachi",
+      "slug": "west-karachi-pk729"
+    },
+    "code": {
+      "id": "PK729",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "75800"
+    ],
+    "geo": {
+      "lat": "24.987",
+      "lon": "67.008"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

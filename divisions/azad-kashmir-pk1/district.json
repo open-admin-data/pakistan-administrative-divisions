@@ -1,0 +1,492 @@
+[
+  {
+    "id": "PK101",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "باغ",
+      "en": "Bagh",
+      "slug": "bagh-pk101"
+    },
+    "code": {
+      "id": "PK101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "12510"
+    ],
+    "geo": {
+      "lat": "34.003",
+      "lon": "73.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK102",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع بھمبر",
+      "en": "Bhimber",
+      "slug": "bhimber-pk102"
+    },
+    "code": {
+      "id": "PK102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "10030"
+    ],
+    "geo": {
+      "lat": "33.014",
+      "lon": "74.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK104",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع حویلی",
+      "en": "Haveli",
+      "slug": "haveli-pk104"
+    },
+    "code": {
+      "id": "PK104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "10080"
+    ],
+    "geo": {
+      "lat": "33.935",
+      "lon": "74.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK103",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "وادی جہلم",
+      "en": "Jhelum Valley",
+      "slug": "jhelum-valley-pk103"
+    },
+    "code": {
+      "id": "PK103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "34.188",
+      "lon": "73.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK105",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوٹلی",
+      "en": "Kotli",
+      "slug": "kotli-pk105"
+    },
+    "code": {
+      "id": "PK105",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "11210"
+    ],
+    "geo": {
+      "lat": "33.454",
+      "lon": "73.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK106",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع میر پور",
+      "en": "Mirpur",
+      "slug": "mirpur-pk106"
+    },
+    "code": {
+      "id": "PK106",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "10350"
+    ],
+    "geo": {
+      "lat": "33.239",
+      "lon": "73.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK107",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "مظفر آباد",
+      "en": "Muzaffarabad",
+      "slug": "muzaffarabad-pk107"
+    },
+    "code": {
+      "id": "PK107",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "13170"
+    ],
+    "geo": {
+      "lat": "34.323",
+      "lon": "73.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK108",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع نیلم",
+      "en": "Neelum",
+      "slug": "neelum-pk108"
+    },
+    "code": {
+      "id": "PK108",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "89300"
+    ],
+    "geo": {
+      "lat": "34.757",
+      "lon": "73.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK109",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع پونچھ",
+      "en": "Poonch",
+      "slug": "poonch-pk109"
+    },
+    "code": {
+      "id": "PK109",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "12170"
+    ],
+    "geo": {
+      "lat": "33.786",
+      "lon": "73.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK110",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سدھنوتی",
+      "en": "Sudhnoti",
+      "slug": "sudhnoti-pk110"
+    },
+    "code": {
+      "id": "PK110",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "12070"
+    ],
+    "geo": {
+      "lat": "33.704",
+      "lon": "73.739"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

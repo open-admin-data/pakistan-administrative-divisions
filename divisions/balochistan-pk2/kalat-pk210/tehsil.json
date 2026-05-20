@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK21001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قلات",
+      "en": "Kalat",
+      "slug": "kalat-pk21001"
+    },
+    "code": {
+      "id": "PK21001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK210",
+      "level": 2,
+      "name": {
+        "local": "قلات",
+        "en": "Kalat",
+        "slug": "kalat-pk210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK210",
+        "level": 2,
+        "name": {
+          "local": "قلات",
+          "en": "Kalat",
+          "slug": "kalat-pk210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88310"
+    ],
+    "geo": {
+      "lat": "29.042",
+      "lon": "66.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khaliqabad",
+      "en": "Khaliqabad",
+      "slug": "khaliqabad-pk21002"
+    },
+    "code": {
+      "id": "PK21002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK210",
+      "level": 2,
+      "name": {
+        "local": "قلات",
+        "en": "Kalat",
+        "slug": "kalat-pk210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK210",
+        "level": 2,
+        "name": {
+          "local": "قلات",
+          "en": "Kalat",
+          "slug": "kalat-pk210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81550"
+    ],
+    "geo": {
+      "lat": "29.436",
+      "lon": "66.608"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

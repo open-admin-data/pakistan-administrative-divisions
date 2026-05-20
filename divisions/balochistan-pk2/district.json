@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "PK201",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع آواران",
+      "en": "Awaran",
+      "slug": "awaran-pk201"
+    },
+    "code": {
+      "id": "PK201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "88210"
+    ],
+    "geo": {
+      "lat": "26.424",
+      "lon": "65.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK202",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع بارکھان",
+      "en": "Barkhan",
+      "slug": "barkhan-pk202"
+    },
+    "code": {
+      "id": "PK202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "84100"
+    ],
+    "geo": {
+      "lat": "29.985",
+      "lon": "69.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK203",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع چاغی",
+      "en": "Chagai",
+      "slug": "chagai-pk203"
+    },
+    "code": {
+      "id": "PK203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "95100"
+    ],
+    "geo": {
+      "lat": "28.875",
+      "lon": "63.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK235",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "چمن",
+      "en": "Chaman",
+      "slug": "chaman-pk235"
+    },
+    "code": {
+      "id": "PK235",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "87300"
+    ],
+    "geo": {
+      "lat": "30.856",
+      "lon": "66.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK204",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ڈیرہ بگٹی",
+      "en": "Dera Bugti",
+      "slug": "dera-bugti-pk204"
+    },
+    "code": {
+      "id": "PK204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "80100"
+    ],
+    "geo": {
+      "lat": "29.06",
+      "lon": "69.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK234",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع دوکی، پاکستان",
+      "en": "Duki",
+      "slug": "duki-pk234"
+    },
+    "code": {
+      "id": "PK234",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "82100"
+    ],
+    "geo": {
+      "lat": "30.181",
+      "lon": "68.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK205",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "گوادر",
+      "en": "Gwadar",
+      "slug": "gwadar-pk205"
+    },
+    "code": {
+      "id": "PK205",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "92650"
+    ],
+    "geo": {
+      "lat": "25.425",
+      "lon": "62.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK206",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع ہرنائی",
+      "en": "Harnai",
+      "slug": "harnai-pk206"
+    },
+    "code": {
+      "id": "PK206",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "82300"
+    ],
+    "geo": {
+      "lat": "30.042",
+      "lon": "68.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK207",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "جعفرآباد",
+      "en": "Jaffarabad",
+      "slug": "jaffarabad-pk207"
+    },
+    "code": {
+      "id": "PK207",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "80300"
+    ],
+    "geo": {
+      "lat": "28.249",
+      "lon": "68.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK208",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع جھل مگسی",
+      "en": "Jhal Magsi",
+      "slug": "jhal-magsi-pk208"
+    },
+    "code": {
+      "id": "PK208",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "81100"
+    ],
+    "geo": {
+      "lat": "28.37",
+      "lon": "67.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK209",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع کچھی",
+      "en": "Kachhi",
+      "slug": "kachhi-pk209"
+    },
+    "code": {
+      "id": "PK209",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "81400"
+    ],
+    "geo": {
+      "lat": "29.341",
+      "lon": "67.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK210",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "قلات",
+      "en": "Kalat",
+      "slug": "kalat-pk210"
+    },
+    "code": {
+      "id": "PK210",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "81550"
+    ],
+    "geo": {
+      "lat": "29.088",
+      "lon": "66.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK211",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع کیچ",
+      "en": "Kech",
+      "slug": "kech-pk211"
+    },
+    "code": {
+      "id": "PK211",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "92500"
+    ],
+    "geo": {
+      "lat": "26.008",
+      "lon": "63.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK212",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع خاران",
+      "en": "Kharan",
+      "slug": "kharan-pk212"
+    },
+    "code": {
+      "id": "PK212",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "94100"
+    ],
+    "geo": {
+      "lat": "28.729",
+      "lon": "65.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK213",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "خضدار",
+      "en": "Khuzdar",
+      "slug": "khuzdar-pk213"
+    },
+    "code": {
+      "id": "PK213",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "89200"
+    ],
+    "geo": {
+      "lat": "27.294",
+      "lon": "66.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK214",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع قلعہ عبداللہ",
+      "en": "Killa Abdullah",
+      "slug": "killa-abdullah-pk214"
+    },
+    "code": {
+      "id": "PK214",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "86720"
+    ],
+    "geo": {
+      "lat": "31.116",
+      "lon": "67.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK215",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع قلعہ سیف اللہ",
+      "en": "Killa Saifullah",
+      "slug": "killa-saifullah-pk215"
+    },
+    "code": {
+      "id": "PK215",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "85400"
+    ],
+    "geo": {
+      "lat": "31.053",
+      "lon": "68.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK216",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع کوہلو",
+      "en": "Kohlu",
+      "slug": "kohlu-pk216"
+    },
+    "code": {
+      "id": "PK216",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "85220"
+    ],
+    "geo": {
+      "lat": "29.644",
+      "lon": "68.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK217",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع لسبیلہ",
+      "en": "Lasbela",
+      "slug": "lasbela-pk217"
+    },
+    "code": {
+      "id": "PK217",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 9
+    },
+    "zip_codes": [
+      "90150"
+    ],
+    "geo": {
+      "lat": "25.773",
+      "lon": "66.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK218",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع لہڑی",
+      "en": "Lehri",
+      "slug": "lehri-pk218"
+    },
+    "code": {
+      "id": "PK218",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "81250"
+    ],
+    "geo": {
+      "lat": "28.994",
+      "lon": "67.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK219",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "لورالائی",
+      "en": "Loralai",
+      "slug": "loralai-pk219"
+    },
+    "code": {
+      "id": "PK219",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "82100"
+    ],
+    "geo": {
+      "lat": "30.478",
+      "lon": "68.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK220",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "مستونگ",
+      "en": "Mastung",
+      "slug": "mastung-pk220"
+    },
+    "code": {
+      "id": "PK220",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "88100"
+    ],
+    "geo": {
+      "lat": "29.746",
+      "lon": "66.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK221",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع موسیٰ خیل",
+      "en": "Musakhel",
+      "slug": "musakhel-pk221"
+    },
+    "code": {
+      "id": "PK221",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "84600"
+    ],
+    "geo": {
+      "lat": "30.897",
+      "lon": "69.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK222",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع نصیر آباد",
+      "en": "Nasirabad",
+      "slug": "nasirabad-pk222"
+    },
+    "code": {
+      "id": "PK222",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "19210"
+    ],
+    "geo": {
+      "lat": "28.626",
+      "lon": "68.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK223",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع نوشکی",
+      "en": "Nushki",
+      "slug": "nushki-pk223"
+    },
+    "code": {
+      "id": "PK223",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "95150"
+    ],
+    "geo": {
+      "lat": "29.447",
+      "lon": "65.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK224",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع پنجگور",
+      "en": "Panjgur",
+      "slug": "panjgur-pk224"
+    },
+    "code": {
+      "id": "PK224",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "93200"
+    ],
+    "geo": {
+      "lat": "26.715",
+      "lon": "64.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK225",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "پشین",
+      "en": "Pishin",
+      "slug": "pishin-pk225"
+    },
+    "code": {
+      "id": "PK225",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "86000"
+    ],
+    "geo": {
+      "lat": "30.703",
+      "lon": "67.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK226",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوئٹہ",
+      "en": "Quetta",
+      "slug": "quetta-pk226"
+    },
+    "code": {
+      "id": "PK226",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "87500"
+    ],
+    "geo": {
+      "lat": "30.141",
+      "lon": "67.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK233",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع شہید سکندر آباد",
+      "en": "Shaheed Sikandarabad",
+      "slug": "shaheed-sikandarabad-pk233"
+    },
+    "code": {
+      "id": "PK233",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "86200"
+    ],
+    "geo": {
+      "lat": "28.327",
+      "lon": "66.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK227",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع شیرانی",
+      "en": "Sherani",
+      "slug": "sherani-pk227"
+    },
+    "code": {
+      "id": "PK227",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "87750"
+    ],
+    "geo": {
+      "lat": "31.681",
+      "lon": "69.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK228",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سبی",
+      "en": "Sibi",
+      "slug": "sibi-pk228"
+    },
+    "code": {
+      "id": "PK228",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "85220"
+    ],
+    "geo": {
+      "lat": "29.728",
+      "lon": "68.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK229",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع صحبت پور",
+      "en": "Sohbatpur",
+      "slug": "sohbatpur-pk229"
+    },
+    "code": {
+      "id": "PK229",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "78200"
+    ],
+    "geo": {
+      "lat": "28.542",
+      "lon": "68.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK230",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع واشک",
+      "en": "Washuk",
+      "slug": "washuk-pk230"
+    },
+    "code": {
+      "id": "PK230",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "94110"
+    ],
+    "geo": {
+      "lat": "27.792",
+      "lon": "64.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK231",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ژوب",
+      "en": "Zhob",
+      "slug": "zhob-pk231"
+    },
+    "code": {
+      "id": "PK231",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "85200"
+    ],
+    "geo": {
+      "lat": "31.212",
+      "lon": "69.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK232",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع زیارت",
+      "en": "Ziarat",
+      "slug": "ziarat-pk232"
+    },
+    "code": {
+      "id": "PK232",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "84300"
+    ],
+    "geo": {
+      "lat": "30.381",
+      "lon": "68.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

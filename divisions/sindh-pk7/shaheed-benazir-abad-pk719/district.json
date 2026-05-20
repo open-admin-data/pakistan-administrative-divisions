@@ -1,0 +1,49 @@
+{
+  "id": "PK719",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "شہید بینظیر آباد",
+    "en": "Shaheed Benazir Abad",
+    "slug": "shaheed-benazir-abad-pk719"
+  },
+  "code": {
+    "id": "PK719",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "67470"
+  ],
+  "geo": {
+    "lat": "26.309",
+    "lon": "68.284"
+  },
+  "metadata": {},
+  "source": {}
+}

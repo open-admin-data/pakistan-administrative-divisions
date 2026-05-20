@@ -1,0 +1,49 @@
+{
+  "id": "PK711",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "خیرپور",
+    "en": "Khairpur",
+    "slug": "khairpur-pk711"
+  },
+  "code": {
+    "id": "PK711",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 8
+  },
+  "zip_codes": [
+    "66170"
+  ],
+  "geo": {
+    "lat": "26.96",
+    "lon": "68.941"
+  },
+  "metadata": {},
+  "source": {}
+}

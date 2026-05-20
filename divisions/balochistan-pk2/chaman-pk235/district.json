@@ -1,0 +1,49 @@
+{
+  "id": "PK235",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "چمن",
+    "en": "Chaman",
+    "slug": "chaman-pk235"
+  },
+  "code": {
+    "id": "PK235",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "87300"
+  ],
+  "geo": {
+    "lat": "30.856",
+    "lon": "66.527"
+  },
+  "metadata": {},
+  "source": {}
+}

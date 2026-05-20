@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK70801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوٹری",
+      "en": "Kotri",
+      "slug": "kotri-pk70801"
+    },
+    "code": {
+      "id": "PK70801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK708",
+      "level": 2,
+      "name": {
+        "local": "ضلع جامشورو",
+        "en": "Jamshoro",
+        "slug": "jamshoro-pk708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK708",
+        "level": 2,
+        "name": {
+          "local": "ضلع جامشورو",
+          "en": "Jamshoro",
+          "slug": "jamshoro-pk708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76060"
+    ],
+    "geo": {
+      "lat": "25.496",
+      "lon": "68.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مانجھند",
+      "en": "Manjhand",
+      "slug": "manjhand-pk70802"
+    },
+    "code": {
+      "id": "PK70802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK708",
+      "level": 2,
+      "name": {
+        "local": "ضلع جامشورو",
+        "en": "Jamshoro",
+        "slug": "jamshoro-pk708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK708",
+        "level": 2,
+        "name": {
+          "local": "ضلع جامشورو",
+          "en": "Jamshoro",
+          "slug": "jamshoro-pk708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76130"
+    ],
+    "geo": {
+      "lat": "25.966",
+      "lon": "68.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sehwan Sharif",
+      "en": "Sehwan Sharif",
+      "slug": "sehwan-sharif-pk70803"
+    },
+    "code": {
+      "id": "PK70803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK708",
+      "level": 2,
+      "name": {
+        "local": "ضلع جامشورو",
+        "en": "Jamshoro",
+        "slug": "jamshoro-pk708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK708",
+        "level": 2,
+        "name": {
+          "local": "ضلع جامشورو",
+          "en": "Jamshoro",
+          "slug": "jamshoro-pk708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76150"
+    ],
+    "geo": {
+      "lat": "26.242",
+      "lon": "67.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70804",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Thano Bula Khan",
+      "en": "Thano Bula Khan",
+      "slug": "thano-bula-khan-pk70804"
+    },
+    "code": {
+      "id": "PK70804",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK708",
+      "level": 2,
+      "name": {
+        "local": "ضلع جامشورو",
+        "en": "Jamshoro",
+        "slug": "jamshoro-pk708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK708",
+        "level": 2,
+        "name": {
+          "local": "ضلع جامشورو",
+          "en": "Jamshoro",
+          "slug": "jamshoro-pk708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75500"
+    ],
+    "geo": {
+      "lat": "25.541",
+      "lon": "67.64"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

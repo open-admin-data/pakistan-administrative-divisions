@@ -1,0 +1,49 @@
+{
+  "id": "PK728",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "عمرکوٹ",
+    "en": "Umerkot",
+    "slug": "umerkot-pk728"
+  },
+  "code": {
+    "id": "PK728",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "69120"
+  ],
+  "geo": {
+    "lat": "25.333",
+    "lon": "69.811"
+  },
+  "metadata": {},
+  "source": {}
+}

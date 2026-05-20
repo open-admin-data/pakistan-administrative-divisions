@@ -1,0 +1,49 @@
+{
+  "id": "PK226",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوئٹہ",
+    "en": "Quetta",
+    "slug": "quetta-pk226"
+  },
+  "code": {
+    "id": "PK226",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "87500"
+  ],
+  "geo": {
+    "lat": "30.141",
+    "lon": "67.077"
+  },
+  "metadata": {},
+  "source": {}
+}

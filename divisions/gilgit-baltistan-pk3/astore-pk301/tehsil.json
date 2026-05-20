@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK30101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "استور",
+      "en": "Astore",
+      "slug": "astore-pk30101"
+    },
+    "code": {
+      "id": "PK30101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK301",
+      "level": 2,
+      "name": {
+        "local": "ضلع استور",
+        "en": "Astore",
+        "slug": "astore-pk301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK301",
+        "level": 2,
+        "name": {
+          "local": "ضلع استور",
+          "en": "Astore",
+          "slug": "astore-pk301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14200"
+    ],
+    "geo": {
+      "lat": "35.548",
+      "lon": "74.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shounter",
+      "en": "Shounter",
+      "slug": "shounter-pk30102"
+    },
+    "code": {
+      "id": "PK30102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK301",
+      "level": 2,
+      "name": {
+        "local": "ضلع استور",
+        "en": "Astore",
+        "slug": "astore-pk301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK301",
+        "level": 2,
+        "name": {
+          "local": "ضلع استور",
+          "en": "Astore",
+          "slug": "astore-pk301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15550"
+    ],
+    "geo": {
+      "lat": "34.997",
+      "lon": "74.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

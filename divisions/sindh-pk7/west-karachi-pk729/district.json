@@ -1,0 +1,49 @@
+{
+  "id": "PK729",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "مغربی کراچی",
+    "en": "West Karachi",
+    "slug": "west-karachi-pk729"
+  },
+  "code": {
+    "id": "PK729",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "75800"
+  ],
+  "geo": {
+    "lat": "24.987",
+    "lon": "67.008"
+  },
+  "metadata": {},
+  "source": {}
+}

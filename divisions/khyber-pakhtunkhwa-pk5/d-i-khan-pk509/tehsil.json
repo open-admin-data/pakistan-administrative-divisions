@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK50901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "D. I. Khan",
+      "en": "D. I. Khan",
+      "slug": "d-i-khan-pk50901"
+    },
+    "code": {
+      "id": "PK50901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK509",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ اسماعیل خان",
+        "en": "D. I. Khan",
+        "slug": "d-i-khan-pk509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK509",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ اسماعیل خان",
+          "en": "D. I. Khan",
+          "slug": "d-i-khan-pk509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29162"
+    ],
+    "geo": {
+      "lat": "31.968",
+      "lon": "70.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "درابن",
+      "en": "Daraban",
+      "slug": "daraban-pk50902"
+    },
+    "code": {
+      "id": "PK50902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK509",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ اسماعیل خان",
+        "en": "D. I. Khan",
+        "slug": "d-i-khan-pk509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK509",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ اسماعیل خان",
+          "en": "D. I. Khan",
+          "slug": "d-i-khan-pk509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29330"
+    ],
+    "geo": {
+      "lat": "31.644",
+      "lon": "70.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50906",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Darazinda",
+      "en": "Darazinda",
+      "slug": "darazinda-pk50906"
+    },
+    "code": {
+      "id": "PK50906",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK509",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ اسماعیل خان",
+        "en": "D. I. Khan",
+        "slug": "d-i-khan-pk509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK509",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ اسماعیل خان",
+          "en": "D. I. Khan",
+          "slug": "d-i-khan-pk509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29330"
+    ],
+    "geo": {
+      "lat": "31.533",
+      "lon": "70.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کلاچی",
+      "en": "Kulachi",
+      "slug": "kulachi-pk50903"
+    },
+    "code": {
+      "id": "PK50903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK509",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ اسماعیل خان",
+        "en": "D. I. Khan",
+        "slug": "d-i-khan-pk509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK509",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ اسماعیل خان",
+          "en": "D. I. Khan",
+          "slug": "d-i-khan-pk509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29350"
+    ],
+    "geo": {
+      "lat": "32.009",
+      "lon": "70.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50904",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پہاڑپور",
+      "en": "Paharpur",
+      "slug": "paharpur-pk50904"
+    },
+    "code": {
+      "id": "PK50904",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK509",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ اسماعیل خان",
+        "en": "D. I. Khan",
+        "slug": "d-i-khan-pk509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK509",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ اسماعیل خان",
+          "en": "D. I. Khan",
+          "slug": "d-i-khan-pk509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29050"
+    ],
+    "geo": {
+      "lat": "32.239",
+      "lon": "70.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50905",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Paroa",
+      "en": "Paroa",
+      "slug": "paroa-pk50905"
+    },
+    "code": {
+      "id": "PK50905",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK509",
+      "level": 2,
+      "name": {
+        "local": "ڈیرہ اسماعیل خان",
+        "en": "D. I. Khan",
+        "slug": "d-i-khan-pk509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK509",
+        "level": 2,
+        "name": {
+          "local": "ڈیرہ اسماعیل خان",
+          "en": "D. I. Khan",
+          "slug": "d-i-khan-pk509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29230"
+    ],
+    "geo": {
+      "lat": "31.493",
+      "lon": "70.735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

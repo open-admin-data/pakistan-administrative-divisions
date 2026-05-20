@@ -1,0 +1,49 @@
+{
+  "id": "PK521",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع مالاکنڈ",
+    "en": "Malakand",
+    "slug": "malakand-pk521"
+  },
+  "code": {
+    "id": "PK521",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "23422"
+  ],
+  "geo": {
+    "lat": "34.517",
+    "lon": "71.824"
+  },
+  "metadata": {},
+  "source": {}
+}

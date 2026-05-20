@@ -1,0 +1,49 @@
+{
+  "id": "PK532",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "سوات",
+    "en": "Swat",
+    "slug": "swat-pk532"
+  },
+  "code": {
+    "id": "PK532",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 9
+  },
+  "zip_codes": [
+    "26060"
+  ],
+  "geo": {
+    "lat": "35.233",
+    "lon": "72.512"
+  },
+  "metadata": {},
+  "source": {}
+}

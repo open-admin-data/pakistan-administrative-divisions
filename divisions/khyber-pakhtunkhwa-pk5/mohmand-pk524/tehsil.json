@@ -1,0 +1,450 @@
+[
+  {
+    "id": "PK52401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Ambar",
+      "en": "Ambar",
+      "slug": "ambar-pk52401"
+    },
+    "code": {
+      "id": "PK52401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "34.591",
+      "lon": "71.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Baizai",
+      "en": "Baizai",
+      "slug": "baizai-pk52402"
+    },
+    "code": {
+      "id": "PK52402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "34.538",
+      "lon": "71.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Halimzai",
+      "en": "Halimzai",
+      "slug": "halimzai-pk52403"
+    },
+    "code": {
+      "id": "PK52403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87710"
+    ],
+    "geo": {
+      "lat": "34.396",
+      "lon": "71.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52404",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khwazai",
+      "en": "Khwazai",
+      "slug": "khwazai-pk52404"
+    },
+    "code": {
+      "id": "PK52404",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24740"
+    ],
+    "geo": {
+      "lat": "34.403",
+      "lon": "71.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52405",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Pandiali",
+      "en": "Pandiali",
+      "slug": "pandiali-pk52405"
+    },
+    "code": {
+      "id": "PK52405",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87710"
+    ],
+    "geo": {
+      "lat": "34.45",
+      "lon": "71.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52406",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Prang Ghar",
+      "en": "Prang Ghar",
+      "slug": "prang-ghar-pk52406"
+    },
+    "code": {
+      "id": "PK52406",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87710"
+    ],
+    "geo": {
+      "lat": "34.437",
+      "lon": "71.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52407",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Safi",
+      "en": "Safi",
+      "slug": "safi-pk52407"
+    },
+    "code": {
+      "id": "PK52407",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "34.568",
+      "lon": "71.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52408",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Yaka Ghund",
+      "en": "Yaka Ghund",
+      "slug": "yaka-ghund-pk52408"
+    },
+    "code": {
+      "id": "PK52408",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK524",
+      "level": 2,
+      "name": {
+        "local": "ضلع مہمند",
+        "en": "Mohmand",
+        "slug": "mohmand-pk524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK524",
+        "level": 2,
+        "name": {
+          "local": "ضلع مہمند",
+          "en": "Mohmand",
+          "slug": "mohmand-pk524"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17250"
+    ],
+    "geo": {
+      "lat": "34.261",
+      "lon": "71.393"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

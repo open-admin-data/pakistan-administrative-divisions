@@ -1,0 +1,49 @@
+{
+  "id": "PK534",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "تور غر",
+    "en": "Tor Ghar",
+    "slug": "tor-ghar-pk534"
+  },
+  "code": {
+    "id": "PK534",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "21120"
+  ],
+  "geo": {
+    "lat": "34.559",
+    "lon": "72.876"
+  },
+  "metadata": {},
+  "source": {}
+}

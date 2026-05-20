@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK62501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نارووال",
+      "en": "Narowal",
+      "slug": "narowal-pk62501"
+    },
+    "code": {
+      "id": "PK62501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK625",
+      "level": 2,
+      "name": {
+        "local": "ضلع نارووال",
+        "en": "Narowal",
+        "slug": "narowal-pk625"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK625",
+        "level": 2,
+        "name": {
+          "local": "ضلع نارووال",
+          "en": "Narowal",
+          "slug": "narowal-pk625"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51570"
+    ],
+    "geo": {
+      "lat": "32.079",
+      "lon": "74.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شکرگڑھ",
+      "en": "Shakargarh",
+      "slug": "shakargarh-pk62502"
+    },
+    "code": {
+      "id": "PK62502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK625",
+      "level": 2,
+      "name": {
+        "local": "ضلع نارووال",
+        "en": "Narowal",
+        "slug": "narowal-pk625"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK625",
+        "level": 2,
+        "name": {
+          "local": "ضلع نارووال",
+          "en": "Narowal",
+          "slug": "narowal-pk625"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51770"
+    ],
+    "geo": {
+      "lat": "32.217",
+      "lon": "75.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ظفروال",
+      "en": "Zafarwal",
+      "slug": "zafarwal-pk62503"
+    },
+    "code": {
+      "id": "PK62503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK625",
+      "level": 2,
+      "name": {
+        "local": "ضلع نارووال",
+        "en": "Narowal",
+        "slug": "narowal-pk625"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK625",
+        "level": 2,
+        "name": {
+          "local": "ضلع نارووال",
+          "en": "Narowal",
+          "slug": "narowal-pk625"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51660"
+    ],
+    "geo": {
+      "lat": "32.325",
+      "lon": "74.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

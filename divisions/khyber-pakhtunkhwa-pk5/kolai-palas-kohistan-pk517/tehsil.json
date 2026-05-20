@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK51702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Battera Kolai",
+      "en": "Battera Kolai",
+      "slug": "battera-kolai-pk51702"
+    },
+    "code": {
+      "id": "PK51702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK517",
+      "level": 2,
+      "name": {
+        "local": "کولائی پالس کوہستان",
+        "en": "Kolai Palas Kohistan",
+        "slug": "kolai-palas-kohistan-pk517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK517",
+        "level": 2,
+        "name": {
+          "local": "کولائی پالس کوہستان",
+          "en": "Kolai Palas Kohistan",
+          "slug": "kolai-palas-kohistan-pk517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19080"
+    ],
+    "geo": {
+      "lat": "34.992",
+      "lon": "72.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Palas",
+      "en": "Palas",
+      "slug": "palas-pk51701"
+    },
+    "code": {
+      "id": "PK51701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK517",
+      "level": 2,
+      "name": {
+        "local": "کولائی پالس کوہستان",
+        "en": "Kolai Palas Kohistan",
+        "slug": "kolai-palas-kohistan-pk517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK517",
+        "level": 2,
+        "name": {
+          "local": "کولائی پالس کوہستان",
+          "en": "Kolai Palas Kohistan",
+          "slug": "kolai-palas-kohistan-pk517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21036"
+    ],
+    "geo": {
+      "lat": "35.067",
+      "lon": "73.179"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

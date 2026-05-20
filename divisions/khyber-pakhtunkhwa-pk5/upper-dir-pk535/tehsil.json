@@ -1,0 +1,394 @@
+[
+  {
+    "id": "PK53501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Barawal",
+      "en": "Barawal",
+      "slug": "barawal-pk53501"
+    },
+    "code": {
+      "id": "PK53501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK535",
+      "level": 2,
+      "name": {
+        "local": "دیر بالا",
+        "en": "Upper Dir",
+        "slug": "upper-dir-pk535"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK535",
+        "level": 2,
+        "name": {
+          "local": "دیر بالا",
+          "en": "Upper Dir",
+          "slug": "upper-dir-pk535"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18100"
+    ],
+    "geo": {
+      "lat": "35.127",
+      "lon": "71.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dir",
+      "en": "Dir",
+      "slug": "dir-pk53502"
+    },
+    "code": {
+      "id": "PK53502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK535",
+      "level": 2,
+      "name": {
+        "local": "دیر بالا",
+        "en": "Upper Dir",
+        "slug": "upper-dir-pk535"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK535",
+        "level": 2,
+        "name": {
+          "local": "دیر بالا",
+          "en": "Upper Dir",
+          "slug": "upper-dir-pk535"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18000"
+    ],
+    "geo": {
+      "lat": "35.228",
+      "lon": "71.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سیالکوٹ",
+      "en": "Kalkot",
+      "slug": "kalkot-pk53503"
+    },
+    "code": {
+      "id": "PK53503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK535",
+      "level": 2,
+      "name": {
+        "local": "دیر بالا",
+        "en": "Upper Dir",
+        "slug": "upper-dir-pk535"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK535",
+        "level": 2,
+        "name": {
+          "local": "دیر بالا",
+          "en": "Upper Dir",
+          "slug": "upper-dir-pk535"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26060"
+    ],
+    "geo": {
+      "lat": "35.489",
+      "lon": "72.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53504",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khall",
+      "en": "Khall",
+      "slug": "khall-pk53504"
+    },
+    "code": {
+      "id": "PK53504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK535",
+      "level": 2,
+      "name": {
+        "local": "دیر بالا",
+        "en": "Upper Dir",
+        "slug": "upper-dir-pk535"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK535",
+        "level": 2,
+        "name": {
+          "local": "دیر بالا",
+          "en": "Upper Dir",
+          "slug": "upper-dir-pk535"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23340"
+    ],
+    "geo": {
+      "lat": "34.906",
+      "lon": "72.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53507",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Larjam",
+      "en": "Larjam",
+      "slug": "larjam-pk53507"
+    },
+    "code": {
+      "id": "PK53507",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK535",
+      "level": 2,
+      "name": {
+        "local": "دیر بالا",
+        "en": "Upper Dir",
+        "slug": "upper-dir-pk535"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK535",
+        "level": 2,
+        "name": {
+          "local": "دیر بالا",
+          "en": "Upper Dir",
+          "slug": "upper-dir-pk535"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18150"
+    ],
+    "geo": {
+      "lat": "35.146",
+      "lon": "72.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53505",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shrengal",
+      "en": "Shrengal",
+      "slug": "shrengal-pk53505"
+    },
+    "code": {
+      "id": "PK53505",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK535",
+      "level": 2,
+      "name": {
+        "local": "دیر بالا",
+        "en": "Upper Dir",
+        "slug": "upper-dir-pk535"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK535",
+        "level": 2,
+        "name": {
+          "local": "دیر بالا",
+          "en": "Upper Dir",
+          "slug": "upper-dir-pk535"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18000"
+    ],
+    "geo": {
+      "lat": "35.402",
+      "lon": "71.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53506",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "واری",
+      "en": "Wari",
+      "slug": "wari-pk53506"
+    },
+    "code": {
+      "id": "PK53506",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK535",
+      "level": 2,
+      "name": {
+        "local": "دیر بالا",
+        "en": "Upper Dir",
+        "slug": "upper-dir-pk535"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK535",
+        "level": 2,
+        "name": {
+          "local": "دیر بالا",
+          "en": "Upper Dir",
+          "slug": "upper-dir-pk535"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18150"
+    ],
+    "geo": {
+      "lat": "35.002",
+      "lon": "72.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

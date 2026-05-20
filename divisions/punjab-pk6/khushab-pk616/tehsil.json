@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK61601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خوشاب",
+      "en": "Khushab",
+      "slug": "khushab-pk61601"
+    },
+    "code": {
+      "id": "PK61601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK616",
+      "level": 2,
+      "name": {
+        "local": "خوشاب",
+        "en": "Khushab",
+        "slug": "khushab-pk616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK616",
+        "level": 2,
+        "name": {
+          "local": "خوشاب",
+          "en": "Khushab",
+          "slug": "khushab-pk616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41024"
+    ],
+    "geo": {
+      "lat": "32.329",
+      "lon": "72.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نوشہرہ (پنجاب)",
+      "en": "Naushera",
+      "slug": "naushera-pk61602"
+    },
+    "code": {
+      "id": "PK61602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK616",
+      "level": 2,
+      "name": {
+        "local": "خوشاب",
+        "en": "Khushab",
+        "slug": "khushab-pk616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK616",
+        "level": 2,
+        "name": {
+          "local": "خوشاب",
+          "en": "Khushab",
+          "slug": "khushab-pk616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41110"
+    ],
+    "geo": {
+      "lat": "32.594",
+      "lon": "72.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Noorpur",
+      "en": "Noorpur",
+      "slug": "noorpur-pk61603"
+    },
+    "code": {
+      "id": "PK61603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK616",
+      "level": 2,
+      "name": {
+        "local": "خوشاب",
+        "en": "Khushab",
+        "slug": "khushab-pk616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK616",
+        "level": 2,
+        "name": {
+          "local": "خوشاب",
+          "en": "Khushab",
+          "slug": "khushab-pk616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41280"
+    ],
+    "geo": {
+      "lat": "31.872",
+      "lon": "71.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61604",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "قائد آباد",
+      "en": "Quaidabad",
+      "slug": "quaidabad-pk61604"
+    },
+    "code": {
+      "id": "PK61604",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK616",
+      "level": 2,
+      "name": {
+        "local": "خوشاب",
+        "en": "Khushab",
+        "slug": "khushab-pk616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK616",
+        "level": 2,
+        "name": {
+          "local": "خوشاب",
+          "en": "Khushab",
+          "slug": "khushab-pk616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41310"
+    ],
+    "geo": {
+      "lat": "32.316",
+      "lon": "71.967"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

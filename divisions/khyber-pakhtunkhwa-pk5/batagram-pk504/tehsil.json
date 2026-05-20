@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK50401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "علائی",
+      "en": "Allai",
+      "slug": "allai-pk50401"
+    },
+    "code": {
+      "id": "PK50401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK504",
+      "level": 2,
+      "name": {
+        "local": "بٹگرام",
+        "en": "Batagram",
+        "slug": "batagram-pk504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK504",
+        "level": 2,
+        "name": {
+          "local": "بٹگرام",
+          "en": "Batagram",
+          "slug": "batagram-pk504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21036"
+    ],
+    "geo": {
+      "lat": "34.811",
+      "lon": "73.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Batagram",
+      "en": "Batagram",
+      "slug": "batagram-pk50402"
+    },
+    "code": {
+      "id": "PK50402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK504",
+      "level": 2,
+      "name": {
+        "local": "بٹگرام",
+        "en": "Batagram",
+        "slug": "batagram-pk504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK504",
+        "level": 2,
+        "name": {
+          "local": "بٹگرام",
+          "en": "Batagram",
+          "slug": "batagram-pk504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21040"
+    ],
+    "geo": {
+      "lat": "34.681",
+      "lon": "73.032"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

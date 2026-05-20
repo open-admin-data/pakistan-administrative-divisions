@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK71901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Daulat Pur",
+      "en": "Daulat Pur",
+      "slug": "daulat-pur-pk71901"
+    },
+    "code": {
+      "id": "PK71901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK719",
+      "level": 2,
+      "name": {
+        "local": "شہید بینظیر آباد",
+        "en": "Shaheed Benazir Abad",
+        "slug": "shaheed-benazir-abad-pk719"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK719",
+        "level": 2,
+        "name": {
+          "local": "شہید بینظیر آباد",
+          "en": "Shaheed Benazir Abad",
+          "slug": "shaheed-benazir-abad-pk719"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76350"
+    ],
+    "geo": {
+      "lat": "26.431",
+      "lon": "68.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دور",
+      "en": "Daur",
+      "slug": "daur-pk71902"
+    },
+    "code": {
+      "id": "PK71902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK719",
+      "level": 2,
+      "name": {
+        "local": "شہید بینظیر آباد",
+        "en": "Shaheed Benazir Abad",
+        "slug": "shaheed-benazir-abad-pk719"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK719",
+        "level": 2,
+        "name": {
+          "local": "شہید بینظیر آباد",
+          "en": "Shaheed Benazir Abad",
+          "slug": "shaheed-benazir-abad-pk719"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67470"
+    ],
+    "geo": {
+      "lat": "26.395",
+      "lon": "68.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "نواب شاہ",
+      "en": "Nawabshah",
+      "slug": "nawabshah-pk71903"
+    },
+    "code": {
+      "id": "PK71903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK719",
+      "level": 2,
+      "name": {
+        "local": "شہید بینظیر آباد",
+        "en": "Shaheed Benazir Abad",
+        "slug": "shaheed-benazir-abad-pk719"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK719",
+        "level": 2,
+        "name": {
+          "local": "شہید بینظیر آباد",
+          "en": "Shaheed Benazir Abad",
+          "slug": "shaheed-benazir-abad-pk719"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67470"
+    ],
+    "geo": {
+      "lat": "26.274",
+      "lon": "68.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71904",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سکرنڈ",
+      "en": "Sakrand",
+      "slug": "sakrand-pk71904"
+    },
+    "code": {
+      "id": "PK71904",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK719",
+      "level": 2,
+      "name": {
+        "local": "شہید بینظیر آباد",
+        "en": "Shaheed Benazir Abad",
+        "slug": "shaheed-benazir-abad-pk719"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK719",
+        "level": 2,
+        "name": {
+          "local": "شہید بینظیر آباد",
+          "en": "Shaheed Benazir Abad",
+          "slug": "shaheed-benazir-abad-pk719"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67210"
+    ],
+    "geo": {
+      "lat": "26.135",
+      "lon": "68.244"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

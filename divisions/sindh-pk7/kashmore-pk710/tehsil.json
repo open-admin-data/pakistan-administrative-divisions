@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK71001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kandh Kot",
+      "en": "Kandh Kot",
+      "slug": "kandh-kot-pk71001"
+    },
+    "code": {
+      "id": "PK71001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK710",
+      "level": 2,
+      "name": {
+        "local": "ضلع کشمور",
+        "en": "Kashmore",
+        "slug": "kashmore-pk710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK710",
+        "level": 2,
+        "name": {
+          "local": "ضلع کشمور",
+          "en": "Kashmore",
+          "slug": "kashmore-pk710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79160"
+    ],
+    "geo": {
+      "lat": "28.191",
+      "lon": "69.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کشمور",
+      "en": "Kashmore",
+      "slug": "kashmore-pk71002"
+    },
+    "code": {
+      "id": "PK71002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK710",
+      "level": 2,
+      "name": {
+        "local": "ضلع کشمور",
+        "en": "Kashmore",
+        "slug": "kashmore-pk710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK710",
+        "level": 2,
+        "name": {
+          "local": "ضلع کشمور",
+          "en": "Kashmore",
+          "slug": "kashmore-pk710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79190"
+    ],
+    "geo": {
+      "lat": "28.292",
+      "lon": "69.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹانگوانی",
+      "en": "Tangwani",
+      "slug": "tangwani-pk71003"
+    },
+    "code": {
+      "id": "PK71003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK710",
+      "level": 2,
+      "name": {
+        "local": "ضلع کشمور",
+        "en": "Kashmore",
+        "slug": "kashmore-pk710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK710",
+        "level": 2,
+        "name": {
+          "local": "ضلع کشمور",
+          "en": "Kashmore",
+          "slug": "kashmore-pk710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79150"
+    ],
+    "geo": {
+      "lat": "28.263",
+      "lon": "68.983"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

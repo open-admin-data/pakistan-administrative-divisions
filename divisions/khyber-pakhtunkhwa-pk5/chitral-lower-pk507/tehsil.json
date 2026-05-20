@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK50701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چترال",
+      "en": "Chitral",
+      "slug": "chitral-pk50701"
+    },
+    "code": {
+      "id": "PK50701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK507",
+      "level": 2,
+      "name": {
+        "local": "زیریں چترال",
+        "en": "Chitral Lower",
+        "slug": "chitral-lower-pk507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK507",
+        "level": 2,
+        "name": {
+          "local": "زیریں چترال",
+          "en": "Chitral Lower",
+          "slug": "chitral-lower-pk507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17210"
+    ],
+    "geo": {
+      "lat": "35.761",
+      "lon": "71.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دروش",
+      "en": "Drosh",
+      "slug": "drosh-pk50702"
+    },
+    "code": {
+      "id": "PK50702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK507",
+      "level": 2,
+      "name": {
+        "local": "زیریں چترال",
+        "en": "Chitral Lower",
+        "slug": "chitral-lower-pk507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK507",
+        "level": 2,
+        "name": {
+          "local": "زیریں چترال",
+          "en": "Chitral Lower",
+          "slug": "chitral-lower-pk507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17220"
+    ],
+    "geo": {
+      "lat": "35.504",
+      "lon": "71.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lotkoh",
+      "en": "Lotkoh",
+      "slug": "lotkoh-pk50703"
+    },
+    "code": {
+      "id": "PK50703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK507",
+      "level": 2,
+      "name": {
+        "local": "زیریں چترال",
+        "en": "Chitral Lower",
+        "slug": "chitral-lower-pk507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK507",
+        "level": 2,
+        "name": {
+          "local": "زیریں چترال",
+          "en": "Chitral Lower",
+          "slug": "chitral-lower-pk507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17130"
+    ],
+    "geo": {
+      "lat": "36.15",
+      "lon": "71.59"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

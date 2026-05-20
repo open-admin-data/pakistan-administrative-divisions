@@ -1,0 +1,49 @@
+{
+  "id": "PK714",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ملیر کراچی",
+    "en": "Malir Karachi",
+    "slug": "malir-karachi-pk714"
+  },
+  "code": {
+    "id": "PK714",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "75340"
+  ],
+  "geo": {
+    "lat": "25.207",
+    "lon": "67.16"
+  },
+  "metadata": {},
+  "source": {}
+}

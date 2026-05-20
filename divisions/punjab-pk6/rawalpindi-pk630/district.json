@@ -1,0 +1,49 @@
+{
+  "id": "PK630",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "راولپنڈی",
+    "en": "Rawalpindi",
+    "slug": "rawalpindi-pk630"
+  },
+  "code": {
+    "id": "PK630",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 7
+  },
+  "zip_codes": [
+    "47380"
+  ],
+  "geo": {
+    "lat": "33.541",
+    "lon": "73.438"
+  },
+  "metadata": {},
+  "source": {}
+}

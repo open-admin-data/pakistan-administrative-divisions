@@ -1,0 +1,49 @@
+{
+  "id": "PK106",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع میر پور",
+    "en": "Mirpur",
+    "slug": "mirpur-pk106"
+  },
+  "code": {
+    "id": "PK106",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "10350"
+  ],
+  "geo": {
+    "lat": "33.239",
+    "lon": "73.759"
+  },
+  "metadata": {},
+  "source": {}
+}

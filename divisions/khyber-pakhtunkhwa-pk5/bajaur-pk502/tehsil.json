@@ -1,0 +1,394 @@
+[
+  {
+    "id": "PK50201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bar Chamarkand",
+      "en": "Bar Chamarkand",
+      "slug": "bar-chamarkand-pk50201"
+    },
+    "code": {
+      "id": "PK50201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK502",
+      "level": 2,
+      "name": {
+        "local": "ضلع باجوڑ",
+        "en": "Bajaur",
+        "slug": "bajaur-pk502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK502",
+        "level": 2,
+        "name": {
+          "local": "ضلع باجوڑ",
+          "en": "Bajaur",
+          "slug": "bajaur-pk502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "34.729",
+      "lon": "71.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Barang",
+      "en": "Barang",
+      "slug": "barang-pk50202"
+    },
+    "code": {
+      "id": "PK50202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK502",
+      "level": 2,
+      "name": {
+        "local": "ضلع باجوڑ",
+        "en": "Bajaur",
+        "slug": "bajaur-pk502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK502",
+        "level": 2,
+        "name": {
+          "local": "ضلع باجوڑ",
+          "en": "Bajaur",
+          "slug": "bajaur-pk502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18650"
+    ],
+    "geo": {
+      "lat": "34.615",
+      "lon": "71.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khar",
+      "en": "Khar",
+      "slug": "khar-pk50203"
+    },
+    "code": {
+      "id": "PK50203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK502",
+      "level": 2,
+      "name": {
+        "local": "ضلع باجوڑ",
+        "en": "Bajaur",
+        "slug": "bajaur-pk502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK502",
+        "level": 2,
+        "name": {
+          "local": "ضلع باجوڑ",
+          "en": "Bajaur",
+          "slug": "bajaur-pk502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18650"
+    ],
+    "geo": {
+      "lat": "34.733",
+      "lon": "71.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mamund",
+      "en": "Mamund",
+      "slug": "mamund-pk50204"
+    },
+    "code": {
+      "id": "PK50204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK502",
+      "level": 2,
+      "name": {
+        "local": "ضلع باجوڑ",
+        "en": "Bajaur",
+        "slug": "bajaur-pk502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK502",
+        "level": 2,
+        "name": {
+          "local": "ضلع باجوڑ",
+          "en": "Bajaur",
+          "slug": "bajaur-pk502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "34.824",
+      "lon": "71.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50205",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Nawagai",
+      "en": "Nawagai",
+      "slug": "nawagai-pk50205"
+    },
+    "code": {
+      "id": "PK50205",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK502",
+      "level": 2,
+      "name": {
+        "local": "ضلع باجوڑ",
+        "en": "Bajaur",
+        "slug": "bajaur-pk502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK502",
+        "level": 2,
+        "name": {
+          "local": "ضلع باجوڑ",
+          "en": "Bajaur",
+          "slug": "bajaur-pk502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "34.726",
+      "lon": "71.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50206",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Salarzai",
+      "en": "Salarzai",
+      "slug": "salarzai-pk50206"
+    },
+    "code": {
+      "id": "PK50206",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK502",
+      "level": 2,
+      "name": {
+        "local": "ضلع باجوڑ",
+        "en": "Bajaur",
+        "slug": "bajaur-pk502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK502",
+        "level": 2,
+        "name": {
+          "local": "ضلع باجوڑ",
+          "en": "Bajaur",
+          "slug": "bajaur-pk502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18650"
+    ],
+    "geo": {
+      "lat": "34.873",
+      "lon": "71.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50207",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Utman Khel",
+      "en": "Utman Khel",
+      "slug": "utman-khel-pk50207"
+    },
+    "code": {
+      "id": "PK50207",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK502",
+      "level": 2,
+      "name": {
+        "local": "ضلع باجوڑ",
+        "en": "Bajaur",
+        "slug": "bajaur-pk502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK502",
+        "level": 2,
+        "name": {
+          "local": "ضلع باجوڑ",
+          "en": "Bajaur",
+          "slug": "bajaur-pk502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18500"
+    ],
+    "geo": {
+      "lat": "34.739",
+      "lon": "71.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

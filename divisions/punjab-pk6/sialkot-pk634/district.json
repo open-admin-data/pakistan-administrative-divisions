@@ -1,0 +1,49 @@
+{
+  "id": "PK634",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "سیالکوٹ",
+    "en": "Sialkot",
+    "slug": "sialkot-pk634"
+  },
+  "code": {
+    "id": "PK634",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "51410"
+  ],
+  "geo": {
+    "lat": "32.442",
+    "lon": "74.568"
+  },
+  "metadata": {},
+  "source": {}
+}

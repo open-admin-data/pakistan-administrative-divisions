@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK61201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "احمدپور سیال",
+      "en": "Ahmadpur Sial",
+      "slug": "ahmadpur-sial-pk61201"
+    },
+    "code": {
+      "id": "PK61201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK612",
+      "level": 2,
+      "name": {
+        "local": "جھنگ",
+        "en": "Jhang",
+        "slug": "jhang-pk612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK612",
+        "level": 2,
+        "name": {
+          "local": "جھنگ",
+          "en": "Jhang",
+          "slug": "jhang-pk612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "58190"
+    ],
+    "geo": {
+      "lat": "30.808",
+      "lon": "71.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اٹھارہ ہزاری",
+      "en": "Athara Hazari",
+      "slug": "athara-hazari-pk61204"
+    },
+    "code": {
+      "id": "PK61204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK612",
+      "level": 2,
+      "name": {
+        "local": "جھنگ",
+        "en": "Jhang",
+        "slug": "jhang-pk612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK612",
+        "level": 2,
+        "name": {
+          "local": "جھنگ",
+          "en": "Jhang",
+          "slug": "jhang-pk612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35180"
+    ],
+    "geo": {
+      "lat": "31.197",
+      "lon": "72.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جھنگ",
+      "en": "Jhang",
+      "slug": "jhang-pk61202"
+    },
+    "code": {
+      "id": "PK61202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK612",
+      "level": 2,
+      "name": {
+        "local": "جھنگ",
+        "en": "Jhang",
+        "slug": "jhang-pk612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK612",
+        "level": 2,
+        "name": {
+          "local": "جھنگ",
+          "en": "Jhang",
+          "slug": "jhang-pk612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35010"
+    ],
+    "geo": {
+      "lat": "31.407",
+      "lon": "72.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شورکوٹ",
+      "en": "Shorkot",
+      "slug": "shorkot-pk61203"
+    },
+    "code": {
+      "id": "PK61203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK612",
+      "level": 2,
+      "name": {
+        "local": "جھنگ",
+        "en": "Jhang",
+        "slug": "jhang-pk612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK612",
+        "level": 2,
+        "name": {
+          "local": "جھنگ",
+          "en": "Jhang",
+          "slug": "jhang-pk612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35100"
+    ],
+    "geo": {
+      "lat": "30.892",
+      "lon": "72.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

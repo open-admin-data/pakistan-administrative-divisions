@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK62901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جام پور",
+      "en": "Jampur",
+      "slug": "jampur-pk62901"
+    },
+    "code": {
+      "id": "PK62901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK629",
+      "level": 2,
+      "name": {
+        "local": "ضلع راجن پور",
+        "en": "Rajanpur",
+        "slug": "rajanpur-pk629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK629",
+        "level": 2,
+        "name": {
+          "local": "ضلع راجن پور",
+          "en": "Rajanpur",
+          "slug": "rajanpur-pk629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "29.556",
+      "lon": "70.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "راجن پور",
+      "en": "Rajanpur",
+      "slug": "rajanpur-pk62902"
+    },
+    "code": {
+      "id": "PK62902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK629",
+      "level": 2,
+      "name": {
+        "local": "ضلع راجن پور",
+        "en": "Rajanpur",
+        "slug": "rajanpur-pk629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK629",
+        "level": 2,
+        "name": {
+          "local": "ضلع راجن پور",
+          "en": "Rajanpur",
+          "slug": "rajanpur-pk629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64100"
+    ],
+    "geo": {
+      "lat": "29.134",
+      "lon": "70.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Rajanpur (Tribal Area)",
+      "en": "Rajanpur (Tribal Area)",
+      "slug": "rajanpur-tribal-area-pk62903"
+    },
+    "code": {
+      "id": "PK62903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK629",
+      "level": 2,
+      "name": {
+        "local": "ضلع راجن پور",
+        "en": "Rajanpur",
+        "slug": "rajanpur-pk629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK629",
+        "level": 2,
+        "name": {
+          "local": "ضلع راجن پور",
+          "en": "Rajanpur",
+          "slug": "rajanpur-pk629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31660"
+    ],
+    "geo": {
+      "lat": "29.159",
+      "lon": "69.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62904",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "روجھان",
+      "en": "Rojhan",
+      "slug": "rojhan-pk62904"
+    },
+    "code": {
+      "id": "PK62904",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK629",
+      "level": 2,
+      "name": {
+        "local": "ضلع راجن پور",
+        "en": "Rajanpur",
+        "slug": "rajanpur-pk629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK629",
+        "level": 2,
+        "name": {
+          "local": "ضلع راجن پور",
+          "en": "Rajanpur",
+          "slug": "rajanpur-pk629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.778",
+      "lon": "70.036"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

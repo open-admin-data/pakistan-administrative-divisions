@@ -1,0 +1,49 @@
+{
+  "id": "PK724",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ٹنڈو الہ یار",
+    "en": "Tando Allahyar",
+    "slug": "tando-allahyar-pk724"
+  },
+  "code": {
+    "id": "PK724",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "70010"
+  ],
+  "geo": {
+    "lat": "25.481",
+    "lon": "68.753"
+  },
+  "metadata": {},
+  "source": {}
+}

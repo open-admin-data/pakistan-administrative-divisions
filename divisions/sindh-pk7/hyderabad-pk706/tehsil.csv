@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+PK70601,حیدرآباد,Hyderabad,hyderabad-pk70601,PK70601,70210,25.355,68.485
+PK70602,Hyderabad City,Hyderabad City,hyderabad-city-pk70602,PK70602,71800,25.369,68.351
+PK70603,لطیف آباد,Latifabad,latifabad-pk70603,PK70603,70210,25.259,68.386
+PK70604,قاسم آباد,Qasimabad,qasimabad-pk70604,PK70604,76000,25.406,68.321

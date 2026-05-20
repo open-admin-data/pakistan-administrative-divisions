@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK50101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ایبٹ آباد",
+      "en": "Abbottabad",
+      "slug": "abbottabad-pk50101"
+    },
+    "code": {
+      "id": "PK50101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK501",
+      "level": 2,
+      "name": {
+        "local": "ایبٹ آباد",
+        "en": "Abbottabad",
+        "slug": "abbottabad-pk501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK501",
+        "level": 2,
+        "name": {
+          "local": "ایبٹ آباد",
+          "en": "Abbottabad",
+          "slug": "abbottabad-pk501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22210"
+    ],
+    "geo": {
+      "lat": "34.165",
+      "lon": "73.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "حویلیاں",
+      "en": "Havelian",
+      "slug": "havelian-pk50102"
+    },
+    "code": {
+      "id": "PK50102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK501",
+      "level": 2,
+      "name": {
+        "local": "ایبٹ آباد",
+        "en": "Abbottabad",
+        "slug": "abbottabad-pk501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK501",
+        "level": 2,
+        "name": {
+          "local": "ایبٹ آباد",
+          "en": "Abbottabad",
+          "slug": "abbottabad-pk501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22540"
+    ],
+    "geo": {
+      "lat": "34.009",
+      "lon": "73.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lora",
+      "en": "Lora",
+      "slug": "lora-pk50103"
+    },
+    "code": {
+      "id": "PK50103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK501",
+      "level": 2,
+      "name": {
+        "local": "ایبٹ آباد",
+        "en": "Abbottabad",
+        "slug": "abbottabad-pk501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK501",
+        "level": 2,
+        "name": {
+          "local": "ایبٹ آباد",
+          "en": "Abbottabad",
+          "slug": "abbottabad-pk501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22360"
+    ],
+    "geo": {
+      "lat": "33.922",
+      "lon": "73.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50104",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lower Tanawal",
+      "en": "Lower Tanawal",
+      "slug": "lower-tanawal-pk50104"
+    },
+    "code": {
+      "id": "PK50104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK501",
+      "level": 2,
+      "name": {
+        "local": "ایبٹ آباد",
+        "en": "Abbottabad",
+        "slug": "abbottabad-pk501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK501",
+        "level": 2,
+        "name": {
+          "local": "ایبٹ آباد",
+          "en": "Abbottabad",
+          "slug": "abbottabad-pk501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "34.194",
+      "lon": "73.09"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

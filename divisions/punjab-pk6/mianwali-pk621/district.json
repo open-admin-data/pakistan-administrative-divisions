@@ -1,0 +1,49 @@
+{
+  "id": "PK621",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "میانوالی",
+    "en": "Mianwali",
+    "slug": "mianwali-pk621"
+  },
+  "code": {
+    "id": "PK621",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "42312"
+  ],
+  "geo": {
+    "lat": "32.704",
+    "lon": "71.515"
+  },
+  "metadata": {},
+  "source": {}
+}

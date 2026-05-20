@@ -1,0 +1,49 @@
+{
+  "id": "PK222",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع نصیر آباد",
+    "en": "Nasirabad",
+    "slug": "nasirabad-pk222"
+  },
+  "code": {
+    "id": "PK222",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "19210"
+  ],
+  "geo": {
+    "lat": "28.626",
+    "lon": "68.129"
+  },
+  "metadata": {},
+  "source": {}
+}

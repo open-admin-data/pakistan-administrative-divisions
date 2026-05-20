@@ -1,0 +1,49 @@
+{
+  "id": "PK301",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع استور",
+    "en": "Astore",
+    "slug": "astore-pk301"
+  },
+  "code": {
+    "id": "PK301",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "14100"
+  ],
+  "geo": {
+    "lat": "35.248",
+    "lon": "74.884"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK21901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لورالائی",
+      "en": "Loralai",
+      "slug": "loralai-pk21901"
+    },
+    "code": {
+      "id": "PK21901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK219",
+      "level": 2,
+      "name": {
+        "local": "لورالائی",
+        "en": "Loralai",
+        "slug": "loralai-pk219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK219",
+        "level": 2,
+        "name": {
+          "local": "لورالائی",
+          "en": "Loralai",
+          "slug": "loralai-pk219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85400"
+    ],
+    "geo": {
+      "lat": "30.462",
+      "lon": "68.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میختر",
+      "en": "Mekhtar",
+      "slug": "mekhtar-pk21902"
+    },
+    "code": {
+      "id": "PK21902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK219",
+      "level": 2,
+      "name": {
+        "local": "لورالائی",
+        "en": "Loralai",
+        "slug": "loralai-pk219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK219",
+        "level": 2,
+        "name": {
+          "local": "لورالائی",
+          "en": "Loralai",
+          "slug": "loralai-pk219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84700"
+    ],
+    "geo": {
+      "lat": "30.516",
+      "lon": "69.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

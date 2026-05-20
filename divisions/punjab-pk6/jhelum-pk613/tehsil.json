@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK61301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دینہ",
+      "en": "Dina",
+      "slug": "dina-pk61301"
+    },
+    "code": {
+      "id": "PK61301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK613",
+      "level": 2,
+      "name": {
+        "local": "جہلم",
+        "en": "Jhelum",
+        "slug": "jhelum-pk613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK613",
+        "level": 2,
+        "name": {
+          "local": "جہلم",
+          "en": "Jhelum",
+          "slug": "jhelum-pk613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "49460"
+    ],
+    "geo": {
+      "lat": "33.026",
+      "lon": "73.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جہلم",
+      "en": "Jhelum",
+      "slug": "jhelum-pk61302"
+    },
+    "code": {
+      "id": "PK61302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK613",
+      "level": 2,
+      "name": {
+        "local": "جہلم",
+        "en": "Jhelum",
+        "slug": "jhelum-pk613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK613",
+        "level": 2,
+        "name": {
+          "local": "جہلم",
+          "en": "Jhelum",
+          "slug": "jhelum-pk613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "49330"
+    ],
+    "geo": {
+      "lat": "32.855",
+      "lon": "73.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پنڈ دادن خان",
+      "en": "Pind Dadan Khan",
+      "slug": "pind-dadan-khan-pk61303"
+    },
+    "code": {
+      "id": "PK61303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK613",
+      "level": 2,
+      "name": {
+        "local": "جہلم",
+        "en": "Jhelum",
+        "slug": "jhelum-pk613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK613",
+        "level": 2,
+        "name": {
+          "local": "جہلم",
+          "en": "Jhelum",
+          "slug": "jhelum-pk613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "49000"
+    ],
+    "geo": {
+      "lat": "32.591",
+      "lon": "72.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سوہاوہ",
+      "en": "Sohawa",
+      "slug": "sohawa-pk61304"
+    },
+    "code": {
+      "id": "PK61304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK613",
+      "level": 2,
+      "name": {
+        "local": "جہلم",
+        "en": "Jhelum",
+        "slug": "jhelum-pk613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK613",
+        "level": 2,
+        "name": {
+          "local": "جہلم",
+          "en": "Jhelum",
+          "slug": "jhelum-pk613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "49300"
+    ],
+    "geo": {
+      "lat": "32.996",
+      "lon": "73.315"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

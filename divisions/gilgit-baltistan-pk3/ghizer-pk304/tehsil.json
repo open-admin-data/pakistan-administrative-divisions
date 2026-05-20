@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK30401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Ishkoman",
+      "en": "Ishkoman",
+      "slug": "ishkoman-pk30401"
+    },
+    "code": {
+      "id": "PK30401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK304",
+      "level": 2,
+      "name": {
+        "local": "ضلع غذر (2019ء سے)",
+        "en": "Ghizer",
+        "slug": "ghizer-pk304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK304",
+        "level": 2,
+        "name": {
+          "local": "ضلع غذر (2019ء سے)",
+          "en": "Ghizer",
+          "slug": "ghizer-pk304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15160"
+    ],
+    "geo": {
+      "lat": "36.57",
+      "lon": "73.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK30402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Punial",
+      "en": "Punial",
+      "slug": "punial-pk30402"
+    },
+    "code": {
+      "id": "PK30402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK304",
+      "level": 2,
+      "name": {
+        "local": "ضلع غذر (2019ء سے)",
+        "en": "Ghizer",
+        "slug": "ghizer-pk304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK304",
+        "level": 2,
+        "name": {
+          "local": "ضلع غذر (2019ء سے)",
+          "en": "Ghizer",
+          "slug": "ghizer-pk304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15160"
+    ],
+    "geo": {
+      "lat": "36.104",
+      "lon": "73.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

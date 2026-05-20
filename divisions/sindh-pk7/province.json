@@ -1,0 +1,30 @@
+{
+  "id": "PK7",
+  "level": 1,
+  "level_name": {
+    "local": "صوبہ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "سندھ",
+    "en": "Sindh",
+    "slug": "sindh-pk7"
+  },
+  "code": {
+    "id": "PK7",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 29,
+    "tehsil": 125
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.134",
+    "lon": "68.756"
+  },
+  "metadata": {},
+  "source": {}
+}

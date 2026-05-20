@@ -1,0 +1,450 @@
+[
+  {
+    "id": "PK71101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "فیض گنج",
+      "en": "Faiz Ganj",
+      "slug": "faiz-ganj-pk71101"
+    },
+    "code": {
+      "id": "PK71101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66300"
+    ],
+    "geo": {
+      "lat": "26.777",
+      "lon": "68.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گمبٹ",
+      "en": "Gambat",
+      "slug": "gambat-pk71102"
+    },
+    "code": {
+      "id": "PK71102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31600"
+    ],
+    "geo": {
+      "lat": "27.443",
+      "lon": "68.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خیرپور",
+      "en": "Khairpur",
+      "slug": "khairpur-pk71103"
+    },
+    "code": {
+      "id": "PK71103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66160"
+    ],
+    "geo": {
+      "lat": "27.508",
+      "lon": "68.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71104",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کنگری",
+      "en": "Kingri",
+      "slug": "kingri-pk71104"
+    },
+    "code": {
+      "id": "PK71104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66020"
+    ],
+    "geo": {
+      "lat": "27.6",
+      "lon": "68.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71105",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوت دیجی",
+      "en": "Kot Diji",
+      "slug": "kot-diji-pk71105"
+    },
+    "code": {
+      "id": "PK71105",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66120"
+    ],
+    "geo": {
+      "lat": "27.321",
+      "lon": "68.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71106",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Nara",
+      "en": "Nara",
+      "slug": "nara-pk71106"
+    },
+    "code": {
+      "id": "PK71106",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66170"
+    ],
+    "geo": {
+      "lat": "26.786",
+      "lon": "69.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71107",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sobho Dero",
+      "en": "Sobho Dero",
+      "slug": "sobho-dero-pk71107"
+    },
+    "code": {
+      "id": "PK71107",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67030"
+    ],
+    "geo": {
+      "lat": "27.248",
+      "lon": "68.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71108",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Thari Meer Wah",
+      "en": "Thari Meer Wah",
+      "slug": "thari-meer-wah-pk71108"
+    },
+    "code": {
+      "id": "PK71108",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK711",
+      "level": 2,
+      "name": {
+        "local": "خیرپور",
+        "en": "Khairpur",
+        "slug": "khairpur-pk711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK711",
+        "level": 2,
+        "name": {
+          "local": "خیرپور",
+          "en": "Khairpur",
+          "slug": "khairpur-pk711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67020"
+    ],
+    "geo": {
+      "lat": "27.089",
+      "lon": "68.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

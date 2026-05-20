@@ -1,0 +1,49 @@
+{
+  "id": "PK635",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ٹوبہ ٹیک سنگھ",
+    "en": "Toba Tek Singh",
+    "slug": "toba-tek-singh-pk635"
+  },
+  "code": {
+    "id": "PK635",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "43700"
+  ],
+  "geo": {
+    "lat": "30.929",
+    "lon": "72.537"
+  },
+  "metadata": {},
+  "source": {}
+}

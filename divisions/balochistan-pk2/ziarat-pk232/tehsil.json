@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK23201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sinjawi",
+      "en": "Sinjawi",
+      "slug": "sinjawi-pk23201"
+    },
+    "code": {
+      "id": "PK23201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK232",
+      "level": 2,
+      "name": {
+        "local": "ضلع زیارت",
+        "en": "Ziarat",
+        "slug": "ziarat-pk232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK232",
+        "level": 2,
+        "name": {
+          "local": "ضلع زیارت",
+          "en": "Ziarat",
+          "slug": "ziarat-pk232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84300"
+    ],
+    "geo": {
+      "lat": "30.353",
+      "lon": "68.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK23202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "زیارت",
+      "en": "Ziarat",
+      "slug": "ziarat-pk23202"
+    },
+    "code": {
+      "id": "PK23202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK232",
+      "level": 2,
+      "name": {
+        "local": "ضلع زیارت",
+        "en": "Ziarat",
+        "slug": "ziarat-pk232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK232",
+        "level": 2,
+        "name": {
+          "local": "ضلع زیارت",
+          "en": "Ziarat",
+          "slug": "ziarat-pk232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96000"
+    ],
+    "geo": {
+      "lat": "30.437",
+      "lon": "67.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

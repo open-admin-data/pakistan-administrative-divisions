@@ -1,0 +1,49 @@
+{
+  "id": "PK517",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "کولائی پالس کوہستان",
+    "en": "Kolai Palas Kohistan",
+    "slug": "kolai-palas-kohistan-pk517"
+  },
+  "code": {
+    "id": "PK517",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "19080"
+  ],
+  "geo": {
+    "lat": "35.067",
+    "lon": "73.175"
+  },
+  "metadata": {},
+  "source": {}
+}

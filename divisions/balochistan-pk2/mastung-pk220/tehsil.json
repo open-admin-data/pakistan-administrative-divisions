@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK22001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dasht Spenzend",
+      "en": "Dasht Spenzend",
+      "slug": "dasht-spenzend-pk22001"
+    },
+    "code": {
+      "id": "PK22001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK220",
+      "level": 2,
+      "name": {
+        "local": "مستونگ",
+        "en": "Mastung",
+        "slug": "mastung-pk220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK220",
+        "level": 2,
+        "name": {
+          "local": "مستونگ",
+          "en": "Mastung",
+          "slug": "mastung-pk220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88100"
+    ],
+    "geo": {
+      "lat": "29.704",
+      "lon": "67.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kirdgap",
+      "en": "Kirdgap",
+      "slug": "kirdgap-pk22002"
+    },
+    "code": {
+      "id": "PK22002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK220",
+      "level": 2,
+      "name": {
+        "local": "مستونگ",
+        "en": "Mastung",
+        "slug": "mastung-pk220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK220",
+        "level": 2,
+        "name": {
+          "local": "مستونگ",
+          "en": "Mastung",
+          "slug": "mastung-pk220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95150"
+    ],
+    "geo": {
+      "lat": "29.605",
+      "lon": "66.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مستونگ",
+      "en": "Mastung",
+      "slug": "mastung-pk22003"
+    },
+    "code": {
+      "id": "PK22003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK220",
+      "level": 2,
+      "name": {
+        "local": "مستونگ",
+        "en": "Mastung",
+        "slug": "mastung-pk220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK220",
+        "level": 2,
+        "name": {
+          "local": "مستونگ",
+          "en": "Mastung",
+          "slug": "mastung-pk220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88100"
+    ],
+    "geo": {
+      "lat": "29.799",
+      "lon": "66.737"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

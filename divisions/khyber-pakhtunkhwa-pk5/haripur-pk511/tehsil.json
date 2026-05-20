@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK51101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Ghazi",
+      "en": "Ghazi",
+      "slug": "ghazi-pk51101"
+    },
+    "code": {
+      "id": "PK51101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK511",
+      "level": 2,
+      "name": {
+        "local": "ہری پور",
+        "en": "Haripur",
+        "slug": "haripur-pk511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK511",
+        "level": 2,
+        "name": {
+          "local": "ہری پور",
+          "en": "Haripur",
+          "slug": "haripur-pk511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23430"
+    ],
+    "geo": {
+      "lat": "34.113",
+      "lon": "72.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ہری پور",
+      "en": "Haripur",
+      "slug": "haripur-pk51102"
+    },
+    "code": {
+      "id": "PK51102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK511",
+      "level": 2,
+      "name": {
+        "local": "ہری پور",
+        "en": "Haripur",
+        "slug": "haripur-pk511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK511",
+        "level": 2,
+        "name": {
+          "local": "ہری پور",
+          "en": "Haripur",
+          "slug": "haripur-pk511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17240"
+    ],
+    "geo": {
+      "lat": "34.07",
+      "lon": "72.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خانپور",
+      "en": "Khanpur",
+      "slug": "khanpur-pk51103"
+    },
+    "code": {
+      "id": "PK51103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK511",
+      "level": 2,
+      "name": {
+        "local": "ہری پور",
+        "en": "Haripur",
+        "slug": "haripur-pk511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK511",
+        "level": 2,
+        "name": {
+          "local": "ہری پور",
+          "en": "Haripur",
+          "slug": "haripur-pk511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22650"
+    ],
+    "geo": {
+      "lat": "33.825",
+      "lon": "73.037"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

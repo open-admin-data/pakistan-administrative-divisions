@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK62301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "علی پور",
+      "en": "Alipur",
+      "slug": "alipur-pk62301"
+    },
+    "code": {
+      "id": "PK62301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK623",
+      "level": 2,
+      "name": {
+        "local": "مظفرگڑھ",
+        "en": "Muzaffargarh",
+        "slug": "muzaffargarh-pk623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK623",
+        "level": 2,
+        "name": {
+          "local": "مظفرگڑھ",
+          "en": "Muzaffargarh",
+          "slug": "muzaffargarh-pk623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34470"
+    ],
+    "geo": {
+      "lat": "29.278",
+      "lon": "70.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جتوئی",
+      "en": "Jatoi",
+      "slug": "jatoi-pk62302"
+    },
+    "code": {
+      "id": "PK62302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK623",
+      "level": 2,
+      "name": {
+        "local": "مظفرگڑھ",
+        "en": "Muzaffargarh",
+        "slug": "muzaffargarh-pk623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK623",
+        "level": 2,
+        "name": {
+          "local": "مظفرگڑھ",
+          "en": "Muzaffargarh",
+          "slug": "muzaffargarh-pk623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53500"
+    ],
+    "geo": {
+      "lat": "29.597",
+      "lon": "70.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کوٹ ادو",
+      "en": "Kot Addu",
+      "slug": "kot-addu-pk62303"
+    },
+    "code": {
+      "id": "PK62303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK623",
+      "level": 2,
+      "name": {
+        "local": "مظفرگڑھ",
+        "en": "Muzaffargarh",
+        "slug": "muzaffargarh-pk623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK623",
+        "level": 2,
+        "name": {
+          "local": "مظفرگڑھ",
+          "en": "Muzaffargarh",
+          "slug": "muzaffargarh-pk623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34050"
+    ],
+    "geo": {
+      "lat": "30.434",
+      "lon": "71.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مظفرگڑھ",
+      "en": "Muzaffargarh",
+      "slug": "muzaffargarh-pk62304"
+    },
+    "code": {
+      "id": "PK62304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK623",
+      "level": 2,
+      "name": {
+        "local": "مظفرگڑھ",
+        "en": "Muzaffargarh",
+        "slug": "muzaffargarh-pk623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK623",
+        "level": 2,
+        "name": {
+          "local": "مظفرگڑھ",
+          "en": "Muzaffargarh",
+          "slug": "muzaffargarh-pk623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34382"
+    ],
+    "geo": {
+      "lat": "30.153",
+      "lon": "71.165"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

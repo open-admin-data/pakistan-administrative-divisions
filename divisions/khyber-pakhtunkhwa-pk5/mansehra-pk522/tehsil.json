@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK52204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Baffa Pakhal",
+      "en": "Baffa Pakhal",
+      "slug": "baffa-pakhal-pk52204"
+    },
+    "code": {
+      "id": "PK52204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK522",
+      "level": 2,
+      "name": {
+        "local": "مانسہرہ",
+        "en": "Mansehra",
+        "slug": "mansehra-pk522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK522",
+        "level": 2,
+        "name": {
+          "local": "مانسہرہ",
+          "en": "Mansehra",
+          "slug": "mansehra-pk522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21160"
+    ],
+    "geo": {
+      "lat": "34.556",
+      "lon": "73.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bala Kot",
+      "en": "Bala Kot",
+      "slug": "bala-kot-pk52201"
+    },
+    "code": {
+      "id": "PK52201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK522",
+      "level": 2,
+      "name": {
+        "local": "مانسہرہ",
+        "en": "Mansehra",
+        "slug": "mansehra-pk522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK522",
+        "level": 2,
+        "name": {
+          "local": "مانسہرہ",
+          "en": "Mansehra",
+          "slug": "mansehra-pk522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21210"
+    ],
+    "geo": {
+      "lat": "34.753",
+      "lon": "73.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52205",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Darband",
+      "en": "Darband",
+      "slug": "darband-pk52205"
+    },
+    "code": {
+      "id": "PK52205",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK522",
+      "level": 2,
+      "name": {
+        "local": "مانسہرہ",
+        "en": "Mansehra",
+        "slug": "mansehra-pk522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK522",
+        "level": 2,
+        "name": {
+          "local": "مانسہرہ",
+          "en": "Mansehra",
+          "slug": "mansehra-pk522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21460"
+    ],
+    "geo": {
+      "lat": "34.369",
+      "lon": "72.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مانسہرہ",
+      "en": "Mansehra",
+      "slug": "mansehra-pk52202"
+    },
+    "code": {
+      "id": "PK52202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK522",
+      "level": 2,
+      "name": {
+        "local": "مانسہرہ",
+        "en": "Mansehra",
+        "slug": "mansehra-pk522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK522",
+        "level": 2,
+        "name": {
+          "local": "مانسہرہ",
+          "en": "Mansehra",
+          "slug": "mansehra-pk522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21360"
+    ],
+    "geo": {
+      "lat": "34.442",
+      "lon": "73.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اوگھی",
+      "en": "Oghi",
+      "slug": "oghi-pk52203"
+    },
+    "code": {
+      "id": "PK52203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK522",
+      "level": 2,
+      "name": {
+        "local": "مانسہرہ",
+        "en": "Mansehra",
+        "slug": "mansehra-pk522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK522",
+        "level": 2,
+        "name": {
+          "local": "مانسہرہ",
+          "en": "Mansehra",
+          "slug": "mansehra-pk522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21410"
+    ],
+    "geo": {
+      "lat": "34.455",
+      "lon": "72.993"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

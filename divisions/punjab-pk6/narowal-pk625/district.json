@@ -1,0 +1,49 @@
+{
+  "id": "PK625",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع نارووال",
+    "en": "Narowal",
+    "slug": "narowal-pk625"
+  },
+  "code": {
+    "id": "PK625",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "47960"
+  ],
+  "geo": {
+    "lat": "32.206",
+    "lon": "75.043"
+  },
+  "metadata": {},
+  "source": {}
+}

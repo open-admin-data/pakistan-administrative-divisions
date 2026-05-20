@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK20201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بارکھان",
+      "en": "Barkhan",
+      "slug": "barkhan-pk20201"
+    },
+    "code": {
+      "id": "PK20201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK202",
+      "level": 2,
+      "name": {
+        "local": "ضلع بارکھان",
+        "en": "Barkhan",
+        "slug": "barkhan-pk202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK202",
+        "level": 2,
+        "name": {
+          "local": "ضلع بارکھان",
+          "en": "Barkhan",
+          "slug": "barkhan-pk202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84100"
+    ],
+    "geo": {
+      "lat": "29.985",
+      "lon": "69.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Rakhni",
+      "en": "Rakhni",
+      "slug": "rakhni-pk20202"
+    },
+    "code": {
+      "id": "PK20202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK202",
+      "level": 2,
+      "name": {
+        "local": "ضلع بارکھان",
+        "en": "Barkhan",
+        "slug": "barkhan-pk202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK202",
+        "level": 2,
+        "name": {
+          "local": "ضلع بارکھان",
+          "en": "Barkhan",
+          "slug": "barkhan-pk202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84500"
+    ],
+    "geo": {
+      "lat": "30.01",
+      "lon": "69.861"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

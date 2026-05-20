@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK10201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "برنالہ",
+      "en": "Barnala",
+      "slug": "barnala-pk10201"
+    },
+    "code": {
+      "id": "PK10201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK102",
+      "level": 2,
+      "name": {
+        "local": "ضلع بھمبر",
+        "en": "Bhimber",
+        "slug": "bhimber-pk102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK102",
+        "level": 2,
+        "name": {
+          "local": "ضلع بھمبر",
+          "en": "Bhimber",
+          "slug": "bhimber-pk102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10010"
+    ],
+    "geo": {
+      "lat": "32.905",
+      "lon": "74.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بھمبر",
+      "en": "Bhimber",
+      "slug": "bhimber-pk10202"
+    },
+    "code": {
+      "id": "PK10202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK102",
+      "level": 2,
+      "name": {
+        "local": "ضلع بھمبر",
+        "en": "Bhimber",
+        "slug": "bhimber-pk102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK102",
+        "level": 2,
+        "name": {
+          "local": "ضلع بھمبر",
+          "en": "Bhimber",
+          "slug": "bhimber-pk102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "73.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سماہنی",
+      "en": "Samahni",
+      "slug": "samahni-pk10203"
+    },
+    "code": {
+      "id": "PK10203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK102",
+      "level": 2,
+      "name": {
+        "local": "ضلع بھمبر",
+        "en": "Bhimber",
+        "slug": "bhimber-pk102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK102",
+        "level": 2,
+        "name": {
+          "local": "ضلع بھمبر",
+          "en": "Bhimber",
+          "slug": "bhimber-pk102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10090"
+    ],
+    "geo": {
+      "lat": "33.135",
+      "lon": "74.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

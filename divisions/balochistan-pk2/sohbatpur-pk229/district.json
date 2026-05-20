@@ -1,0 +1,49 @@
+{
+  "id": "PK229",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع صحبت پور",
+    "en": "Sohbatpur",
+    "slug": "sohbatpur-pk229"
+  },
+  "code": {
+    "id": "PK229",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "78200"
+  ],
+  "geo": {
+    "lat": "28.542",
+    "lon": "68.521"
+  },
+  "metadata": {},
+  "source": {}
+}

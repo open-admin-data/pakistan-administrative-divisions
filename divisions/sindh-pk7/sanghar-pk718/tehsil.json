@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK71801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jam Nawaz Ali",
+      "en": "Jam Nawaz Ali",
+      "slug": "jam-nawaz-ali-pk71801"
+    },
+    "code": {
+      "id": "PK71801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK718",
+      "level": 2,
+      "name": {
+        "local": "سانگھڑ",
+        "en": "Sanghar",
+        "slug": "sanghar-pk718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK718",
+        "level": 2,
+        "name": {
+          "local": "سانگھڑ",
+          "en": "Sanghar",
+          "slug": "sanghar-pk718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68070"
+    ],
+    "geo": {
+      "lat": "25.806",
+      "lon": "68.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کھپرو",
+      "en": "Khipro",
+      "slug": "khipro-pk71802"
+    },
+    "code": {
+      "id": "PK71802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK718",
+      "level": 2,
+      "name": {
+        "local": "سانگھڑ",
+        "en": "Sanghar",
+        "slug": "sanghar-pk718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK718",
+        "level": 2,
+        "name": {
+          "local": "سانگھڑ",
+          "en": "Sanghar",
+          "slug": "sanghar-pk718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68350"
+    ],
+    "geo": {
+      "lat": "25.862",
+      "lon": "69.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سانگھڑ",
+      "en": "Sanghar",
+      "slug": "sanghar-pk71803"
+    },
+    "code": {
+      "id": "PK71803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK718",
+      "level": 2,
+      "name": {
+        "local": "سانگھڑ",
+        "en": "Sanghar",
+        "slug": "sanghar-pk718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK718",
+        "level": 2,
+        "name": {
+          "local": "سانگھڑ",
+          "en": "Sanghar",
+          "slug": "sanghar-pk718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68100"
+    ],
+    "geo": {
+      "lat": "26.112",
+      "lon": "69.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71804",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شہداد پور",
+      "en": "Shahdadpur",
+      "slug": "shahdadpur-pk71804"
+    },
+    "code": {
+      "id": "PK71804",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK718",
+      "level": 2,
+      "name": {
+        "local": "سانگھڑ",
+        "en": "Sanghar",
+        "slug": "sanghar-pk718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK718",
+        "level": 2,
+        "name": {
+          "local": "سانگھڑ",
+          "en": "Sanghar",
+          "slug": "sanghar-pk718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68020"
+    ],
+    "geo": {
+      "lat": "26.03",
+      "lon": "68.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71805",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سنجھورو",
+      "en": "Sinjhoro",
+      "slug": "sinjhoro-pk71805"
+    },
+    "code": {
+      "id": "PK71805",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK718",
+      "level": 2,
+      "name": {
+        "local": "سانگھڑ",
+        "en": "Sanghar",
+        "slug": "sanghar-pk718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK718",
+        "level": 2,
+        "name": {
+          "local": "سانگھڑ",
+          "en": "Sanghar",
+          "slug": "sanghar-pk718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68220"
+    ],
+    "geo": {
+      "lat": "26.076",
+      "lon": "68.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71806",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹنڈو آدم",
+      "en": "Tando Adam",
+      "slug": "tando-adam-pk71806"
+    },
+    "code": {
+      "id": "PK71806",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK718",
+      "level": 2,
+      "name": {
+        "local": "سانگھڑ",
+        "en": "Sanghar",
+        "slug": "sanghar-pk718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK718",
+        "level": 2,
+        "name": {
+          "local": "سانگھڑ",
+          "en": "Sanghar",
+          "slug": "sanghar-pk718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68050"
+    ],
+    "geo": {
+      "lat": "25.827",
+      "lon": "68.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

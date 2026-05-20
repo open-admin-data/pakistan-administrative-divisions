@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK52701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Central Orakzai",
+      "en": "Central Orakzai",
+      "slug": "central-orakzai-pk52701"
+    },
+    "code": {
+      "id": "PK52701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK527",
+      "level": 2,
+      "name": {
+        "local": "ضلع اورکزئی",
+        "en": "Orakzai",
+        "slug": "orakzai-pk527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK527",
+        "level": 2,
+        "name": {
+          "local": "ضلع اورکزئی",
+          "en": "Orakzai",
+          "slug": "orakzai-pk527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28120"
+    ],
+    "geo": {
+      "lat": "33.688",
+      "lon": "70.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Ismailzai",
+      "en": "Ismailzai",
+      "slug": "ismailzai-pk52702"
+    },
+    "code": {
+      "id": "PK52702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK527",
+      "level": 2,
+      "name": {
+        "local": "ضلع اورکزئی",
+        "en": "Orakzai",
+        "slug": "orakzai-pk527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK527",
+        "level": 2,
+        "name": {
+          "local": "ضلع اورکزئی",
+          "en": "Orakzai",
+          "slug": "orakzai-pk527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26220"
+    ],
+    "geo": {
+      "lat": "33.607",
+      "lon": "70.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lower Orakzai",
+      "en": "Lower Orakzai",
+      "slug": "lower-orakzai-pk52703"
+    },
+    "code": {
+      "id": "PK52703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK527",
+      "level": 2,
+      "name": {
+        "local": "ضلع اورکزئی",
+        "en": "Orakzai",
+        "slug": "orakzai-pk527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK527",
+        "level": 2,
+        "name": {
+          "local": "ضلع اورکزئی",
+          "en": "Orakzai",
+          "slug": "orakzai-pk527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24506"
+    ],
+    "geo": {
+      "lat": "33.733",
+      "lon": "71.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52704",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Upper Orakzai",
+      "en": "Upper Orakzai",
+      "slug": "upper-orakzai-pk52704"
+    },
+    "code": {
+      "id": "PK52704",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK527",
+      "level": 2,
+      "name": {
+        "local": "ضلع اورکزئی",
+        "en": "Orakzai",
+        "slug": "orakzai-pk527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK527",
+        "level": 2,
+        "name": {
+          "local": "ضلع اورکزئی",
+          "en": "Orakzai",
+          "slug": "orakzai-pk527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27600"
+    ],
+    "geo": {
+      "lat": "33.69",
+      "lon": "70.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

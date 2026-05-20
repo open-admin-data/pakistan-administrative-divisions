@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK62001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ملکوال",
+      "en": "Malakwal",
+      "slug": "malakwal-pk62001"
+    },
+    "code": {
+      "id": "PK62001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK620",
+      "level": 2,
+      "name": {
+        "local": "منڈی بہاؤالدین",
+        "en": "Mandi Bahauddin",
+        "slug": "mandi-bahauddin-pk620"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK620",
+        "level": 2,
+        "name": {
+          "local": "منڈی بہاؤالدین",
+          "en": "Mandi Bahauddin",
+          "slug": "mandi-bahauddin-pk620"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50560"
+    ],
+    "geo": {
+      "lat": "32.43",
+      "lon": "73.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "منڈی بہاؤالدین",
+      "en": "Mandi Bahauddin",
+      "slug": "mandi-bahauddin-pk62002"
+    },
+    "code": {
+      "id": "PK62002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK620",
+      "level": 2,
+      "name": {
+        "local": "منڈی بہاؤالدین",
+        "en": "Mandi Bahauddin",
+        "slug": "mandi-bahauddin-pk620"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK620",
+        "level": 2,
+        "name": {
+          "local": "منڈی بہاؤالدین",
+          "en": "Mandi Bahauddin",
+          "slug": "mandi-bahauddin-pk620"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39060"
+    ],
+    "geo": {
+      "lat": "32.547",
+      "lon": "73.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پھالیہ",
+      "en": "Phalia",
+      "slug": "phalia-pk62003"
+    },
+    "code": {
+      "id": "PK62003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK620",
+      "level": 2,
+      "name": {
+        "local": "منڈی بہاؤالدین",
+        "en": "Mandi Bahauddin",
+        "slug": "mandi-bahauddin-pk620"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK620",
+        "level": 2,
+        "name": {
+          "local": "منڈی بہاؤالدین",
+          "en": "Mandi Bahauddin",
+          "slug": "mandi-bahauddin-pk620"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50430"
+    ],
+    "geo": {
+      "lat": "32.358",
+      "lon": "73.585"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

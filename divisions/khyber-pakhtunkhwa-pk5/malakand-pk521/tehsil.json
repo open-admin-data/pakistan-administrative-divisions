@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK52101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بت خلا",
+      "en": "Bat Khela",
+      "slug": "bat-khela-pk52101"
+    },
+    "code": {
+      "id": "PK52101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK521",
+      "level": 2,
+      "name": {
+        "local": "ضلع مالاکنڈ",
+        "en": "Malakand",
+        "slug": "malakand-pk521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK521",
+        "level": 2,
+        "name": {
+          "local": "ضلع مالاکنڈ",
+          "en": "Malakand",
+          "slug": "malakand-pk521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23050"
+    ],
+    "geo": {
+      "lat": "34.558",
+      "lon": "71.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "درگئی",
+      "en": "Dargai",
+      "slug": "dargai-pk52102"
+    },
+    "code": {
+      "id": "PK52102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK521",
+      "level": 2,
+      "name": {
+        "local": "ضلع مالاکنڈ",
+        "en": "Malakand",
+        "slug": "malakand-pk521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK521",
+        "level": 2,
+        "name": {
+          "local": "ضلع مالاکنڈ",
+          "en": "Malakand",
+          "slug": "malakand-pk521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21020"
+    ],
+    "geo": {
+      "lat": "34.446",
+      "lon": "71.858"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK51001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ہنگو",
+      "en": "Hangu",
+      "slug": "hangu-pk51001"
+    },
+    "code": {
+      "id": "PK51001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK510",
+      "level": 2,
+      "name": {
+        "local": "ہنگو",
+        "en": "Hangu",
+        "slug": "hangu-pk510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK510",
+        "level": 2,
+        "name": {
+          "local": "ہنگو",
+          "en": "Hangu",
+          "slug": "hangu-pk510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26200"
+    ],
+    "geo": {
+      "lat": "33.482",
+      "lon": "71.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Tall",
+      "en": "Tall",
+      "slug": "tall-pk51002"
+    },
+    "code": {
+      "id": "PK51002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK510",
+      "level": 2,
+      "name": {
+        "local": "ہنگو",
+        "en": "Hangu",
+        "slug": "hangu-pk510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK510",
+        "level": 2,
+        "name": {
+          "local": "ہنگو",
+          "en": "Hangu",
+          "slug": "hangu-pk510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26240"
+    ],
+    "geo": {
+      "lat": "33.386",
+      "lon": "70.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

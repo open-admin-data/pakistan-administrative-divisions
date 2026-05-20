@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK63101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چیچہ وطنی",
+      "en": "Chichawatni",
+      "slug": "chichawatni-pk63101"
+    },
+    "code": {
+      "id": "PK63101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK631",
+      "level": 2,
+      "name": {
+        "local": "ساہیوال",
+        "en": "Sahiwal",
+        "slug": "sahiwal-pk631"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK631",
+        "level": 2,
+        "name": {
+          "local": "ساہیوال",
+          "en": "Sahiwal",
+          "slug": "sahiwal-pk631"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43730"
+    ],
+    "geo": {
+      "lat": "30.429",
+      "lon": "72.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ساہیوال",
+      "en": "Sahiwal",
+      "slug": "sahiwal-pk63102"
+    },
+    "code": {
+      "id": "PK63102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK631",
+      "level": 2,
+      "name": {
+        "local": "ساہیوال",
+        "en": "Sahiwal",
+        "slug": "sahiwal-pk631"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK631",
+        "level": 2,
+        "name": {
+          "local": "ساہیوال",
+          "en": "Sahiwal",
+          "slug": "sahiwal-pk631"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57050"
+    ],
+    "geo": {
+      "lat": "30.67",
+      "lon": "73.11"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

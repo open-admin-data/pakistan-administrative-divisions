@@ -1,0 +1,49 @@
+{
+  "id": "PK314",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "رونڈو",
+    "en": "Rondu",
+    "slug": "rondu-pk314"
+  },
+  "code": {
+    "id": "PK314",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "16400"
+  ],
+  "geo": {
+    "lat": "35.587",
+    "lon": "75.158"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PK220",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "مستونگ",
+    "en": "Mastung",
+    "slug": "mastung-pk220"
+  },
+  "code": {
+    "id": "PK220",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "88100"
+  ],
+  "geo": {
+    "lat": "29.746",
+    "lon": "66.731"
+  },
+  "metadata": {},
+  "source": {}
+}

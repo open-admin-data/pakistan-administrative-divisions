@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK50302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Baka Khel",
+      "en": "Baka Khel",
+      "slug": "baka-khel-pk50302"
+    },
+    "code": {
+      "id": "PK50302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK503",
+      "level": 2,
+      "name": {
+        "local": "بنوں",
+        "en": "Bannu",
+        "slug": "bannu-pk503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK503",
+        "level": 2,
+        "name": {
+          "local": "بنوں",
+          "en": "Bannu",
+          "slug": "bannu-pk503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28140"
+    ],
+    "geo": {
+      "lat": "32.868",
+      "lon": "70.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بنوں",
+      "en": "Bannu",
+      "slug": "bannu-pk50301"
+    },
+    "code": {
+      "id": "PK50301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK503",
+      "level": 2,
+      "name": {
+        "local": "بنوں",
+        "en": "Bannu",
+        "slug": "bannu-pk503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK503",
+        "level": 2,
+        "name": {
+          "local": "بنوں",
+          "en": "Bannu",
+          "slug": "bannu-pk503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28490"
+    ],
+    "geo": {
+      "lat": "32.925",
+      "lon": "70.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈومیل",
+      "en": "Domel",
+      "slug": "domel-pk50303"
+    },
+    "code": {
+      "id": "PK50303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK503",
+      "level": 2,
+      "name": {
+        "local": "بنوں",
+        "en": "Bannu",
+        "slug": "bannu-pk503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK503",
+        "level": 2,
+        "name": {
+          "local": "بنوں",
+          "en": "Bannu",
+          "slug": "bannu-pk503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28010"
+    ],
+    "geo": {
+      "lat": "32.972",
+      "lon": "70.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kakki",
+      "en": "Kakki",
+      "slug": "kakki-pk50304"
+    },
+    "code": {
+      "id": "PK50304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK503",
+      "level": 2,
+      "name": {
+        "local": "بنوں",
+        "en": "Bannu",
+        "slug": "bannu-pk503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK503",
+        "level": 2,
+        "name": {
+          "local": "بنوں",
+          "en": "Bannu",
+          "slug": "bannu-pk503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28310"
+    ],
+    "geo": {
+      "lat": "32.853",
+      "lon": "70.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50305",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Miryan",
+      "en": "Miryan",
+      "slug": "miryan-pk50305"
+    },
+    "code": {
+      "id": "PK50305",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK503",
+      "level": 2,
+      "name": {
+        "local": "بنوں",
+        "en": "Bannu",
+        "slug": "bannu-pk503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK503",
+        "level": 2,
+        "name": {
+          "local": "بنوں",
+          "en": "Bannu",
+          "slug": "bannu-pk503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28310"
+    ],
+    "geo": {
+      "lat": "32.899",
+      "lon": "70.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50306",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Wazir",
+      "en": "Wazir",
+      "slug": "wazir-pk50306"
+    },
+    "code": {
+      "id": "PK50306",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK503",
+      "level": 2,
+      "name": {
+        "local": "بنوں",
+        "en": "Bannu",
+        "slug": "bannu-pk503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK503",
+        "level": 2,
+        "name": {
+          "local": "بنوں",
+          "en": "Bannu",
+          "slug": "bannu-pk503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28140"
+    ],
+    "geo": {
+      "lat": "32.997",
+      "lon": "70.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

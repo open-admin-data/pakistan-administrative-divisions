@@ -1,0 +1,49 @@
+{
+  "id": "PK310",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع شگر",
+    "en": "Shigar",
+    "slug": "shigar-pk310"
+  },
+  "code": {
+    "id": "PK310",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "16300"
+  ],
+  "geo": {
+    "lat": "35.736",
+    "lon": "75.922"
+  },
+  "metadata": {},
+  "source": {}
+}

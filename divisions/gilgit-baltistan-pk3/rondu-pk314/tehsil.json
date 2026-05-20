@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK31401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Rondu",
+      "en": "Rondu",
+      "slug": "rondu-pk31401"
+    },
+    "code": {
+      "id": "PK31401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK314",
+      "level": 2,
+      "name": {
+        "local": "رونڈو",
+        "en": "Rondu",
+        "slug": "rondu-pk314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK314",
+        "level": 2,
+        "name": {
+          "local": "رونڈو",
+          "en": "Rondu",
+          "slug": "rondu-pk314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16400"
+    ],
+    "geo": {
+      "lat": "35.587",
+      "lon": "75.158"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

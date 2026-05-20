@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "PK601",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "اٹک",
+      "en": "Attock",
+      "slug": "attock-pk601"
+    },
+    "code": {
+      "id": "PK601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "43320"
+    ],
+    "geo": {
+      "lat": "33.503",
+      "lon": "72.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK602",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع بہاولنگر",
+      "en": "Bahawalnagar",
+      "slug": "bahawalnagar-pk602"
+    },
+    "code": {
+      "id": "PK602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "29.577",
+      "lon": "72.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK603",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "بہاولپور",
+      "en": "Bahawalpur",
+      "slug": "bahawalpur-pk603"
+    },
+    "code": {
+      "id": "PK603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "63210"
+    ],
+    "geo": {
+      "lat": "28.83",
+      "lon": "71.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK604",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "بھکر",
+      "en": "Bhakkar",
+      "slug": "bhakkar-pk604"
+    },
+    "code": {
+      "id": "PK604",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "30030"
+    ],
+    "geo": {
+      "lat": "31.681",
+      "lon": "71.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK605",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "چکوال",
+      "en": "Chakwal",
+      "slug": "chakwal-pk605"
+    },
+    "code": {
+      "id": "PK605",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "48540"
+    ],
+    "geo": {
+      "lat": "32.874",
+      "lon": "72.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK606",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "چنیوٹ",
+      "en": "Chiniot",
+      "slug": "chiniot-pk606"
+    },
+    "code": {
+      "id": "PK606",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "35480"
+    ],
+    "geo": {
+      "lat": "31.67",
+      "lon": "72.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK607",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ڈیرہ غازی خان",
+      "en": "Dera Ghazi Khan",
+      "slug": "dera-ghazi-khan-pk607"
+    },
+    "code": {
+      "id": "PK607",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "32124"
+    ],
+    "geo": {
+      "lat": "30.48",
+      "lon": "70.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK608",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "فیصل آباد",
+      "en": "Faisalabad",
+      "slug": "faisalabad-pk608"
+    },
+    "code": {
+      "id": "PK608",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "37510"
+    ],
+    "geo": {
+      "lat": "31.231",
+      "lon": "73.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK609",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "گوجرانوالہ",
+      "en": "Gujranwala",
+      "slug": "gujranwala-pk609"
+    },
+    "code": {
+      "id": "PK609",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "52320"
+    ],
+    "geo": {
+      "lat": "32.188",
+      "lon": "74.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK610",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "گجرات",
+      "en": "Gujrat",
+      "slug": "gujrat-pk610"
+    },
+    "code": {
+      "id": "PK610",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "50900"
+    ],
+    "geo": {
+      "lat": "32.718",
+      "lon": "74.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK611",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "حافظ آباد",
+      "en": "Hafizabad",
+      "slug": "hafizabad-pk611"
+    },
+    "code": {
+      "id": "PK611",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "12200"
+    ],
+    "geo": {
+      "lat": "32.051",
+      "lon": "73.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK612",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "جھنگ",
+      "en": "Jhang",
+      "slug": "jhang-pk612"
+    },
+    "code": {
+      "id": "PK612",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "35180"
+    ],
+    "geo": {
+      "lat": "31.172",
+      "lon": "72.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK613",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "جہلم",
+      "en": "Jhelum",
+      "slug": "jhelum-pk613"
+    },
+    "code": {
+      "id": "PK613",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "49326"
+    ],
+    "geo": {
+      "lat": "32.836",
+      "lon": "73.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK614",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "قصور",
+      "en": "Kasur",
+      "slug": "kasur-pk614"
+    },
+    "code": {
+      "id": "PK614",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "55020"
+    ],
+    "geo": {
+      "lat": "31.003",
+      "lon": "74.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK615",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "خانیوال",
+      "en": "Khanewal",
+      "slug": "khanewal-pk615"
+    },
+    "code": {
+      "id": "PK615",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "58100"
+    ],
+    "geo": {
+      "lat": "30.316",
+      "lon": "72.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK616",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "خوشاب",
+      "en": "Khushab",
+      "slug": "khushab-pk616"
+    },
+    "code": {
+      "id": "PK616",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "41200"
+    ],
+    "geo": {
+      "lat": "32.125",
+      "lon": "72.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK617",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "لاہور",
+      "en": "Lahore",
+      "slug": "lahore-pk617"
+    },
+    "code": {
+      "id": "PK617",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "54760"
+    ],
+    "geo": {
+      "lat": "31.486",
+      "lon": "74.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK618",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "لیہ",
+      "en": "Leiah",
+      "slug": "leiah-pk618"
+    },
+    "code": {
+      "id": "PK618",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "31300"
+    ],
+    "geo": {
+      "lat": "30.997",
+      "lon": "71.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK619",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "لودھراں",
+      "en": "Lodhran",
+      "slug": "lodhran-pk619"
+    },
+    "code": {
+      "id": "PK619",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "59330"
+    ],
+    "geo": {
+      "lat": "29.671",
+      "lon": "71.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK620",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "منڈی بہاؤالدین",
+      "en": "Mandi Bahauddin",
+      "slug": "mandi-bahauddin-pk620"
+    },
+    "code": {
+      "id": "PK620",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "50400"
+    ],
+    "geo": {
+      "lat": "32.435",
+      "lon": "73.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK621",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "میانوالی",
+      "en": "Mianwali",
+      "slug": "mianwali-pk621"
+    },
+    "code": {
+      "id": "PK621",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "42312"
+    ],
+    "geo": {
+      "lat": "32.704",
+      "lon": "71.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK622",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ملتان",
+      "en": "Multan",
+      "slug": "multan-pk622"
+    },
+    "code": {
+      "id": "PK622",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "31150"
+    ],
+    "geo": {
+      "lat": "29.926",
+      "lon": "71.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK623",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "مظفرگڑھ",
+      "en": "Muzaffargarh",
+      "slug": "muzaffargarh-pk623"
+    },
+    "code": {
+      "id": "PK623",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "34370"
+    ],
+    "geo": {
+      "lat": "29.892",
+      "lon": "71.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK624",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ننکانہ صاحب",
+      "en": "Nankana Sahib",
+      "slug": "nankana-sahib-pk624"
+    },
+    "code": {
+      "id": "PK624",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "52360"
+    ],
+    "geo": {
+      "lat": "31.432",
+      "lon": "73.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK625",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع نارووال",
+      "en": "Narowal",
+      "slug": "narowal-pk625"
+    },
+    "code": {
+      "id": "PK625",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "47960"
+    ],
+    "geo": {
+      "lat": "32.206",
+      "lon": "75.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK626",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "اوکاڑہ",
+      "en": "Okara",
+      "slug": "okara-pk626"
+    },
+    "code": {
+      "id": "PK626",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "30.697",
+      "lon": "73.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK627",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "پاکپتن",
+      "en": "Pakpattan",
+      "slug": "pakpattan-pk627"
+    },
+    "code": {
+      "id": "PK627",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "30.289",
+      "lon": "73.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK628",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "رحیم یار خان",
+      "en": "Rahim Yar Khan",
+      "slug": "rahim-yar-khan-pk628"
+    },
+    "code": {
+      "id": "PK628",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "64320"
+    ],
+    "geo": {
+      "lat": "28.485",
+      "lon": "70.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK629",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع راجن پور",
+      "en": "Rajanpur",
+      "slug": "rajanpur-pk629"
+    },
+    "code": {
+      "id": "PK629",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "64100"
+    ],
+    "geo": {
+      "lat": "29.145",
+      "lon": "70.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK630",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "راولپنڈی",
+      "en": "Rawalpindi",
+      "slug": "rawalpindi-pk630"
+    },
+    "code": {
+      "id": "PK630",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 7
+    },
+    "zip_codes": [
+      "47380"
+    ],
+    "geo": {
+      "lat": "33.541",
+      "lon": "73.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK631",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ساہیوال",
+      "en": "Sahiwal",
+      "slug": "sahiwal-pk631"
+    },
+    "code": {
+      "id": "PK631",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "30.55",
+      "lon": "72.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK632",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سرگودھا",
+      "en": "Sargodha",
+      "slug": "sargodha-pk632"
+    },
+    "code": {
+      "id": "PK632",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 7
+    },
+    "zip_codes": [
+      "40462"
+    ],
+    "geo": {
+      "lat": "32.069",
+      "lon": "72.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK633",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیخوپورہ",
+      "en": "Sheikhupura",
+      "slug": "sheikhupura-pk633"
+    },
+    "code": {
+      "id": "PK633",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "49712"
+    ],
+    "geo": {
+      "lat": "31.714",
+      "lon": "73.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK634",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سیالکوٹ",
+      "en": "Sialkot",
+      "slug": "sialkot-pk634"
+    },
+    "code": {
+      "id": "PK634",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "51410"
+    ],
+    "geo": {
+      "lat": "32.442",
+      "lon": "74.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK635",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ٹوبہ ٹیک سنگھ",
+      "en": "Toba Tek Singh",
+      "slug": "toba-tek-singh-pk635"
+    },
+    "code": {
+      "id": "PK635",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "43700"
+    ],
+    "geo": {
+      "lat": "30.929",
+      "lon": "72.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK636",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "وہاڑی",
+      "en": "Vehari",
+      "slug": "vehari-pk636"
+    },
+    "code": {
+      "id": "PK636",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "61220"
+    ],
+    "geo": {
+      "lat": "29.983",
+      "lon": "72.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "PK72601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چھاچھرو",
+      "en": "Chachro",
+      "slug": "chachro-pk72601"
+    },
+    "code": {
+      "id": "PK72601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK726",
+      "level": 2,
+      "name": {
+        "local": "ضلع تھرپارکر",
+        "en": "Tharparkar",
+        "slug": "tharparkar-pk726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK726",
+        "level": 2,
+        "name": {
+          "local": "ضلع تھرپارکر",
+          "en": "Tharparkar",
+          "slug": "tharparkar-pk726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69170"
+    ],
+    "geo": {
+      "lat": "25.102",
+      "lon": "70.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dahli",
+      "en": "Dahli",
+      "slug": "dahli-pk72602"
+    },
+    "code": {
+      "id": "PK72602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK726",
+      "level": 2,
+      "name": {
+        "local": "ضلع تھرپارکر",
+        "en": "Tharparkar",
+        "slug": "tharparkar-pk726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK726",
+        "level": 2,
+        "name": {
+          "local": "ضلع تھرپارکر",
+          "en": "Tharparkar",
+          "slug": "tharparkar-pk726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69170"
+    ],
+    "geo": {
+      "lat": "25.447",
+      "lon": "70.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ڈپلو",
+      "en": "Diplo",
+      "slug": "diplo-pk72603"
+    },
+    "code": {
+      "id": "PK72603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK726",
+      "level": 2,
+      "name": {
+        "local": "ضلع تھرپارکر",
+        "en": "Tharparkar",
+        "slug": "tharparkar-pk726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK726",
+        "level": 2,
+        "name": {
+          "local": "ضلع تھرپارکر",
+          "en": "Tharparkar",
+          "slug": "tharparkar-pk726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69280"
+    ],
+    "geo": {
+      "lat": "24.411",
+      "lon": "69.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72604",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Islam Kot",
+      "en": "Islam Kot",
+      "slug": "islam-kot-pk72604"
+    },
+    "code": {
+      "id": "PK72604",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK726",
+      "level": 2,
+      "name": {
+        "local": "ضلع تھرپارکر",
+        "en": "Tharparkar",
+        "slug": "tharparkar-pk726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK726",
+        "level": 2,
+        "name": {
+          "local": "ضلع تھرپارکر",
+          "en": "Tharparkar",
+          "slug": "tharparkar-pk726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69200"
+    ],
+    "geo": {
+      "lat": "24.539",
+      "lon": "70.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72607",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kaloi",
+      "en": "Kaloi",
+      "slug": "kaloi-pk72607"
+    },
+    "code": {
+      "id": "PK72607",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK726",
+      "level": 2,
+      "name": {
+        "local": "ضلع تھرپارکر",
+        "en": "Tharparkar",
+        "slug": "tharparkar-pk726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK726",
+        "level": 2,
+        "name": {
+          "local": "ضلع تھرپارکر",
+          "en": "Tharparkar",
+          "slug": "tharparkar-pk726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69280"
+    ],
+    "geo": {
+      "lat": "24.666",
+      "lon": "69.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72605",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مٹھی",
+      "en": "Mithi",
+      "slug": "mithi-pk72605"
+    },
+    "code": {
+      "id": "PK72605",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK726",
+      "level": 2,
+      "name": {
+        "local": "ضلع تھرپارکر",
+        "en": "Tharparkar",
+        "slug": "tharparkar-pk726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK726",
+        "level": 2,
+        "name": {
+          "local": "ضلع تھرپارکر",
+          "en": "Tharparkar",
+          "slug": "tharparkar-pk726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69230"
+    ],
+    "geo": {
+      "lat": "24.791",
+      "lon": "69.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72606",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Nagar Parkar",
+      "en": "Nagar Parkar",
+      "slug": "nagar-parkar-pk72606"
+    },
+    "code": {
+      "id": "PK72606",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK726",
+      "level": 2,
+      "name": {
+        "local": "ضلع تھرپارکر",
+        "en": "Tharparkar",
+        "slug": "tharparkar-pk726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK726",
+        "level": 2,
+        "name": {
+          "local": "ضلع تھرپارکر",
+          "en": "Tharparkar",
+          "slug": "tharparkar-pk726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69260"
+    ],
+    "geo": {
+      "lat": "24.643",
+      "lon": "70.785"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

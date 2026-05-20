@@ -1,0 +1,49 @@
+{
+  "id": "PK305",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "گلگت",
+    "en": "Gilgit",
+    "slug": "gilgit-pk305"
+  },
+  "code": {
+    "id": "PK305",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "15150"
+  ],
+  "geo": {
+    "lat": "35.967",
+    "lon": "74.509"
+  },
+  "metadata": {},
+  "source": {}
+}

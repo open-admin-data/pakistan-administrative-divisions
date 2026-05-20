@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK11001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Baluch",
+      "en": "Baluch",
+      "slug": "baluch-pk11001"
+    },
+    "code": {
+      "id": "PK11001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK110",
+      "level": 2,
+      "name": {
+        "local": "سدھنوتی",
+        "en": "Sudhnoti",
+        "slug": "sudhnoti-pk110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK110",
+        "level": 2,
+        "name": {
+          "local": "سدھنوتی",
+          "en": "Sudhnoti",
+          "slug": "sudhnoti-pk110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12120"
+    ],
+    "geo": {
+      "lat": "33.669",
+      "lon": "73.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK11002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mong",
+      "en": "Mong",
+      "slug": "mong-pk11002"
+    },
+    "code": {
+      "id": "PK11002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK110",
+      "level": 2,
+      "name": {
+        "local": "سدھنوتی",
+        "en": "Sudhnoti",
+        "slug": "sudhnoti-pk110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK110",
+        "level": 2,
+        "name": {
+          "local": "سدھنوتی",
+          "en": "Sudhnoti",
+          "slug": "sudhnoti-pk110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12300"
+    ],
+    "geo": {
+      "lat": "33.787",
+      "lon": "73.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK11003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پلندری",
+      "en": "Pallandari",
+      "slug": "pallandari-pk11003"
+    },
+    "code": {
+      "id": "PK11003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK110",
+      "level": 2,
+      "name": {
+        "local": "سدھنوتی",
+        "en": "Sudhnoti",
+        "slug": "sudhnoti-pk110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK110",
+        "level": 2,
+        "name": {
+          "local": "سدھنوتی",
+          "en": "Sudhnoti",
+          "slug": "sudhnoti-pk110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12030"
+    ],
+    "geo": {
+      "lat": "33.686",
+      "lon": "73.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK11004",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Tarar Khal",
+      "en": "Tarar Khal",
+      "slug": "tarar-khal-pk11004"
+    },
+    "code": {
+      "id": "PK11004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK110",
+      "level": 2,
+      "name": {
+        "local": "سدھنوتی",
+        "en": "Sudhnoti",
+        "slug": "sudhnoti-pk110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK110",
+        "level": 2,
+        "name": {
+          "local": "سدھنوتی",
+          "en": "Sudhnoti",
+          "slug": "sudhnoti-pk110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12080"
+    ],
+    "geo": {
+      "lat": "33.741",
+      "lon": "73.779"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

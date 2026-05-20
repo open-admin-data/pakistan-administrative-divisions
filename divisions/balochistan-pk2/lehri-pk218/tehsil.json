@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK21801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "باگ",
+      "en": "Bhag",
+      "slug": "bhag-pk21801"
+    },
+    "code": {
+      "id": "PK21801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK218",
+      "level": 2,
+      "name": {
+        "local": "ضلع لہڑی",
+        "en": "Lehri",
+        "slug": "lehri-pk218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK218",
+        "level": 2,
+        "name": {
+          "local": "ضلع لہڑی",
+          "en": "Lehri",
+          "slug": "lehri-pk218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81250"
+    ],
+    "geo": {
+      "lat": "28.877",
+      "lon": "67.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lehri",
+      "en": "Lehri",
+      "slug": "lehri-pk21802"
+    },
+    "code": {
+      "id": "PK21802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK218",
+      "level": 2,
+      "name": {
+        "local": "ضلع لہڑی",
+        "en": "Lehri",
+        "slug": "lehri-pk218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK218",
+        "level": 2,
+        "name": {
+          "local": "ضلع لہڑی",
+          "en": "Lehri",
+          "slug": "lehri-pk218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81250"
+    ],
+    "geo": {
+      "lat": "29.04",
+      "lon": "68.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

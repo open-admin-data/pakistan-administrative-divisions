@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "PK501",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ایبٹ آباد",
+      "en": "Abbottabad",
+      "slug": "abbottabad-pk501"
+    },
+    "code": {
+      "id": "PK501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "34.095",
+      "lon": "73.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK502",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع باجوڑ",
+      "en": "Bajaur",
+      "slug": "bajaur-pk502"
+    },
+    "code": {
+      "id": "PK502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 7
+    },
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "34.746",
+      "lon": "71.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK503",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "بنوں",
+      "en": "Bannu",
+      "slug": "bannu-pk503"
+    },
+    "code": {
+      "id": "PK503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "28030"
+    ],
+    "geo": {
+      "lat": "32.985",
+      "lon": "70.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK504",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "بٹگرام",
+      "en": "Batagram",
+      "slug": "batagram-pk504"
+    },
+    "code": {
+      "id": "PK504",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "21036"
+    ],
+    "geo": {
+      "lat": "34.762",
+      "lon": "73.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK505",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع بونیر",
+      "en": "Buner",
+      "slug": "buner-pk505"
+    },
+    "code": {
+      "id": "PK505",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "19140"
+    ],
+    "geo": {
+      "lat": "34.431",
+      "lon": "72.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK506",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "چارسدہ",
+      "en": "Charsadda",
+      "slug": "charsadda-pk506"
+    },
+    "code": {
+      "id": "PK506",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "24530"
+    ],
+    "geo": {
+      "lat": "34.248",
+      "lon": "71.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK507",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "زیریں چترال",
+      "en": "Chitral Lower",
+      "slug": "chitral-lower-pk507"
+    },
+    "code": {
+      "id": "PK507",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "17210"
+    ],
+    "geo": {
+      "lat": "35.847",
+      "lon": "71.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK508",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "بالائی چترال",
+      "en": "Chitral Upper",
+      "slug": "chitral-upper-pk508"
+    },
+    "code": {
+      "id": "PK508",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "17100"
+    ],
+    "geo": {
+      "lat": "36.328",
+      "lon": "72.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK509",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ڈیرہ اسماعیل خان",
+      "en": "D. I. Khan",
+      "slug": "d-i-khan-pk509"
+    },
+    "code": {
+      "id": "PK509",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "29350"
+    ],
+    "geo": {
+      "lat": "31.85",
+      "lon": "70.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK510",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ہنگو",
+      "en": "Hangu",
+      "slug": "hangu-pk510"
+    },
+    "code": {
+      "id": "PK510",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "26250"
+    ],
+    "geo": {
+      "lat": "33.412",
+      "lon": "70.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK511",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ہری پور",
+      "en": "Haripur",
+      "slug": "haripur-pk511"
+    },
+    "code": {
+      "id": "PK511",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "22800"
+    ],
+    "geo": {
+      "lat": "34.048",
+      "lon": "72.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK512",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "کرک",
+      "en": "Karak",
+      "slug": "karak-pk512"
+    },
+    "code": {
+      "id": "PK512",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "27400"
+    ],
+    "geo": {
+      "lat": "33.101",
+      "lon": "71.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK513",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع لنڈی کوتل",
+      "en": "Khyber",
+      "slug": "khyber-pk513"
+    },
+    "code": {
+      "id": "PK513",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "24740"
+    ],
+    "geo": {
+      "lat": "34.04",
+      "lon": "71.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK514",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوہاٹ",
+      "en": "Kohat",
+      "slug": "kohat-pk514"
+    },
+    "code": {
+      "id": "PK514",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "26352"
+    ],
+    "geo": {
+      "lat": "33.412",
+      "lon": "71.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK515",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "زیریں کوہستان",
+      "en": "Kohistan Lower",
+      "slug": "kohistan-lower-pk515"
+    },
+    "code": {
+      "id": "PK515",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "20300"
+    ],
+    "geo": {
+      "lat": "35.15",
+      "lon": "72.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK516",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "بالائی کوہستان",
+      "en": "Kohistan Upper",
+      "slug": "kohistan-upper-pk516"
+    },
+    "code": {
+      "id": "PK516",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "26014"
+    ],
+    "geo": {
+      "lat": "35.423",
+      "lon": "73.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK517",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "کولائی پالس کوہستان",
+      "en": "Kolai Palas Kohistan",
+      "slug": "kolai-palas-kohistan-pk517"
+    },
+    "code": {
+      "id": "PK517",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "19080"
+    ],
+    "geo": {
+      "lat": "35.067",
+      "lon": "73.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK518",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع کرم",
+      "en": "Kurram",
+      "slug": "kurram-pk518"
+    },
+    "code": {
+      "id": "PK518",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "26290"
+    ],
+    "geo": {
+      "lat": "33.69",
+      "lon": "70.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK519",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "لکی مروت",
+      "en": "Lakki Marwat",
+      "slug": "lakki-marwat-pk519"
+    },
+    "code": {
+      "id": "PK519",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "19200"
+    ],
+    "geo": {
+      "lat": "32.57",
+      "lon": "70.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK520",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع دیر زیریں",
+      "en": "Lower Dir",
+      "slug": "lower-dir-pk520"
+    },
+    "code": {
+      "id": "PK520",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "18300"
+    ],
+    "geo": {
+      "lat": "34.841",
+      "lon": "71.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK521",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع مالاکنڈ",
+      "en": "Malakand",
+      "slug": "malakand-pk521"
+    },
+    "code": {
+      "id": "PK521",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "23422"
+    ],
+    "geo": {
+      "lat": "34.517",
+      "lon": "71.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK522",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "مانسہرہ",
+      "en": "Mansehra",
+      "slug": "mansehra-pk522"
+    },
+    "code": {
+      "id": "PK522",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "20200"
+    ],
+    "geo": {
+      "lat": "34.696",
+      "lon": "73.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK523",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "مردان",
+      "en": "Mardan",
+      "slug": "mardan-pk523"
+    },
+    "code": {
+      "id": "PK523",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "23330"
+    ],
+    "geo": {
+      "lat": "34.303",
+      "lon": "72.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK524",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع مہمند",
+      "en": "Mohmand",
+      "slug": "mohmand-pk524"
+    },
+    "code": {
+      "id": "PK524",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 8
+    },
+    "zip_codes": [
+      "87710"
+    ],
+    "geo": {
+      "lat": "34.446",
+      "lon": "71.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK525",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "شمالی وزیرستان",
+      "en": "North Waziristan",
+      "slug": "north-waziristan-pk525"
+    },
+    "code": {
+      "id": "PK525",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 10
+    },
+    "zip_codes": [
+      "28210"
+    ],
+    "geo": {
+      "lat": "32.957",
+      "lon": "69.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK526",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "نوشہرہ",
+      "en": "Nowshera",
+      "slug": "nowshera-pk526"
+    },
+    "code": {
+      "id": "PK526",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "24540"
+    ],
+    "geo": {
+      "lat": "33.917",
+      "lon": "72.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK527",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع اورکزئی",
+      "en": "Orakzai",
+      "slug": "orakzai-pk527"
+    },
+    "code": {
+      "id": "PK527",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "27600"
+    ],
+    "geo": {
+      "lat": "33.695",
+      "lon": "70.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK528",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "پشاور",
+      "en": "Peshawar",
+      "slug": "peshawar-pk528"
+    },
+    "code": {
+      "id": "PK528",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 5
+    },
+    "zip_codes": [
+      "24360"
+    ],
+    "geo": {
+      "lat": "33.942",
+      "lon": "71.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK529",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع شانگلہ",
+      "en": "Shangla",
+      "slug": "shangla-pk529"
+    },
+    "code": {
+      "id": "PK529",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 6
+    },
+    "zip_codes": [
+      "20500"
+    ],
+    "geo": {
+      "lat": "34.847",
+      "lon": "72.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK530",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "جنوبی وزیرستان",
+      "en": "South Waziristan",
+      "slug": "south-waziristan-pk530"
+    },
+    "code": {
+      "id": "PK530",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 8
+    },
+    "zip_codes": [
+      "29540"
+    ],
+    "geo": {
+      "lat": "32.291",
+      "lon": "69.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK531",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "صوابی",
+      "en": "Swabi",
+      "slug": "swabi-pk531"
+    },
+    "code": {
+      "id": "PK531",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 4
+    },
+    "zip_codes": [
+      "23630"
+    ],
+    "geo": {
+      "lat": "34.141",
+      "lon": "72.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK532",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سوات",
+      "en": "Swat",
+      "slug": "swat-pk532"
+    },
+    "code": {
+      "id": "PK532",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 9
+    },
+    "zip_codes": [
+      "26060"
+    ],
+    "geo": {
+      "lat": "35.233",
+      "lon": "72.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK533",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ٹانک",
+      "en": "Tank",
+      "slug": "tank-pk533"
+    },
+    "code": {
+      "id": "PK533",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "29440"
+    ],
+    "geo": {
+      "lat": "32.319",
+      "lon": "70.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK534",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "تور غر",
+      "en": "Tor Ghar",
+      "slug": "tor-ghar-pk534"
+    },
+    "code": {
+      "id": "PK534",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "21120"
+    ],
+    "geo": {
+      "lat": "34.559",
+      "lon": "72.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK535",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "دیر بالا",
+      "en": "Upper Dir",
+      "slug": "upper-dir-pk535"
+    },
+    "code": {
+      "id": "PK535",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 7
+    },
+    "zip_codes": [
+      "18000"
+    ],
+    "geo": {
+      "lat": "35.311",
+      "lon": "72.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

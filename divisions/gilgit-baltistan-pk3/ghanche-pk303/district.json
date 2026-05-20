@@ -1,0 +1,49 @@
+{
+  "id": "PK303",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع گانچھے",
+    "en": "Ghanche",
+    "slug": "ghanche-pk303"
+  },
+  "code": {
+    "id": "PK303",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "16910"
+  ],
+  "geo": {
+    "lat": "35.221",
+    "lon": "76.66"
+  },
+  "metadata": {},
+  "source": {}
+}

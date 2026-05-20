@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK50801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مستوج",
+      "en": "Mastuj",
+      "slug": "mastuj-pk50801"
+    },
+    "code": {
+      "id": "PK50801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK508",
+      "level": 2,
+      "name": {
+        "local": "بالائی چترال",
+        "en": "Chitral Upper",
+        "slug": "chitral-upper-pk508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK508",
+        "level": 2,
+        "name": {
+          "local": "بالائی چترال",
+          "en": "Chitral Upper",
+          "slug": "chitral-upper-pk508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15350"
+    ],
+    "geo": {
+      "lat": "36.327",
+      "lon": "72.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK50802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mulkhow",
+      "en": "Mulkhow",
+      "slug": "mulkhow-pk50802"
+    },
+    "code": {
+      "id": "PK50802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK508",
+      "level": 2,
+      "name": {
+        "local": "بالائی چترال",
+        "en": "Chitral Upper",
+        "slug": "chitral-upper-pk508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK508",
+        "level": 2,
+        "name": {
+          "local": "بالائی چترال",
+          "en": "Chitral Upper",
+          "slug": "chitral-upper-pk508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17100"
+    ],
+    "geo": {
+      "lat": "36.463",
+      "lon": "72.211"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

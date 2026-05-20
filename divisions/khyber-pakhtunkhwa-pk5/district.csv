@@ -1,0 +1,36 @@
+id,name.local,name.en,name.slug,code.id,children_count.tehsil,zip_codes,geo.lat,geo.lon
+PK501,ایبٹ آباد,Abbottabad,abbottabad-pk501,PK501,4,22200,34.095,73.291
+PK502,ضلع باجوڑ,Bajaur,bajaur-pk502,PK502,7,21100,34.746,71.486
+PK503,بنوں,Bannu,bannu-pk503,PK503,6,28030,32.985,70.655
+PK504,بٹگرام,Batagram,batagram-pk504,PK504,2,21036,34.762,73.137
+PK505,ضلع بونیر,Buner,buner-pk505,PK505,4,19140,34.431,72.556
+PK506,چارسدہ,Charsadda,charsadda-pk506,PK506,3,24530,34.248,71.699
+PK507,زیریں چترال,Chitral Lower,chitral-lower-pk507,PK507,3,17210,35.847,71.826
+PK508,بالائی چترال,Chitral Upper,chitral-upper-pk508,PK508,2,17100,36.328,72.269
+PK509,ڈیرہ اسماعیل خان,D. I. Khan,d-i-khan-pk509,PK509,6,29350,31.85,70.625
+PK510,ہنگو,Hangu,hangu-pk510,PK510,2,26250,33.412,70.804
+PK511,ہری پور,Haripur,haripur-pk511,PK511,3,22800,34.048,72.876
+PK512,کرک,Karak,karak-pk512,PK512,3,27400,33.101,71.111
+PK513,ضلع لنڈی کوتل,Khyber,khyber-pk513,PK513,4,24740,34.04,71.205
+PK514,کوہاٹ,Kohat,kohat-pk514,PK514,4,26352,33.412,71.488
+PK515,زیریں کوہستان,Kohistan Lower,kohistan-lower-pk515,PK515,2,20300,35.15,72.923
+PK516,بالائی کوہستان,Kohistan Upper,kohistan-upper-pk516,PK516,4,26014,35.423,73.221
+PK517,کولائی پالس کوہستان,Kolai Palas Kohistan,kolai-palas-kohistan-pk517,PK517,2,19080,35.067,73.175
+PK518,ضلع کرم,Kurram,kurram-pk518,PK518,3,26290,33.69,70.384
+PK519,لکی مروت,Lakki Marwat,lakki-marwat-pk519,PK519,3,19200,32.57,70.88
+PK520,ضلع دیر زیریں,Lower Dir,lower-dir-pk520,PK520,6,18300,34.841,71.82
+PK521,ضلع مالاکنڈ,Malakand,malakand-pk521,PK521,2,23422,34.517,71.824
+PK522,مانسہرہ,Mansehra,mansehra-pk522,PK522,5,20200,34.696,73.512
+PK523,مردان,Mardan,mardan-pk523,PK523,5,23330,34.303,72.081
+PK524,ضلع مہمند,Mohmand,mohmand-pk524,PK524,8,87710,34.446,71.366
+PK525,شمالی وزیرستان,North Waziristan,north-waziristan-pk525,PK525,10,28210,32.957,69.943
+PK526,نوشہرہ,Nowshera,nowshera-pk526,PK526,3,24540,33.917,72.003
+PK527,ضلع اورکزئی,Orakzai,orakzai-pk527,PK527,4,27600,33.695,70.878
+PK528,پشاور,Peshawar,peshawar-pk528,PK528,5,24360,33.942,71.6
+PK529,ضلع شانگلہ,Shangla,shangla-pk529,PK529,6,20500,34.847,72.79
+PK530,جنوبی وزیرستان,South Waziristan,south-waziristan-pk530,PK530,8,29540,32.291,69.678
+PK531,صوابی,Swabi,swabi-pk531,PK531,4,23630,34.141,72.477
+PK532,سوات,Swat,swat-pk532,PK532,9,26060,35.233,72.512
+PK533,ٹانک,Tank,tank-pk533,PK533,2,29440,32.319,70.374
+PK534,تور غر,Tor Ghar,tor-ghar-pk534,PK534,2,21120,34.559,72.876
+PK535,دیر بالا,Upper Dir,upper-dir-pk535,PK535,7,18000,35.311,72.048

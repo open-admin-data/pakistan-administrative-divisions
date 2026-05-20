@@ -1,0 +1,49 @@
+{
+  "id": "PK535",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "دیر بالا",
+    "en": "Upper Dir",
+    "slug": "upper-dir-pk535"
+  },
+  "code": {
+    "id": "PK535",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 7
+  },
+  "zip_codes": [
+    "18000"
+  ],
+  "geo": {
+    "lat": "35.311",
+    "lon": "72.048"
+  },
+  "metadata": {},
+  "source": {}
+}

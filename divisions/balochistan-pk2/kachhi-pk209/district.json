@@ -1,0 +1,49 @@
+{
+  "id": "PK209",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع کچھی",
+    "en": "Kachhi",
+    "slug": "kachhi-pk209"
+  },
+  "code": {
+    "id": "PK209",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "81400"
+  ],
+  "geo": {
+    "lat": "29.341",
+    "lon": "67.659"
+  },
+  "metadata": {},
+  "source": {}
+}

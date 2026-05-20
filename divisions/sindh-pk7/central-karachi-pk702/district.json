@@ -1,0 +1,49 @@
+{
+  "id": "PK702",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "وسطی کراچی",
+    "en": "Central Karachi",
+    "slug": "central-karachi-pk702"
+  },
+  "code": {
+    "id": "PK702",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "75840"
+  ],
+  "geo": {
+    "lat": "24.948",
+    "lon": "67.06"
+  },
+  "metadata": {},
+  "source": {}
+}

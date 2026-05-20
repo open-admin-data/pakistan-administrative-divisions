@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK40101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اسلام آباد",
+      "en": "Islamabad",
+      "slug": "islamabad-pk40101"
+    },
+    "code": {
+      "id": "PK40101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK401",
+      "level": 2,
+      "name": {
+        "local": "اسلام آباد",
+        "en": "Islamabad",
+        "slug": "islamabad-pk401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK4",
+        "level": 1,
+        "name": {
+          "local": "اسلام آباد",
+          "en": "Islamabad",
+          "slug": "islamabad-pk4"
+        }
+      },
+      {
+        "id": "PK401",
+        "level": 2,
+        "name": {
+          "local": "اسلام آباد",
+          "en": "Islamabad",
+          "slug": "islamabad-pk401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "33.651",
+      "lon": "72.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

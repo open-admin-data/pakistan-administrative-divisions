@@ -1,0 +1,49 @@
+{
+  "id": "PK627",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "پاکپتن",
+    "en": "Pakpattan",
+    "slug": "pakpattan-pk627"
+  },
+  "code": {
+    "id": "PK627",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "57110"
+  ],
+  "geo": {
+    "lat": "30.289",
+    "lon": "73.307"
+  },
+  "metadata": {},
+  "source": {}
+}

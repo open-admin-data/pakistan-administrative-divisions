@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK20701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gandakha",
+      "en": "Gandakha",
+      "slug": "gandakha-pk20701"
+    },
+    "code": {
+      "id": "PK20701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK207",
+      "level": 2,
+      "name": {
+        "local": "جعفرآباد",
+        "en": "Jaffarabad",
+        "slug": "jaffarabad-pk207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK207",
+        "level": 2,
+        "name": {
+          "local": "جعفرآباد",
+          "en": "Jaffarabad",
+          "slug": "jaffarabad-pk207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80400"
+    ],
+    "geo": {
+      "lat": "28.071",
+      "lon": "67.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jhat Pat",
+      "en": "Jhat Pat",
+      "slug": "jhat-pat-pk20702"
+    },
+    "code": {
+      "id": "PK20702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK207",
+      "level": 2,
+      "name": {
+        "local": "جعفرآباد",
+        "en": "Jaffarabad",
+        "slug": "jaffarabad-pk207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK207",
+        "level": 2,
+        "name": {
+          "local": "جعفرآباد",
+          "en": "Jaffarabad",
+          "slug": "jaffarabad-pk207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80300"
+    ],
+    "geo": {
+      "lat": "28.392",
+      "lon": "68.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Usta Mohammad",
+      "en": "Usta Mohammad",
+      "slug": "usta-mohammad-pk20703"
+    },
+    "code": {
+      "id": "PK20703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK207",
+      "level": 2,
+      "name": {
+        "local": "جعفرآباد",
+        "en": "Jaffarabad",
+        "slug": "jaffarabad-pk207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK207",
+        "level": 2,
+        "name": {
+          "local": "جعفرآباد",
+          "en": "Jaffarabad",
+          "slug": "jaffarabad-pk207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31050"
+    ],
+    "geo": {
+      "lat": "28.138",
+      "lon": "67.957"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK10401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ہویلی",
+      "en": "Haveli",
+      "slug": "haveli-pk10401"
+    },
+    "code": {
+      "id": "PK10401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK104",
+      "level": 2,
+      "name": {
+        "local": "ضلع حویلی",
+        "en": "Haveli",
+        "slug": "haveli-pk104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK104",
+        "level": 2,
+        "name": {
+          "local": "ضلع حویلی",
+          "en": "Haveli",
+          "slug": "haveli-pk104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51320"
+    ],
+    "geo": {
+      "lat": "33.937",
+      "lon": "74.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Khurshid Abad",
+      "en": "Khurshid Abad",
+      "slug": "khurshid-abad-pk10402"
+    },
+    "code": {
+      "id": "PK10402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK104",
+      "level": 2,
+      "name": {
+        "local": "ضلع حویلی",
+        "en": "Haveli",
+        "slug": "haveli-pk104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK104",
+        "level": 2,
+        "name": {
+          "local": "ضلع حویلی",
+          "en": "Haveli",
+          "slug": "haveli-pk104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10080"
+    ],
+    "geo": {
+      "lat": "33.963",
+      "lon": "74.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK10403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mumtazabad",
+      "en": "Mumtazabad",
+      "slug": "mumtazabad-pk10403"
+    },
+    "code": {
+      "id": "PK10403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK104",
+      "level": 2,
+      "name": {
+        "local": "ضلع حویلی",
+        "en": "Haveli",
+        "slug": "haveli-pk104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK1",
+        "level": 1,
+        "name": {
+          "local": "آزاد کشمیر",
+          "en": "Azad Kashmir",
+          "slug": "azad-kashmir-pk1"
+        }
+      },
+      {
+        "id": "PK104",
+        "level": 2,
+        "name": {
+          "local": "ضلع حویلی",
+          "en": "Haveli",
+          "slug": "haveli-pk104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19130"
+    ],
+    "geo": {
+      "lat": "33.919",
+      "lon": "74.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

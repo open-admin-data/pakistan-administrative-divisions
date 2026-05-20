@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK62801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خانپور",
+      "en": "Khanpur",
+      "slug": "khanpur-pk62801"
+    },
+    "code": {
+      "id": "PK62801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK628",
+      "level": 2,
+      "name": {
+        "local": "رحیم یار خان",
+        "en": "Rahim Yar Khan",
+        "slug": "rahim-yar-khan-pk628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK628",
+        "level": 2,
+        "name": {
+          "local": "رحیم یار خان",
+          "en": "Rahim Yar Khan",
+          "slug": "rahim-yar-khan-pk628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64070"
+    ],
+    "geo": {
+      "lat": "28.686",
+      "lon": "70.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Liaqatpur",
+      "en": "Liaqatpur",
+      "slug": "liaqatpur-pk62802"
+    },
+    "code": {
+      "id": "PK62802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK628",
+      "level": 2,
+      "name": {
+        "local": "رحیم یار خان",
+        "en": "Rahim Yar Khan",
+        "slug": "rahim-yar-khan-pk628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK628",
+        "level": 2,
+        "name": {
+          "local": "رحیم یار خان",
+          "en": "Rahim Yar Khan",
+          "slug": "rahim-yar-khan-pk628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64070"
+    ],
+    "geo": {
+      "lat": "28.485",
+      "lon": "70.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "رحیم یار خان",
+      "en": "Rahim Yar Khan",
+      "slug": "rahim-yar-khan-pk62803"
+    },
+    "code": {
+      "id": "PK62803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK628",
+      "level": 2,
+      "name": {
+        "local": "رحیم یار خان",
+        "en": "Rahim Yar Khan",
+        "slug": "rahim-yar-khan-pk628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK628",
+        "level": 2,
+        "name": {
+          "local": "رحیم یار خان",
+          "en": "Rahim Yar Khan",
+          "slug": "rahim-yar-khan-pk628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64310"
+    ],
+    "geo": {
+      "lat": "28.488",
+      "lon": "70.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62804",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "صادق آباد",
+      "en": "Sadiqabad",
+      "slug": "sadiqabad-pk62804"
+    },
+    "code": {
+      "id": "PK62804",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK628",
+      "level": 2,
+      "name": {
+        "local": "رحیم یار خان",
+        "en": "Rahim Yar Khan",
+        "slug": "rahim-yar-khan-pk628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK628",
+        "level": 2,
+        "name": {
+          "local": "رحیم یار خان",
+          "en": "Rahim Yar Khan",
+          "slug": "rahim-yar-khan-pk628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64380"
+    ],
+    "geo": {
+      "lat": "28.255",
+      "lon": "70.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

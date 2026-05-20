@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK60401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بھکر",
+      "en": "Bhakkar",
+      "slug": "bhakkar-pk60401"
+    },
+    "code": {
+      "id": "PK60401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK604",
+      "level": 2,
+      "name": {
+        "local": "بھکر",
+        "en": "Bhakkar",
+        "slug": "bhakkar-pk604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK604",
+        "level": 2,
+        "name": {
+          "local": "بھکر",
+          "en": "Bhakkar",
+          "slug": "bhakkar-pk604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30050"
+    ],
+    "geo": {
+      "lat": "31.569",
+      "lon": "71.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دریا خان",
+      "en": "Darya Khan",
+      "slug": "darya-khan-pk60402"
+    },
+    "code": {
+      "id": "PK60402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK604",
+      "level": 2,
+      "name": {
+        "local": "بھکر",
+        "en": "Bhakkar",
+        "slug": "bhakkar-pk604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK604",
+        "level": 2,
+        "name": {
+          "local": "بھکر",
+          "en": "Bhakkar",
+          "slug": "bhakkar-pk604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30110"
+    ],
+    "geo": {
+      "lat": "31.811",
+      "lon": "71.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کلور کوٹ",
+      "en": "Kalur Kot",
+      "slug": "kalur-kot-pk60403"
+    },
+    "code": {
+      "id": "PK60403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK604",
+      "level": 2,
+      "name": {
+        "local": "بھکر",
+        "en": "Bhakkar",
+        "slug": "bhakkar-pk604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK604",
+        "level": 2,
+        "name": {
+          "local": "بھکر",
+          "en": "Bhakkar",
+          "slug": "bhakkar-pk604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30140"
+    ],
+    "geo": {
+      "lat": "32.062",
+      "lon": "71.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60404",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "منکیرہ",
+      "en": "Mankera",
+      "slug": "mankera-pk60404"
+    },
+    "code": {
+      "id": "PK60404",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK604",
+      "level": 2,
+      "name": {
+        "local": "بھکر",
+        "en": "Bhakkar",
+        "slug": "bhakkar-pk604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK604",
+        "level": 2,
+        "name": {
+          "local": "بھکر",
+          "en": "Bhakkar",
+          "slug": "bhakkar-pk604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30160"
+    ],
+    "geo": {
+      "lat": "31.485",
+      "lon": "71.66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

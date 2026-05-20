@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK71201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Korangi Town",
+      "en": "Korangi Town",
+      "slug": "korangi-town-pk71201"
+    },
+    "code": {
+      "id": "PK71201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK712",
+      "level": 2,
+      "name": {
+        "local": "کورنگی کراچی",
+        "en": "Korangi Karachi",
+        "slug": "korangi-karachi-pk712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK712",
+        "level": 2,
+        "name": {
+          "local": "کورنگی کراچی",
+          "en": "Korangi Karachi",
+          "slug": "korangi-karachi-pk712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75190"
+    ],
+    "geo": {
+      "lat": "24.825",
+      "lon": "67.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Landhi Town",
+      "en": "Landhi Town",
+      "slug": "landhi-town-pk71202"
+    },
+    "code": {
+      "id": "PK71202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK712",
+      "level": 2,
+      "name": {
+        "local": "کورنگی کراچی",
+        "en": "Korangi Karachi",
+        "slug": "korangi-karachi-pk712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK712",
+        "level": 2,
+        "name": {
+          "local": "کورنگی کراچی",
+          "en": "Korangi Karachi",
+          "slug": "korangi-karachi-pk712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75160"
+    ],
+    "geo": {
+      "lat": "24.841",
+      "lon": "67.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK71203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Shah Faisal Town",
+      "en": "Shah Faisal Town",
+      "slug": "shah-faisal-town-pk71203"
+    },
+    "code": {
+      "id": "PK71203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK712",
+      "level": 2,
+      "name": {
+        "local": "کورنگی کراچی",
+        "en": "Korangi Karachi",
+        "slug": "korangi-karachi-pk712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK712",
+        "level": 2,
+        "name": {
+          "local": "کورنگی کراچی",
+          "en": "Korangi Karachi",
+          "slug": "korangi-karachi-pk712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75230"
+    ],
+    "geo": {
+      "lat": "24.872",
+      "lon": "67.162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

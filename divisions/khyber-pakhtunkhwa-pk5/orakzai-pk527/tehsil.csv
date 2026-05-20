@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+PK52701,Central Orakzai,Central Orakzai,central-orakzai-pk52701,PK52701,28120,33.688,70.965
+PK52702,Ismailzai,Ismailzai,ismailzai-pk52702,PK52702,26220,33.607,70.929
+PK52703,Lower Orakzai,Lower Orakzai,lower-orakzai-pk52703,PK52703,24506,33.733,71.268
+PK52704,Upper Orakzai,Upper Orakzai,upper-orakzai-pk52704,PK52704,27600,33.69,70.706

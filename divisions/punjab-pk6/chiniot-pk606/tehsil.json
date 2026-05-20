@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK60601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بهاوانا",
+      "en": "Bhawana",
+      "slug": "bhawana-pk60601"
+    },
+    "code": {
+      "id": "PK60601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK606",
+      "level": 2,
+      "name": {
+        "local": "چنیوٹ",
+        "en": "Chiniot",
+        "slug": "chiniot-pk606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK606",
+        "level": 2,
+        "name": {
+          "local": "چنیوٹ",
+          "en": "Chiniot",
+          "slug": "chiniot-pk606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36280"
+    ],
+    "geo": {
+      "lat": "31.532",
+      "lon": "72.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چنیوٹ",
+      "en": "Chiniot",
+      "slug": "chiniot-pk60602"
+    },
+    "code": {
+      "id": "PK60602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK606",
+      "level": 2,
+      "name": {
+        "local": "چنیوٹ",
+        "en": "Chiniot",
+        "slug": "chiniot-pk606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK606",
+        "level": 2,
+        "name": {
+          "local": "چنیوٹ",
+          "en": "Chiniot",
+          "slug": "chiniot-pk606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35400"
+    ],
+    "geo": {
+      "lat": "31.701",
+      "lon": "72.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لالیاں",
+      "en": "Lalian",
+      "slug": "lalian-pk60603"
+    },
+    "code": {
+      "id": "PK60603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK606",
+      "level": 2,
+      "name": {
+        "local": "چنیوٹ",
+        "en": "Chiniot",
+        "slug": "chiniot-pk606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK606",
+        "level": 2,
+        "name": {
+          "local": "چنیوٹ",
+          "en": "Chiniot",
+          "slug": "chiniot-pk606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35470"
+    ],
+    "geo": {
+      "lat": "31.758",
+      "lon": "72.764"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

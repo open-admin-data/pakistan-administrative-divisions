@@ -1,0 +1,49 @@
+{
+  "id": "PK506",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "چارسدہ",
+    "en": "Charsadda",
+    "slug": "charsadda-pk506"
+  },
+  "code": {
+    "id": "PK506",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "24530"
+  ],
+  "geo": {
+    "lat": "34.248",
+    "lon": "71.699"
+  },
+  "metadata": {},
+  "source": {}
+}

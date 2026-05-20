@@ -1,0 +1,49 @@
+{
+  "id": "PK709",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "قمبر شہدادکوٹ",
+    "en": "Qambar Shahdadkot",
+    "slug": "qambar-shahdadkot-pk709"
+  },
+  "code": {
+    "id": "PK709",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 7
+  },
+  "zip_codes": [
+    "77214"
+  ],
+  "geo": {
+    "lat": "27.647",
+    "lon": "67.683"
+  },
+  "metadata": {},
+  "source": {}
+}

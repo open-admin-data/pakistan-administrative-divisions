@@ -1,0 +1,49 @@
+{
+  "id": "PK304",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع غذر (2019ء سے)",
+    "en": "Ghizer",
+    "slug": "ghizer-pk304"
+  },
+  "code": {
+    "id": "PK304",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "15160"
+  ],
+  "geo": {
+    "lat": "36.377",
+    "lon": "73.887"
+  },
+  "metadata": {},
+  "source": {}
+}

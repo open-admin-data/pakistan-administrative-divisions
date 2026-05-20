@@ -1,0 +1,49 @@
+{
+  "id": "PK202",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع بارکھان",
+    "en": "Barkhan",
+    "slug": "barkhan-pk202"
+  },
+  "code": {
+    "id": "PK202",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "84100"
+  ],
+  "geo": {
+    "lat": "29.985",
+    "lon": "69.691"
+  },
+  "metadata": {},
+  "source": {}
+}

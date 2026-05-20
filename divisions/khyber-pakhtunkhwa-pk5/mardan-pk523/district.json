@@ -1,0 +1,49 @@
+{
+  "id": "PK523",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "مردان",
+    "en": "Mardan",
+    "slug": "mardan-pk523"
+  },
+  "code": {
+    "id": "PK523",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 5
+  },
+  "zip_codes": [
+    "23330"
+  ],
+  "geo": {
+    "lat": "34.303",
+    "lon": "72.081"
+  },
+  "metadata": {},
+  "source": {}
+}

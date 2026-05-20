@@ -1,0 +1,49 @@
+{
+  "id": "PK617",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "لاہور",
+    "en": "Lahore",
+    "slug": "lahore-pk617"
+  },
+  "code": {
+    "id": "PK617",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "54760"
+  ],
+  "geo": {
+    "lat": "31.486",
+    "lon": "74.405"
+  },
+  "metadata": {},
+  "source": {}
+}

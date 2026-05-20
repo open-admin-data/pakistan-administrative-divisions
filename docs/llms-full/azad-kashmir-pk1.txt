@@ -1,0 +1,187 @@
+# Azad Kashmir — Pakistan Administrative Divisions
+
+> 10 districts, 32 tehsils
+> Code: PK1
+> Coordinates: 33.953, 73.901
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Districts
+
+### باغ (Bagh)
+
+Code: PK101, Coordinates: 34.003, 73.731
+Tehsils: 3
+
+#### باغ (Bagh)
+
+Code: PK10101, Postal: 12520, Coordinates: 33.985, 73.859
+
+#### Dhir Kot
+
+Code: PK10102, Postal: 12600, Coordinates: 34.022, 73.597
+
+#### Harighel
+
+Code: PK10103, Postal: 12460, Coordinates: 33.98, 73.722
+
+### ضلع بھمبر (Bhimber)
+
+Code: PK102, Coordinates: 33.014, 74.15
+Tehsils: 3
+
+#### برنالہ (Barnala)
+
+Code: PK10201, Postal: 10010, Coordinates: 32.905, 74.274
+
+#### بھمبر (Bhimber)
+
+Code: PK10202, Postal: 10400, Coordinates: 33.041, 73.967
+
+#### سماہنی (Samahni)
+
+Code: PK10203, Postal: 10090, Coordinates: 33.135, 74.048
+
+### ضلع حویلی (Haveli)
+
+Code: PK104, Coordinates: 33.935, 74.12
+Tehsils: 3
+
+#### ہویلی (Haveli)
+
+Code: PK10401, Postal: 51320, Coordinates: 33.937, 74.095
+
+#### Khurshid Abad
+
+Code: PK10402, Postal: 10080, Coordinates: 33.963, 74.196
+
+#### Mumtazabad
+
+Code: PK10403, Postal: 19130, Coordinates: 33.919, 74.018
+
+### وادی جہلم (Jhelum Valley)
+
+Code: PK103, Coordinates: 34.188, 73.797
+Tehsils: 3
+
+#### Chikar
+
+Code: PK10301, Postal: 13180, Coordinates: 34.135, 73.684
+
+#### Hattian
+
+Code: PK10302, Postal: 13190, Coordinates: 34.151, 73.822
+
+#### Leepa
+
+Code: PK10303, Postal: 10544, Coordinates: 34.303, 73.845
+
+### کوٹلی (Kotli)
+
+Code: PK105, Coordinates: 33.454, 73.947
+Tehsils: 6
+
+#### چڑھوئی (Charhoi)
+
+Code: PK10501, Postal: 11032, Coordinates: 33.35, 73.917
+
+#### Dulliya Jattan
+
+Code: PK10502, Postal: 12630, Coordinates: 33.316, 73.838
+
+#### Fatehpur Thakiala
+
+Code: PK10503, Postal: 12440, Coordinates: 33.482, 74.118
+
+#### Khui Ratta
+
+Code: PK10504, Postal: 11250, Coordinates: 33.347, 74.084
+
+#### کوٹلی (Kotli)
+
+Code: PK10505, Postal: 11100, Coordinates: 33.502, 73.933
+
+#### سیہنسا (Sehnsa)
+
+Code: PK10506, Postal: 11014, Coordinates: 33.545, 73.701
+
+### ضلع میر پور (Mirpur)
+
+Code: PK106, Coordinates: 33.239, 73.759
+Tehsils: 2
+
+#### ڈڈیال (Dadyal)
+
+Code: PK10601, Postal: 10310, Coordinates: 33.35, 73.674
+
+#### ناحیه میرپور (Mirpur)
+
+Code: PK10602, Postal: 10350, Coordinates: 33.18, 73.793
+
+### مظفر آباد (Muzaffarabad)
+
+Code: PK107, Coordinates: 34.323, 73.58
+Tehsils: 2
+
+#### مظفر آباد (Muzaffarabad)
+
+Code: PK10701, Postal: 13100, Coordinates: 34.264, 73.61
+
+#### Naseerabad
+
+Code: PK10702, Postal: 13170, Coordinates: 34.439, 73.615
+
+### ضلع نیلم (Neelum)
+
+Code: PK108, Coordinates: 34.757, 73.985
+Tehsils: 2
+
+#### اٹھمقام (Athmuqam)
+
+Code: PK10801, Postal: 13200, Coordinates: 34.654, 73.803
+
+#### شاردہ (Sharda)
+
+Code: PK10802, Postal: 13234, Coordinates: 34.906, 74.31
+
+### ضلع پونچھ (Poonch)
+
+Code: PK109, Coordinates: 33.786, 73.897
+Tehsils: 4
+
+#### Abbaspur
+
+Code: PK10901, Postal: 19130, Coordinates: 33.843, 73.979
+
+#### ہجیرہ (Hajira)
+
+Code: PK10902, Postal: 12100, Coordinates: 33.725, 73.92
+
+#### راولاکوٹ (Rawalakot)
+
+Code: PK10903, Postal: 12390, Coordinates: 33.873, 73.776
+
+#### تھوار (Thorar)
+
+Code: PK10904, Postal: 12310, Coordinates: 33.88, 73.607
+
+### سدھنوتی (Sudhnoti)
+
+Code: PK110, Coordinates: 33.704, 73.739
+Tehsils: 4
+
+#### Baluch
+
+Code: PK11001, Postal: 12120, Coordinates: 33.669, 73.848
+
+#### Mong
+
+Code: PK11002, Postal: 12300, Coordinates: 33.787, 73.623
+
+#### پلندری (Pallandari)
+
+Code: PK11003, Postal: 12030, Coordinates: 33.686, 73.673
+
+#### Tarar Khal
+
+Code: PK11004, Postal: 12080, Coordinates: 33.741, 73.779
+

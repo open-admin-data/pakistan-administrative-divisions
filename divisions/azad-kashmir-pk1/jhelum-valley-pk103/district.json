@@ -1,0 +1,49 @@
+{
+  "id": "PK103",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "وادی جہلم",
+    "en": "Jhelum Valley",
+    "slug": "jhelum-valley-pk103"
+  },
+  "code": {
+    "id": "PK103",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "10500"
+  ],
+  "geo": {
+    "lat": "34.188",
+    "lon": "73.797"
+  },
+  "metadata": {},
+  "source": {}
+}

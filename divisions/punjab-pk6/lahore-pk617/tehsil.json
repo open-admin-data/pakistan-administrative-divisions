@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK61701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lahore Cantt",
+      "en": "Lahore Cantt",
+      "slug": "lahore-cantt-pk61701"
+    },
+    "code": {
+      "id": "PK61701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK617",
+      "level": 2,
+      "name": {
+        "local": "لاہور",
+        "en": "Lahore",
+        "slug": "lahore-pk617"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK617",
+        "level": 2,
+        "name": {
+          "local": "لاہور",
+          "en": "Lahore",
+          "slug": "lahore-pk617"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51350"
+    ],
+    "geo": {
+      "lat": "31.5",
+      "lon": "74.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lahore City",
+      "en": "Lahore City",
+      "slug": "lahore-city-pk61702"
+    },
+    "code": {
+      "id": "PK61702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK617",
+      "level": 2,
+      "name": {
+        "local": "لاہور",
+        "en": "Lahore",
+        "slug": "lahore-pk617"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK617",
+        "level": 2,
+        "name": {
+          "local": "لاہور",
+          "en": "Lahore",
+          "slug": "lahore-pk617"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54500"
+    ],
+    "geo": {
+      "lat": "31.465",
+      "lon": "74.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

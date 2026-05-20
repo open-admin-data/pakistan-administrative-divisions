@@ -1,0 +1,36 @@
+id,name.local,name.en,name.slug,code.id,children_count.tehsil,zip_codes,geo.lat,geo.lon
+PK201,ضلع آواران,Awaran,awaran-pk201,PK201,4,88210,26.424,65.465
+PK202,ضلع بارکھان,Barkhan,barkhan-pk202,PK202,2,84100,29.985,69.691
+PK203,ضلع چاغی,Chagai,chagai-pk203,PK203,4,95100,28.875,63.418
+PK235,چمن,Chaman,chaman-pk235,PK235,1,87300,30.856,66.527
+PK204,ڈیرہ بگٹی,Dera Bugti,dera-bugti-pk204,PK204,3,80100,29.06,69.011
+PK234,ضلع دوکی، پاکستان,Duki,duki-pk234,PK234,1,82100,30.181,68.96
+PK205,گوادر,Gwadar,gwadar-pk205,PK205,5,92650,25.425,62.548
+PK206,ضلع ہرنائی,Harnai,harnai-pk206,PK206,2,82300,30.042,68.086
+PK207,جعفرآباد,Jaffarabad,jaffarabad-pk207,PK207,3,80300,28.249,68.103
+PK208,ضلع جھل مگسی,Jhal Magsi,jhal-magsi-pk208,PK208,2,81100,28.37,67.543
+PK209,ضلع کچھی,Kachhi,kachhi-pk209,PK209,5,81400,29.341,67.659
+PK210,قلات,Kalat,kalat-pk210,PK210,2,81550,29.088,66.77
+PK211,ضلع کیچ,Kech,kech-pk211,PK211,5,92500,26.008,63.092
+PK212,ضلع خاران,Kharan,kharan-pk212,PK212,3,94100,28.729,65.497
+PK213,خضدار,Khuzdar,khuzdar-pk213,PK213,5,89200,27.294,66.481
+PK214,ضلع قلعہ عبداللہ,Killa Abdullah,killa-abdullah-pk214,PK214,3,86720,31.116,67.024
+PK215,ضلع قلعہ سیف اللہ,Killa Saifullah,killa-saifullah-pk215,PK215,2,85400,31.053,68.499
+PK216,ضلع کوہلو,Kohlu,kohlu-pk216,PK216,3,85220,29.644,68.807
+PK217,ضلع لسبیلہ,Lasbela,lasbela-pk217,PK217,9,90150,25.773,66.603
+PK218,ضلع لہڑی,Lehri,lehri-pk218,PK218,2,81250,28.994,67.986
+PK219,لورالائی,Loralai,loralai-pk219,PK219,2,82100,30.478,68.88
+PK220,مستونگ,Mastung,mastung-pk220,PK220,3,88100,29.746,66.731
+PK221,ضلع موسیٰ خیل,Musakhel,musakhel-pk221,PK221,3,84600,30.897,69.958
+PK222,ضلع نصیر آباد,Nasirabad,nasirabad-pk222,PK222,3,19210,28.626,68.129
+PK223,ضلع نوشکی,Nushki,nushki-pk223,PK223,1,95150,29.447,65.733
+PK224,ضلع پنجگور,Panjgur,panjgur-pk224,PK224,4,93200,26.715,64.202
+PK225,پشین,Pishin,pishin-pk225,PK225,5,86000,30.703,67.131
+PK226,کوئٹہ,Quetta,quetta-pk226,PK226,3,87500,30.141,67.077
+PK233,ضلع شہید سکندر آباد,Shaheed Sikandarabad,shaheed-sikandarabad-pk233,PK233,1,86200,28.327,66.18
+PK227,ضلع شیرانی,Sherani,sherani-pk227,PK227,1,87750,31.681,69.764
+PK228,سبی,Sibi,sibi-pk228,PK228,1,85220,29.728,68.251
+PK229,ضلع صحبت پور,Sohbatpur,sohbatpur-pk229,PK229,1,78200,28.542,68.521
+PK230,ضلع واشک,Washuk,washuk-pk230,PK230,5,94110,27.792,64.308
+PK231,ژوب,Zhob,zhob-pk231,PK231,2,85200,31.212,69.197
+PK232,ضلع زیارت,Ziarat,ziarat-pk232,PK232,2,84300,30.381,68.066

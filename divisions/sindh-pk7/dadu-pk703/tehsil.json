@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK70301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دادو",
+      "en": "Dadu",
+      "slug": "dadu-pk70301"
+    },
+    "code": {
+      "id": "PK70301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK703",
+      "level": 2,
+      "name": {
+        "local": "دادو",
+        "en": "Dadu",
+        "slug": "dadu-pk703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK703",
+        "level": 2,
+        "name": {
+          "local": "دادو",
+          "en": "Dadu",
+          "slug": "dadu-pk703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76220"
+    ],
+    "geo": {
+      "lat": "26.799",
+      "lon": "67.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جوہی",
+      "en": "Johi",
+      "slug": "johi-pk70302"
+    },
+    "code": {
+      "id": "PK70302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK703",
+      "level": 2,
+      "name": {
+        "local": "دادو",
+        "en": "Dadu",
+        "slug": "dadu-pk703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK703",
+        "level": 2,
+        "name": {
+          "local": "دادو",
+          "en": "Dadu",
+          "slug": "dadu-pk703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76190"
+    ],
+    "geo": {
+      "lat": "26.533",
+      "lon": "67.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خیرپور ناتھن شاہ",
+      "en": "Khairpur Nathan Shah",
+      "slug": "khairpur-nathan-shah-pk70303"
+    },
+    "code": {
+      "id": "PK70303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK703",
+      "level": 2,
+      "name": {
+        "local": "دادو",
+        "en": "Dadu",
+        "slug": "dadu-pk703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK703",
+        "level": 2,
+        "name": {
+          "local": "دادو",
+          "en": "Dadu",
+          "slug": "dadu-pk703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76260"
+    ],
+    "geo": {
+      "lat": "27.146",
+      "lon": "67.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میہڑ",
+      "en": "Mehar",
+      "slug": "mehar-pk70304"
+    },
+    "code": {
+      "id": "PK70304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK703",
+      "level": 2,
+      "name": {
+        "local": "دادو",
+        "en": "Dadu",
+        "slug": "dadu-pk703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK703",
+        "level": 2,
+        "name": {
+          "local": "دادو",
+          "en": "Dadu",
+          "slug": "dadu-pk703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76330"
+    ],
+    "geo": {
+      "lat": "27.19",
+      "lon": "67.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

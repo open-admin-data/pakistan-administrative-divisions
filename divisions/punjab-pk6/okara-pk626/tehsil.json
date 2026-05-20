@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK62601",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دیپالپور",
+      "en": "Depalpur",
+      "slug": "depalpur-pk62601"
+    },
+    "code": {
+      "id": "PK62601",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK626",
+      "level": 2,
+      "name": {
+        "local": "اوکاڑہ",
+        "en": "Okara",
+        "slug": "okara-pk626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK626",
+        "level": 2,
+        "name": {
+          "local": "اوکاڑہ",
+          "en": "Okara",
+          "slug": "okara-pk626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "30.574",
+      "lon": "73.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62602",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اوکاڑہ",
+      "en": "Okara",
+      "slug": "okara-pk62602"
+    },
+    "code": {
+      "id": "PK62602",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK626",
+      "level": 2,
+      "name": {
+        "local": "اوکاڑہ",
+        "en": "Okara",
+        "slug": "okara-pk626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK626",
+        "level": 2,
+        "name": {
+          "local": "اوکاڑہ",
+          "en": "Okara",
+          "slug": "okara-pk626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "30.803",
+      "lon": "73.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62603",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "رینالہ خورد",
+      "en": "Renala Khurd",
+      "slug": "renala-khurd-pk62603"
+    },
+    "code": {
+      "id": "PK62603",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK626",
+      "level": 2,
+      "name": {
+        "local": "اوکاڑہ",
+        "en": "Okara",
+        "slug": "okara-pk626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK626",
+        "level": 2,
+        "name": {
+          "local": "اوکاڑہ",
+          "en": "Okara",
+          "slug": "okara-pk626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55360"
+    ],
+    "geo": {
+      "lat": "30.949",
+      "lon": "73.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

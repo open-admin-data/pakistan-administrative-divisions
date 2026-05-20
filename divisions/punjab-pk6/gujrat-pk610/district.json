@@ -1,0 +1,49 @@
+{
+  "id": "PK610",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "گجرات",
+    "en": "Gujrat",
+    "slug": "gujrat-pk610"
+  },
+  "code": {
+    "id": "PK610",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "50900"
+  ],
+  "geo": {
+    "lat": "32.718",
+    "lon": "74.038"
+  },
+  "metadata": {},
+  "source": {}
+}

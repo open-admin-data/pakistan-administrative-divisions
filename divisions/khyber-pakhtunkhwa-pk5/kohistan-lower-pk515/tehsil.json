@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK51502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bankad",
+      "en": "Bankad",
+      "slug": "bankad-pk51502"
+    },
+    "code": {
+      "id": "PK51502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK515",
+      "level": 2,
+      "name": {
+        "local": "زیریں کوہستان",
+        "en": "Kohistan Lower",
+        "slug": "kohistan-lower-pk515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK515",
+        "level": 2,
+        "name": {
+          "local": "زیریں کوہستان",
+          "en": "Kohistan Lower",
+          "slug": "kohistan-lower-pk515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20300"
+    ],
+    "geo": {
+      "lat": "35.119",
+      "lon": "72.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پٹن",
+      "en": "Pattan",
+      "slug": "pattan-pk51501"
+    },
+    "code": {
+      "id": "PK51501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK515",
+      "level": 2,
+      "name": {
+        "local": "زیریں کوہستان",
+        "en": "Kohistan Lower",
+        "slug": "kohistan-lower-pk515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK515",
+        "level": 2,
+        "name": {
+          "local": "زیریں کوہستان",
+          "en": "Kohistan Lower",
+          "slug": "kohistan-lower-pk515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20300"
+    ],
+    "geo": {
+      "lat": "35.183",
+      "lon": "73.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

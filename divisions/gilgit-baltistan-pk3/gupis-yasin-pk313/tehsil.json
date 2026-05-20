@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK31301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gupis",
+      "en": "Gupis",
+      "slug": "gupis-pk31301"
+    },
+    "code": {
+      "id": "PK31301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK313",
+      "level": 2,
+      "name": {
+        "local": "ضلع گوپیس یاسین",
+        "en": "Gupis-Yasin",
+        "slug": "gupis-yasin-pk313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK313",
+        "level": 2,
+        "name": {
+          "local": "ضلع گوپیس یاسین",
+          "en": "Gupis-Yasin",
+          "slug": "gupis-yasin-pk313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15300"
+    ],
+    "geo": {
+      "lat": "36.144",
+      "lon": "73.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK31302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Phandar",
+      "en": "Phandar",
+      "slug": "phandar-pk31302"
+    },
+    "code": {
+      "id": "PK31302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK313",
+      "level": 2,
+      "name": {
+        "local": "ضلع گوپیس یاسین",
+        "en": "Gupis-Yasin",
+        "slug": "gupis-yasin-pk313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK313",
+        "level": 2,
+        "name": {
+          "local": "ضلع گوپیس یاسین",
+          "en": "Gupis-Yasin",
+          "slug": "gupis-yasin-pk313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15350"
+    ],
+    "geo": {
+      "lat": "36.166",
+      "lon": "72.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK31303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Yasin",
+      "en": "Yasin",
+      "slug": "yasin-pk31303"
+    },
+    "code": {
+      "id": "PK31303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK313",
+      "level": 2,
+      "name": {
+        "local": "ضلع گوپیس یاسین",
+        "en": "Gupis-Yasin",
+        "slug": "gupis-yasin-pk313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK313",
+        "level": 2,
+        "name": {
+          "local": "ضلع گوپیس یاسین",
+          "en": "Gupis-Yasin",
+          "slug": "gupis-yasin-pk313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15310"
+    ],
+    "geo": {
+      "lat": "36.501",
+      "lon": "73.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

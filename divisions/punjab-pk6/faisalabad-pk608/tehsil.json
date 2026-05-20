@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK60801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "چک جھمرہ",
+      "en": "Chak Jhumra",
+      "slug": "chak-jhumra-pk60801"
+    },
+    "code": {
+      "id": "PK60801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK608",
+      "level": 2,
+      "name": {
+        "local": "فیصل آباد",
+        "en": "Faisalabad",
+        "slug": "faisalabad-pk608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK608",
+        "level": 2,
+        "name": {
+          "local": "فیصل آباد",
+          "en": "Faisalabad",
+          "slug": "faisalabad-pk608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37700"
+    ],
+    "geo": {
+      "lat": "31.646",
+      "lon": "73.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Faisalabad City",
+      "en": "Faisalabad City",
+      "slug": "faisalabad-city-pk60802"
+    },
+    "code": {
+      "id": "PK60802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK608",
+      "level": 2,
+      "name": {
+        "local": "فیصل آباد",
+        "en": "Faisalabad",
+        "slug": "faisalabad-pk608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK608",
+        "level": 2,
+        "name": {
+          "local": "فیصل آباد",
+          "en": "Faisalabad",
+          "slug": "faisalabad-pk608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38200"
+    ],
+    "geo": {
+      "lat": "31.43",
+      "lon": "73.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Faisalabad Sadar",
+      "en": "Faisalabad Sadar",
+      "slug": "faisalabad-sadar-pk60803"
+    },
+    "code": {
+      "id": "PK60803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK608",
+      "level": 2,
+      "name": {
+        "local": "فیصل آباد",
+        "en": "Faisalabad",
+        "slug": "faisalabad-pk608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK608",
+        "level": 2,
+        "name": {
+          "local": "فیصل آباد",
+          "en": "Faisalabad",
+          "slug": "faisalabad-pk608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40550"
+    ],
+    "geo": {
+      "lat": "31.391",
+      "lon": "72.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60804",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جڑانوالہ",
+      "en": "Jaranwala",
+      "slug": "jaranwala-pk60804"
+    },
+    "code": {
+      "id": "PK60804",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK608",
+      "level": 2,
+      "name": {
+        "local": "فیصل آباد",
+        "en": "Faisalabad",
+        "slug": "faisalabad-pk608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK608",
+        "level": 2,
+        "name": {
+          "local": "فیصل آباد",
+          "en": "Faisalabad",
+          "slug": "faisalabad-pk608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37250"
+    ],
+    "geo": {
+      "lat": "31.364",
+      "lon": "73.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60805",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Summundri",
+      "en": "Summundri",
+      "slug": "summundri-pk60805"
+    },
+    "code": {
+      "id": "PK60805",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK608",
+      "level": 2,
+      "name": {
+        "local": "فیصل آباد",
+        "en": "Faisalabad",
+        "slug": "faisalabad-pk608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK608",
+        "level": 2,
+        "name": {
+          "local": "فیصل آباد",
+          "en": "Faisalabad",
+          "slug": "faisalabad-pk608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37300"
+    ],
+    "geo": {
+      "lat": "31.02",
+      "lon": "72.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60806",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Tandlian Wala",
+      "en": "Tandlian Wala",
+      "slug": "tandlian-wala-pk60806"
+    },
+    "code": {
+      "id": "PK60806",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK608",
+      "level": 2,
+      "name": {
+        "local": "فیصل آباد",
+        "en": "Faisalabad",
+        "slug": "faisalabad-pk608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK608",
+        "level": 2,
+        "name": {
+          "local": "فیصل آباد",
+          "en": "Faisalabad",
+          "slug": "faisalabad-pk608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37110"
+    ],
+    "geo": {
+      "lat": "30.913",
+      "lon": "73.063"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

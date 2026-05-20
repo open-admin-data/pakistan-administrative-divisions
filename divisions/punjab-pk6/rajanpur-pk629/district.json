@@ -1,0 +1,49 @@
+{
+  "id": "PK629",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع راجن پور",
+    "en": "Rajanpur",
+    "slug": "rajanpur-pk629"
+  },
+  "code": {
+    "id": "PK629",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "64100"
+  ],
+  "geo": {
+    "lat": "29.145",
+    "lon": "70.153"
+  },
+  "metadata": {},
+  "source": {}
+}

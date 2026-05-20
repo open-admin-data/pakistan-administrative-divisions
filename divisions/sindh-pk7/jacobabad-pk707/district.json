@@ -1,0 +1,49 @@
+{
+  "id": "PK707",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "جیکب آباد",
+    "en": "Jacobabad",
+    "slug": "jacobabad-pk707"
+  },
+  "code": {
+    "id": "PK707",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "78200"
+  ],
+  "geo": {
+    "lat": "28.176",
+    "lon": "68.514"
+  },
+  "metadata": {},
+  "source": {}
+}

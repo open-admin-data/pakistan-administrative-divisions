@@ -1,0 +1,49 @@
+{
+  "id": "PK107",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "مظفر آباد",
+    "en": "Muzaffarabad",
+    "slug": "muzaffarabad-pk107"
+  },
+  "code": {
+    "id": "PK107",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK1",
+    "level": 1,
+    "name": {
+      "local": "آزاد کشمیر",
+      "en": "Azad Kashmir",
+      "slug": "azad-kashmir-pk1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK1",
+      "level": 1,
+      "name": {
+        "local": "آزاد کشمیر",
+        "en": "Azad Kashmir",
+        "slug": "azad-kashmir-pk1"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "13170"
+  ],
+  "geo": {
+    "lat": "34.323",
+    "lon": "73.58"
+  },
+  "metadata": {},
+  "source": {}
+}

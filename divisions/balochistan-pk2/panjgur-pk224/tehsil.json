@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK22404",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gichk",
+      "en": "Gichk",
+      "slug": "gichk-pk22404"
+    },
+    "code": {
+      "id": "PK22404",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK224",
+      "level": 2,
+      "name": {
+        "local": "ضلع پنجگور",
+        "en": "Panjgur",
+        "slug": "panjgur-pk224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK224",
+        "level": 2,
+        "name": {
+          "local": "ضلع پنجگور",
+          "en": "Panjgur",
+          "slug": "panjgur-pk224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88400"
+    ],
+    "geo": {
+      "lat": "26.757",
+      "lon": "64.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gowargo",
+      "en": "Gowargo",
+      "slug": "gowargo-pk22401"
+    },
+    "code": {
+      "id": "PK22401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK224",
+      "level": 2,
+      "name": {
+        "local": "ضلع پنجگور",
+        "en": "Panjgur",
+        "slug": "panjgur-pk224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK224",
+        "level": 2,
+        "name": {
+          "local": "ضلع پنجگور",
+          "en": "Panjgur",
+          "slug": "panjgur-pk224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93200"
+    ],
+    "geo": {
+      "lat": "26.756",
+      "lon": "64.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22402",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jaheen Parome",
+      "en": "Jaheen Parome",
+      "slug": "jaheen-parome-pk22402"
+    },
+    "code": {
+      "id": "PK22402",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK224",
+      "level": 2,
+      "name": {
+        "local": "ضلع پنجگور",
+        "en": "Panjgur",
+        "slug": "panjgur-pk224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK224",
+        "level": 2,
+        "name": {
+          "local": "ضلع پنجگور",
+          "en": "Panjgur",
+          "slug": "panjgur-pk224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92800"
+    ],
+    "geo": {
+      "lat": "26.543",
+      "lon": "63.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK22403",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پنجگور",
+      "en": "Panjgur",
+      "slug": "panjgur-pk22403"
+    },
+    "code": {
+      "id": "PK22403",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK224",
+      "level": 2,
+      "name": {
+        "local": "ضلع پنجگور",
+        "en": "Panjgur",
+        "slug": "panjgur-pk224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK224",
+        "level": 2,
+        "name": {
+          "local": "ضلع پنجگور",
+          "en": "Panjgur",
+          "slug": "panjgur-pk224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93000"
+    ],
+    "geo": {
+      "lat": "27.043",
+      "lon": "63.837"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

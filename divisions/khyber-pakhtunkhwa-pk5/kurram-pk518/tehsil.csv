@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+PK51801,Central Kurram,Central Kurram,central-kurram-pk51801,PK51801,26290,33.697,70.492
+PK51802,Lower Kurram,Lower Kurram,lower-kurram-pk51802,PK51802,26280,33.573,70.276
+PK51803,Upper Kurram,Upper Kurram,upper-kurram-pk51803,PK51803,26300,33.85,70.092

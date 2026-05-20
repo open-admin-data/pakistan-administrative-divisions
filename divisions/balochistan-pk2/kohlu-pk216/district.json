@@ -1,0 +1,49 @@
+{
+  "id": "PK216",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع کوہلو",
+    "en": "Kohlu",
+    "slug": "kohlu-pk216"
+  },
+  "code": {
+    "id": "PK216",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK2",
+    "level": 1,
+    "name": {
+      "local": "بلوچستان",
+      "en": "Balochistan",
+      "slug": "balochistan-pk2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK2",
+      "level": 1,
+      "name": {
+        "local": "بلوچستان",
+        "en": "Balochistan",
+        "slug": "balochistan-pk2"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "85220"
+  ],
+  "geo": {
+    "lat": "29.644",
+    "lon": "68.807"
+  },
+  "metadata": {},
+  "source": {}
+}

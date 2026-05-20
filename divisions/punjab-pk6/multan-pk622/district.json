@@ -1,0 +1,49 @@
+{
+  "id": "PK622",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ملتان",
+    "en": "Multan",
+    "slug": "multan-pk622"
+  },
+  "code": {
+    "id": "PK622",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "31150"
+  ],
+  "geo": {
+    "lat": "29.926",
+    "lon": "71.366"
+  },
+  "metadata": {},
+  "source": {}
+}

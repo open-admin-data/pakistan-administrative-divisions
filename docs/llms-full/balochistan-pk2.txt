@@ -1,0 +1,596 @@
+# Balochistan — Pakistan Administrative Divisions
+
+> 35 districts, 103 tehsils
+> Code: PK2
+> Coordinates: 28.497, 65.71
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Districts
+
+### ضلع آواران (Awaran)
+
+Code: PK201, Coordinates: 26.424, 65.465
+Tehsils: 4
+
+#### آواران (Awaran)
+
+Code: PK20101, Postal: 93200, Coordinates: 26.344, 64.841
+
+#### Gishekore
+
+Code: PK20104, Postal: 91400, Coordinates: 25.83, 64.749
+
+#### Jhal Jhao
+
+Code: PK20102, Postal: 57450, Coordinates: 26.312, 65.653
+
+#### Mashkai
+
+Code: PK20103, Postal: 88210, Coordinates: 26.97, 65.591
+
+### ضلع بارکھان (Barkhan)
+
+Code: PK202, Coordinates: 29.985, 69.691
+Tehsils: 2
+
+#### بارکھان (Barkhan)
+
+Code: PK20201, Postal: 84100, Coordinates: 29.985, 69.631
+
+#### Rakhni
+
+Code: PK20202, Postal: 84500, Coordinates: 30.01, 69.861
+
+### ضلع چاغی (Chagai)
+
+Code: PK203, Coordinates: 28.875, 63.418
+Tehsils: 4
+
+#### Chagai
+
+Code: PK20304, Postal: 80800, Coordinates: 29.33, 64.783
+
+#### دالبندین (Dalbandin)
+
+Code: PK20301, Postal: 95100, Coordinates: 28.899, 64.321
+
+#### نوک کنڈی (Nokkundi)
+
+Code: PK20302, Postal: 95100, Coordinates: 28.685, 62.927
+
+#### Taftan
+
+Code: PK20303, Postal: 95100, Coordinates: 29.138, 61.78
+
+### چمن (Chaman)
+
+Code: PK235, Coordinates: 30.856, 66.527
+Tehsils: 1
+
+#### چمن (Chaman)
+
+Code: PK23501, Postal: 87300, Coordinates: 30.856, 66.527
+
+### ڈیرہ بگٹی (Dera Bugti)
+
+Code: PK204, Coordinates: 29.06, 69.011
+Tehsils: 3
+
+#### ڈیرہ بگٹی (Dera Bugti)
+
+Code: PK20401, Postal: 80100, Coordinates: 29.011, 68.816
+
+#### Phelawagh
+
+Code: PK20402, Postal: 31660, Coordinates: 29.344, 69.465
+
+#### سوئی (Sui)
+
+Code: PK20403, Postal: 80100, Coordinates: 28.741, 68.977
+
+### ضلع دوکی، پاکستان (Duki)
+
+Code: PK234, Coordinates: 30.181, 68.96
+Tehsils: 1
+
+#### دکی (Duki)
+
+Code: PK23401, Postal: 82100, Coordinates: 30.181, 68.96
+
+### گوادر (Gwadar)
+
+Code: PK205, Coordinates: 25.425, 62.548
+Tehsils: 5
+
+#### گوادر (Gwadar)
+
+Code: PK20501, Postal: 92650, Coordinates: 25.324, 62.282
+
+#### جیونی (Jiwani)
+
+Code: PK20502, Postal: 91100, Coordinates: 25.142, 61.838
+
+#### اورماڑہ (Ormara)
+
+Code: PK20503, Postal: 91400, Coordinates: 25.379, 64.697
+
+#### پسنی (Pasni)
+
+Code: PK20504, Postal: 91200, Coordinates: 25.406, 63.034
+
+#### Sunster
+
+Code: PK20505, Postal: 91100, Coordinates: 25.524, 61.862
+
+### ضلع ہرنائی (Harnai)
+
+Code: PK206, Coordinates: 30.042, 68.086
+Tehsils: 2
+
+#### ہرنائی (Harnai)
+
+Code: PK20601, Postal: 82300, Coordinates: 29.998, 68.2
+
+#### Shahrigh
+
+Code: PK20602, Postal: 96000, Coordinates: 30.205, 67.584
+
+### جعفرآباد (Jaffarabad)
+
+Code: PK207, Coordinates: 28.249, 68.103
+Tehsils: 3
+
+#### Gandakha
+
+Code: PK20701, Postal: 80400, Coordinates: 28.071, 67.75
+
+#### Jhat Pat
+
+Code: PK20702, Postal: 80300, Coordinates: 28.392, 68.247
+
+#### Usta Mohammad
+
+Code: PK20703, Postal: 31050, Coordinates: 28.138, 67.957
+
+### ضلع جھل مگسی (Jhal Magsi)
+
+Code: PK208, Coordinates: 28.37, 67.543
+Tehsils: 2
+
+#### Gandawa
+
+Code: PK20801, Postal: 19210, Coordinates: 28.502, 67.647
+
+#### جھل مگسی (Jhal Magsi)
+
+Code: PK20802, Postal: 81100, Coordinates: 28.214, 67.513
+
+### ضلع کچھی (Kachhi)
+
+Code: PK209, Coordinates: 29.341, 67.659
+Tehsils: 5
+
+#### Balanari
+
+Code: PK20904, Postal: 81270, Coordinates: 29.278, 67.841
+
+#### Dhadar
+
+Code: PK20901, Postal: 81410, Coordinates: 29.484, 67.626
+
+#### ٹھٹہ (Khattan)
+
+Code: PK20905, Postal: 81200, Coordinates: 29.2, 67.672
+
+#### ماخ (Mach)
+
+Code: PK20902, Postal: 81410, Coordinates: 29.702, 67.401
+
+#### Sanni
+
+Code: PK20903, Postal: 81450, Coordinates: 29.023, 67.501
+
+### قلات (Kalat)
+
+Code: PK210, Coordinates: 29.088, 66.77
+Tehsils: 2
+
+#### قلات (Kalat)
+
+Code: PK21001, Postal: 88310, Coordinates: 29.042, 66.761
+
+#### Khaliqabad
+
+Code: PK21002, Postal: 81550, Coordinates: 29.436, 66.608
+
+### ضلع کیچ (Kech)
+
+Code: PK211, Coordinates: 26.008, 63.092
+Tehsils: 5
+
+#### بلیدہ (Buleda)
+
+Code: PK21101, Postal: 92800, Coordinates: 26.414, 63.077
+
+#### دشت (Dasht)
+
+Code: PK21102, Postal: 92650, Coordinates: 25.709, 62.615
+
+#### Kech (Turbat)
+
+Code: PK21103, Postal: 92910, Coordinates: 25.84, 63.639
+
+#### Mand
+
+Code: PK21104, Postal: 92100, Coordinates: 26.026, 61.961
+
+#### تمپ (Tump)
+
+Code: PK21105, Postal: 92300, Coordinates: 26.243, 62.408
+
+### ضلع خاران (Kharan)
+
+Code: PK212, Coordinates: 28.729, 65.497
+Tehsils: 3
+
+#### خاران (Kharan)
+
+Code: PK21201, Postal: 95110, Coordinates: 28.91, 65.692
+
+#### Sar Kharan
+
+Code: PK21202, Postal: 94100, Coordinates: 28.4, 65.609
+
+#### Tomulk
+
+Code: PK21203, Postal: 94150, Coordinates: 28.627, 65.184
+
+### خضدار (Khuzdar)
+
+Code: PK213, Coordinates: 27.294, 66.481
+Tehsils: 5
+
+#### خضدار (Khuzdar)
+
+Code: PK21301, Postal: 88240, Coordinates: 27.633, 66.631
+
+#### Mola
+
+Code: PK21302, Postal: 89350, Coordinates: 28.019, 67.051
+
+#### Naal
+
+Code: PK21303, Postal: 89200, Coordinates: 27.106, 66.219
+
+#### وڈھ (Wadh)
+
+Code: PK21304, Postal: 57450, Coordinates: 26.648, 66.7
+
+#### Zehri
+
+Code: PK21305, Postal: 80000, Coordinates: 28.583, 66.92
+
+### ضلع قلعہ عبداللہ (Killa Abdullah)
+
+Code: PK214, Coordinates: 31.116, 67.024
+Tehsils: 3
+
+#### Dobandi
+
+Code: PK21402, Postal: 86720, Coordinates: 31.116, 67.024
+
+#### گلستان (Gulistan)
+
+Code: PK21403, Postal: 86600, Coordinates: 30.29, 66.419
+
+#### قلعہ عبداللہ (Killa Abdullah)
+
+Code: PK21404, Postal: 87300, Coordinates: 30.717, 66.702
+
+### ضلع قلعہ سیف اللہ (Killa Saifullah)
+
+Code: PK215, Coordinates: 31.053, 68.499
+Tehsils: 2
+
+#### Killa Saifullah
+
+Code: PK21501, Postal: 85400, Coordinates: 31.053, 68.701
+
+#### Muslim Bagh
+
+Code: PK21502, Postal: 85100, Coordinates: 31.002, 67.919
+
+### ضلع کوہلو (Kohlu)
+
+Code: PK216, Coordinates: 29.644, 68.807
+Tehsils: 3
+
+#### Kahan
+
+Code: PK21601, Postal: 85220, Coordinates: 29.464, 68.806
+
+#### کوہلو (Kohlu)
+
+Code: PK21602, Postal: 83000, Coordinates: 29.899, 69.178
+
+#### Mawand
+
+Code: PK21603, Postal: 85220, Coordinates: 29.752, 68.799
+
+### ضلع لسبیلہ (Lasbela)
+
+Code: PK217, Coordinates: 25.773, 66.603
+Tehsils: 9
+
+#### بیلہ (Bela)
+
+Code: PK21701, Postal: 90050, Coordinates: 26.249, 66.39
+
+#### Dureji
+
+Code: PK21702, Postal: 76150, Coordinates: 25.986, 67.265
+
+#### Gaddani
+
+Code: PK21703, Postal: 90300, Coordinates: 25.064, 66.801
+
+#### حب (Hub)
+
+Code: PK21704, Postal: 75840, Coordinates: 25.204, 66.972
+
+#### Kanraj
+
+Code: PK21705, Postal: 90150, Coordinates: 26.105, 66.835
+
+#### Lairi
+
+Code: PK21709, Postal: 91400, Coordinates: 25.539, 65.375
+
+#### Lakhra
+
+Code: PK21708, Postal: 90160, Coordinates: 25.872, 66.34
+
+#### Sonmiani
+
+Code: PK21706, Postal: 90200, Coordinates: 25.416, 66.779
+
+#### اوتھل (Uthal)
+
+Code: PK21707, Postal: 90150, Coordinates: 25.858, 66.656
+
+### ضلع لہڑی (Lehri)
+
+Code: PK218, Coordinates: 28.994, 67.986
+Tehsils: 2
+
+#### باگ (Bhag)
+
+Code: PK21801, Postal: 81250, Coordinates: 28.877, 67.845
+
+#### Lehri
+
+Code: PK21802, Postal: 81250, Coordinates: 29.04, 68.15
+
+### لورالائی (Loralai)
+
+Code: PK219, Coordinates: 30.478, 68.88
+Tehsils: 2
+
+#### لورالائی (Loralai)
+
+Code: PK21901, Postal: 85400, Coordinates: 30.462, 68.62
+
+#### میختر (Mekhtar)
+
+Code: PK21902, Postal: 84700, Coordinates: 30.516, 69.22
+
+### مستونگ (Mastung)
+
+Code: PK220, Coordinates: 29.746, 66.731
+Tehsils: 3
+
+#### Dasht Spenzend
+
+Code: PK22001, Postal: 88100, Coordinates: 29.704, 67.047
+
+#### Kirdgap
+
+Code: PK22002, Postal: 95150, Coordinates: 29.605, 66.407
+
+#### مستونگ (Mastung)
+
+Code: PK22003, Postal: 88100, Coordinates: 29.799, 66.737
+
+### ضلع موسیٰ خیل (Musakhel)
+
+Code: PK221, Coordinates: 30.897, 69.958
+Tehsils: 3
+
+#### Drug
+
+Code: PK22101, Postal: 84600, Coordinates: 31.119, 70.203
+
+#### کنگری (Kingri)
+
+Code: PK22102, Postal: 84600, Coordinates: 30.637, 69.804
+
+#### موسی خیل (Musakhel)
+
+Code: PK22103, Postal: 87750, Coordinates: 31.07, 69.903
+
+### ضلع نصیر آباد (Nasirabad)
+
+Code: PK222, Coordinates: 28.626, 68.129
+Tehsils: 3
+
+#### ٹھٹہ (Chattar)
+
+Code: PK22201, Postal: 81250, Coordinates: 28.816, 68.32
+
+#### ڈیرہ مراد جمالی (Dera Murad Jamali)
+
+Code: PK22202, Postal: 19210, Coordinates: 28.623, 68.113
+
+#### ٹمبو (Tamboo)
+
+Code: PK22203, Postal: 19210, Coordinates: 28.493, 67.903
+
+### ضلع نوشکی (Nushki)
+
+Code: PK223, Coordinates: 29.447, 65.733
+Tehsils: 1
+
+#### نوشکی (Nushki)
+
+Code: PK22301, Postal: 95150, Coordinates: 29.447, 65.733
+
+### ضلع پنجگور (Panjgur)
+
+Code: PK224, Coordinates: 26.715, 64.202
+Tehsils: 4
+
+#### Gichk
+
+Code: PK22404, Postal: 88400, Coordinates: 26.757, 64.861
+
+#### Gowargo
+
+Code: PK22401, Postal: 93200, Coordinates: 26.756, 64.043
+
+#### Jaheen Parome
+
+Code: PK22402, Postal: 92800, Coordinates: 26.543, 63.544
+
+#### پنجگور (Panjgur)
+
+Code: PK22403, Postal: 93000, Coordinates: 27.043, 63.837
+
+### پشین (Pishin)
+
+Code: PK225, Coordinates: 30.703, 67.131
+Tehsils: 5
+
+#### Barshore
+
+Code: PK22501, Postal: 85100, Coordinates: 31.003, 67.435
+
+#### Huramzai
+
+Code: PK22502, Postal: 86720, Coordinates: 30.839, 66.899
+
+#### کاریزات (Karezat)
+
+Code: PK22503, Postal: 86000, Coordinates: 30.604, 67.383
+
+#### پشین (Pishin)
+
+Code: PK22504, Postal: 86720, Coordinates: 30.733, 67.066
+
+#### Saranan
+
+Code: PK22505, Postal: 86600, Coordinates: 30.462, 66.713
+
+### کوئٹہ (Quetta)
+
+Code: PK226, Coordinates: 30.141, 67.077
+Tehsils: 3
+
+#### Panjpai
+
+Code: PK22601, Postal: 86800, Coordinates: 30.015, 66.461
+
+#### Quetta City
+
+Code: PK22602, Postal: 88150, Coordinates: 30.082, 67.15
+
+#### Quetta Saddar
+
+Code: PK22603, Postal: 87290, Coordinates: 30.249, 67.1
+
+### ضلع شہید سکندر آباد (Shaheed Sikandarabad)
+
+Code: PK233, Coordinates: 28.327, 66.18
+Tehsils: 1
+
+#### سوراب (Surab)
+
+Code: PK23301, Postal: 86200, Coordinates: 28.327, 66.18
+
+### ضلع شیرانی (Sherani)
+
+Code: PK227, Coordinates: 31.681, 69.764
+Tehsils: 1
+
+#### شیرانی (Sherani)
+
+Code: PK22701, Postal: 87750, Coordinates: 31.681, 69.764
+
+### سبی (Sibi)
+
+Code: PK228, Coordinates: 29.728, 68.251
+Tehsils: 1
+
+#### سبی (Sibi)
+
+Code: PK22801, Postal: 85220, Coordinates: 29.728, 68.251
+
+### ضلع صحبت پور (Sohbatpur)
+
+Code: PK229, Coordinates: 28.542, 68.521
+Tehsils: 1
+
+#### سہبت پور (Sohbatpur)
+
+Code: PK22901, Postal: 78200, Coordinates: 28.542, 68.521
+
+### ضلع واشک (Washuk)
+
+Code: PK230, Coordinates: 27.792, 64.308
+Tehsils: 5
+
+#### Basima
+
+Code: PK23002, Postal: 93100, Coordinates: 27.984, 65.738
+
+#### Mashkhel
+
+Code: PK23001, Postal: 93000, Coordinates: 27.767, 63.339
+
+#### Nag
+
+Code: PK23004, Postal: 88430, Coordinates: 27.498, 65.244
+
+#### Shaogari
+
+Code: PK23005, Postal: 95100, Coordinates: 28.345, 64.342
+
+#### واشک (Washuk)
+
+Code: PK23003, Postal: 94110, Coordinates: 27.667, 64.378
+
+### ژوب (Zhob)
+
+Code: PK231, Coordinates: 31.212, 69.197
+Tehsils: 2
+
+#### Kakar Khurasan
+
+Code: PK23101, Postal: 85300, Coordinates: 31.465, 68.42
+
+#### ژوب (Zhob)
+
+Code: PK23102, Postal: 85200, Coordinates: 31.212, 69.344
+
+### ضلع زیارت (Ziarat)
+
+Code: PK232, Coordinates: 30.381, 68.066
+Tehsils: 2
+
+#### Sinjawi
+
+Code: PK23201, Postal: 84300, Coordinates: 30.353, 68.181
+
+#### زیارت (Ziarat)
+
+Code: PK23202, Postal: 96000, Coordinates: 30.437, 67.483
+

@@ -1,0 +1,15 @@
+id,name.local,name.en,name.slug,code.id,children_count.tehsil,zip_codes,geo.lat,geo.lon
+PK301,ضلع استور,Astore,astore-pk301,PK301,2,14100,35.248,74.884
+PK311,ضلع داریل,Darel,darel-pk311,PK311,1,15160,35.699,73.829
+PK302,دیامر,Diamir,diamir-pk302,PK302,1,14200,35.38,74.213
+PK303,ضلع گانچھے,Ghanche,ghanche-pk303,PK303,3,16910,35.221,76.66
+PK304,ضلع غذر (2019ء سے),Ghizer,ghizer-pk304,PK304,2,15160,36.377,73.887
+PK305,گلگت,Gilgit,gilgit-pk305,PK305,1,15150,35.967,74.509
+PK313,ضلع گوپیس یاسین,Gupis-Yasin,gupis-yasin-pk313,PK313,3,15310,36.285,73.205
+PK306,ہنزہ,Hunza,hunza-pk306,PK306,2,15900,36.551,75.205
+PK309,ضلع کھرمنگ,Kharmang,kharmang-pk309,PK309,2,16200,34.837,75.804
+PK308,ضلع نگر,Nagar,nagar-pk308,PK308,2,15750,36.298,74.842
+PK314,رونڈو,Rondu,rondu-pk314,PK314,1,16400,35.587,75.158
+PK310,ضلع شگر,Shigar,shigar-pk310,PK310,1,16300,35.736,75.922
+PK307,سکردو,Skardu,skardu-pk307,PK307,2,16110,35.257,75.521
+PK312,ضلع تانگیر,Tangir,tangir-pk312,PK312,1,26014,35.745,73.316

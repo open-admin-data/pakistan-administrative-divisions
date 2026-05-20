@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK72701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Ghorabari",
+      "en": "Ghorabari",
+      "slug": "ghorabari-pk72701"
+    },
+    "code": {
+      "id": "PK72701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK727",
+      "level": 2,
+      "name": {
+        "local": "ٹھٹہ",
+        "en": "Thatta",
+        "slug": "thatta-pk727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK727",
+        "level": 2,
+        "name": {
+          "local": "ٹھٹہ",
+          "en": "Thatta",
+          "slug": "thatta-pk727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73240"
+    ],
+    "geo": {
+      "lat": "24.374",
+      "lon": "67.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Keti Bunder",
+      "en": "Keti Bunder",
+      "slug": "keti-bunder-pk72702"
+    },
+    "code": {
+      "id": "PK72702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK727",
+      "level": 2,
+      "name": {
+        "local": "ٹھٹہ",
+        "en": "Thatta",
+        "slug": "thatta-pk727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK727",
+        "level": 2,
+        "name": {
+          "local": "ٹھٹہ",
+          "en": "Thatta",
+          "slug": "thatta-pk727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73240"
+    ],
+    "geo": {
+      "lat": "24.136",
+      "lon": "67.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میرپور ساکرو",
+      "en": "Mirpur Sakro",
+      "slug": "mirpur-sakro-pk72703"
+    },
+    "code": {
+      "id": "PK72703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK727",
+      "level": 2,
+      "name": {
+        "local": "ٹھٹہ",
+        "en": "Thatta",
+        "slug": "thatta-pk727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK727",
+        "level": 2,
+        "name": {
+          "local": "ٹھٹہ",
+          "en": "Thatta",
+          "slug": "thatta-pk727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73240"
+    ],
+    "geo": {
+      "lat": "24.587",
+      "lon": "67.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72704",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹھٹہ",
+      "en": "Thatta",
+      "slug": "thatta-pk72704"
+    },
+    "code": {
+      "id": "PK72704",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK727",
+      "level": 2,
+      "name": {
+        "local": "ٹھٹہ",
+        "en": "Thatta",
+        "slug": "thatta-pk727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK727",
+        "level": 2,
+        "name": {
+          "local": "ٹھٹہ",
+          "en": "Thatta",
+          "slug": "thatta-pk727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71000"
+    ],
+    "geo": {
+      "lat": "25.003",
+      "lon": "67.985"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

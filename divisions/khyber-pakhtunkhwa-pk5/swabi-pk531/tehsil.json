@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK53101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لاہور",
+      "en": "Lahor",
+      "slug": "lahor-pk53101"
+    },
+    "code": {
+      "id": "PK53101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK531",
+      "level": 2,
+      "name": {
+        "local": "صوابی",
+        "en": "Swabi",
+        "slug": "swabi-pk531"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK531",
+        "level": 2,
+        "name": {
+          "local": "صوابی",
+          "en": "Swabi",
+          "slug": "swabi-pk531"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23620"
+    ],
+    "geo": {
+      "lat": "34.014",
+      "lon": "72.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53104",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Razar",
+      "en": "Razar",
+      "slug": "razar-pk53104"
+    },
+    "code": {
+      "id": "PK53104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK531",
+      "level": 2,
+      "name": {
+        "local": "صوابی",
+        "en": "Swabi",
+        "slug": "swabi-pk531"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK531",
+        "level": 2,
+        "name": {
+          "local": "صوابی",
+          "en": "Swabi",
+          "slug": "swabi-pk531"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23410"
+    ],
+    "geo": {
+      "lat": "34.226",
+      "lon": "72.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "صوابی",
+      "en": "Swabi",
+      "slug": "swabi-pk53102"
+    },
+    "code": {
+      "id": "PK53102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK531",
+      "level": 2,
+      "name": {
+        "local": "صوابی",
+        "en": "Swabi",
+        "slug": "swabi-pk531"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK531",
+        "level": 2,
+        "name": {
+          "local": "صوابی",
+          "en": "Swabi",
+          "slug": "swabi-pk531"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23630"
+    ],
+    "geo": {
+      "lat": "34.094",
+      "lon": "72.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹوپی",
+      "en": "Topi",
+      "slug": "topi-pk53103"
+    },
+    "code": {
+      "id": "PK53103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK531",
+      "level": 2,
+      "name": {
+        "local": "صوابی",
+        "en": "Swabi",
+        "slug": "swabi-pk531"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK531",
+        "level": 2,
+        "name": {
+          "local": "صوابی",
+          "en": "Swabi",
+          "slug": "swabi-pk531"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23480"
+    ],
+    "geo": {
+      "lat": "34.15",
+      "lon": "72.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

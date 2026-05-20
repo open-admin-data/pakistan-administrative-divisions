@@ -1,0 +1,49 @@
+{
+  "id": "PK712",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "کورنگی کراچی",
+    "en": "Korangi Karachi",
+    "slug": "korangi-karachi-pk712"
+  },
+  "code": {
+    "id": "PK712",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "75190"
+  ],
+  "geo": {
+    "lat": "24.833",
+    "lon": "67.146"
+  },
+  "metadata": {},
+  "source": {}
+}

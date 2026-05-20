@@ -1,0 +1,688 @@
+[
+  {
+    "id": "PK301",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع استور",
+      "en": "Astore",
+      "slug": "astore-pk301"
+    },
+    "code": {
+      "id": "PK301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "14100"
+    ],
+    "geo": {
+      "lat": "35.248",
+      "lon": "74.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK311",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع داریل",
+      "en": "Darel",
+      "slug": "darel-pk311"
+    },
+    "code": {
+      "id": "PK311",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "15160"
+    ],
+    "geo": {
+      "lat": "35.699",
+      "lon": "73.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK302",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "دیامر",
+      "en": "Diamir",
+      "slug": "diamir-pk302"
+    },
+    "code": {
+      "id": "PK302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "14200"
+    ],
+    "geo": {
+      "lat": "35.38",
+      "lon": "74.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK303",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع گانچھے",
+      "en": "Ghanche",
+      "slug": "ghanche-pk303"
+    },
+    "code": {
+      "id": "PK303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "16910"
+    ],
+    "geo": {
+      "lat": "35.221",
+      "lon": "76.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK304",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع غذر (2019ء سے)",
+      "en": "Ghizer",
+      "slug": "ghizer-pk304"
+    },
+    "code": {
+      "id": "PK304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "15160"
+    ],
+    "geo": {
+      "lat": "36.377",
+      "lon": "73.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK305",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "گلگت",
+      "en": "Gilgit",
+      "slug": "gilgit-pk305"
+    },
+    "code": {
+      "id": "PK305",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "15150"
+    ],
+    "geo": {
+      "lat": "35.967",
+      "lon": "74.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK313",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع گوپیس یاسین",
+      "en": "Gupis-Yasin",
+      "slug": "gupis-yasin-pk313"
+    },
+    "code": {
+      "id": "PK313",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 3
+    },
+    "zip_codes": [
+      "15310"
+    ],
+    "geo": {
+      "lat": "36.285",
+      "lon": "73.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK306",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ہنزہ",
+      "en": "Hunza",
+      "slug": "hunza-pk306"
+    },
+    "code": {
+      "id": "PK306",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "15900"
+    ],
+    "geo": {
+      "lat": "36.551",
+      "lon": "75.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK309",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع کھرمنگ",
+      "en": "Kharmang",
+      "slug": "kharmang-pk309"
+    },
+    "code": {
+      "id": "PK309",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "16200"
+    ],
+    "geo": {
+      "lat": "34.837",
+      "lon": "75.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK308",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع نگر",
+      "en": "Nagar",
+      "slug": "nagar-pk308"
+    },
+    "code": {
+      "id": "PK308",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "15750"
+    ],
+    "geo": {
+      "lat": "36.298",
+      "lon": "74.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK314",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "رونڈو",
+      "en": "Rondu",
+      "slug": "rondu-pk314"
+    },
+    "code": {
+      "id": "PK314",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "16400"
+    ],
+    "geo": {
+      "lat": "35.587",
+      "lon": "75.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK310",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع شگر",
+      "en": "Shigar",
+      "slug": "shigar-pk310"
+    },
+    "code": {
+      "id": "PK310",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "16300"
+    ],
+    "geo": {
+      "lat": "35.736",
+      "lon": "75.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK307",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "سکردو",
+      "en": "Skardu",
+      "slug": "skardu-pk307"
+    },
+    "code": {
+      "id": "PK307",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 2
+    },
+    "zip_codes": [
+      "16110"
+    ],
+    "geo": {
+      "lat": "35.257",
+      "lon": "75.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK312",
+    "level": 2,
+    "level_name": {
+      "local": "ضلع",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضلع تانگیر",
+      "en": "Tangir",
+      "slug": "tangir-pk312"
+    },
+    "code": {
+      "id": "PK312",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      }
+    ],
+    "children_count": {
+      "tehsil": 1
+    },
+    "zip_codes": [
+      "26014"
+    ],
+    "geo": {
+      "lat": "35.745",
+      "lon": "73.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

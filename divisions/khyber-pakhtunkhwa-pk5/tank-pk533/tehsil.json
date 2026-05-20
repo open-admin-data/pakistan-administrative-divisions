@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK53302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jandola",
+      "en": "Jandola",
+      "slug": "jandola-pk53302"
+    },
+    "code": {
+      "id": "PK53302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK533",
+      "level": 2,
+      "name": {
+        "local": "ٹانک",
+        "en": "Tank",
+        "slug": "tank-pk533"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK533",
+        "level": 2,
+        "name": {
+          "local": "ٹانک",
+          "en": "Tank",
+          "slug": "tank-pk533"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29400"
+    ],
+    "geo": {
+      "lat": "32.428",
+      "lon": "70.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK53301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹانک",
+      "en": "Tank",
+      "slug": "tank-pk53301"
+    },
+    "code": {
+      "id": "PK53301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK533",
+      "level": 2,
+      "name": {
+        "local": "ٹانک",
+        "en": "Tank",
+        "slug": "tank-pk533"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK533",
+        "level": 2,
+        "name": {
+          "local": "ٹانک",
+          "en": "Tank",
+          "slug": "tank-pk533"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29420"
+    ],
+    "geo": {
+      "lat": "32.257",
+      "lon": "70.409"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

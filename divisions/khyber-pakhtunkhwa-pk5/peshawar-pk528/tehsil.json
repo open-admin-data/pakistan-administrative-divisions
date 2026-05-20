@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK52805",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Hassan Khel",
+      "en": "Hassan Khel",
+      "slug": "hassan-khel-pk52805"
+    },
+    "code": {
+      "id": "PK52805",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK528",
+      "level": 2,
+      "name": {
+        "local": "پشاور",
+        "en": "Peshawar",
+        "slug": "peshawar-pk528"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK528",
+        "level": 2,
+        "name": {
+          "local": "پشاور",
+          "en": "Peshawar",
+          "slug": "peshawar-pk528"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24250"
+    ],
+    "geo": {
+      "lat": "33.754",
+      "lon": "71.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Town-I",
+      "en": "Town-I",
+      "slug": "town-i-pk52801"
+    },
+    "code": {
+      "id": "PK52801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK528",
+      "level": 2,
+      "name": {
+        "local": "پشاور",
+        "en": "Peshawar",
+        "slug": "peshawar-pk528"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK528",
+        "level": 2,
+        "name": {
+          "local": "پشاور",
+          "en": "Peshawar",
+          "slug": "peshawar-pk528"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24470"
+    ],
+    "geo": {
+      "lat": "34.013",
+      "lon": "71.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Town-Ii",
+      "en": "Town-Ii",
+      "slug": "town-ii-pk52802"
+    },
+    "code": {
+      "id": "PK52802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK528",
+      "level": 2,
+      "name": {
+        "local": "پشاور",
+        "en": "Peshawar",
+        "slug": "peshawar-pk528"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK528",
+        "level": 2,
+        "name": {
+          "local": "پشاور",
+          "en": "Peshawar",
+          "slug": "peshawar-pk528"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18600"
+    ],
+    "geo": {
+      "lat": "34.1",
+      "lon": "71.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Town-Iii",
+      "en": "Town-Iii",
+      "slug": "town-iii-pk52803"
+    },
+    "code": {
+      "id": "PK52803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK528",
+      "level": 2,
+      "name": {
+        "local": "پشاور",
+        "en": "Peshawar",
+        "slug": "peshawar-pk528"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK528",
+        "level": 2,
+        "name": {
+          "local": "پشاور",
+          "en": "Peshawar",
+          "slug": "peshawar-pk528"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25140"
+    ],
+    "geo": {
+      "lat": "34.003",
+      "lon": "71.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52804",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Town-Iv",
+      "en": "Town-Iv",
+      "slug": "town-iv-pk52804"
+    },
+    "code": {
+      "id": "PK52804",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK528",
+      "level": 2,
+      "name": {
+        "local": "پشاور",
+        "en": "Peshawar",
+        "slug": "peshawar-pk528"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK528",
+        "level": 2,
+        "name": {
+          "local": "پشاور",
+          "en": "Peshawar",
+          "slug": "peshawar-pk528"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24840"
+    ],
+    "geo": {
+      "lat": "33.874",
+      "lon": "71.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

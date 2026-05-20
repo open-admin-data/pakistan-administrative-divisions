@@ -1,0 +1,49 @@
+{
+  "id": "PK524",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع مہمند",
+    "en": "Mohmand",
+    "slug": "mohmand-pk524"
+  },
+  "code": {
+    "id": "PK524",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 8
+  },
+  "zip_codes": [
+    "87710"
+  ],
+  "geo": {
+    "lat": "34.446",
+    "lon": "71.366"
+  },
+  "metadata": {},
+  "source": {}
+}

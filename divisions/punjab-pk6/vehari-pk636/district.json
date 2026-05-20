@@ -1,0 +1,49 @@
+{
+  "id": "PK636",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "وہاڑی",
+    "en": "Vehari",
+    "slug": "vehari-pk636"
+  },
+  "code": {
+    "id": "PK636",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "61220"
+  ],
+  "geo": {
+    "lat": "29.983",
+    "lon": "72.319"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PK623",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "مظفرگڑھ",
+    "en": "Muzaffargarh",
+    "slug": "muzaffargarh-pk623"
+  },
+  "code": {
+    "id": "PK623",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "34370"
+  ],
+  "geo": {
+    "lat": "29.892",
+    "lon": "71.013"
+  },
+  "metadata": {},
+  "source": {}
+}

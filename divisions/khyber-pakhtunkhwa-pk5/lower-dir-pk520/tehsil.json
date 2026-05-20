@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK52001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Adenzai",
+      "en": "Adenzai",
+      "slug": "adenzai-pk52001"
+    },
+    "code": {
+      "id": "PK52001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK520",
+      "level": 2,
+      "name": {
+        "local": "ضلع دیر زیریں",
+        "en": "Lower Dir",
+        "slug": "lower-dir-pk520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK520",
+        "level": 2,
+        "name": {
+          "local": "ضلع دیر زیریں",
+          "en": "Lower Dir",
+          "slug": "lower-dir-pk520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23424"
+    ],
+    "geo": {
+      "lat": "34.74",
+      "lon": "72.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Balambat",
+      "en": "Balambat",
+      "slug": "balambat-pk52002"
+    },
+    "code": {
+      "id": "PK52002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK520",
+      "level": 2,
+      "name": {
+        "local": "ضلع دیر زیریں",
+        "en": "Lower Dir",
+        "slug": "lower-dir-pk520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK520",
+        "level": 2,
+        "name": {
+          "local": "ضلع دیر زیریں",
+          "en": "Lower Dir",
+          "slug": "lower-dir-pk520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18300"
+    ],
+    "geo": {
+      "lat": "34.893",
+      "lon": "71.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lalqila",
+      "en": "Lalqila",
+      "slug": "lalqila-pk52003"
+    },
+    "code": {
+      "id": "PK52003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK520",
+      "level": 2,
+      "name": {
+        "local": "ضلع دیر زیریں",
+        "en": "Lower Dir",
+        "slug": "lower-dir-pk520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK520",
+        "level": 2,
+        "name": {
+          "local": "ضلع دیر زیریں",
+          "en": "Lower Dir",
+          "slug": "lower-dir-pk520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18100"
+    ],
+    "geo": {
+      "lat": "34.981",
+      "lon": "71.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52004",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Munda",
+      "en": "Munda",
+      "slug": "munda-pk52004"
+    },
+    "code": {
+      "id": "PK52004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK520",
+      "level": 2,
+      "name": {
+        "local": "ضلع دیر زیریں",
+        "en": "Lower Dir",
+        "slug": "lower-dir-pk520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK520",
+        "level": 2,
+        "name": {
+          "local": "ضلع دیر زیریں",
+          "en": "Lower Dir",
+          "slug": "lower-dir-pk520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18500"
+    ],
+    "geo": {
+      "lat": "34.822",
+      "lon": "71.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52005",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Samarbagh",
+      "en": "Samarbagh",
+      "slug": "samarbagh-pk52005"
+    },
+    "code": {
+      "id": "PK52005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK520",
+      "level": 2,
+      "name": {
+        "local": "ضلع دیر زیریں",
+        "en": "Lower Dir",
+        "slug": "lower-dir-pk520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK520",
+        "level": 2,
+        "name": {
+          "local": "ضلع دیر زیریں",
+          "en": "Lower Dir",
+          "slug": "lower-dir-pk520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18500"
+    ],
+    "geo": {
+      "lat": "34.946",
+      "lon": "71.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK52006",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹیمرگرہ",
+      "en": "Timergara",
+      "slug": "timergara-pk52006"
+    },
+    "code": {
+      "id": "PK52006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK520",
+      "level": 2,
+      "name": {
+        "local": "ضلع دیر زیریں",
+        "en": "Lower Dir",
+        "slug": "lower-dir-pk520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK520",
+        "level": 2,
+        "name": {
+          "local": "ضلع دیر زیریں",
+          "en": "Lower Dir",
+          "slug": "lower-dir-pk520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19240"
+    ],
+    "geo": {
+      "lat": "34.751",
+      "lon": "71.87"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

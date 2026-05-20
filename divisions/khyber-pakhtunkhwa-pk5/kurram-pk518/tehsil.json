@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK51801",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Central Kurram",
+      "en": "Central Kurram",
+      "slug": "central-kurram-pk51801"
+    },
+    "code": {
+      "id": "PK51801",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK518",
+      "level": 2,
+      "name": {
+        "local": "ضلع کرم",
+        "en": "Kurram",
+        "slug": "kurram-pk518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK518",
+        "level": 2,
+        "name": {
+          "local": "ضلع کرم",
+          "en": "Kurram",
+          "slug": "kurram-pk518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26290"
+    ],
+    "geo": {
+      "lat": "33.697",
+      "lon": "70.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51802",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lower Kurram",
+      "en": "Lower Kurram",
+      "slug": "lower-kurram-pk51802"
+    },
+    "code": {
+      "id": "PK51802",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK518",
+      "level": 2,
+      "name": {
+        "local": "ضلع کرم",
+        "en": "Kurram",
+        "slug": "kurram-pk518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK518",
+        "level": 2,
+        "name": {
+          "local": "ضلع کرم",
+          "en": "Kurram",
+          "slug": "kurram-pk518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26280"
+    ],
+    "geo": {
+      "lat": "33.573",
+      "lon": "70.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK51803",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Upper Kurram",
+      "en": "Upper Kurram",
+      "slug": "upper-kurram-pk51803"
+    },
+    "code": {
+      "id": "PK51803",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK518",
+      "level": 2,
+      "name": {
+        "local": "ضلع کرم",
+        "en": "Kurram",
+        "slug": "kurram-pk518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK5",
+        "level": 1,
+        "name": {
+          "local": "خیبرپختونخوا",
+          "en": "Khyber Pakhtunkhwa",
+          "slug": "khyber-pakhtunkhwa-pk5"
+        }
+      },
+      {
+        "id": "PK518",
+        "level": 2,
+        "name": {
+          "local": "ضلع کرم",
+          "en": "Kurram",
+          "slug": "kurram-pk518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26300"
+    ],
+    "geo": {
+      "lat": "33.85",
+      "lon": "70.092"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

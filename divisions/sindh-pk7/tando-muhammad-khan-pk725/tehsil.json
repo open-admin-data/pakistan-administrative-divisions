@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK72501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Bulri Shah Karim",
+      "en": "Bulri Shah Karim",
+      "slug": "bulri-shah-karim-pk72501"
+    },
+    "code": {
+      "id": "PK72501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK725",
+      "level": 2,
+      "name": {
+        "local": "ضلع ٹنڈو محمد خان",
+        "en": "Tando Muhammad Khan",
+        "slug": "tando-muhammad-khan-pk725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK725",
+        "level": 2,
+        "name": {
+          "local": "ضلع ٹنڈو محمد خان",
+          "en": "Tando Muhammad Khan",
+          "slug": "tando-muhammad-khan-pk725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73020"
+    ],
+    "geo": {
+      "lat": "24.988",
+      "lon": "68.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72502",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Tando Ghulam Hyder",
+      "en": "Tando Ghulam Hyder",
+      "slug": "tando-ghulam-hyder-pk72502"
+    },
+    "code": {
+      "id": "PK72502",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK725",
+      "level": 2,
+      "name": {
+        "local": "ضلع ٹنڈو محمد خان",
+        "en": "Tando Muhammad Khan",
+        "slug": "tando-muhammad-khan-pk725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK725",
+        "level": 2,
+        "name": {
+          "local": "ضلع ٹنڈو محمد خان",
+          "en": "Tando Muhammad Khan",
+          "slug": "tando-muhammad-khan-pk725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "72010"
+    ],
+    "geo": {
+      "lat": "24.956",
+      "lon": "68.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72503",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ٹنڈو محمد خان",
+      "en": "Tando Muhammad Khan",
+      "slug": "tando-muhammad-khan-pk72503"
+    },
+    "code": {
+      "id": "PK72503",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK725",
+      "level": 2,
+      "name": {
+        "local": "ضلع ٹنڈو محمد خان",
+        "en": "Tando Muhammad Khan",
+        "slug": "tando-muhammad-khan-pk725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK725",
+        "level": 2,
+        "name": {
+          "local": "ضلع ٹنڈو محمد خان",
+          "en": "Tando Muhammad Khan",
+          "slug": "tando-muhammad-khan-pk725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70220"
+    ],
+    "geo": {
+      "lat": "25.126",
+      "lon": "68.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

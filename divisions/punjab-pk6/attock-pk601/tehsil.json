@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PK60101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اٹک",
+      "en": "Attock",
+      "slug": "attock-pk60101"
+    },
+    "code": {
+      "id": "PK60101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK601",
+      "level": 2,
+      "name": {
+        "local": "اٹک",
+        "en": "Attock",
+        "slug": "attock-pk601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK601",
+        "level": 2,
+        "name": {
+          "local": "اٹک",
+          "en": "Attock",
+          "slug": "attock-pk601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43252"
+    ],
+    "geo": {
+      "lat": "33.74",
+      "lon": "72.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "فتح جنگ",
+      "en": "Fateh Jang",
+      "slug": "fateh-jang-pk60102"
+    },
+    "code": {
+      "id": "PK60102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK601",
+      "level": 2,
+      "name": {
+        "local": "اٹک",
+        "en": "Attock",
+        "slug": "attock-pk601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK601",
+        "level": 2,
+        "name": {
+          "local": "اٹک",
+          "en": "Attock",
+          "slug": "attock-pk601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43366"
+    ],
+    "geo": {
+      "lat": "33.506",
+      "lon": "72.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "حسن عبدال",
+      "en": "Hasan Abdal",
+      "slug": "hasan-abdal-pk60103"
+    },
+    "code": {
+      "id": "PK60103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK601",
+      "level": 2,
+      "name": {
+        "local": "اٹک",
+        "en": "Attock",
+        "slug": "attock-pk601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK601",
+        "level": 2,
+        "name": {
+          "local": "اٹک",
+          "en": "Attock",
+          "slug": "attock-pk601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47000"
+    ],
+    "geo": {
+      "lat": "33.832",
+      "lon": "72.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60104",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "حضرو",
+      "en": "Hazro",
+      "slug": "hazro-pk60104"
+    },
+    "code": {
+      "id": "PK60104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK601",
+      "level": 2,
+      "name": {
+        "local": "اٹک",
+        "en": "Attock",
+        "slug": "attock-pk601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK601",
+        "level": 2,
+        "name": {
+          "local": "اٹک",
+          "en": "Attock",
+          "slug": "attock-pk601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43480"
+    ],
+    "geo": {
+      "lat": "33.902",
+      "lon": "72.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60105",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جند",
+      "en": "Jand",
+      "slug": "jand-pk60105"
+    },
+    "code": {
+      "id": "PK60105",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK601",
+      "level": 2,
+      "name": {
+        "local": "اٹک",
+        "en": "Attock",
+        "slug": "attock-pk601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK601",
+        "level": 2,
+        "name": {
+          "local": "اٹک",
+          "en": "Attock",
+          "slug": "attock-pk601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43364"
+    ],
+    "geo": {
+      "lat": "33.359",
+      "lon": "71.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60106",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پنڈی گھیب",
+      "en": "Pindi Gheb",
+      "slug": "pindi-gheb-pk60106"
+    },
+    "code": {
+      "id": "PK60106",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK601",
+      "level": 2,
+      "name": {
+        "local": "اٹک",
+        "en": "Attock",
+        "slug": "attock-pk601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK601",
+        "level": 2,
+        "name": {
+          "local": "اٹک",
+          "en": "Attock",
+          "slug": "attock-pk601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43240"
+    ],
+    "geo": {
+      "lat": "33.305",
+      "lon": "72.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

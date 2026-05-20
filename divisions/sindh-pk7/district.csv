@@ -1,0 +1,30 @@
+id,name.local,name.en,name.slug,code.id,children_count.tehsil,zip_codes,geo.lat,geo.lon
+PK701,بدین,Badin,badin-pk701,PK701,5,72200,24.752,68.801
+PK702,وسطی کراچی,Central Karachi,central-karachi-pk702,PK702,4,75840,24.948,67.06
+PK703,دادو,Dadu,dadu-pk703,PK703,4,76190,26.768,67.505
+PK704,مشرقی کراچی,East Karachi,east-karachi-pk704,PK704,2,75200,24.932,67.163
+PK705,گھوٹکی,Ghotki,ghotki-pk705,PK705,5,65050,27.866,69.684
+PK706,حیدرآباد,Hyderabad,hyderabad-pk706,PK706,4,70210,25.355,68.444
+PK707,جیکب آباد,Jacobabad,jacobabad-pk707,PK707,3,78200,28.176,68.514
+PK708,ضلع جامشورو,Jamshoro,jamshoro-pk708,PK708,4,76130,25.786,67.852
+PK710,ضلع کشمور,Kashmore,kashmore-pk710,PK710,3,79160,28.236,69.167
+PK711,خیرپور,Khairpur,khairpur-pk711,PK711,8,66170,26.96,68.941
+PK712,کورنگی کراچی,Korangi Karachi,korangi-karachi-pk712,PK712,3,75190,24.833,67.146
+PK713,لاڑکانہ,Larkana,larkana-pk713,PK713,4,77020,27.531,68.202
+PK714,ملیر کراچی,Malir Karachi,malir-karachi-pk714,PK714,3,75340,25.207,67.16
+PK715,ضلع مٹیاری,Matiari,matiari-pk715,PK715,3,70130,25.771,68.422
+PK716,میرپور خاص,Mirpur Khas,mirpur-khas-pk716,PK716,7,69370,25.307,69.16
+PK717,نوشہرو فیروز,Naushahro Feroze,naushahro-feroze-pk717,PK717,5,67080,26.888,68.098
+PK709,قمبر شہدادکوٹ,Qambar Shahdadkot,qambar-shahdadkot-pk709,PK709,7,77214,27.647,67.683
+PK718,سانگھڑ,Sanghar,sanghar-pk718,PK718,6,68140,25.979,69.291
+PK719,شہید بینظیر آباد,Shaheed Benazir Abad,shaheed-benazir-abad-pk719,PK719,4,67470,26.309,68.284
+PK720,شکارپور,Shikarpur,shikarpur-pk720,PK720,4,78100,27.922,68.572
+PK721,جنوبی کراچی,South Karachi,south-karachi-pk721,PK721,3,70100,24.893,66.842
+PK722,ضلع سجاول,Sujawal,sujawal-pk722,PK722,5,73060,24.388,68.16
+PK723,سکھر,Sukkur,sukkur-pk723,PK723,5,65150,27.545,69.065
+PK724,ٹنڈو الہ یار,Tando Allahyar,tando-allahyar-pk724,PK724,3,70010,25.481,68.753
+PK725,ضلع ٹنڈو محمد خان,Tando Muhammad Khan,tando-muhammad-khan-pk725,PK725,3,70220,25.025,68.46
+PK726,ضلع تھرپارکر,Tharparkar,tharparkar-pk726,PK726,7,69170,24.943,70.241
+PK727,ٹھٹہ,Thatta,thatta-pk727,PK727,4,73200,24.694,67.709
+PK728,عمرکوٹ,Umerkot,umerkot-pk728,PK728,4,69120,25.333,69.811
+PK729,مغربی کراچی,West Karachi,west-karachi-pk729,PK729,3,75800,24.987,67.008

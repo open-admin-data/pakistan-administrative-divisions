@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK62101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "عیسیٰ خیل",
+      "en": "Isakhel",
+      "slug": "isakhel-pk62101"
+    },
+    "code": {
+      "id": "PK62101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK621",
+      "level": 2,
+      "name": {
+        "local": "میانوالی",
+        "en": "Mianwali",
+        "slug": "mianwali-pk621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK621",
+        "level": 2,
+        "name": {
+          "local": "میانوالی",
+          "en": "Mianwali",
+          "slug": "mianwali-pk621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42420"
+    ],
+    "geo": {
+      "lat": "32.85",
+      "lon": "71.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "میانوالی",
+      "en": "Mianwali",
+      "slug": "mianwali-pk62102"
+    },
+    "code": {
+      "id": "PK62102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK621",
+      "level": 2,
+      "name": {
+        "local": "میانوالی",
+        "en": "Mianwali",
+        "slug": "mianwali-pk621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK621",
+        "level": 2,
+        "name": {
+          "local": "میانوالی",
+          "en": "Mianwali",
+          "slug": "mianwali-pk621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42210"
+    ],
+    "geo": {
+      "lat": "32.634",
+      "lon": "71.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "پپلاں",
+      "en": "Piplan",
+      "slug": "piplan-pk62103"
+    },
+    "code": {
+      "id": "PK62103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK621",
+      "level": 2,
+      "name": {
+        "local": "میانوالی",
+        "en": "Mianwali",
+        "slug": "mianwali-pk621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK621",
+        "level": 2,
+        "name": {
+          "local": "میانوالی",
+          "en": "Mianwali",
+          "slug": "mianwali-pk621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42010"
+    ],
+    "geo": {
+      "lat": "32.342",
+      "lon": "71.433"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

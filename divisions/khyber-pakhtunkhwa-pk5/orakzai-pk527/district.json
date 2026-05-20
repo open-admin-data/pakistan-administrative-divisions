@@ -1,0 +1,49 @@
+{
+  "id": "PK527",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع اورکزئی",
+    "en": "Orakzai",
+    "slug": "orakzai-pk527"
+  },
+  "code": {
+    "id": "PK527",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "27600"
+  ],
+  "geo": {
+    "lat": "33.695",
+    "lon": "70.878"
+  },
+  "metadata": {},
+  "source": {}
+}

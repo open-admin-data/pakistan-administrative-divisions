@@ -1,0 +1,49 @@
+{
+  "id": "PK710",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع کشمور",
+    "en": "Kashmore",
+    "slug": "kashmore-pk710"
+  },
+  "code": {
+    "id": "PK710",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "79160"
+  ],
+  "geo": {
+    "lat": "28.236",
+    "lon": "69.167"
+  },
+  "metadata": {},
+  "source": {}
+}

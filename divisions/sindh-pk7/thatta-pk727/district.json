@@ -1,0 +1,49 @@
+{
+  "id": "PK727",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ٹھٹہ",
+    "en": "Thatta",
+    "slug": "thatta-pk727"
+  },
+  "code": {
+    "id": "PK727",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK7",
+    "level": 1,
+    "name": {
+      "local": "سندھ",
+      "en": "Sindh",
+      "slug": "sindh-pk7"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK7",
+      "level": 1,
+      "name": {
+        "local": "سندھ",
+        "en": "Sindh",
+        "slug": "sindh-pk7"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "73200"
+  ],
+  "geo": {
+    "lat": "24.694",
+    "lon": "67.709"
+  },
+  "metadata": {},
+  "source": {}
+}

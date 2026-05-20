@@ -1,0 +1,49 @@
+{
+  "id": "PK313",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضلع گوپیس یاسین",
+    "en": "Gupis-Yasin",
+    "slug": "gupis-yasin-pk313"
+  },
+  "code": {
+    "id": "PK313",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK3",
+    "level": 1,
+    "name": {
+      "local": "گلگت بلتستان",
+      "en": "Gilgit Baltistan",
+      "slug": "gilgit-baltistan-pk3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK3",
+      "level": 1,
+      "name": {
+        "local": "گلگت بلتستان",
+        "en": "Gilgit Baltistan",
+        "slug": "gilgit-baltistan-pk3"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 3
+  },
+  "zip_codes": [
+    "15310"
+  ],
+  "geo": {
+    "lat": "36.285",
+    "lon": "73.205"
+  },
+  "metadata": {},
+  "source": {}
+}

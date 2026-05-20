@@ -1,0 +1,49 @@
+{
+  "id": "PK401",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "اسلام آباد",
+    "en": "Islamabad",
+    "slug": "islamabad-pk401"
+  },
+  "code": {
+    "id": "PK401",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK4",
+    "level": 1,
+    "name": {
+      "local": "اسلام آباد",
+      "en": "Islamabad",
+      "slug": "islamabad-pk4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK4",
+      "level": 1,
+      "name": {
+        "local": "اسلام آباد",
+        "en": "Islamabad",
+        "slug": "islamabad-pk4"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 1
+  },
+  "zip_codes": [
+    "45200"
+  ],
+  "geo": {
+    "lat": "33.651",
+    "lon": "72.958"
+  },
+  "metadata": {},
+  "source": {}
+}

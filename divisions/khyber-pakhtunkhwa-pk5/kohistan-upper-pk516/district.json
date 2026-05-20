@@ -1,0 +1,49 @@
+{
+  "id": "PK516",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "بالائی کوہستان",
+    "en": "Kohistan Upper",
+    "slug": "kohistan-upper-pk516"
+  },
+  "code": {
+    "id": "PK516",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "26014"
+  ],
+  "geo": {
+    "lat": "35.423",
+    "lon": "73.221"
+  },
+  "metadata": {},
+  "source": {}
+}

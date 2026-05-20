@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PK23101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kakar Khurasan",
+      "en": "Kakar Khurasan",
+      "slug": "kakar-khurasan-pk23101"
+    },
+    "code": {
+      "id": "PK23101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK231",
+      "level": 2,
+      "name": {
+        "local": "ژوب",
+        "en": "Zhob",
+        "slug": "zhob-pk231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK231",
+        "level": 2,
+        "name": {
+          "local": "ژوب",
+          "en": "Zhob",
+          "slug": "zhob-pk231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85300"
+    ],
+    "geo": {
+      "lat": "31.465",
+      "lon": "68.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK23102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "ژوب",
+      "en": "Zhob",
+      "slug": "zhob-pk23102"
+    },
+    "code": {
+      "id": "PK23102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK231",
+      "level": 2,
+      "name": {
+        "local": "ژوب",
+        "en": "Zhob",
+        "slug": "zhob-pk231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK231",
+        "level": 2,
+        "name": {
+          "local": "ژوب",
+          "en": "Zhob",
+          "slug": "zhob-pk231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85200"
+    ],
+    "geo": {
+      "lat": "31.212",
+      "lon": "69.344"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

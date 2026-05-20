@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK61001",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گجرات",
+      "en": "Gujrat",
+      "slug": "gujrat-pk61001"
+    },
+    "code": {
+      "id": "PK61001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK610",
+      "level": 2,
+      "name": {
+        "local": "گجرات",
+        "en": "Gujrat",
+        "slug": "gujrat-pk610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK610",
+        "level": 2,
+        "name": {
+          "local": "گجرات",
+          "en": "Gujrat",
+          "slug": "gujrat-pk610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50950"
+    ],
+    "geo": {
+      "lat": "32.637",
+      "lon": "74.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61002",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کھاریاں",
+      "en": "Kharian",
+      "slug": "kharian-pk61002"
+    },
+    "code": {
+      "id": "PK61002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK610",
+      "level": 2,
+      "name": {
+        "local": "گجرات",
+        "en": "Gujrat",
+        "slug": "gujrat-pk610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK610",
+        "level": 2,
+        "name": {
+          "local": "گجرات",
+          "en": "Gujrat",
+          "slug": "gujrat-pk610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50140"
+    ],
+    "geo": {
+      "lat": "32.735",
+      "lon": "73.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61003",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "سرائے عالمگیر",
+      "en": "Sarai Alamgir",
+      "slug": "sarai-alamgir-pk61003"
+    },
+    "code": {
+      "id": "PK61003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK610",
+      "level": 2,
+      "name": {
+        "local": "گجرات",
+        "en": "Gujrat",
+        "slug": "gujrat-pk610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK610",
+        "level": 2,
+        "name": {
+          "local": "گجرات",
+          "en": "Gujrat",
+          "slug": "gujrat-pk610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43396"
+    ],
+    "geo": {
+      "lat": "32.866",
+      "lon": "73.751"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

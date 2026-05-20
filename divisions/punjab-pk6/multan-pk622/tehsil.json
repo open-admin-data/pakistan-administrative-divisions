@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK62201",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جلال پور پیر والا",
+      "en": "Jalalpur Pirwala",
+      "slug": "jalalpur-pirwala-pk62201"
+    },
+    "code": {
+      "id": "PK62201",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK622",
+      "level": 2,
+      "name": {
+        "local": "ملتان",
+        "en": "Multan",
+        "slug": "multan-pk622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK622",
+        "level": 2,
+        "name": {
+          "local": "ملتان",
+          "en": "Multan",
+          "slug": "multan-pk622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "59250"
+    ],
+    "geo": {
+      "lat": "29.578",
+      "lon": "71.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62202",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Multan City",
+      "en": "Multan City",
+      "slug": "multan-city-pk62202"
+    },
+    "code": {
+      "id": "PK62202",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK622",
+      "level": 2,
+      "name": {
+        "local": "ملتان",
+        "en": "Multan",
+        "slug": "multan-pk622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK622",
+        "level": 2,
+        "name": {
+          "local": "ملتان",
+          "en": "Multan",
+          "slug": "multan-pk622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "59070"
+    ],
+    "geo": {
+      "lat": "30.178",
+      "lon": "71.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62203",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Multan Saddar",
+      "en": "Multan Saddar",
+      "slug": "multan-saddar-pk62203"
+    },
+    "code": {
+      "id": "PK62203",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK622",
+      "level": 2,
+      "name": {
+        "local": "ملتان",
+        "en": "Multan",
+        "slug": "multan-pk622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK622",
+        "level": 2,
+        "name": {
+          "local": "ملتان",
+          "en": "Multan",
+          "slug": "multan-pk622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "59100"
+    ],
+    "geo": {
+      "lat": "30.114",
+      "lon": "71.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK62204",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شجاع آباد",
+      "en": "Shujabad",
+      "slug": "shujabad-pk62204"
+    },
+    "code": {
+      "id": "PK62204",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK622",
+      "level": 2,
+      "name": {
+        "local": "ملتان",
+        "en": "Multan",
+        "slug": "multan-pk622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK622",
+        "level": 2,
+        "name": {
+          "local": "ملتان",
+          "en": "Multan",
+          "slug": "multan-pk622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "59240"
+    ],
+    "geo": {
+      "lat": "29.825",
+      "lon": "71.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

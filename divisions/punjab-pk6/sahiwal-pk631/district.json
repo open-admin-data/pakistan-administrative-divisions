@@ -1,0 +1,49 @@
+{
+  "id": "PK631",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ساہیوال",
+    "en": "Sahiwal",
+    "slug": "sahiwal-pk631"
+  },
+  "code": {
+    "id": "PK631",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK6",
+    "level": 1,
+    "name": {
+      "local": "پنجاب",
+      "en": "Punjab",
+      "slug": "punjab-pk6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK6",
+      "level": 1,
+      "name": {
+        "local": "پنجاب",
+        "en": "Punjab",
+        "slug": "punjab-pk6"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "57200"
+  ],
+  "geo": {
+    "lat": "30.55",
+    "lon": "72.896"
+  },
+  "metadata": {},
+  "source": {}
+}

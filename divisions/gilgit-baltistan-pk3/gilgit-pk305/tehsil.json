@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK30501",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گلگت",
+      "en": "Gilgit",
+      "slug": "gilgit-pk30501"
+    },
+    "code": {
+      "id": "PK30501",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK305",
+      "level": 2,
+      "name": {
+        "local": "گلگت",
+        "en": "Gilgit",
+        "slug": "gilgit-pk305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK3",
+        "level": 1,
+        "name": {
+          "local": "گلگت بلتستان",
+          "en": "Gilgit Baltistan",
+          "slug": "gilgit-baltistan-pk3"
+        }
+      },
+      {
+        "id": "PK305",
+        "level": 2,
+        "name": {
+          "local": "گلگت",
+          "en": "Gilgit",
+          "slug": "gilgit-pk305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15150"
+    ],
+    "geo": {
+      "lat": "35.967",
+      "lon": "74.509"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK72101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کیماڑی ٹاؤن",
+      "en": "Kemari Town",
+      "slug": "kemari-town-pk72101"
+    },
+    "code": {
+      "id": "PK72101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK721",
+      "level": 2,
+      "name": {
+        "local": "جنوبی کراچی",
+        "en": "South Karachi",
+        "slug": "south-karachi-pk721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK721",
+        "level": 2,
+        "name": {
+          "local": "جنوبی کراچی",
+          "en": "South Karachi",
+          "slug": "south-karachi-pk721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70100"
+    ],
+    "geo": {
+      "lat": "24.911",
+      "lon": "66.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Liyari Town",
+      "en": "Liyari Town",
+      "slug": "liyari-town-pk72102"
+    },
+    "code": {
+      "id": "PK72102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK721",
+      "level": 2,
+      "name": {
+        "local": "جنوبی کراچی",
+        "en": "South Karachi",
+        "slug": "south-karachi-pk721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK721",
+        "level": 2,
+        "name": {
+          "local": "جنوبی کراچی",
+          "en": "South Karachi",
+          "slug": "south-karachi-pk721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "74000"
+    ],
+    "geo": {
+      "lat": "24.847",
+      "lon": "66.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK72103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "صدر ٹاؤن",
+      "en": "Saddar Town",
+      "slug": "saddar-town-pk72103"
+    },
+    "code": {
+      "id": "PK72103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK721",
+      "level": 2,
+      "name": {
+        "local": "جنوبی کراچی",
+        "en": "South Karachi",
+        "slug": "south-karachi-pk721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK721",
+        "level": 2,
+        "name": {
+          "local": "جنوبی کراچی",
+          "en": "South Karachi",
+          "slug": "south-karachi-pk721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54790"
+    ],
+    "geo": {
+      "lat": "24.813",
+      "lon": "67.042"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

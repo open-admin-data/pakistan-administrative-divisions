@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK63301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "فیروزوالہ",
+      "en": "Ferozewala",
+      "slug": "ferozewala-pk63301"
+    },
+    "code": {
+      "id": "PK63301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK633",
+      "level": 2,
+      "name": {
+        "local": "شیخوپورہ",
+        "en": "Sheikhupura",
+        "slug": "sheikhupura-pk633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK633",
+        "level": 2,
+        "name": {
+          "local": "شیخوپورہ",
+          "en": "Sheikhupura",
+          "slug": "sheikhupura-pk633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39250"
+    ],
+    "geo": {
+      "lat": "31.705",
+      "lon": "74.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "مرید کے",
+      "en": "Muridke",
+      "slug": "muridke-pk63302"
+    },
+    "code": {
+      "id": "PK63302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK633",
+      "level": 2,
+      "name": {
+        "local": "شیخوپورہ",
+        "en": "Sheikhupura",
+        "slug": "sheikhupura-pk633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK633",
+        "level": 2,
+        "name": {
+          "local": "شیخوپورہ",
+          "en": "Sheikhupura",
+          "slug": "sheikhupura-pk633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39050"
+    ],
+    "geo": {
+      "lat": "31.902",
+      "lon": "74.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Safdarabad",
+      "en": "Safdarabad",
+      "slug": "safdarabad-pk63303"
+    },
+    "code": {
+      "id": "PK63303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK633",
+      "level": 2,
+      "name": {
+        "local": "شیخوپورہ",
+        "en": "Sheikhupura",
+        "slug": "sheikhupura-pk633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK633",
+        "level": 2,
+        "name": {
+          "local": "شیخوپورہ",
+          "en": "Sheikhupura",
+          "slug": "sheikhupura-pk633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39530"
+    ],
+    "geo": {
+      "lat": "31.752",
+      "lon": "73.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sharak Pur",
+      "en": "Sharak Pur",
+      "slug": "sharak-pur-pk63304"
+    },
+    "code": {
+      "id": "PK63304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK633",
+      "level": 2,
+      "name": {
+        "local": "شیخوپورہ",
+        "en": "Sheikhupura",
+        "slug": "sheikhupura-pk633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK633",
+        "level": 2,
+        "name": {
+          "local": "شیخوپورہ",
+          "en": "Sheikhupura",
+          "slug": "sheikhupura-pk633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52360"
+    ],
+    "geo": {
+      "lat": "31.499",
+      "lon": "74.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK63305",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "شیخوپورہ",
+      "en": "Sheikhupura",
+      "slug": "sheikhupura-pk63305"
+    },
+    "code": {
+      "id": "PK63305",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK633",
+      "level": 2,
+      "name": {
+        "local": "شیخوپورہ",
+        "en": "Sheikhupura",
+        "slug": "sheikhupura-pk633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK633",
+        "level": 2,
+        "name": {
+          "local": "شیخوپورہ",
+          "en": "Sheikhupura",
+          "slug": "sheikhupura-pk633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "49712"
+    ],
+    "geo": {
+      "lat": "31.737",
+      "lon": "73.936"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

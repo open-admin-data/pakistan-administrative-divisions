@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK70701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "گڑھی خیرو",
+      "en": "Garhi Khairo",
+      "slug": "garhi-khairo-pk70701"
+    },
+    "code": {
+      "id": "PK70701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK707",
+      "level": 2,
+      "name": {
+        "local": "جیکب آباد",
+        "en": "Jacobabad",
+        "slug": "jacobabad-pk707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK707",
+        "level": 2,
+        "name": {
+          "local": "جیکب آباد",
+          "en": "Jacobabad",
+          "slug": "jacobabad-pk707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80300"
+    ],
+    "geo": {
+      "lat": "28.071",
+      "lon": "68.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "جیکب آباد",
+      "en": "Jacobabad",
+      "slug": "jacobabad-pk70702"
+    },
+    "code": {
+      "id": "PK70702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK707",
+      "level": 2,
+      "name": {
+        "local": "جیکب آباد",
+        "en": "Jacobabad",
+        "slug": "jacobabad-pk707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK707",
+        "level": 2,
+        "name": {
+          "local": "جیکب آباد",
+          "en": "Jacobabad",
+          "slug": "jacobabad-pk707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78200"
+    ],
+    "geo": {
+      "lat": "28.272",
+      "lon": "68.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK70703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "تھل",
+      "en": "Thul",
+      "slug": "thul-pk70703"
+    },
+    "code": {
+      "id": "PK70703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK707",
+      "level": 2,
+      "name": {
+        "local": "جیکب آباد",
+        "en": "Jacobabad",
+        "slug": "jacobabad-pk707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK7",
+        "level": 1,
+        "name": {
+          "local": "سندھ",
+          "en": "Sindh",
+          "slug": "sindh-pk7"
+        }
+      },
+      {
+        "id": "PK707",
+        "level": 2,
+        "name": {
+          "local": "جیکب آباد",
+          "en": "Jacobabad",
+          "slug": "jacobabad-pk707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79200"
+    ],
+    "geo": {
+      "lat": "28.258",
+      "lon": "68.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

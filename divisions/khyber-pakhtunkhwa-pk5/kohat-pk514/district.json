@@ -1,0 +1,49 @@
+{
+  "id": "PK514",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوہاٹ",
+    "en": "Kohat",
+    "slug": "kohat-pk514"
+  },
+  "code": {
+    "id": "PK514",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 4
+  },
+  "zip_codes": [
+    "26352"
+  ],
+  "geo": {
+    "lat": "33.412",
+    "lon": "71.488"
+  },
+  "metadata": {},
+  "source": {}
+}

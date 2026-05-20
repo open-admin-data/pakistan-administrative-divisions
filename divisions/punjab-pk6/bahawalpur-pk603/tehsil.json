@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PK60301",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "احمد پور شرقیہ",
+      "en": "Ahmadpur East",
+      "slug": "ahmadpur-east-pk60301"
+    },
+    "code": {
+      "id": "PK60301",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK603",
+      "level": 2,
+      "name": {
+        "local": "بہاولپور",
+        "en": "Bahawalpur",
+        "slug": "bahawalpur-pk603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK603",
+        "level": 2,
+        "name": {
+          "local": "بہاولپور",
+          "en": "Bahawalpur",
+          "slug": "bahawalpur-pk603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63400"
+    ],
+    "geo": {
+      "lat": "29.281",
+      "lon": "71.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60302",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بہاولپور",
+      "en": "Bahawalpur",
+      "slug": "bahawalpur-pk60302"
+    },
+    "code": {
+      "id": "PK60302",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK603",
+      "level": 2,
+      "name": {
+        "local": "بہاولپور",
+        "en": "Bahawalpur",
+        "slug": "bahawalpur-pk603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK603",
+        "level": 2,
+        "name": {
+          "local": "بہاولپور",
+          "en": "Bahawalpur",
+          "slug": "bahawalpur-pk603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63250"
+    ],
+    "geo": {
+      "lat": "29.335",
+      "lon": "71.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60303",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "حاصل پور",
+      "en": "Hasilpur",
+      "slug": "hasilpur-pk60303"
+    },
+    "code": {
+      "id": "PK60303",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK603",
+      "level": 2,
+      "name": {
+        "local": "بہاولپور",
+        "en": "Bahawalpur",
+        "slug": "bahawalpur-pk603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK603",
+        "level": 2,
+        "name": {
+          "local": "بہاولپور",
+          "en": "Bahawalpur",
+          "slug": "bahawalpur-pk603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62210"
+    ],
+    "geo": {
+      "lat": "29.634",
+      "lon": "72.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60304",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "خیرپور ٹامیوالی",
+      "en": "Khairpur Tamewali",
+      "slug": "khairpur-tamewali-pk60304"
+    },
+    "code": {
+      "id": "PK60304",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK603",
+      "level": 2,
+      "name": {
+        "local": "بہاولپور",
+        "en": "Bahawalpur",
+        "slug": "bahawalpur-pk603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK603",
+        "level": 2,
+        "name": {
+          "local": "بہاولپور",
+          "en": "Bahawalpur",
+          "slug": "bahawalpur-pk603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62000"
+    ],
+    "geo": {
+      "lat": "29.611",
+      "lon": "72.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK60305",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "یزمان",
+      "en": "Yazman",
+      "slug": "yazman-pk60305"
+    },
+    "code": {
+      "id": "PK60305",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK603",
+      "level": 2,
+      "name": {
+        "local": "بہاولپور",
+        "en": "Bahawalpur",
+        "slug": "bahawalpur-pk603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK603",
+        "level": 2,
+        "name": {
+          "local": "بہاولپور",
+          "en": "Bahawalpur",
+          "slug": "bahawalpur-pk603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63210"
+    ],
+    "geo": {
+      "lat": "28.707",
+      "lon": "71.661"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

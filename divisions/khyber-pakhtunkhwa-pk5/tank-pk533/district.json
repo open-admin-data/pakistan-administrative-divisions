@@ -1,0 +1,49 @@
+{
+  "id": "PK533",
+  "level": 2,
+  "level_name": {
+    "local": "ضلع",
+    "en": "District"
+  },
+  "name": {
+    "local": "ٹانک",
+    "en": "Tank",
+    "slug": "tank-pk533"
+  },
+  "code": {
+    "id": "PK533",
+    "iso": null
+  },
+  "parent": {
+    "id": "PK5",
+    "level": 1,
+    "name": {
+      "local": "خیبرپختونخوا",
+      "en": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa-pk5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PK5",
+      "level": 1,
+      "name": {
+        "local": "خیبرپختونخوا",
+        "en": "Khyber Pakhtunkhwa",
+        "slug": "khyber-pakhtunkhwa-pk5"
+      }
+    }
+  ],
+  "children_count": {
+    "tehsil": 2
+  },
+  "zip_codes": [
+    "29440"
+  ],
+  "geo": {
+    "lat": "32.319",
+    "lon": "70.374"
+  },
+  "metadata": {},
+  "source": {}
+}

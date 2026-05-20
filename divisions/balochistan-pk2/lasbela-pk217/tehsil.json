@@ -1,0 +1,506 @@
+[
+  {
+    "id": "PK21701",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "بیلہ",
+      "en": "Bela",
+      "slug": "bela-pk21701"
+    },
+    "code": {
+      "id": "PK21701",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90050"
+    ],
+    "geo": {
+      "lat": "26.249",
+      "lon": "66.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21702",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Dureji",
+      "en": "Dureji",
+      "slug": "dureji-pk21702"
+    },
+    "code": {
+      "id": "PK21702",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76150"
+    ],
+    "geo": {
+      "lat": "25.986",
+      "lon": "67.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21703",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gaddani",
+      "en": "Gaddani",
+      "slug": "gaddani-pk21703"
+    },
+    "code": {
+      "id": "PK21703",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90300"
+    ],
+    "geo": {
+      "lat": "25.064",
+      "lon": "66.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21704",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "حب",
+      "en": "Hub",
+      "slug": "hub-pk21704"
+    },
+    "code": {
+      "id": "PK21704",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75840"
+    ],
+    "geo": {
+      "lat": "25.204",
+      "lon": "66.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21705",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Kanraj",
+      "en": "Kanraj",
+      "slug": "kanraj-pk21705"
+    },
+    "code": {
+      "id": "PK21705",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90150"
+    ],
+    "geo": {
+      "lat": "26.105",
+      "lon": "66.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21709",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lairi",
+      "en": "Lairi",
+      "slug": "lairi-pk21709"
+    },
+    "code": {
+      "id": "PK21709",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91400"
+    ],
+    "geo": {
+      "lat": "25.539",
+      "lon": "65.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21708",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Lakhra",
+      "en": "Lakhra",
+      "slug": "lakhra-pk21708"
+    },
+    "code": {
+      "id": "PK21708",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "25.872",
+      "lon": "66.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21706",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Sonmiani",
+      "en": "Sonmiani",
+      "slug": "sonmiani-pk21706"
+    },
+    "code": {
+      "id": "PK21706",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90200"
+    ],
+    "geo": {
+      "lat": "25.416",
+      "lon": "66.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK21707",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "اوتھل",
+      "en": "Uthal",
+      "slug": "uthal-pk21707"
+    },
+    "code": {
+      "id": "PK21707",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK217",
+      "level": 2,
+      "name": {
+        "local": "ضلع لسبیلہ",
+        "en": "Lasbela",
+        "slug": "lasbela-pk217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK217",
+        "level": 2,
+        "name": {
+          "local": "ضلع لسبیلہ",
+          "en": "Lasbela",
+          "slug": "lasbela-pk217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90150"
+    ],
+    "geo": {
+      "lat": "25.858",
+      "lon": "66.656"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

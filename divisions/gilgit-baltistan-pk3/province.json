@@ -1,0 +1,30 @@
+{
+  "id": "PK3",
+  "level": 1,
+  "level_name": {
+    "local": "صوبہ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "گلگت بلتستان",
+    "en": "Gilgit Baltistan",
+    "slug": "gilgit-baltistan-pk3"
+  },
+  "code": {
+    "id": "PK3",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14,
+    "tehsil": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.803",
+    "lon": "74.845"
+  },
+  "metadata": {},
+  "source": {}
+}

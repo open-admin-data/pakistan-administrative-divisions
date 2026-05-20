@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PK23401",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دکی",
+      "en": "Duki",
+      "slug": "duki-pk23401"
+    },
+    "code": {
+      "id": "PK23401",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK234",
+      "level": 2,
+      "name": {
+        "local": "ضلع دوکی، پاکستان",
+        "en": "Duki",
+        "slug": "duki-pk234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK234",
+        "level": 2,
+        "name": {
+          "local": "ضلع دوکی، پاکستان",
+          "en": "Duki",
+          "slug": "duki-pk234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82100"
+    ],
+    "geo": {
+      "lat": "30.181",
+      "lon": "68.96"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

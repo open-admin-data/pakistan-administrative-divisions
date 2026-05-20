@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PK61901",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "دنیاپور",
+      "en": "Dunyapur",
+      "slug": "dunyapur-pk61901"
+    },
+    "code": {
+      "id": "PK61901",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK619",
+      "level": 2,
+      "name": {
+        "local": "لودھراں",
+        "en": "Lodhran",
+        "slug": "lodhran-pk619"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK619",
+        "level": 2,
+        "name": {
+          "local": "لودھراں",
+          "en": "Lodhran",
+          "slug": "lodhran-pk619"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "59110"
+    ],
+    "geo": {
+      "lat": "29.83",
+      "lon": "71.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61902",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "کہروڑپکا",
+      "en": "Kahror Pacca",
+      "slug": "kahror-pacca-pk61902"
+    },
+    "code": {
+      "id": "PK61902",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK619",
+      "level": 2,
+      "name": {
+        "local": "لودھراں",
+        "en": "Lodhran",
+        "slug": "lodhran-pk619"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK619",
+        "level": 2,
+        "name": {
+          "local": "لودھراں",
+          "en": "Lodhran",
+          "slug": "lodhran-pk619"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "59340"
+    ],
+    "geo": {
+      "lat": "29.638",
+      "lon": "71.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK61903",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "لودھراں",
+      "en": "Lodhran",
+      "slug": "lodhran-pk61903"
+    },
+    "code": {
+      "id": "PK61903",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK619",
+      "level": 2,
+      "name": {
+        "local": "لودھراں",
+        "en": "Lodhran",
+        "slug": "lodhran-pk619"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK6",
+        "level": 1,
+        "name": {
+          "local": "پنجاب",
+          "en": "Punjab",
+          "slug": "punjab-pk6"
+        }
+      },
+      {
+        "id": "PK619",
+        "level": 2,
+        "name": {
+          "local": "لودھراں",
+          "en": "Lodhran",
+          "slug": "lodhran-pk619"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "59320"
+    ],
+    "geo": {
+      "lat": "29.595",
+      "lon": "71.563"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "PK20101",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "آواران",
+      "en": "Awaran",
+      "slug": "awaran-pk20101"
+    },
+    "code": {
+      "id": "PK20101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK201",
+      "level": 2,
+      "name": {
+        "local": "ضلع آواران",
+        "en": "Awaran",
+        "slug": "awaran-pk201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK201",
+        "level": 2,
+        "name": {
+          "local": "ضلع آواران",
+          "en": "Awaran",
+          "slug": "awaran-pk201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93200"
+    ],
+    "geo": {
+      "lat": "26.344",
+      "lon": "64.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20104",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Gishekore",
+      "en": "Gishekore",
+      "slug": "gishekore-pk20104"
+    },
+    "code": {
+      "id": "PK20104",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK201",
+      "level": 2,
+      "name": {
+        "local": "ضلع آواران",
+        "en": "Awaran",
+        "slug": "awaran-pk201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK201",
+        "level": 2,
+        "name": {
+          "local": "ضلع آواران",
+          "en": "Awaran",
+          "slug": "awaran-pk201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91400"
+    ],
+    "geo": {
+      "lat": "25.83",
+      "lon": "64.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20102",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Jhal Jhao",
+      "en": "Jhal Jhao",
+      "slug": "jhal-jhao-pk20102"
+    },
+    "code": {
+      "id": "PK20102",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK201",
+      "level": 2,
+      "name": {
+        "local": "ضلع آواران",
+        "en": "Awaran",
+        "slug": "awaran-pk201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK201",
+        "level": 2,
+        "name": {
+          "local": "ضلع آواران",
+          "en": "Awaran",
+          "slug": "awaran-pk201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57450"
+    ],
+    "geo": {
+      "lat": "26.312",
+      "lon": "65.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PK20103",
+    "level": 3,
+    "level_name": {
+      "local": "تحصیل",
+      "en": "Tehsil"
+    },
+    "name": {
+      "local": "Mashkai",
+      "en": "Mashkai",
+      "slug": "mashkai-pk20103"
+    },
+    "code": {
+      "id": "PK20103",
+      "iso": null
+    },
+    "parent": {
+      "id": "PK201",
+      "level": 2,
+      "name": {
+        "local": "ضلع آواران",
+        "en": "Awaran",
+        "slug": "awaran-pk201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PK2",
+        "level": 1,
+        "name": {
+          "local": "بلوچستان",
+          "en": "Balochistan",
+          "slug": "balochistan-pk2"
+        }
+      },
+      {
+        "id": "PK201",
+        "level": 2,
+        "name": {
+          "local": "ضلع آواران",
+          "en": "Awaran",
+          "slug": "awaran-pk201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "88210"
+    ],
+    "geo": {
+      "lat": "26.97",
+      "lon": "65.591"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

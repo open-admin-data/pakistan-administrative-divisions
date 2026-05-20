@@ -1,0 +1,654 @@
+# Sindh — Pakistan Administrative Divisions
+
+> 29 districts, 125 tehsils
+> Code: PK7
+> Coordinates: 26.134, 68.756
+> Last updated: 2026-05-20. License: CC-BY-4.0.
+
+## Districts
+
+### بدین (Badin)
+
+Code: PK701, Coordinates: 24.752, 68.801
+Tehsils: 5
+
+#### بدین (Badin)
+
+Code: PK70101, Postal: 72200, Coordinates: 24.488, 68.903
+
+#### مٹلی (Matli)
+
+Code: PK70102, Postal: 72050, Coordinates: 25.131, 68.813
+
+#### Shaheed Fazil Rahu
+
+Code: PK70103, Postal: 72020, Coordinates: 24.641, 68.551
+
+#### تلہار (Talhar)
+
+Code: PK70104, Postal: 72100, Coordinates: 24.877, 68.894
+
+#### ٹنڈو باگو (Tando Bago)
+
+Code: PK70105, Postal: 72130, Coordinates: 24.771, 69.119
+
+### وسطی کراچی (Central Karachi)
+
+Code: PK702, Coordinates: 24.948, 67.06
+Tehsils: 4
+
+#### گلبرگ ٹاؤن (Gulberg Town)
+
+Code: PK70201, Postal: 75300, Coordinates: 24.933, 67.072
+
+#### Liaqatabad Town
+
+Code: PK70202, Postal: 71100, Coordinates: 24.903, 67.041
+
+#### New Karachi Town
+
+Code: PK70203, Postal: 75850, Coordinates: 24.983, 67.07
+
+#### North Nazimabad Town
+
+Code: PK70204, Postal: 75840, Coordinates: 24.934, 67.038
+
+### دادو (Dadu)
+
+Code: PK703, Coordinates: 26.768, 67.505
+Tehsils: 4
+
+#### دادو (Dadu)
+
+Code: PK70301, Postal: 76220, Coordinates: 26.799, 67.778
+
+#### جوہی (Johi)
+
+Code: PK70302, Postal: 76190, Coordinates: 26.533, 67.393
+
+#### خیرپور ناتھن شاہ (Khairpur Nathan Shah)
+
+Code: PK70303, Postal: 76260, Coordinates: 27.146, 67.427
+
+#### میہڑ (Mehar)
+
+Code: PK70304, Postal: 76330, Coordinates: 27.19, 67.783
+
+### مشرقی کراچی (East Karachi)
+
+Code: PK704, Coordinates: 24.932, 67.163
+Tehsils: 2
+
+#### Gulshan Iqbal Town
+
+Code: PK70401, Postal: 75330, Coordinates: 24.95, 67.141
+
+#### Jamshaid Town
+
+Code: PK70402, Postal: 75300, Coordinates: 24.9, 67.099
+
+### گھوٹکی (Ghotki)
+
+Code: PK705, Coordinates: 27.866, 69.684
+Tehsils: 5
+
+#### ڈاہرکی (Daharki)
+
+Code: PK70501, Postal: 65050, Coordinates: 27.792, 69.842
+
+#### گھوٹکی (Ghotki)
+
+Code: PK70502, Postal: 65110, Coordinates: 28.021, 69.348
+
+#### خانگار (Khangarh)
+
+Code: PK70503, Postal: 65070, Coordinates: 27.626, 69.356
+
+#### میرپور ماتھیلو (Mirpur Mathelo)
+
+Code: PK70504, Postal: 65070, Coordinates: 27.847, 69.454
+
+#### اوبارو (Ubauro)
+
+Code: PK70505, Postal: 65030, Coordinates: 28.214, 69.688
+
+### حیدرآباد (Hyderabad)
+
+Code: PK706, Coordinates: 25.355, 68.444
+Tehsils: 4
+
+#### حیدرآباد (Hyderabad)
+
+Code: PK70601, Postal: 70210, Coordinates: 25.355, 68.485
+
+#### Hyderabad City
+
+Code: PK70602, Postal: 71800, Coordinates: 25.369, 68.351
+
+#### لطیف آباد (Latifabad)
+
+Code: PK70603, Postal: 70210, Coordinates: 25.259, 68.386
+
+#### قاسم آباد (Qasimabad)
+
+Code: PK70604, Postal: 76000, Coordinates: 25.406, 68.321
+
+### جیکب آباد (Jacobabad)
+
+Code: PK707, Coordinates: 28.176, 68.514
+Tehsils: 3
+
+#### گڑھی خیرو (Garhi Khairo)
+
+Code: PK70701, Postal: 80300, Coordinates: 28.071, 68.142
+
+#### جیکب آباد (Jacobabad)
+
+Code: PK70702, Postal: 78200, Coordinates: 28.272, 68.398
+
+#### تھل (Thul)
+
+Code: PK70703, Postal: 79200, Coordinates: 28.258, 68.678
+
+### ضلع جامشورو (Jamshoro)
+
+Code: PK708, Coordinates: 25.786, 67.852
+Tehsils: 4
+
+#### کوٹری (Kotri)
+
+Code: PK70801, Postal: 76060, Coordinates: 25.496, 68.108
+
+#### مانجھند (Manjhand)
+
+Code: PK70802, Postal: 76130, Coordinates: 25.966, 68.079
+
+#### Sehwan Sharif
+
+Code: PK70803, Postal: 76150, Coordinates: 26.242, 67.676
+
+#### Thano Bula Khan
+
+Code: PK70804, Postal: 75500, Coordinates: 25.541, 67.64
+
+### ضلع کشمور (Kashmore)
+
+Code: PK710, Coordinates: 28.236, 69.167
+Tehsils: 3
+
+#### Kandh Kot
+
+Code: PK71001, Postal: 79160, Coordinates: 28.191, 69.21
+
+#### کشمور (Kashmore)
+
+Code: PK71002, Postal: 79190, Coordinates: 28.292, 69.416
+
+#### ٹانگوانی (Tangwani)
+
+Code: PK71003, Postal: 79150, Coordinates: 28.263, 68.983
+
+### خیرپور (Khairpur)
+
+Code: PK711, Coordinates: 26.96, 68.941
+Tehsils: 8
+
+#### فیض گنج (Faiz Ganj)
+
+Code: PK71101, Postal: 66300, Coordinates: 26.777, 68.463
+
+#### گمبٹ (Gambat)
+
+Code: PK71102, Postal: 31600, Coordinates: 27.443, 68.397
+
+#### خیرپور (Khairpur)
+
+Code: PK71103, Postal: 66160, Coordinates: 27.508, 68.704
+
+#### کنگری (Kingri)
+
+Code: PK71104, Postal: 66020, Coordinates: 27.6, 68.603
+
+#### کوت دیجی (Kot Diji)
+
+Code: PK71105, Postal: 66120, Coordinates: 27.321, 68.624
+
+#### Nara
+
+Code: PK71106, Postal: 66170, Coordinates: 26.786, 69.05
+
+#### Sobho Dero
+
+Code: PK71107, Postal: 67030, Coordinates: 27.248, 68.338
+
+#### Thari Meer Wah
+
+Code: PK71108, Postal: 67020, Coordinates: 27.089, 68.545
+
+### کورنگی کراچی (Korangi Karachi)
+
+Code: PK712, Coordinates: 24.833, 67.146
+Tehsils: 3
+
+#### Korangi Town
+
+Code: PK71201, Postal: 75190, Coordinates: 24.825, 67.124
+
+#### Landhi Town
+
+Code: PK71202, Postal: 75160, Coordinates: 24.841, 67.185
+
+#### Shah Faisal Town
+
+Code: PK71203, Postal: 75230, Coordinates: 24.872, 67.162
+
+### لاڑکانہ (Larkana)
+
+Code: PK713, Coordinates: 27.531, 68.202
+Tehsils: 4
+
+#### Baqrani
+
+Code: PK71301, Postal: 77060, Coordinates: 27.416, 68.157
+
+#### ڈوکری (Dokri)
+
+Code: PK71302, Postal: 77010, Coordinates: 27.263, 68.078
+
+#### لاڑکانہ (Larkana)
+
+Code: PK71303, Postal: 77280, Coordinates: 27.583, 68.216
+
+#### Rato Dero
+
+Code: PK71304, Postal: 77370, Coordinates: 27.771, 68.259
+
+### ملیر کراچی (Malir Karachi)
+
+Code: PK714, Coordinates: 25.207, 67.16
+Tehsils: 3
+
+#### بن قاسم ٹاؤن (Bin Qasim Town)
+
+Code: PK71401, Postal: 75120, Coordinates: 24.878, 67.393
+
+#### گڈاپ ٹاؤن (Gadap Town)
+
+Code: PK71402, Postal: 75500, Coordinates: 25.26, 67.205
+
+#### Malir Town
+
+Code: PK71403, Postal: 75000, Coordinates: 24.885, 67.198
+
+### ضلع مٹیاری (Matiari)
+
+Code: PK715, Coordinates: 25.771, 68.422
+Tehsils: 3
+
+#### ہالا (Hala)
+
+Code: PK71501, Postal: 70130, Coordinates: 25.829, 68.389
+
+#### مٹیاری (Matiari)
+
+Code: PK71502, Postal: 70150, Coordinates: 25.639, 68.528
+
+#### سعید آباد (Saeedabad)
+
+Code: PK71503, Postal: 68010, Coordinates: 25.992, 68.386
+
+### میرپور خاص (Mirpur Khas)
+
+Code: PK716, Coordinates: 25.307, 69.16
+Tehsils: 7
+
+#### ڈگری (Digri)
+
+Code: PK71601, Postal: 69330, Coordinates: 25.135, 69.091
+
+#### Hussain Bux Muree
+
+Code: PK71602, Postal: 68080, Coordinates: 25.626, 68.984
+
+#### Jhudo
+
+Code: PK71603, Postal: 69310, Coordinates: 24.966, 69.379
+
+#### کوت غلام محمد (Kot Ghulam Muhammad)
+
+Code: PK71604, Postal: 69300, Coordinates: 25.269, 69.219
+
+#### میرپور خاص (Mirpur Khas)
+
+Code: PK71605, Postal: 69370, Coordinates: 25.497, 68.968
+
+#### Shuja Abad
+
+Code: PK71606, Postal: 69370, Coordinates: 25.435, 69.08
+
+#### سندھری (Sindhri)
+
+Code: PK71607, Postal: 68310, Coordinates: 25.654, 69.174
+
+### نوشہرو فیروز (Naushahro Feroze)
+
+Code: PK717, Coordinates: 26.888, 68.098
+Tehsils: 5
+
+#### بهیریا (Bhiria)
+
+Code: PK71701, Postal: 67310, Coordinates: 26.891, 68.202
+
+#### کنڈیارو (Kandiaro)
+
+Code: PK71702, Postal: 67070, Coordinates: 27.073, 68.121
+
+#### Mehrab Pur
+
+Code: PK71703, Postal: 67000, Coordinates: 27.051, 68.368
+
+#### مورو (Moro)
+
+Code: PK71704, Postal: 67110, Coordinates: 26.721, 67.962
+
+#### نوشہرو فیروز (Naushahro Feroze)
+
+Code: PK71705, Postal: 67390, Coordinates: 26.766, 68.16
+
+### قمبر شہدادکوٹ (Qambar Shahdadkot)
+
+Code: PK709, Coordinates: 27.647, 67.683
+Tehsils: 7
+
+#### میرو خان (Meero Khan)
+
+Code: PK70901, Postal: 77300, Coordinates: 27.759, 67.928
+
+#### نصیرآباد (Nasirabad)
+
+Code: PK70902, Postal: 77030, Coordinates: 27.437, 67.982
+
+#### قمبر (Qambar)
+
+Code: PK70903, Postal: 77040, Coordinates: 27.558, 67.611
+
+#### Qubo Saeed Khan
+
+Code: PK70904, Postal: 77214, Coordinates: 27.806, 67.565
+
+#### شہدادکوٹ (Shahdadkot)
+
+Code: PK70905, Postal: 77300, Coordinates: 27.881, 67.933
+
+#### Sijawal Junejo
+
+Code: PK70906, Postal: 77310, Coordinates: 27.805, 68.129
+
+#### وارہ (Warah)
+
+Code: PK70907, Postal: 77040, Coordinates: 27.427, 67.737
+
+### سانگھڑ (Sanghar)
+
+Code: PK718, Coordinates: 25.979, 69.291
+Tehsils: 6
+
+#### Jam Nawaz Ali
+
+Code: PK71801, Postal: 68070, Coordinates: 25.806, 68.869
+
+#### کھپرو (Khipro)
+
+Code: PK71802, Postal: 68350, Coordinates: 25.862, 69.681
+
+#### سانگھڑ (Sanghar)
+
+Code: PK71803, Postal: 68100, Coordinates: 26.112, 69.103
+
+#### شہداد پور (Shahdadpur)
+
+Code: PK71804, Postal: 68020, Coordinates: 26.03, 68.608
+
+#### سنجھورو (Sinjhoro)
+
+Code: PK71805, Postal: 68220, Coordinates: 26.076, 68.811
+
+#### ٹنڈو آدم (Tando Adam)
+
+Code: PK71806, Postal: 68050, Coordinates: 25.827, 68.631
+
+### شہید بینظیر آباد (Shaheed Benazir Abad)
+
+Code: PK719, Coordinates: 26.309, 68.284
+Tehsils: 4
+
+#### Daulat Pur
+
+Code: PK71901, Postal: 76350, Coordinates: 26.431, 68.03
+
+#### دور (Daur)
+
+Code: PK71902, Postal: 67470, Coordinates: 26.395, 68.495
+
+#### نواب شاہ (Nawabshah)
+
+Code: PK71903, Postal: 67470, Coordinates: 26.274, 68.354
+
+#### سکرنڈ (Sakrand)
+
+Code: PK71904, Postal: 67210, Coordinates: 26.135, 68.244
+
+### شکارپور (Shikarpur)
+
+Code: PK720, Coordinates: 27.922, 68.572
+Tehsils: 4
+
+#### گڑھی یاسین (Garhi Yasin)
+
+Code: PK72001, Postal: 78100, Coordinates: 27.857, 68.47
+
+#### خانپور (Khanpur)
+
+Code: PK72002, Postal: 79200, Coordinates: 28.025, 68.841
+
+#### لاکھی (Lakhi)
+
+Code: PK72003, Postal: 78050, Coordinates: 27.879, 68.743
+
+#### شکارپور (Shikarpur)
+
+Code: PK72004, Postal: 78200, Coordinates: 28.032, 68.472
+
+### جنوبی کراچی (South Karachi)
+
+Code: PK721, Coordinates: 24.893, 66.842
+Tehsils: 3
+
+#### کیماڑی ٹاؤن (Kemari Town)
+
+Code: PK72101, Postal: 70100, Coordinates: 24.911, 66.832
+
+#### Liyari Town
+
+Code: PK72102, Postal: 74000, Coordinates: 24.847, 66.991
+
+#### صدر ٹاؤن (Saddar Town)
+
+Code: PK72103, Postal: 54790, Coordinates: 24.813, 67.042
+
+### ضلع سجاول (Sujawal)
+
+Code: PK722, Coordinates: 24.388, 68.16
+Tehsils: 5
+
+#### جاٹی (Jati)
+
+Code: PK72201, Postal: 73060, Coordinates: 24.291, 68.428
+
+#### Kharo Chan
+
+Code: PK72202, Postal: 73240, Coordinates: 23.989, 67.588
+
+#### میرپور بٹھورو (Mirpur Bathoro)
+
+Code: PK72203, Postal: 73030, Coordinates: 24.796, 68.239
+
+#### Shah Bunder
+
+Code: PK72204, Postal: 73080, Coordinates: 24.107, 67.94
+
+#### سجاول (Sujawal)
+
+Code: PK72205, Postal: 73050, Coordinates: 24.651, 68.078
+
+### سکھر (Sukkur)
+
+Code: PK723, Coordinates: 27.545, 69.065
+Tehsils: 5
+
+#### New Sukkur
+
+Code: PK72301, Postal: 78050, Coordinates: 27.799, 68.852
+
+#### پانو عقیل (Pano Aqil)
+
+Code: PK72302, Postal: 65120, Coordinates: 27.836, 69.054
+
+#### روہڑی (Rohri)
+
+Code: PK72303, Postal: 65150, Coordinates: 27.588, 69.01
+
+#### Salehpat
+
+Code: PK72304, Postal: 70104, Coordinates: 27.344, 69.293
+
+#### سکھر (Sukkur)
+
+Code: PK72305, Postal: 65270, Coordinates: 27.713, 68.828
+
+### ٹنڈو الہ یار (Tando Allahyar)
+
+Code: PK724, Coordinates: 25.481, 68.753
+Tehsils: 3
+
+#### قمبر (Chamber)
+
+Code: PK72401, Postal: 70080, Coordinates: 25.317, 68.828
+
+#### Jhando Mari
+
+Code: PK72402, Postal: 70020, Coordinates: 25.578, 68.788
+
+#### ٹنڈو الہ یار (Tando Allahyar)
+
+Code: PK72403, Postal: 70010, Coordinates: 25.448, 68.712
+
+### ضلع ٹنڈو محمد خان (Tando Muhammad Khan)
+
+Code: PK725, Coordinates: 25.025, 68.46
+Tehsils: 3
+
+#### Bulri Shah Karim
+
+Code: PK72501, Postal: 73020, Coordinates: 24.988, 68.379
+
+#### Tando Ghulam Hyder
+
+Code: PK72502, Postal: 72010, Coordinates: 24.956, 68.639
+
+#### ٹنڈو محمد خان (Tando Muhammad Khan)
+
+Code: PK72503, Postal: 70220, Coordinates: 25.126, 68.562
+
+### ضلع تھرپارکر (Tharparkar)
+
+Code: PK726, Coordinates: 24.943, 70.241
+Tehsils: 7
+
+#### چھاچھرو (Chachro)
+
+Code: PK72601, Postal: 69170, Coordinates: 25.102, 70.394
+
+#### Dahli
+
+Code: PK72602, Postal: 69170, Coordinates: 25.447, 70.452
+
+#### ڈپلو (Diplo)
+
+Code: PK72603, Postal: 69280, Coordinates: 24.411, 69.469
+
+#### Islam Kot
+
+Code: PK72604, Postal: 69200, Coordinates: 24.539, 70.339
+
+#### Kaloi
+
+Code: PK72607, Postal: 69280, Coordinates: 24.666, 69.448
+
+#### مٹھی (Mithi)
+
+Code: PK72605, Postal: 69230, Coordinates: 24.791, 69.806
+
+#### Nagar Parkar
+
+Code: PK72606, Postal: 69260, Coordinates: 24.643, 70.785
+
+### ٹھٹہ (Thatta)
+
+Code: PK727, Coordinates: 24.694, 67.709
+Tehsils: 4
+
+#### Ghorabari
+
+Code: PK72701, Postal: 73240, Coordinates: 24.374, 67.694
+
+#### Keti Bunder
+
+Code: PK72702, Postal: 73240, Coordinates: 24.136, 67.45
+
+#### میرپور ساکرو (Mirpur Sakro)
+
+Code: PK72703, Postal: 73240, Coordinates: 24.587, 67.633
+
+#### ٹھٹہ (Thatta)
+
+Code: PK72704, Postal: 71000, Coordinates: 25.003, 67.985
+
+### عمرکوٹ (Umerkot)
+
+Code: PK728, Coordinates: 25.333, 69.811
+Tehsils: 4
+
+#### کنری (Kunri)
+
+Code: PK72801, Postal: 69210, Coordinates: 25.052, 69.568
+
+#### پتھورو (Pithoro)
+
+Code: PK72802, Postal: 69350, Coordinates: 25.488, 69.36
+
+#### سامارو (Samaro)
+
+Code: PK72803, Postal: 69350, Coordinates: 25.299, 69.457
+
+#### Umer Kot
+
+Code: PK72804, Postal: 69090, Coordinates: 25.464, 69.884
+
+### مغربی کراچی (West Karachi)
+
+Code: PK729, Coordinates: 24.987, 67.008
+Tehsils: 3
+
+#### بلدیہ ٹاؤن (Baldia Town)
+
+Code: PK72901, Postal: 70100, Coordinates: 24.922, 66.955
+
+#### اورنگی ٹاؤن (Orangi Town)
+
+Code: PK72902, Postal: 75800, Coordinates: 25.005, 67
+
+#### Site Town
+
+Code: PK72903, Postal: 75700, Coordinates: 24.919, 67.004
+
