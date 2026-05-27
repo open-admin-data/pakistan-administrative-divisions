@@ -3,7 +3,7 @@
 > 29 districts, 125 tehsils
 > Code: PK7
 > Coordinates: 26.134, 68.756
-> Last updated: 2026-05-20. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

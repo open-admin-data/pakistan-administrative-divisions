@@ -3,7 +3,7 @@
 > 10 districts, 32 tehsils
 > Code: PK1
 > Coordinates: 33.953, 73.901
-> Last updated: 2026-05-20. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 
