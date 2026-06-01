@@ -1,168 +1,169 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.tehsil,zip_codes,geo.lat,geo.lon
-PK1,1,صوبہ,Province,آزاد کشمیر,Azad Kashmir,azad-kashmir-pk1,PK1,,,,,,10,32,,33.953,73.901
-PK101,2,ضلع,District,باغ,Bagh,bagh-pk101,PK101,,PK1,آزاد کشمیر,Azad Kashmir,,,3,12510,34.003,73.731
-PK102,2,ضلع,District,ضلع بھمبر,Bhimber,bhimber-pk102,PK102,,PK1,آزاد کشمیر,Azad Kashmir,,,3,10030,33.014,74.15
-PK103,2,ضلع,District,وادی جہلم,Jhelum Valley,jhelum-valley-pk103,PK103,,PK1,آزاد کشمیر,Azad Kashmir,,,3,10500,34.188,73.797
-PK104,2,ضلع,District,ضلع حویلی,Haveli,haveli-pk104,PK104,,PK1,آزاد کشمیر,Azad Kashmir,,,3,10080,33.935,74.12
-PK105,2,ضلع,District,کوٹلی,Kotli,kotli-pk105,PK105,,PK1,آزاد کشمیر,Azad Kashmir,,,6,11210,33.454,73.947
-PK106,2,ضلع,District,ضلع میر پور,Mirpur,mirpur-pk106,PK106,,PK1,آزاد کشمیر,Azad Kashmir,,,2,10350,33.239,73.759
-PK107,2,ضلع,District,مظفر آباد,Muzaffarabad,muzaffarabad-pk107,PK107,,PK1,آزاد کشمیر,Azad Kashmir,,,2,13170,34.323,73.58
-PK108,2,ضلع,District,ضلع نیلم,Neelum,neelum-pk108,PK108,,PK1,آزاد کشمیر,Azad Kashmir,,,2,89300,34.757,73.985
-PK109,2,ضلع,District,ضلع پونچھ,Poonch,poonch-pk109,PK109,,PK1,آزاد کشمیر,Azad Kashmir,,,4,12170,33.786,73.897
-PK110,2,ضلع,District,سدھنوتی,Sudhnoti,sudhnoti-pk110,PK110,,PK1,آزاد کشمیر,Azad Kashmir,,,4,12070,33.704,73.739
-PK2,1,صوبہ,Province,بلوچستان,Balochistan,balochistan-pk2,PK2,,,,,,35,103,,28.497,65.71
-PK201,2,ضلع,District,ضلع آواران,Awaran,awaran-pk201,PK201,,PK2,بلوچستان,Balochistan,,,4,88210,26.424,65.465
-PK202,2,ضلع,District,ضلع بارکھان,Barkhan,barkhan-pk202,PK202,,PK2,بلوچستان,Balochistan,,,2,84100,29.985,69.691
-PK203,2,ضلع,District,ضلع چاغی,Chagai,chagai-pk203,PK203,,PK2,بلوچستان,Balochistan,,,4,95100,28.875,63.418
-PK204,2,ضلع,District,ڈیرہ بگٹی,Dera Bugti,dera-bugti-pk204,PK204,,PK2,بلوچستان,Balochistan,,,3,80100,29.06,69.011
-PK205,2,ضلع,District,گوادر,Gwadar,gwadar-pk205,PK205,,PK2,بلوچستان,Balochistan,,,5,92650,25.425,62.548
-PK206,2,ضلع,District,ضلع ہرنائی,Harnai,harnai-pk206,PK206,,PK2,بلوچستان,Balochistan,,,2,82300,30.042,68.086
-PK207,2,ضلع,District,جعفرآباد,Jaffarabad,jaffarabad-pk207,PK207,,PK2,بلوچستان,Balochistan,,,3,80300,28.249,68.103
-PK208,2,ضلع,District,ضلع جھل مگسی,Jhal Magsi,jhal-magsi-pk208,PK208,,PK2,بلوچستان,Balochistan,,,2,81100,28.37,67.543
-PK209,2,ضلع,District,ضلع کچھی,Kachhi,kachhi-pk209,PK209,,PK2,بلوچستان,Balochistan,,,5,81400,29.341,67.659
-PK210,2,ضلع,District,قلات,Kalat,kalat-pk210,PK210,,PK2,بلوچستان,Balochistan,,,2,81550,29.088,66.77
-PK211,2,ضلع,District,ضلع کیچ,Kech,kech-pk211,PK211,,PK2,بلوچستان,Balochistan,,,5,92500,26.008,63.092
-PK212,2,ضلع,District,ضلع خاران,Kharan,kharan-pk212,PK212,,PK2,بلوچستان,Balochistan,,,3,94100,28.729,65.497
-PK213,2,ضلع,District,خضدار,Khuzdar,khuzdar-pk213,PK213,,PK2,بلوچستان,Balochistan,,,5,89200,27.294,66.481
-PK214,2,ضلع,District,ضلع قلعہ عبداللہ,Killa Abdullah,killa-abdullah-pk214,PK214,,PK2,بلوچستان,Balochistan,,,3,86720,31.116,67.024
-PK215,2,ضلع,District,ضلع قلعہ سیف اللہ,Killa Saifullah,killa-saifullah-pk215,PK215,,PK2,بلوچستان,Balochistan,,,2,85400,31.053,68.499
-PK216,2,ضلع,District,ضلع کوہلو,Kohlu,kohlu-pk216,PK216,,PK2,بلوچستان,Balochistan,,,3,85220,29.644,68.807
-PK217,2,ضلع,District,ضلع لسبیلہ,Lasbela,lasbela-pk217,PK217,,PK2,بلوچستان,Balochistan,,,9,90150,25.773,66.603
-PK218,2,ضلع,District,ضلع لہڑی,Lehri,lehri-pk218,PK218,,PK2,بلوچستان,Balochistan,,,2,81250,28.994,67.986
-PK219,2,ضلع,District,لورالائی,Loralai,loralai-pk219,PK219,,PK2,بلوچستان,Balochistan,,,2,82100,30.478,68.88
-PK220,2,ضلع,District,مستونگ,Mastung,mastung-pk220,PK220,,PK2,بلوچستان,Balochistan,,,3,88100,29.746,66.731
-PK221,2,ضلع,District,ضلع موسیٰ خیل,Musakhel,musakhel-pk221,PK221,,PK2,بلوچستان,Balochistan,,,3,84600,30.897,69.958
-PK222,2,ضلع,District,ضلع نصیر آباد,Nasirabad,nasirabad-pk222,PK222,,PK2,بلوچستان,Balochistan,,,3,19210,28.626,68.129
-PK223,2,ضلع,District,ضلع نوشکی,Nushki,nushki-pk223,PK223,,PK2,بلوچستان,Balochistan,,,1,95150,29.447,65.733
-PK224,2,ضلع,District,ضلع پنجگور,Panjgur,panjgur-pk224,PK224,,PK2,بلوچستان,Balochistan,,,4,93200,26.715,64.202
-PK225,2,ضلع,District,پشین,Pishin,pishin-pk225,PK225,,PK2,بلوچستان,Balochistan,,,5,86000,30.703,67.131
-PK226,2,ضلع,District,کوئٹہ,Quetta,quetta-pk226,PK226,,PK2,بلوچستان,Balochistan,,,3,87500,30.141,67.077
-PK227,2,ضلع,District,ضلع شیرانی,Sherani,sherani-pk227,PK227,,PK2,بلوچستان,Balochistan,,,1,87750,31.681,69.764
-PK228,2,ضلع,District,سبی,Sibi,sibi-pk228,PK228,,PK2,بلوچستان,Balochistan,,,1,85220,29.728,68.251
-PK229,2,ضلع,District,ضلع صحبت پور,Sohbatpur,sohbatpur-pk229,PK229,,PK2,بلوچستان,Balochistan,,,1,78200,28.542,68.521
-PK230,2,ضلع,District,ضلع واشک,Washuk,washuk-pk230,PK230,,PK2,بلوچستان,Balochistan,,,5,94110,27.792,64.308
-PK231,2,ضلع,District,ژوب,Zhob,zhob-pk231,PK231,,PK2,بلوچستان,Balochistan,,,2,85200,31.212,69.197
-PK232,2,ضلع,District,ضلع زیارت,Ziarat,ziarat-pk232,PK232,,PK2,بلوچستان,Balochistan,,,2,84300,30.381,68.066
-PK233,2,ضلع,District,ضلع شہید سکندر آباد,Shaheed Sikandarabad,shaheed-sikandarabad-pk233,PK233,,PK2,بلوچستان,Balochistan,,,1,86200,28.327,66.18
-PK234,2,ضلع,District,ضلع دوکی، پاکستان,Duki,duki-pk234,PK234,,PK2,بلوچستان,Balochistan,,,1,82100,30.181,68.96
-PK235,2,ضلع,District,چمن,Chaman,chaman-pk235,PK235,,PK2,بلوچستان,Balochistan,,,1,87300,30.856,66.527
-PK3,1,صوبہ,Province,گلگت بلتستان,Gilgit Baltistan,gilgit-baltistan-pk3,PK3,,,,,,14,24,,35.803,74.845
-PK301,2,ضلع,District,ضلع استور,Astore,astore-pk301,PK301,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,14100,35.248,74.884
-PK302,2,ضلع,District,دیامر,Diamir,diamir-pk302,PK302,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,14200,35.38,74.213
-PK303,2,ضلع,District,ضلع گانچھے,Ghanche,ghanche-pk303,PK303,,PK3,گلگت بلتستان,Gilgit Baltistan,,,3,16910,35.221,76.66
-PK304,2,ضلع,District,ضلع غذر (2019ء سے),Ghizer,ghizer-pk304,PK304,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,15160,36.377,73.887
-PK305,2,ضلع,District,گلگت,Gilgit,gilgit-pk305,PK305,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,15150,35.967,74.509
-PK306,2,ضلع,District,ہنزہ,Hunza,hunza-pk306,PK306,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,15900,36.551,75.205
-PK307,2,ضلع,District,سکردو,Skardu,skardu-pk307,PK307,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,16110,35.257,75.521
-PK308,2,ضلع,District,ضلع نگر,Nagar,nagar-pk308,PK308,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,15750,36.298,74.842
-PK309,2,ضلع,District,ضلع کھرمنگ,Kharmang,kharmang-pk309,PK309,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,16200,34.837,75.804
-PK310,2,ضلع,District,ضلع شگر,Shigar,shigar-pk310,PK310,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,16300,35.736,75.922
-PK311,2,ضلع,District,ضلع داریل,Darel,darel-pk311,PK311,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,15160,35.699,73.829
-PK312,2,ضلع,District,ضلع تانگیر,Tangir,tangir-pk312,PK312,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,26014,35.745,73.316
-PK313,2,ضلع,District,ضلع گوپیس یاسین,Gupis-Yasin,gupis-yasin-pk313,PK313,,PK3,گلگت بلتستان,Gilgit Baltistan,,,3,15310,36.285,73.205
-PK314,2,ضلع,District,رونڈو,Rondu,rondu-pk314,PK314,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,16400,35.587,75.158
-PK4,1,صوبہ,Province,اسلام آباد,Islamabad,islamabad-pk4,PK4,,,,,,1,1,,33.651,72.958
-PK401,2,ضلع,District,اسلام آباد,Islamabad,islamabad-pk401,PK401,,PK4,اسلام آباد,Islamabad,,,1,45200,33.651,72.958
-PK5,1,صوبہ,Province,خیبرپختونخوا,Khyber Pakhtunkhwa,khyber-pakhtunkhwa-pk5,PK5,,,,,,35,153,,34.036,72.263
-PK501,2,ضلع,District,ایبٹ آباد,Abbottabad,abbottabad-pk501,PK501,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,22200,34.095,73.291
-PK502,2,ضلع,District,ضلع باجوڑ,Bajaur,bajaur-pk502,PK502,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,7,21100,34.746,71.486
-PK503,2,ضلع,District,بنوں,Bannu,bannu-pk503,PK503,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,28030,32.985,70.655
-PK504,2,ضلع,District,بٹگرام,Batagram,batagram-pk504,PK504,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,21036,34.762,73.137
-PK505,2,ضلع,District,ضلع بونیر,Buner,buner-pk505,PK505,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,19140,34.431,72.556
-PK506,2,ضلع,District,چارسدہ,Charsadda,charsadda-pk506,PK506,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,24530,34.248,71.699
-PK507,2,ضلع,District,زیریں چترال,Chitral Lower,chitral-lower-pk507,PK507,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,17210,35.847,71.826
-PK508,2,ضلع,District,بالائی چترال,Chitral Upper,chitral-upper-pk508,PK508,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,17100,36.328,72.269
-PK509,2,ضلع,District,ڈیرہ اسماعیل خان,D. I. Khan,d-i-khan-pk509,PK509,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,29350,31.85,70.625
-PK510,2,ضلع,District,ہنگو,Hangu,hangu-pk510,PK510,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,26250,33.412,70.804
-PK511,2,ضلع,District,ہری پور,Haripur,haripur-pk511,PK511,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,22800,34.048,72.876
-PK512,2,ضلع,District,کرک,Karak,karak-pk512,PK512,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,27400,33.101,71.111
-PK513,2,ضلع,District,ضلع لنڈی کوتل,Khyber,khyber-pk513,PK513,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,24740,34.04,71.205
-PK514,2,ضلع,District,کوہاٹ,Kohat,kohat-pk514,PK514,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,26352,33.412,71.488
-PK515,2,ضلع,District,زیریں کوہستان,Kohistan Lower,kohistan-lower-pk515,PK515,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,20300,35.15,72.923
-PK516,2,ضلع,District,بالائی کوہستان,Kohistan Upper,kohistan-upper-pk516,PK516,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,26014,35.423,73.221
-PK517,2,ضلع,District,کولائی پالس کوہستان,Kolai Palas Kohistan,kolai-palas-kohistan-pk517,PK517,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,19080,35.067,73.175
-PK518,2,ضلع,District,ضلع کرم,Kurram,kurram-pk518,PK518,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,26290,33.69,70.384
-PK519,2,ضلع,District,لکی مروت,Lakki Marwat,lakki-marwat-pk519,PK519,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,19200,32.57,70.88
-PK520,2,ضلع,District,ضلع دیر زیریں,Lower Dir,lower-dir-pk520,PK520,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,18300,34.841,71.82
-PK521,2,ضلع,District,ضلع مالاکنڈ,Malakand,malakand-pk521,PK521,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,23422,34.517,71.824
-PK522,2,ضلع,District,مانسہرہ,Mansehra,mansehra-pk522,PK522,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,5,20200,34.696,73.512
-PK523,2,ضلع,District,مردان,Mardan,mardan-pk523,PK523,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,5,23330,34.303,72.081
-PK524,2,ضلع,District,ضلع مہمند,Mohmand,mohmand-pk524,PK524,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,8,87710,34.446,71.366
-PK525,2,ضلع,District,شمالی وزیرستان,North Waziristan,north-waziristan-pk525,PK525,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,10,28210,32.957,69.943
-PK526,2,ضلع,District,نوشہرہ,Nowshera,nowshera-pk526,PK526,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,24540,33.917,72.003
-PK527,2,ضلع,District,ضلع اورکزئی,Orakzai,orakzai-pk527,PK527,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,27600,33.695,70.878
-PK528,2,ضلع,District,پشاور,Peshawar,peshawar-pk528,PK528,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,5,24360,33.942,71.6
-PK529,2,ضلع,District,ضلع شانگلہ,Shangla,shangla-pk529,PK529,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,20500,34.847,72.79
-PK530,2,ضلع,District,جنوبی وزیرستان,South Waziristan,south-waziristan-pk530,PK530,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,8,29540,32.291,69.678
-PK531,2,ضلع,District,صوابی,Swabi,swabi-pk531,PK531,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,23630,34.141,72.477
-PK532,2,ضلع,District,سوات,Swat,swat-pk532,PK532,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,9,26060,35.233,72.512
-PK533,2,ضلع,District,ٹانک,Tank,tank-pk533,PK533,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,29440,32.319,70.374
-PK534,2,ضلع,District,تور غر,Tor Ghar,tor-ghar-pk534,PK534,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,21120,34.559,72.876
-PK535,2,ضلع,District,دیر بالا,Upper Dir,upper-dir-pk535,PK535,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,7,18000,35.311,72.048
-PK6,1,صوبہ,Province,پنجاب,Punjab,punjab-pk6,PK6,,,,,,36,139,,30.862,72.32
-PK601,2,ضلع,District,اٹک,Attock,attock-pk601,PK601,,PK6,پنجاب,Punjab,,,6,43320,33.503,72.425
-PK602,2,ضلع,District,ضلع بہاولنگر,Bahawalnagar,bahawalnagar-pk602,PK602,,PK6,پنجاب,Punjab,,,5,33600,29.577,72.997
-PK603,2,ضلع,District,بہاولپور,Bahawalpur,bahawalpur-pk603,PK603,,PK6,پنجاب,Punjab,,,5,63210,28.83,71.767
-PK604,2,ضلع,District,بھکر,Bhakkar,bhakkar-pk604,PK604,,PK6,پنجاب,Punjab,,,4,30030,31.681,71.338
-PK605,2,ضلع,District,چکوال,Chakwal,chakwal-pk605,PK605,,PK6,پنجاب,Punjab,,,4,48540,32.874,72.533
-PK606,2,ضلع,District,چنیوٹ,Chiniot,chiniot-pk606,PK606,,PK6,پنجاب,Punjab,,,3,35480,31.67,72.792
-PK607,2,ضلع,District,ڈیرہ غازی خان,Dera Ghazi Khan,dera-ghazi-khan-pk607,PK607,,PK6,پنجاب,Punjab,,,4,32124,30.48,70.41
-PK608,2,ضلع,District,فیصل آباد,Faisalabad,faisalabad-pk608,PK608,,PK6,پنجاب,Punjab,,,6,37510,31.231,73.198
-PK609,2,ضلع,District,گوجرانوالہ,Gujranwala,gujranwala-pk609,PK609,,PK6,پنجاب,Punjab,,,4,52320,32.188,74.054
-PK610,2,ضلع,District,گجرات,Gujrat,gujrat-pk610,PK610,,PK6,پنجاب,Punjab,,,3,50900,32.718,74.038
-PK611,2,ضلع,District,حافظ آباد,Hafizabad,hafizabad-pk611,PK611,,PK6,پنجاب,Punjab,,,2,12200,32.051,73.543
-PK612,2,ضلع,District,جھنگ,Jhang,jhang-pk612,PK612,,PK6,پنجاب,Punjab,,,4,35180,31.172,72.142
-PK613,2,ضلع,District,جہلم,Jhelum,jhelum-pk613,PK613,,PK6,پنجاب,Punjab,,,4,49326,32.836,73.373
-PK614,2,ضلع,District,قصور,Kasur,kasur-pk614,PK614,,PK6,پنجاب,Punjab,,,4,55020,31.003,74.14
-PK615,2,ضلع,District,خانیوال,Khanewal,khanewal-pk615,PK615,,PK6,پنجاب,Punjab,,,4,58100,30.316,72.065
-PK616,2,ضلع,District,خوشاب,Khushab,khushab-pk616,PK616,,PK6,پنجاب,Punjab,,,4,41200,32.125,72.053
-PK617,2,ضلع,District,لاہور,Lahore,lahore-pk617,PK617,,PK6,پنجاب,Punjab,,,2,54760,31.486,74.405
-PK618,2,ضلع,District,لیہ,Leiah,leiah-pk618,PK618,,PK6,پنجاب,Punjab,,,3,31300,30.997,71.284
-PK619,2,ضلع,District,لودھراں,Lodhran,lodhran-pk619,PK619,,PK6,پنجاب,Punjab,,,3,59330,29.671,71.745
-PK620,2,ضلع,District,منڈی بہاؤالدین,Mandi Bahauddin,mandi-bahauddin-pk620,PK620,,PK6,پنجاب,Punjab,,,3,50400,32.435,73.471
-PK621,2,ضلع,District,میانوالی,Mianwali,mianwali-pk621,PK621,,PK6,پنجاب,Punjab,,,3,42312,32.704,71.515
-PK622,2,ضلع,District,ملتان,Multan,multan-pk622,PK622,,PK6,پنجاب,Punjab,,,4,31150,29.926,71.366
-PK623,2,ضلع,District,مظفرگڑھ,Muzaffargarh,muzaffargarh-pk623,PK623,,PK6,پنجاب,Punjab,,,4,34370,29.892,71.013
-PK624,2,ضلع,District,ننکانہ صاحب,Nankana Sahib,nankana-sahib-pk624,PK624,,PK6,پنجاب,Punjab,,,3,52360,31.432,73.85
-PK625,2,ضلع,District,ضلع نارووال,Narowal,narowal-pk625,PK625,,PK6,پنجاب,Punjab,,,3,47960,32.206,75.043
-PK626,2,ضلع,District,اوکاڑہ,Okara,okara-pk626,PK626,,PK6,پنجاب,Punjab,,,3,56100,30.697,73.733
-PK627,2,ضلع,District,پاکپتن,Pakpattan,pakpattan-pk627,PK627,,PK6,پنجاب,Punjab,,,2,57110,30.289,73.307
-PK628,2,ضلع,District,رحیم یار خان,Rahim Yar Khan,rahim-yar-khan-pk628,PK628,,PK6,پنجاب,Punjab,,,4,64320,28.485,70.461
-PK629,2,ضلع,District,ضلع راجن پور,Rajanpur,rajanpur-pk629,PK629,,PK6,پنجاب,Punjab,,,4,64100,29.145,70.153
-PK630,2,ضلع,District,راولپنڈی,Rawalpindi,rawalpindi-pk630,PK630,,PK6,پنجاب,Punjab,,,7,47380,33.541,73.438
-PK631,2,ضلع,District,ساہیوال,Sahiwal,sahiwal-pk631,PK631,,PK6,پنجاب,Punjab,,,2,57200,30.55,72.896
-PK632,2,ضلع,District,سرگودھا,Sargodha,sargodha-pk632,PK632,,PK6,پنجاب,Punjab,,,7,40462,32.069,72.789
-PK633,2,ضلع,District,شیخوپورہ,Sheikhupura,sheikhupura-pk633,PK633,,PK6,پنجاب,Punjab,,,5,49712,31.714,73.985
-PK634,2,ضلع,District,سیالکوٹ,Sialkot,sialkot-pk634,PK634,,PK6,پنجاب,Punjab,,,4,51410,32.442,74.568
-PK635,2,ضلع,District,ٹوبہ ٹیک سنگھ,Toba Tek Singh,toba-tek-singh-pk635,PK635,,PK6,پنجاب,Punjab,,,4,43700,30.929,72.537
-PK636,2,ضلع,District,وہاڑی,Vehari,vehari-pk636,PK636,,PK6,پنجاب,Punjab,,,3,61220,29.983,72.319
-PK7,1,صوبہ,Province,سندھ,Sindh,sindh-pk7,PK7,,,,,,29,125,,26.134,68.756
-PK701,2,ضلع,District,بدین,Badin,badin-pk701,PK701,,PK7,سندھ,Sindh,,,5,72200,24.752,68.801
-PK702,2,ضلع,District,وسطی کراچی,Central Karachi,central-karachi-pk702,PK702,,PK7,سندھ,Sindh,,,4,75840,24.948,67.06
-PK703,2,ضلع,District,دادو,Dadu,dadu-pk703,PK703,,PK7,سندھ,Sindh,,,4,76190,26.768,67.505
-PK704,2,ضلع,District,مشرقی کراچی,East Karachi,east-karachi-pk704,PK704,,PK7,سندھ,Sindh,,,2,75200,24.932,67.163
-PK705,2,ضلع,District,گھوٹکی,Ghotki,ghotki-pk705,PK705,,PK7,سندھ,Sindh,,,5,65050,27.866,69.684
-PK706,2,ضلع,District,حیدرآباد,Hyderabad,hyderabad-pk706,PK706,,PK7,سندھ,Sindh,,,4,70210,25.355,68.444
-PK707,2,ضلع,District,جیکب آباد,Jacobabad,jacobabad-pk707,PK707,,PK7,سندھ,Sindh,,,3,78200,28.176,68.514
-PK708,2,ضلع,District,ضلع جامشورو,Jamshoro,jamshoro-pk708,PK708,,PK7,سندھ,Sindh,,,4,76130,25.786,67.852
-PK709,2,ضلع,District,قمبر شہدادکوٹ,Qambar Shahdadkot,qambar-shahdadkot-pk709,PK709,,PK7,سندھ,Sindh,,,7,77214,27.647,67.683
-PK710,2,ضلع,District,ضلع کشمور,Kashmore,kashmore-pk710,PK710,,PK7,سندھ,Sindh,,,3,79160,28.236,69.167
-PK711,2,ضلع,District,خیرپور,Khairpur,khairpur-pk711,PK711,,PK7,سندھ,Sindh,,,8,66170,26.96,68.941
-PK712,2,ضلع,District,کورنگی کراچی,Korangi Karachi,korangi-karachi-pk712,PK712,,PK7,سندھ,Sindh,,,3,75190,24.833,67.146
-PK713,2,ضلع,District,لاڑکانہ,Larkana,larkana-pk713,PK713,,PK7,سندھ,Sindh,,,4,77020,27.531,68.202
-PK714,2,ضلع,District,ملیر کراچی,Malir Karachi,malir-karachi-pk714,PK714,,PK7,سندھ,Sindh,,,3,75340,25.207,67.16
-PK715,2,ضلع,District,ضلع مٹیاری,Matiari,matiari-pk715,PK715,,PK7,سندھ,Sindh,,,3,70130,25.771,68.422
-PK716,2,ضلع,District,میرپور خاص,Mirpur Khas,mirpur-khas-pk716,PK716,,PK7,سندھ,Sindh,,,7,69370,25.307,69.16
-PK717,2,ضلع,District,نوشہرو فیروز,Naushahro Feroze,naushahro-feroze-pk717,PK717,,PK7,سندھ,Sindh,,,5,67080,26.888,68.098
-PK718,2,ضلع,District,سانگھڑ,Sanghar,sanghar-pk718,PK718,,PK7,سندھ,Sindh,,,6,68140,25.979,69.291
-PK719,2,ضلع,District,شہید بینظیر آباد,Shaheed Benazir Abad,shaheed-benazir-abad-pk719,PK719,,PK7,سندھ,Sindh,,,4,67470,26.309,68.284
-PK720,2,ضلع,District,شکارپور,Shikarpur,shikarpur-pk720,PK720,,PK7,سندھ,Sindh,,,4,78100,27.922,68.572
-PK721,2,ضلع,District,جنوبی کراچی,South Karachi,south-karachi-pk721,PK721,,PK7,سندھ,Sindh,,,3,70100,24.893,66.842
-PK722,2,ضلع,District,ضلع سجاول,Sujawal,sujawal-pk722,PK722,,PK7,سندھ,Sindh,,,5,73060,24.388,68.16
-PK723,2,ضلع,District,سکھر,Sukkur,sukkur-pk723,PK723,,PK7,سندھ,Sindh,,,5,65150,27.545,69.065
-PK724,2,ضلع,District,ٹنڈو الہ یار,Tando Allahyar,tando-allahyar-pk724,PK724,,PK7,سندھ,Sindh,,,3,70010,25.481,68.753
-PK725,2,ضلع,District,ضلع ٹنڈو محمد خان,Tando Muhammad Khan,tando-muhammad-khan-pk725,PK725,,PK7,سندھ,Sindh,,,3,70220,25.025,68.46
-PK726,2,ضلع,District,ضلع تھرپارکر,Tharparkar,tharparkar-pk726,PK726,,PK7,سندھ,Sindh,,,7,69170,24.943,70.241
-PK727,2,ضلع,District,ٹھٹہ,Thatta,thatta-pk727,PK727,,PK7,سندھ,Sindh,,,4,73200,24.694,67.709
-PK728,2,ضلع,District,عمرکوٹ,Umerkot,umerkot-pk728,PK728,,PK7,سندھ,Sindh,,,4,69120,25.333,69.811
-PK729,2,ضلع,District,مغربی کراچی,West Karachi,west-karachi-pk729,PK729,,PK7,سندھ,Sindh,,,3,75800,24.987,67.008
+# Data from Open Admin Data (https://openadmindata.org/pk/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/pakistan-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.tehsil,zip_codes,geo.lat,geo.lon,source_url
+PK1,1,صوبہ,Province,آزاد کشمیر,Azad Kashmir,azad-kashmir-pk1,PK1,,,,,,10,32,,33.953,73.901,https://openadmindata.org/pk/provinces/azad-kashmir-pk1/
+PK101,2,ضلع,District,باغ,Bagh,bagh-pk101,PK101,,PK1,آزاد کشمیر,Azad Kashmir,,,3,12510,34.003,73.731,
+PK102,2,ضلع,District,ضلع بھمبر,Bhimber,bhimber-pk102,PK102,,PK1,آزاد کشمیر,Azad Kashmir,,,3,10030,33.014,74.15,
+PK103,2,ضلع,District,وادی جہلم,Jhelum Valley,jhelum-valley-pk103,PK103,,PK1,آزاد کشمیر,Azad Kashmir,,,3,10500,34.188,73.797,
+PK104,2,ضلع,District,ضلع حویلی,Haveli,haveli-pk104,PK104,,PK1,آزاد کشمیر,Azad Kashmir,,,3,10080,33.935,74.12,
+PK105,2,ضلع,District,کوٹلی,Kotli,kotli-pk105,PK105,,PK1,آزاد کشمیر,Azad Kashmir,,,6,11210,33.454,73.947,
+PK106,2,ضلع,District,ضلع میر پور,Mirpur,mirpur-pk106,PK106,,PK1,آزاد کشمیر,Azad Kashmir,,,2,10350,33.239,73.759,
+PK107,2,ضلع,District,مظفر آباد,Muzaffarabad,muzaffarabad-pk107,PK107,,PK1,آزاد کشمیر,Azad Kashmir,,,2,13170,34.323,73.58,
+PK108,2,ضلع,District,ضلع نیلم,Neelum,neelum-pk108,PK108,,PK1,آزاد کشمیر,Azad Kashmir,,,2,89300,34.757,73.985,
+PK109,2,ضلع,District,ضلع پونچھ,Poonch,poonch-pk109,PK109,,PK1,آزاد کشمیر,Azad Kashmir,,,4,12170,33.786,73.897,
+PK110,2,ضلع,District,سدھنوتی,Sudhnoti,sudhnoti-pk110,PK110,,PK1,آزاد کشمیر,Azad Kashmir,,,4,12070,33.704,73.739,
+PK2,1,صوبہ,Province,بلوچستان,Balochistan,balochistan-pk2,PK2,,,,,,35,103,,28.497,65.71,https://openadmindata.org/pk/provinces/balochistan-pk2/
+PK201,2,ضلع,District,ضلع آواران,Awaran,awaran-pk201,PK201,,PK2,بلوچستان,Balochistan,,,4,88210,26.424,65.465,
+PK202,2,ضلع,District,ضلع بارکھان,Barkhan,barkhan-pk202,PK202,,PK2,بلوچستان,Balochistan,,,2,84100,29.985,69.691,
+PK203,2,ضلع,District,ضلع چاغی,Chagai,chagai-pk203,PK203,,PK2,بلوچستان,Balochistan,,,4,95100,28.875,63.418,
+PK204,2,ضلع,District,ڈیرہ بگٹی,Dera Bugti,dera-bugti-pk204,PK204,,PK2,بلوچستان,Balochistan,,,3,80100,29.06,69.011,
+PK205,2,ضلع,District,گوادر,Gwadar,gwadar-pk205,PK205,,PK2,بلوچستان,Balochistan,,,5,92650,25.425,62.548,
+PK206,2,ضلع,District,ضلع ہرنائی,Harnai,harnai-pk206,PK206,,PK2,بلوچستان,Balochistan,,,2,82300,30.042,68.086,
+PK207,2,ضلع,District,جعفرآباد,Jaffarabad,jaffarabad-pk207,PK207,,PK2,بلوچستان,Balochistan,,,3,80300,28.249,68.103,
+PK208,2,ضلع,District,ضلع جھل مگسی,Jhal Magsi,jhal-magsi-pk208,PK208,,PK2,بلوچستان,Balochistan,,,2,81100,28.37,67.543,
+PK209,2,ضلع,District,ضلع کچھی,Kachhi,kachhi-pk209,PK209,,PK2,بلوچستان,Balochistan,,,5,81400,29.341,67.659,
+PK210,2,ضلع,District,قلات,Kalat,kalat-pk210,PK210,,PK2,بلوچستان,Balochistan,,,2,81550,29.088,66.77,
+PK211,2,ضلع,District,ضلع کیچ,Kech,kech-pk211,PK211,,PK2,بلوچستان,Balochistan,,,5,92500,26.008,63.092,
+PK212,2,ضلع,District,ضلع خاران,Kharan,kharan-pk212,PK212,,PK2,بلوچستان,Balochistan,,,3,94100,28.729,65.497,
+PK213,2,ضلع,District,خضدار,Khuzdar,khuzdar-pk213,PK213,,PK2,بلوچستان,Balochistan,,,5,89200,27.294,66.481,
+PK214,2,ضلع,District,ضلع قلعہ عبداللہ,Killa Abdullah,killa-abdullah-pk214,PK214,,PK2,بلوچستان,Balochistan,,,3,86720,31.116,67.024,
+PK215,2,ضلع,District,ضلع قلعہ سیف اللہ,Killa Saifullah,killa-saifullah-pk215,PK215,,PK2,بلوچستان,Balochistan,,,2,85400,31.053,68.499,
+PK216,2,ضلع,District,ضلع کوہلو,Kohlu,kohlu-pk216,PK216,,PK2,بلوچستان,Balochistan,,,3,85220,29.644,68.807,
+PK217,2,ضلع,District,ضلع لسبیلہ,Lasbela,lasbela-pk217,PK217,,PK2,بلوچستان,Balochistan,,,9,90150,25.773,66.603,
+PK218,2,ضلع,District,ضلع لہڑی,Lehri,lehri-pk218,PK218,,PK2,بلوچستان,Balochistan,,,2,81250,28.994,67.986,
+PK219,2,ضلع,District,لورالائی,Loralai,loralai-pk219,PK219,,PK2,بلوچستان,Balochistan,,,2,82100,30.478,68.88,
+PK220,2,ضلع,District,مستونگ,Mastung,mastung-pk220,PK220,,PK2,بلوچستان,Balochistan,,,3,88100,29.746,66.731,
+PK221,2,ضلع,District,ضلع موسیٰ خیل,Musakhel,musakhel-pk221,PK221,,PK2,بلوچستان,Balochistan,,,3,84600,30.897,69.958,
+PK222,2,ضلع,District,ضلع نصیر آباد,Nasirabad,nasirabad-pk222,PK222,,PK2,بلوچستان,Balochistan,,,3,19210,28.626,68.129,
+PK223,2,ضلع,District,ضلع نوشکی,Nushki,nushki-pk223,PK223,,PK2,بلوچستان,Balochistan,,,1,95150,29.447,65.733,
+PK224,2,ضلع,District,ضلع پنجگور,Panjgur,panjgur-pk224,PK224,,PK2,بلوچستان,Balochistan,,,4,93200,26.715,64.202,
+PK225,2,ضلع,District,پشین,Pishin,pishin-pk225,PK225,,PK2,بلوچستان,Balochistan,,,5,86000,30.703,67.131,
+PK226,2,ضلع,District,کوئٹہ,Quetta,quetta-pk226,PK226,,PK2,بلوچستان,Balochistan,,,3,87500,30.141,67.077,
+PK227,2,ضلع,District,ضلع شیرانی,Sherani,sherani-pk227,PK227,,PK2,بلوچستان,Balochistan,,,1,87750,31.681,69.764,
+PK228,2,ضلع,District,سبی,Sibi,sibi-pk228,PK228,,PK2,بلوچستان,Balochistan,,,1,85220,29.728,68.251,
+PK229,2,ضلع,District,ضلع صحبت پور,Sohbatpur,sohbatpur-pk229,PK229,,PK2,بلوچستان,Balochistan,,,1,78200,28.542,68.521,
+PK230,2,ضلع,District,ضلع واشک,Washuk,washuk-pk230,PK230,,PK2,بلوچستان,Balochistan,,,5,94110,27.792,64.308,
+PK231,2,ضلع,District,ژوب,Zhob,zhob-pk231,PK231,,PK2,بلوچستان,Balochistan,,,2,85200,31.212,69.197,
+PK232,2,ضلع,District,ضلع زیارت,Ziarat,ziarat-pk232,PK232,,PK2,بلوچستان,Balochistan,,,2,84300,30.381,68.066,
+PK233,2,ضلع,District,ضلع شہید سکندر آباد,Shaheed Sikandarabad,shaheed-sikandarabad-pk233,PK233,,PK2,بلوچستان,Balochistan,,,1,86200,28.327,66.18,
+PK234,2,ضلع,District,ضلع دوکی، پاکستان,Duki,duki-pk234,PK234,,PK2,بلوچستان,Balochistan,,,1,82100,30.181,68.96,
+PK235,2,ضلع,District,چمن,Chaman,chaman-pk235,PK235,,PK2,بلوچستان,Balochistan,,,1,87300,30.856,66.527,
+PK3,1,صوبہ,Province,گلگت بلتستان,Gilgit Baltistan,gilgit-baltistan-pk3,PK3,,,,,,14,24,,35.803,74.845,https://openadmindata.org/pk/provinces/gilgit-baltistan-pk3/
+PK301,2,ضلع,District,ضلع استور,Astore,astore-pk301,PK301,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,14100,35.248,74.884,
+PK302,2,ضلع,District,دیامر,Diamir,diamir-pk302,PK302,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,14200,35.38,74.213,
+PK303,2,ضلع,District,ضلع گانچھے,Ghanche,ghanche-pk303,PK303,,PK3,گلگت بلتستان,Gilgit Baltistan,,,3,16910,35.221,76.66,
+PK304,2,ضلع,District,ضلع غذر (2019ء سے),Ghizer,ghizer-pk304,PK304,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,15160,36.377,73.887,
+PK305,2,ضلع,District,گلگت,Gilgit,gilgit-pk305,PK305,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,15150,35.967,74.509,
+PK306,2,ضلع,District,ہنزہ,Hunza,hunza-pk306,PK306,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,15900,36.551,75.205,
+PK307,2,ضلع,District,سکردو,Skardu,skardu-pk307,PK307,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,16110,35.257,75.521,
+PK308,2,ضلع,District,ضلع نگر,Nagar,nagar-pk308,PK308,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,15750,36.298,74.842,
+PK309,2,ضلع,District,ضلع کھرمنگ,Kharmang,kharmang-pk309,PK309,,PK3,گلگت بلتستان,Gilgit Baltistan,,,2,16200,34.837,75.804,
+PK310,2,ضلع,District,ضلع شگر,Shigar,shigar-pk310,PK310,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,16300,35.736,75.922,
+PK311,2,ضلع,District,ضلع داریل,Darel,darel-pk311,PK311,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,15160,35.699,73.829,
+PK312,2,ضلع,District,ضلع تانگیر,Tangir,tangir-pk312,PK312,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,26014,35.745,73.316,
+PK313,2,ضلع,District,ضلع گوپیس یاسین,Gupis-Yasin,gupis-yasin-pk313,PK313,,PK3,گلگت بلتستان,Gilgit Baltistan,,,3,15310,36.285,73.205,
+PK314,2,ضلع,District,رونڈو,Rondu,rondu-pk314,PK314,,PK3,گلگت بلتستان,Gilgit Baltistan,,,1,16400,35.587,75.158,
+PK4,1,صوبہ,Province,اسلام آباد,Islamabad,islamabad-pk4,PK4,,,,,,1,1,,33.651,72.958,https://openadmindata.org/pk/provinces/islamabad-pk4/
+PK401,2,ضلع,District,اسلام آباد,Islamabad,islamabad-pk401,PK401,,PK4,اسلام آباد,Islamabad,,,1,45200,33.651,72.958,
+PK5,1,صوبہ,Province,خیبرپختونخوا,Khyber Pakhtunkhwa,khyber-pakhtunkhwa-pk5,PK5,,,,,,35,153,,34.036,72.263,https://openadmindata.org/pk/provinces/khyber-pakhtunkhwa-pk5/
+PK501,2,ضلع,District,ایبٹ آباد,Abbottabad,abbottabad-pk501,PK501,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,22200,34.095,73.291,
+PK502,2,ضلع,District,ضلع باجوڑ,Bajaur,bajaur-pk502,PK502,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,7,21100,34.746,71.486,
+PK503,2,ضلع,District,بنوں,Bannu,bannu-pk503,PK503,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,28030,32.985,70.655,
+PK504,2,ضلع,District,بٹگرام,Batagram,batagram-pk504,PK504,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,21036,34.762,73.137,
+PK505,2,ضلع,District,ضلع بونیر,Buner,buner-pk505,PK505,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,19140,34.431,72.556,
+PK506,2,ضلع,District,چارسدہ,Charsadda,charsadda-pk506,PK506,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,24530,34.248,71.699,
+PK507,2,ضلع,District,زیریں چترال,Chitral Lower,chitral-lower-pk507,PK507,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,17210,35.847,71.826,
+PK508,2,ضلع,District,بالائی چترال,Chitral Upper,chitral-upper-pk508,PK508,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,17100,36.328,72.269,
+PK509,2,ضلع,District,ڈیرہ اسماعیل خان,D. I. Khan,d-i-khan-pk509,PK509,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,29350,31.85,70.625,
+PK510,2,ضلع,District,ہنگو,Hangu,hangu-pk510,PK510,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,26250,33.412,70.804,
+PK511,2,ضلع,District,ہری پور,Haripur,haripur-pk511,PK511,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,22800,34.048,72.876,
+PK512,2,ضلع,District,کرک,Karak,karak-pk512,PK512,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,27400,33.101,71.111,
+PK513,2,ضلع,District,ضلع لنڈی کوتل,Khyber,khyber-pk513,PK513,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,24740,34.04,71.205,
+PK514,2,ضلع,District,کوہاٹ,Kohat,kohat-pk514,PK514,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,26352,33.412,71.488,
+PK515,2,ضلع,District,زیریں کوہستان,Kohistan Lower,kohistan-lower-pk515,PK515,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,20300,35.15,72.923,
+PK516,2,ضلع,District,بالائی کوہستان,Kohistan Upper,kohistan-upper-pk516,PK516,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,26014,35.423,73.221,
+PK517,2,ضلع,District,کولائی پالس کوہستان,Kolai Palas Kohistan,kolai-palas-kohistan-pk517,PK517,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,19080,35.067,73.175,
+PK518,2,ضلع,District,ضلع کرم,Kurram,kurram-pk518,PK518,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,26290,33.69,70.384,
+PK519,2,ضلع,District,لکی مروت,Lakki Marwat,lakki-marwat-pk519,PK519,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,19200,32.57,70.88,
+PK520,2,ضلع,District,ضلع دیر زیریں,Lower Dir,lower-dir-pk520,PK520,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,18300,34.841,71.82,
+PK521,2,ضلع,District,ضلع مالاکنڈ,Malakand,malakand-pk521,PK521,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,23422,34.517,71.824,
+PK522,2,ضلع,District,مانسہرہ,Mansehra,mansehra-pk522,PK522,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,5,20200,34.696,73.512,
+PK523,2,ضلع,District,مردان,Mardan,mardan-pk523,PK523,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,5,23330,34.303,72.081,
+PK524,2,ضلع,District,ضلع مہمند,Mohmand,mohmand-pk524,PK524,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,8,87710,34.446,71.366,
+PK525,2,ضلع,District,شمالی وزیرستان,North Waziristan,north-waziristan-pk525,PK525,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,10,28210,32.957,69.943,
+PK526,2,ضلع,District,نوشہرہ,Nowshera,nowshera-pk526,PK526,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,3,24540,33.917,72.003,
+PK527,2,ضلع,District,ضلع اورکزئی,Orakzai,orakzai-pk527,PK527,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,27600,33.695,70.878,
+PK528,2,ضلع,District,پشاور,Peshawar,peshawar-pk528,PK528,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,5,24360,33.942,71.6,
+PK529,2,ضلع,District,ضلع شانگلہ,Shangla,shangla-pk529,PK529,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,6,20500,34.847,72.79,
+PK530,2,ضلع,District,جنوبی وزیرستان,South Waziristan,south-waziristan-pk530,PK530,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,8,29540,32.291,69.678,
+PK531,2,ضلع,District,صوابی,Swabi,swabi-pk531,PK531,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,4,23630,34.141,72.477,
+PK532,2,ضلع,District,سوات,Swat,swat-pk532,PK532,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,9,26060,35.233,72.512,
+PK533,2,ضلع,District,ٹانک,Tank,tank-pk533,PK533,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,29440,32.319,70.374,
+PK534,2,ضلع,District,تور غر,Tor Ghar,tor-ghar-pk534,PK534,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,2,21120,34.559,72.876,
+PK535,2,ضلع,District,دیر بالا,Upper Dir,upper-dir-pk535,PK535,,PK5,خیبرپختونخوا,Khyber Pakhtunkhwa,,,7,18000,35.311,72.048,
+PK6,1,صوبہ,Province,پنجاب,Punjab,punjab-pk6,PK6,,,,,,36,139,,30.862,72.32,https://openadmindata.org/pk/provinces/punjab-pk6/
+PK601,2,ضلع,District,اٹک,Attock,attock-pk601,PK601,,PK6,پنجاب,Punjab,,,6,43320,33.503,72.425,
+PK602,2,ضلع,District,ضلع بہاولنگر,Bahawalnagar,bahawalnagar-pk602,PK602,,PK6,پنجاب,Punjab,,,5,33600,29.577,72.997,
+PK603,2,ضلع,District,بہاولپور,Bahawalpur,bahawalpur-pk603,PK603,,PK6,پنجاب,Punjab,,,5,63210,28.83,71.767,
+PK604,2,ضلع,District,بھکر,Bhakkar,bhakkar-pk604,PK604,,PK6,پنجاب,Punjab,,,4,30030,31.681,71.338,
+PK605,2,ضلع,District,چکوال,Chakwal,chakwal-pk605,PK605,,PK6,پنجاب,Punjab,,,4,48540,32.874,72.533,
+PK606,2,ضلع,District,چنیوٹ,Chiniot,chiniot-pk606,PK606,,PK6,پنجاب,Punjab,,,3,35480,31.67,72.792,
+PK607,2,ضلع,District,ڈیرہ غازی خان,Dera Ghazi Khan,dera-ghazi-khan-pk607,PK607,,PK6,پنجاب,Punjab,,,4,32124,30.48,70.41,
+PK608,2,ضلع,District,فیصل آباد,Faisalabad,faisalabad-pk608,PK608,,PK6,پنجاب,Punjab,,,6,37510,31.231,73.198,
+PK609,2,ضلع,District,گوجرانوالہ,Gujranwala,gujranwala-pk609,PK609,,PK6,پنجاب,Punjab,,,4,52320,32.188,74.054,
+PK610,2,ضلع,District,گجرات,Gujrat,gujrat-pk610,PK610,,PK6,پنجاب,Punjab,,,3,50900,32.718,74.038,
+PK611,2,ضلع,District,حافظ آباد,Hafizabad,hafizabad-pk611,PK611,,PK6,پنجاب,Punjab,,,2,12200,32.051,73.543,
+PK612,2,ضلع,District,جھنگ,Jhang,jhang-pk612,PK612,,PK6,پنجاب,Punjab,,,4,35180,31.172,72.142,
+PK613,2,ضلع,District,جہلم,Jhelum,jhelum-pk613,PK613,,PK6,پنجاب,Punjab,,,4,49326,32.836,73.373,
+PK614,2,ضلع,District,قصور,Kasur,kasur-pk614,PK614,,PK6,پنجاب,Punjab,,,4,55020,31.003,74.14,
+PK615,2,ضلع,District,خانیوال,Khanewal,khanewal-pk615,PK615,,PK6,پنجاب,Punjab,,,4,58100,30.316,72.065,
+PK616,2,ضلع,District,خوشاب,Khushab,khushab-pk616,PK616,,PK6,پنجاب,Punjab,,,4,41200,32.125,72.053,
+PK617,2,ضلع,District,لاہور,Lahore,lahore-pk617,PK617,,PK6,پنجاب,Punjab,,,2,54760,31.486,74.405,
+PK618,2,ضلع,District,لیہ,Leiah,leiah-pk618,PK618,,PK6,پنجاب,Punjab,,,3,31300,30.997,71.284,
+PK619,2,ضلع,District,لودھراں,Lodhran,lodhran-pk619,PK619,,PK6,پنجاب,Punjab,,,3,59330,29.671,71.745,
+PK620,2,ضلع,District,منڈی بہاؤالدین,Mandi Bahauddin,mandi-bahauddin-pk620,PK620,,PK6,پنجاب,Punjab,,,3,50400,32.435,73.471,
+PK621,2,ضلع,District,میانوالی,Mianwali,mianwali-pk621,PK621,,PK6,پنجاب,Punjab,,,3,42312,32.704,71.515,
+PK622,2,ضلع,District,ملتان,Multan,multan-pk622,PK622,,PK6,پنجاب,Punjab,,,4,31150,29.926,71.366,
+PK623,2,ضلع,District,مظفرگڑھ,Muzaffargarh,muzaffargarh-pk623,PK623,,PK6,پنجاب,Punjab,,,4,34370,29.892,71.013,
+PK624,2,ضلع,District,ننکانہ صاحب,Nankana Sahib,nankana-sahib-pk624,PK624,,PK6,پنجاب,Punjab,,,3,52360,31.432,73.85,
+PK625,2,ضلع,District,ضلع نارووال,Narowal,narowal-pk625,PK625,,PK6,پنجاب,Punjab,,,3,47960,32.206,75.043,
+PK626,2,ضلع,District,اوکاڑہ,Okara,okara-pk626,PK626,,PK6,پنجاب,Punjab,,,3,56100,30.697,73.733,
+PK627,2,ضلع,District,پاکپتن,Pakpattan,pakpattan-pk627,PK627,,PK6,پنجاب,Punjab,,,2,57110,30.289,73.307,
+PK628,2,ضلع,District,رحیم یار خان,Rahim Yar Khan,rahim-yar-khan-pk628,PK628,,PK6,پنجاب,Punjab,,,4,64320,28.485,70.461,
+PK629,2,ضلع,District,ضلع راجن پور,Rajanpur,rajanpur-pk629,PK629,,PK6,پنجاب,Punjab,,,4,64100,29.145,70.153,
+PK630,2,ضلع,District,راولپنڈی,Rawalpindi,rawalpindi-pk630,PK630,,PK6,پنجاب,Punjab,,,7,47380,33.541,73.438,
+PK631,2,ضلع,District,ساہیوال,Sahiwal,sahiwal-pk631,PK631,,PK6,پنجاب,Punjab,,,2,57200,30.55,72.896,
+PK632,2,ضلع,District,سرگودھا,Sargodha,sargodha-pk632,PK632,,PK6,پنجاب,Punjab,,,7,40462,32.069,72.789,
+PK633,2,ضلع,District,شیخوپورہ,Sheikhupura,sheikhupura-pk633,PK633,,PK6,پنجاب,Punjab,,,5,49712,31.714,73.985,
+PK634,2,ضلع,District,سیالکوٹ,Sialkot,sialkot-pk634,PK634,,PK6,پنجاب,Punjab,,,4,51410,32.442,74.568,
+PK635,2,ضلع,District,ٹوبہ ٹیک سنگھ,Toba Tek Singh,toba-tek-singh-pk635,PK635,,PK6,پنجاب,Punjab,,,4,43700,30.929,72.537,
+PK636,2,ضلع,District,وہاڑی,Vehari,vehari-pk636,PK636,,PK6,پنجاب,Punjab,,,3,61220,29.983,72.319,
+PK7,1,صوبہ,Province,سندھ,Sindh,sindh-pk7,PK7,,,,,,29,125,,26.134,68.756,https://openadmindata.org/pk/provinces/sindh-pk7/
+PK701,2,ضلع,District,بدین,Badin,badin-pk701,PK701,,PK7,سندھ,Sindh,,,5,72200,24.752,68.801,
+PK702,2,ضلع,District,وسطی کراچی,Central Karachi,central-karachi-pk702,PK702,,PK7,سندھ,Sindh,,,4,75840,24.948,67.06,
+PK703,2,ضلع,District,دادو,Dadu,dadu-pk703,PK703,,PK7,سندھ,Sindh,,,4,76190,26.768,67.505,
+PK704,2,ضلع,District,مشرقی کراچی,East Karachi,east-karachi-pk704,PK704,,PK7,سندھ,Sindh,,,2,75200,24.932,67.163,
+PK705,2,ضلع,District,گھوٹکی,Ghotki,ghotki-pk705,PK705,,PK7,سندھ,Sindh,,,5,65050,27.866,69.684,
+PK706,2,ضلع,District,حیدرآباد,Hyderabad,hyderabad-pk706,PK706,,PK7,سندھ,Sindh,,,4,70210,25.355,68.444,
+PK707,2,ضلع,District,جیکب آباد,Jacobabad,jacobabad-pk707,PK707,,PK7,سندھ,Sindh,,,3,78200,28.176,68.514,
+PK708,2,ضلع,District,ضلع جامشورو,Jamshoro,jamshoro-pk708,PK708,,PK7,سندھ,Sindh,,,4,76130,25.786,67.852,
+PK709,2,ضلع,District,قمبر شہدادکوٹ,Qambar Shahdadkot,qambar-shahdadkot-pk709,PK709,,PK7,سندھ,Sindh,,,7,77214,27.647,67.683,
+PK710,2,ضلع,District,ضلع کشمور,Kashmore,kashmore-pk710,PK710,,PK7,سندھ,Sindh,,,3,79160,28.236,69.167,
+PK711,2,ضلع,District,خیرپور,Khairpur,khairpur-pk711,PK711,,PK7,سندھ,Sindh,,,8,66170,26.96,68.941,
+PK712,2,ضلع,District,کورنگی کراچی,Korangi Karachi,korangi-karachi-pk712,PK712,,PK7,سندھ,Sindh,,,3,75190,24.833,67.146,
+PK713,2,ضلع,District,لاڑکانہ,Larkana,larkana-pk713,PK713,,PK7,سندھ,Sindh,,,4,77020,27.531,68.202,
+PK714,2,ضلع,District,ملیر کراچی,Malir Karachi,malir-karachi-pk714,PK714,,PK7,سندھ,Sindh,,,3,75340,25.207,67.16,
+PK715,2,ضلع,District,ضلع مٹیاری,Matiari,matiari-pk715,PK715,,PK7,سندھ,Sindh,,,3,70130,25.771,68.422,
+PK716,2,ضلع,District,میرپور خاص,Mirpur Khas,mirpur-khas-pk716,PK716,,PK7,سندھ,Sindh,,,7,69370,25.307,69.16,
+PK717,2,ضلع,District,نوشہرو فیروز,Naushahro Feroze,naushahro-feroze-pk717,PK717,,PK7,سندھ,Sindh,,,5,67080,26.888,68.098,
+PK718,2,ضلع,District,سانگھڑ,Sanghar,sanghar-pk718,PK718,,PK7,سندھ,Sindh,,,6,68140,25.979,69.291,
+PK719,2,ضلع,District,شہید بینظیر آباد,Shaheed Benazir Abad,shaheed-benazir-abad-pk719,PK719,,PK7,سندھ,Sindh,,,4,67470,26.309,68.284,
+PK720,2,ضلع,District,شکارپور,Shikarpur,shikarpur-pk720,PK720,,PK7,سندھ,Sindh,,,4,78100,27.922,68.572,
+PK721,2,ضلع,District,جنوبی کراچی,South Karachi,south-karachi-pk721,PK721,,PK7,سندھ,Sindh,,,3,70100,24.893,66.842,
+PK722,2,ضلع,District,ضلع سجاول,Sujawal,sujawal-pk722,PK722,,PK7,سندھ,Sindh,,,5,73060,24.388,68.16,
+PK723,2,ضلع,District,سکھر,Sukkur,sukkur-pk723,PK723,,PK7,سندھ,Sindh,,,5,65150,27.545,69.065,
+PK724,2,ضلع,District,ٹنڈو الہ یار,Tando Allahyar,tando-allahyar-pk724,PK724,,PK7,سندھ,Sindh,,,3,70010,25.481,68.753,
+PK725,2,ضلع,District,ضلع ٹنڈو محمد خان,Tando Muhammad Khan,tando-muhammad-khan-pk725,PK725,,PK7,سندھ,Sindh,,,3,70220,25.025,68.46,
+PK726,2,ضلع,District,ضلع تھرپارکر,Tharparkar,tharparkar-pk726,PK726,,PK7,سندھ,Sindh,,,7,69170,24.943,70.241,
+PK727,2,ضلع,District,ٹھٹہ,Thatta,thatta-pk727,PK727,,PK7,سندھ,Sindh,,,4,73200,24.694,67.709,
+PK728,2,ضلع,District,عمرکوٹ,Umerkot,umerkot-pk728,PK728,,PK7,سندھ,Sindh,,,4,69120,25.333,69.811,
+PK729,2,ضلع,District,مغربی کراچی,West Karachi,west-karachi-pk729,PK729,,PK7,سندھ,Sindh,,,3,75800,24.987,67.008,

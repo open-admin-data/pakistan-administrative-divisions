@@ -27,7 +27,11 @@
       "lon": "73.901"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/pk/provinces/azad-kashmir-pk1/",
+      "api": "https://openadmindata.org/api/pk/"
+    }
   },
   {
     "id": "PK2",
@@ -57,7 +61,11 @@
       "lon": "65.71"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/pk/provinces/balochistan-pk2/",
+      "api": "https://openadmindata.org/api/pk/"
+    }
   },
   {
     "id": "PK3",
@@ -87,7 +95,11 @@
       "lon": "74.845"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/pk/provinces/gilgit-baltistan-pk3/",
+      "api": "https://openadmindata.org/api/pk/"
+    }
   },
   {
     "id": "PK4",
@@ -117,7 +129,11 @@
       "lon": "72.958"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/pk/provinces/islamabad-pk4/",
+      "api": "https://openadmindata.org/api/pk/"
+    }
   },
   {
     "id": "PK5",
@@ -147,7 +163,11 @@
       "lon": "72.263"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/pk/provinces/khyber-pakhtunkhwa-pk5/",
+      "api": "https://openadmindata.org/api/pk/"
+    }
   },
   {
     "id": "PK6",
@@ -177,7 +197,11 @@
       "lon": "72.32"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/pk/provinces/punjab-pk6/",
+      "api": "https://openadmindata.org/api/pk/"
+    }
   },
   {
     "id": "PK7",
@@ -207,6 +231,10 @@
       "lon": "68.756"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/pk/provinces/sindh-pk7/",
+      "api": "https://openadmindata.org/api/pk/"
+    }
   }
 ]

@@ -15,7 +15,7 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (tehsil level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/pk](https://openadmindata.org/pk/) |
 | API | [openadmindata.org/api/pk](https://openadmindata.org/api/pk/) |
 
