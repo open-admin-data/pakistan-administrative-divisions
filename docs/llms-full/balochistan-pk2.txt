@@ -3,7 +3,7 @@
 > 35 districts, 103 tehsils
 > Code: PK2
 > Coordinates: 28.497, 65.71
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
