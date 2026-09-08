@@ -15,11 +15,12 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (tehsil level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/pk](https://openadmindata.org/pk/) |
 | API | [openadmindata.org/api/pk](https://openadmindata.org/api/pk/) |
 | Flag | [PNG](https://onlygames.me/flags-png/pk/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Pakistan National Anthem MP3](https://onlygames.me/national-anthems/pk/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/pak) · [Population](https://nationdata.org/population/country/pak) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Province
 

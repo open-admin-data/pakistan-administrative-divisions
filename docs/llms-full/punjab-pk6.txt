@@ -3,7 +3,7 @@
 > 36 districts, 139 tehsils
 > Code: PK6
 > Coordinates: 30.862, 72.32
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 
